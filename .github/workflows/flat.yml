@@ -19,7 +19,7 @@ jobs:
       - name: update apt
         run: sudo apt-get update
       - name: Fetch data
-        uses: githubocto/flat@v3
+        uses: githubocto/flat@v2
         with:
           http_url: https://validator.w3.org/feed/docs/rss2.html
           downloaded_filename: rss2_spec.html
