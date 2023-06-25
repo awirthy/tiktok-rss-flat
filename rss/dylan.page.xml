@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@dylan.page</id>
+  <title>dylan.page TikTok</title>
+  <updated>2023-06-25T18:24:51+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://awirthy.github.io/tiktok-rss-flat/rss/dylan.page.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7247558820887678235</id>
+    <title>This could be big… ill keep you updated </title>
+    <updated>2023-06-22T17:09:52+00:00</updated>
+    <content>This could be big… ill keep you updated </content>
+    <link href="https://tiktok.com/@dylan.page/video/7247558820887678235" rel="alternate"/>
+    <published>2023-06-22T17:09:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7247623046700207387</id>
+    <title>Its over.💔 not the outcome we hoped for but massive respect to the rescue team!👍 thoughts are with the familes now😔</title>
+    <updated>2023-06-22T21:19:10+00:00</updated>
+    <content>Its over.💔 not the outcome we hoped for but massive respect to the rescue team!👍 thoughts are with the familes now😔</content>
+    <link href="https://tiktok.com/@dylan.page/video/7247623046700207387" rel="alternate"/>
+    <published>2023-06-22T21:19:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7247864828839152922</id>
+    <title>Who do you think will win?!🤔😳</title>
+    <updated>2023-06-23T12:57:22+00:00</updated>
+    <content>Who do you think will win?!🤔😳</content>
+    <link href="https://tiktok.com/@dylan.page/video/7247864828839152922" rel="alternate"/>
+    <published>2023-06-23T12:57:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7248366828357979418</id>
+    <title>What do we think about all of this?!😳🤔</title>
+    <updated>2023-06-24T21:25:19+00:00</updated>
+    <content>What do we think about all of this?!😳🤔</content>
+    <link href="https://tiktok.com/@dylan.page/video/7248366828357979418" rel="alternate"/>
+    <published>2023-06-24T21:25:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7248691387619740955</id>
+    <title>Way too young💔 but AI Joe really helps us forget 😔</title>
+    <updated>2023-06-25T18:24:51+00:00</updated>
+    <content>Way too young💔 but AI Joe really helps us forget 😔</content>
+    <link href="https://tiktok.com/@dylan.page/video/7248691387619740955" rel="alternate"/>
+    <published>2023-06-25T18:24:51+00:00</published>
+  </entry>
+</feed>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@davecairnsfilm</id>
+  <title>davecairnsfilm TikTok</title>
+  <updated>2023-06-25T06:28:45+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://awirthy.github.io/tiktok-rss-flat/rss/davecairnsfilm.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from davecairnsfilm</subtitle>
+  <entry>
+    <id>https://tiktok.com/@davecairnsfilm/video/7246743657540357377</id>
+    <title>20 JUNE 2023 - @ReubenKaye - #australia #politics #auspol #qanda #christianity #westernculture #persecution </title>
+    <updated>2023-06-20T12:26:35+00:00</updated>
+    <content>20 JUNE 2023 - @ReubenKaye - #australia #politics #auspol #qanda #christianity #westernculture #persecution </content>
+    <link href="https://tiktok.com/@davecairnsfilm/video/7246743657540357377" rel="alternate"/>
+    <published>2023-06-20T12:26:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@davecairnsfilm/video/7246746231911795970</id>
+    <title>20 JUNE 2023 - #tiktok #live #poll #audience #contentcreator</title>
+    <updated>2023-06-20T12:36:34+00:00</updated>
+    <content>20 JUNE 2023 - #tiktok #live #poll #audience #contentcreator</content>
+    <link href="https://tiktok.com/@davecairnsfilm/video/7246746231911795970" rel="alternate"/>
+    <published>2023-06-20T12:36:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@davecairnsfilm/video/7248218068764216577</id>
+    <title>24 JUNE 2023 - #politics #war #coup #russia #valdimirputin #wagner </title>
+    <updated>2023-06-24T11:48:04+00:00</updated>
+    <content>24 JUNE 2023 - #politics #war #coup #russia #valdimirputin #wagner </content>
+    <link href="https://tiktok.com/@davecairnsfilm/video/7248218068764216577" rel="alternate"/>
+    <published>2023-06-24T11:48:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@davecairnsfilm/video/7248222528508906754</id>
+    <title>#stitch with @Dan McCurdy 24 JUNE 2023 - #politics #auspol #1percent #elite #submarine #oceangate #classwarfare #latestagecapitalism </title>
+    <updated>2023-06-24T12:05:23+00:00</updated>
+    <content>#stitch with @Dan McCurdy 24 JUNE 2023 - #politics #auspol #1percent #elite #submarine #oceangate #classwarfare #latestagecapitalism </content>
+    <link href="https://tiktok.com/@davecairnsfilm/video/7248222528508906754" rel="alternate"/>
+    <published>2023-06-24T12:05:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@davecairnsfilm/video/7248506867079482626</id>
+    <title>#stitch with @JahanKalantarOfficial 25 JUNE 2023 - #australia #victoria #law #familycourt #childrenscourt </title>
+    <updated>2023-06-25T06:28:45+00:00</updated>
+    <content>#stitch with @JahanKalantarOfficial 25 JUNE 2023 - #australia #victoria #law #familycourt #childrenscourt </content>
+    <link href="https://tiktok.com/@davecairnsfilm/video/7248506867079482626" rel="alternate"/>
+    <published>2023-06-25T06:28:45+00:00</published>
+  </entry>
+</feed>

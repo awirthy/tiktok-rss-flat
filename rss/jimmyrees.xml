@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@jimmyrees</id>
+  <title>jimmyrees TikTok</title>
+  <updated>2023-06-25T00:12:10+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://awirthy.github.io/tiktok-rss-flat/rss/jimmyrees.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7246345034818211074</id>
+    <title>The ladies of Brighton have discovered some new exclusive sunnies 😎😎😎😂😂😂!! #meanwhileinbrighton #funny #applevisionpro #apple #vr  The Afluent area of Brighton are looking forward to picking uk their new exclusive and expensive Sunglasses from designer vr</title>
+    <updated>2023-06-19T10:39:46+00:00</updated>
+    <content>The ladies of Brighton have discovered some new exclusive sunnies 😎😎😎😂😂😂!! #meanwhileinbrighton #funny #applevisionpro #apple #vr  The Afluent area of Brighton are looking forward to picking uk their new exclusive and expensive Sunglasses from designer vrand Apple. The Apple Vision Pro can also double as ski goggles!! 😂</content>
+    <link href="https://tiktok.com/@jimmyrees/video/7246345034818211074" rel="alternate"/>
+    <published>2023-06-19T10:39:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7246593082840321281</id>
+    <title>Borrowing money from friends 😅 'Why Is It Like This' *Part 1* #whyisitlikethis #funny</title>
+    <updated>2023-06-20T02:43:24+00:00</updated>
+    <content>Borrowing money from friends 😅 'Why Is It Like This' *Part 1* #whyisitlikethis #funny</content>
+    <link href="https://tiktok.com/@jimmyrees/video/7246593082840321281" rel="alternate"/>
+    <published>2023-06-20T02:43:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7247322696571243778</id>
+    <title>This you at lunch time? 😅🥴 #whyisitlikethis</title>
+    <updated>2023-06-22T01:55:57+00:00</updated>
+    <content>This you at lunch time? 😅🥴 #whyisitlikethis</content>
+    <link href="https://tiktok.com/@jimmyrees/video/7247322696571243778" rel="alternate"/>
+    <published>2023-06-22T01:55:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7248140166848728322</id>
+    <title>Ad: If you're interested in the Ford Ranger visit my friends at Jeff WIgnall Ford - Mornington - Frankston - Hastings #jwf </title>
+    <updated>2023-06-24T06:46:39+00:00</updated>
+    <content>Ad: If you're interested in the Ford Ranger visit my friends at Jeff WIgnall Ford - Mornington - Frankston - Hastings #jwf </content>
+    <link href="https://tiktok.com/@jimmyrees/video/7248140166848728322" rel="alternate"/>
+    <published>2023-06-24T06:46:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7248409774562315522</id>
+    <title>Hello all!! 5 new shows have been added to my tour with additional dates in Sydney, Canberra, Perth, Darwin &amp; Hobart!! Pre-sale noon local this Tuesday, on-sale noon local this Thursday. Sign up to access the pre-sale (link in bio) and I’ll SEE YOU THERE!</title>
+    <updated>2023-06-25T00:12:10+00:00</updated>
+    <content>Hello all!! 5 new shows have been added to my tour with additional dates in Sydney, Canberra, Perth, Darwin &amp; Hobart!! Pre-sale noon local this Tuesday, on-sale noon local this Thursday. Sign up to access the pre-sale (link in bio) and I’ll SEE YOU THERE!! Woohooo!!! #jimmyreescomedy </content>
+    <link href="https://tiktok.com/@jimmyrees/video/7248409774562315522" rel="alternate"/>
+    <published>2023-06-25T00:12:10+00:00</published>
+  </entry>
+</feed>
