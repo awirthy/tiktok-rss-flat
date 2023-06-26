@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-06-25T20:39:36+00:00</updated>
+  <updated>2023-06-26T21:25:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7248221539332623659</id>
-    <title>The Russian Civil War Begins #russia #ukraine #usa  The Russian civil war is now in full swing. I’ve done this for 17 years now and this is the most insane thing I’ve ever seen. Putin says he’ll do anything to defend Russia and has ordered the military to</title>
-    <updated>2023-06-24T12:02:18+00:00</updated>
-    <content>The Russian Civil War Begins #russia #ukraine #usa  The Russian civil war is now in full swing. I’ve done this for 17 years now and this is the most insane thing I’ve ever seen. Putin says he’ll do anything to defend Russia and has ordered the military to wipe out Wagner. The Wagner group says he’s made the wrong choice and that they’re going to topple his regime. Wagner controls at least two cities and Russia is blowing up oil depots in cities that Wagner controls. Russia is also airstriking the Wagner Convoy on Russian highways as they make their way to Moscow. There are reports that Wagner has shot down more helicopters and allegedly fighter jets. Some units of the Russian army have reportedly flipped to Wagner. Wagner is seemingly hell bent on marching on Moscow</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7248221539332623659" rel="alternate"/>
-    <published>2023-06-24T12:02:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7248257862848269610</id>
     <title>Wagner Makes Mad Dash To Moscow #russia #ukraine #usa  Wagner is making a bolt to Moscow with a convoy of reportedly 400 vehicles. Russia is setting machine gun nests up around Moscow as well as attempting to block all entrances into the city. It appears </title>
@@ -51,5 +43,13 @@
     <content>Bobby Wagner Just Rizzed Up Baby Gronk. #usa  This video is in full compliance of community guidelines and is an obvious parody. Baby Gronk is like 10 and lives in America, Bobby Wagner is a mercenary group in Russia this is obvuously nonsense. It doesnt promote criminal activity, it doesnt violate community guidelines. Is it dumb? Yes. Stop removing the video. Please and thank you. </content>
     <link href="https://tiktok.com/@philipdefranco/video/7248726082432748846" rel="alternate"/>
     <published>2023-06-25T20:39:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7249108866133265707</id>
+    <title>US Called Russia During Coup #usa #russia  During Saturday’s Coup, the US called Russia. The US reportedly told them that they had nothing to do with the coup and they pushed for Russia to not use its nuclear arsenal. Lavrov added that the US really empha</title>
+    <updated>2023-06-26T21:25:00+00:00</updated>
+    <content>US Called Russia During Coup #usa #russia  During Saturday’s Coup, the US called Russia. The US reportedly told them that they had nothing to do with the coup and they pushed for Russia to not use its nuclear arsenal. Lavrov added that the US really emphasized that they had had no plans to get involved in the coup and that everything that was happening was an internal affair of Russia and none of their business. But that’s about where the good will ended. Lavrov then lashed out at the US for not telling anyone about the rebellion despite knowing about it. And in fairness, he has a point.. When has Russia ever done the US wrong? And don’t say the 2016 election, Syria, cyber attacks on our power grid, the 3 invasions of Ukraine, continuous nuclear threats to us and our allies, attempts to kill US citizens, Afghanistan, downing our drones by running into them with their planes, trying to shoot down our planes, unleashing a troll farm on US social media sites, blaming us for everything that goes wrong, cheating in the olympics, hacking of us companies</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7249108866133265707" rel="alternate"/>
+    <published>2023-06-26T21:25:00+00:00</published>
   </entry>
 </feed>
