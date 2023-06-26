@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jennamclarke</id>
   <title>jennamclarke TikTok</title>
-  <updated>2023-06-22T13:07:08+00:00</updated>
+  <updated>2023-06-26T12:20:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jennamclarke</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jennamclarke/video/7246385973188185345</id>
-    <title>4 things to know before #☕️ on #tuesday including #thevoice #auspol #pot #shivs &amp; #politicaltiktok  👋🏼 ya every night from 10:30pm for tomorrow’s news tonight on #thefrontpage on #skynewsaustralia </title>
-    <updated>2023-06-19T13:18:37+00:00</updated>
-    <content>4 things to know before #☕️ on #tuesday including #thevoice #auspol #pot #shivs &amp; #politicaltiktok  👋🏼 ya every night from 10:30pm for tomorrow’s news tonight on #thefrontpage on #skynewsaustralia </content>
-    <link href="https://tiktok.com/@jennamclarke/video/7246385973188185345" rel="alternate"/>
-    <published>2023-06-19T13:18:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jennamclarke/video/7246646439915293953</id>
     <title>#katygallagher and #pennywong fire back at the #liberalparty about the ongoing questsions regarding #brittanyhiggins</title>
@@ -51,5 +43,13 @@
     <content>4 things to know before #☕️ on #friday including a lot of 🍑 🐕 and #wintersolstice celebrations.  👋🏼 ya every night for #thefrontpage on #skynewsaustralia from 10:30pm. </content>
     <link href="https://tiktok.com/@jennamclarke/video/7247496264038862082" rel="alternate"/>
     <published>2023-06-22T13:07:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jennamclarke/video/7248968529020488962</id>
+    <title>4 things to know before #☕️ on #tuesday including cake is now cancelled so too is #hotgirlsummer and #hotboywinter as visas are too expensive. Almost as exxy as #erastour tickets. @The Australian  👋🏼 ya every night from 10:30pm for #thefrontpage on #skyne</title>
+    <updated>2023-06-26T12:20:13+00:00</updated>
+    <content>4 things to know before #☕️ on #tuesday including cake is now cancelled so too is #hotgirlsummer and #hotboywinter as visas are too expensive. Almost as exxy as #erastour tickets. @The Australian  👋🏼 ya every night from 10:30pm for #thefrontpage on #skynewsaustralia </content>
+    <link href="https://tiktok.com/@jennamclarke/video/7248968529020488962" rel="alternate"/>
+    <published>2023-06-26T12:20:13+00:00</published>
   </entry>
 </feed>
