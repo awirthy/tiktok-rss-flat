@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-06-26T06:30:54+00:00</updated>
+  <updated>2023-06-27T05:57:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7246648663261433089</id>
-    <title>Almost half of Australians want it legalised. But the chances of that happening anytime soon are effectively zero. What are your thoughts? #australia #news #auspol #politics #victoria #nsw #wa #parliament #health #bill #policy #todayilearned #learnontikto</title>
-    <updated>2023-06-20T06:18:01+00:00</updated>
-    <content>Almost half of Australians want it legalised. But the chances of that happening anytime soon are effectively zero. What are your thoughts? #australia #news #auspol #politics #victoria #nsw #wa #parliament #health #bill #policy #todayilearned #learnontiktok </content>
-    <link href="https://tiktok.com/@viceautoday/video/7246648663261433089" rel="alternate"/>
-    <published>2023-06-20T06:18:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7247026961174859009</id>
     <title>The information comes following a freedom of information request by the Australian Associated Press #aunews #australia #edutok #police #nsw #news </title>
@@ -51,5 +43,13 @@
     <content>Medicinal 🍃 use is booming in Australia and more dispensaries are popping up as the business opportunity is undeniable. But getting them open isn’t easy. #australia #news #health #healthtok #pharmacy #doctor #clinic #treatment #sydney #melbourne #auspol #todayilearned #learnontiktok </content>
     <link href="https://tiktok.com/@viceautoday/video/7248878500394847490" rel="alternate"/>
     <published>2023-06-26T06:30:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7249240881675390209</id>
+    <title>Victoria P0lice has been accused of rac!al profiling, again, after new data about lockdown fines was released. #australia #news #melbourne #vic #justice #auspol #politics #fine #todayilearned #learnontiktok #newstory </title>
+    <updated>2023-06-27T05:57:05+00:00</updated>
+    <content>Victoria P0lice has been accused of rac!al profiling, again, after new data about lockdown fines was released. #australia #news #melbourne #vic #justice #auspol #politics #fine #todayilearned #learnontiktok #newstory </content>
+    <link href="https://tiktok.com/@viceautoday/video/7249240881675390209" rel="alternate"/>
+    <published>2023-06-27T05:57:05+00:00</published>
   </entry>
 </feed>
