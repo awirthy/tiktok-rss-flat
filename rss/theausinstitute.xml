@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-06-27T05:15:00+00:00</updated>
+  <updated>2023-06-27T08:35:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7246982069690109185</id>
-    <title>"Gas is an absolutely huge industry. It's not a big employer, though. It doesn't pay much tax, doesn't pay much in royalties, and the profits go offshore." - Climate &amp; Energy Director Polly Hemming on ABC The Drum #auspol #fyp</title>
-    <updated>2023-06-21T03:52:44+00:00</updated>
-    <content>"Gas is an absolutely huge industry. It's not a big employer, though. It doesn't pay much tax, doesn't pay much in royalties, and the profits go offshore." - Climate &amp; Energy Director Polly Hemming on ABC The Drum #auspol #fyp</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7246982069690109185" rel="alternate"/>
-    <published>2023-06-21T03:52:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7247380658249682178</id>
     <title>People still tend to think of gas as a vital industry to Australia, but the truth is, if anything, it costs the Australian economy.  Polly Hemming dropping some truth bombs on ABC The Drum 💣💥 #auspol #fyp</title>
@@ -51,5 +43,13 @@
     <content>When industry buys carbon credits to offset emissions, that's money not spent on technology like renewables that permanently reduces emissions. #auspol</content>
     <link href="https://tiktok.com/@theausinstitute/video/7249209308343323905" rel="alternate"/>
     <published>2023-06-27T05:15:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7249251132977974530</id>
+    <title>Whether it's challenging the fossil fuel industry or fighting big business, our research shifts the national policy debate for the better. It's only possible because of the support of people like you. Thanks to a matched giving program, every donation wil</title>
+    <updated>2023-06-27T08:35:00+00:00</updated>
+    <content>Whether it's challenging the fossil fuel industry or fighting big business, our research shifts the national policy debate for the better. It's only possible because of the support of people like you. Thanks to a matched giving program, every donation will be matched until 30 June. Just 3 days left to double your impact! Support our EOFY appeal today: http://theaus.in/eofy2023 And a special thank you to those who have already supported us. You make our work possible.</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7249251132977974530" rel="alternate"/>
+    <published>2023-06-27T08:35:00+00:00</published>
   </entry>
 </feed>
