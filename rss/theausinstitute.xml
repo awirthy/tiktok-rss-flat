@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-06-22T05:39:37+00:00</updated>
+  <updated>2023-06-27T00:27:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7242564104303529218</id>
-    <title>Excess corporate profits are driving inlation, despite what big business might say. And it's not just us saying it, it's also the OECD. #auspol #fyp #economics</title>
-    <updated>2023-06-09T06:08:57+00:00</updated>
-    <content>Excess corporate profits are driving inlation, despite what big business might say. And it's not just us saying it, it's also the OECD. #auspol #fyp #economics</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7242564104303529218" rel="alternate"/>
-    <published>2023-06-09T06:08:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7245176119635365122</id>
     <title>We've never been one to shy away from big fights. Whether it's challenging the fossil fuel industry or fighting big business, our research shifts the national policy debate for the better. Donate to our EOFY appeal today: http://theaus.in/eofy2023 With yo</title>
@@ -51,5 +43,13 @@
     <content>People still tend to think of gas as a vital industry to Australia, but the truth is, if anything, it costs the Australian economy.  Polly Hemming dropping some truth bombs on ABC The Drum 💣💥 #auspol #fyp</content>
     <link href="https://tiktok.com/@theausinstitute/video/7247380658249682178" rel="alternate"/>
     <published>2023-06-22T05:39:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7249155205495934209</id>
+    <title>Philip Lowe is telling workers we need productivity to increase before they can get a pay rise. But he seems a bit confused about how that will actually happen... #auspol#economics</title>
+    <updated>2023-06-27T00:27:41+00:00</updated>
+    <content>Philip Lowe is telling workers we need productivity to increase before they can get a pay rise. But he seems a bit confused about how that will actually happen... #auspol#economics</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7249155205495934209" rel="alternate"/>
+    <published>2023-06-27T00:27:41+00:00</published>
   </entry>
 </feed>
