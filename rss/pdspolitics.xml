@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-06-25T20:00:00+00:00</updated>
+  <updated>2023-06-27T23:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7247183286747909419</id>
-    <title>Hunter Biden has been charged with three federal crimes, and he’s reportedly taking a plea deal. #HunterBiden  #Biden  #US  #Politics</title>
-    <updated>2023-06-21T20:00:00+00:00</updated>
-    <content>Hunter Biden has been charged with three federal crimes, and he’s reportedly taking a plea deal. #HunterBiden  #Biden  #US  #Politics</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7247183286747909419" rel="alternate"/>
-    <published>2023-06-21T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7247541349052878122</id>
     <title>Utah’s book ban unintentionally caused the Bible to get banned in schools, too. #Bible   It was only a matter of time before book bans reached the best selling book of all time: The Holy Bible. Right, last year Utah passed a law allowing parents to reques</title>
@@ -51,5 +43,13 @@
     <content>MTG &amp; Lauren Boebert just took their feud over who gets to impeach Biden to a whole new level on the House floor. #US  #MTG  #Politics  #LaurenBoebert</content>
     <link href="https://tiktok.com/@pdspolitics/video/7247924644685073707" rel="alternate"/>
     <published>2023-06-25T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7249491436075371818</id>
+    <title>CNN just published audio of Trump talking about taking classified documents after he left the White House #Trump  #TrumpTapes  #US  #Politics</title>
+    <updated>2023-06-27T23:00:00+00:00</updated>
+    <content>CNN just published audio of Trump talking about taking classified documents after he left the White House #Trump  #TrumpTapes  #US  #Politics</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7249491436075371818" rel="alternate"/>
+    <published>2023-06-27T23:00:00+00:00</published>
   </entry>
 </feed>
