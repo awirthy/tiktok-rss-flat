@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-06-26T02:42:37+00:00</updated>
+  <updated>2023-06-27T09:09:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7246593082840321281</id>
-    <title>Borrowing money from friends 😅 'Why Is It Like This' *Part 1* #whyisitlikethis #funny</title>
-    <updated>2023-06-20T02:43:24+00:00</updated>
-    <content>Borrowing money from friends 😅 'Why Is It Like This' *Part 1* #whyisitlikethis #funny</content>
-    <link href="https://tiktok.com/@jimmyrees/video/7246593082840321281" rel="alternate"/>
-    <published>2023-06-20T02:43:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7247322696571243778</id>
     <title>This you at lunch time? 😅🥴 #whyisitlikethis</title>
@@ -51,5 +43,13 @@
     <content>IYKYK, backing a van with everyone watching is the true test of a caravan owner!  Stay safe on our roads, especially around heavy vehicles! Remember #WeAllNeedSpace   #nhvr #ad </content>
     <link href="https://tiktok.com/@jimmyrees/video/7248819662895484161" rel="alternate"/>
     <published>2023-06-26T02:42:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7249290367546248449</id>
+    <title>Youse know one of these people!? 😳🤬 Say It Properly PART 7 #sayitproperly </title>
+    <updated>2023-06-27T09:09:07+00:00</updated>
+    <content>Youse know one of these people!? 😳🤬 Say It Properly PART 7 #sayitproperly </content>
+    <link href="https://tiktok.com/@jimmyrees/video/7249290367546248449" rel="alternate"/>
+    <published>2023-06-27T09:09:07+00:00</published>
   </entry>
 </feed>
