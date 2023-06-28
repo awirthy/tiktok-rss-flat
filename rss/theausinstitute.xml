@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-06-27T08:35:00+00:00</updated>
+  <updated>2023-06-28T05:08:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7247380658249682178</id>
-    <title>People still tend to think of gas as a vital industry to Australia, but the truth is, if anything, it costs the Australian economy.  Polly Hemming dropping some truth bombs on ABC The Drum 💣💥 #auspol #fyp</title>
-    <updated>2023-06-22T05:39:37+00:00</updated>
-    <content>People still tend to think of gas as a vital industry to Australia, but the truth is, if anything, it costs the Australian economy.  Polly Hemming dropping some truth bombs on ABC The Drum 💣💥 #auspol #fyp</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7247380658249682178" rel="alternate"/>
-    <published>2023-06-22T05:39:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7249155205495934209</id>
     <title>Philip Lowe is telling workers we need productivity to increase before they can get a pay rise. But he seems a bit confused about how that will actually happen... #auspol#economics</title>
@@ -51,5 +43,13 @@
     <content>Whether it's challenging the fossil fuel industry or fighting big business, our research shifts the national policy debate for the better. It's only possible because of the support of people like you. Thanks to a matched giving program, every donation will be matched until 30 June. Just 3 days left to double your impact! Support our EOFY appeal today: http://theaus.in/eofy2023 And a special thank you to those who have already supported us. You make our work possible.</content>
     <link href="https://tiktok.com/@theausinstitute/video/7249251132977974530" rel="alternate"/>
     <published>2023-06-27T08:35:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7249599326177987841</id>
+    <title>Does Australia really deserve to host the world's biggest climate conference, after decades of greenwashing and fossil fuel expansion? Listen to the full episode of Follow the Money via the link in our bio #auspol</title>
+    <updated>2023-06-28T05:08:14+00:00</updated>
+    <content>Does Australia really deserve to host the world's biggest climate conference, after decades of greenwashing and fossil fuel expansion? Listen to the full episode of Follow the Money via the link in our bio #auspol</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7249599326177987841" rel="alternate"/>
+    <published>2023-06-28T05:08:14+00:00</published>
   </entry>
 </feed>
