@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jennamclarke</id>
   <title>jennamclarke TikTok</title>
-  <updated>2023-06-27T13:50:40+00:00</updated>
+  <updated>2023-06-28T13:05:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jennamclarke</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jennamclarke/video/7246757632806030594</id>
-    <title>🚨 #fantales are already gone! This and more things to know before #☕️ on #wednesday including #auspol #officeworks  👋🏼 ya every night from 10.30pm for #thefrontpage on #skynewsaustralia </title>
-    <updated>2023-06-20T13:20:48+00:00</updated>
-    <content>🚨 #fantales are already gone! This and more things to know before #☕️ on #wednesday including #auspol #officeworks  👋🏼 ya every night from 10.30pm for #thefrontpage on #skynewsaustralia </content>
-    <link href="https://tiktok.com/@jennamclarke/video/7246757632806030594" rel="alternate"/>
-    <published>2023-06-20T13:20:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jennamclarke/video/7247128696836918530</id>
     <title>4 things to know before #☕️ on #thursday including the #auspol version a fashion show - the #midwinterball - basically it’s the #metgala for public policy wonks.  👋🏼 ya every night from 10:30pm for #thefrontpage on #skynewsaustralia </title>
@@ -51,5 +43,13 @@
     <content>4 things to know before #☕️ on #wednesday including #mitchstarc #lords #ashes call up, #bondi shooting &amp; #erastour eve  👋🏼 ya every night from 10:30pm for #thefrontpage on #skynewsaustralia </content>
     <link href="https://tiktok.com/@jennamclarke/video/7249362924358077698" rel="alternate"/>
     <published>2023-06-27T13:50:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jennamclarke/video/7249722324931398914</id>
+    <title>4 things to know before #☕️ on #thursday including the #taylorswift #erastour recovery and the power of true crime prevails once again with #theteacherspet  👋🏼 ya every night from 10:30pm for #thefrontpage on #skynewsaustralia </title>
+    <updated>2023-06-28T13:05:21+00:00</updated>
+    <content>4 things to know before #☕️ on #thursday including the #taylorswift #erastour recovery and the power of true crime prevails once again with #theteacherspet  👋🏼 ya every night from 10:30pm for #thefrontpage on #skynewsaustralia </content>
+    <link href="https://tiktok.com/@jennamclarke/video/7249722324931398914" rel="alternate"/>
+    <published>2023-06-28T13:05:21+00:00</published>
   </entry>
 </feed>
