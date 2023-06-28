@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-06-27T23:00:00+00:00</updated>
+  <updated>2023-06-28T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7247541349052878122</id>
-    <title>Utah’s book ban unintentionally caused the Bible to get banned in schools, too. #Bible   It was only a matter of time before book bans reached the best selling book of all time: The Holy Bible. Right, last year Utah passed a law allowing parents to reques</title>
-    <updated>2023-06-22T20:00:00+00:00</updated>
-    <content>Utah’s book ban unintentionally caused the Bible to get banned in schools, too. #Bible   It was only a matter of time before book bans reached the best selling book of all time: The Holy Bible. Right, last year Utah passed a law allowing parents to request the removal of books containing “indecent material” from schools. But in December, one anonymous parent complained to the Davis school district, north of Salt Lake City, saying, “If the books that have been banned so far are any indication for way lesser offenses, this should be a slam dunk.So a committee reviewed the complaint and found that even though the Bible didn’t violate the law, it was nevertheless inappropriate for elementary and middle school students. So it had the book removed from all those libraries in the district, and oh boy did people lose it. With 70 people appealing the decision, and hundreds protesting both the district and the state capital for letting this happen. And even the Republican lawmaker who sponsored the book ban bill, Ken Ivory, jumping in to protest his own law. With him now arguing the review committee needs to be overseen by elected officials to make sure standards are applied properly. But last night the appeals committee voted unanimously to put the Bible back on school shelves. #Utah  #BookTok  #Politics</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7247541349052878122" rel="alternate"/>
-    <published>2023-06-22T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7247941854233152810</id>
     <title>Republicans censured Adam Schiff in the U.S. House and Democrats went into open revolt. #Politics  The GOP made the very major move of voting to censure Democrat Adam Schiff for his actions in the investigation into Trump’s alleged ties with Russia while </title>
@@ -51,5 +43,13 @@
     <content>CNN just published audio of Trump talking about taking classified documents after he left the White House #Trump  #TrumpTapes  #US  #Politics</content>
     <link href="https://tiktok.com/@pdspolitics/video/7249491436075371818" rel="alternate"/>
     <published>2023-06-27T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7249771117815123243</id>
+    <title>Three Supreme Court justices just voted to “upend democracy,” but they were stopped by the rest of the court. #SupremeCourt  The high court struck down an INCREDIBLY consequential and controversial case in a 6-3 ruling. The case in question was called Moo</title>
+    <updated>2023-06-28T20:00:00+00:00</updated>
+    <content>Three Supreme Court justices just voted to “upend democracy,” but they were stopped by the rest of the court. #SupremeCourt  The high court struck down an INCREDIBLY consequential and controversial case in a 6-3 ruling. The case in question was called Moore v. Harper, and we actually did a deep dive on it a little while ago which I’ll link to down below. But the very top-level TLDR is that centers around Republican gerrymandering in North Carolina. North Carolina Republicans took the matter to the Supreme Court after multiple Congressional maps they drew were rejected because of gerrymandering.  But this wasn’t a typical gerrymandering case: the Republican’s argument rested entirely on a totally untested, fringe theory touted by Trump and other far-right extremists in their effort to overturn the 2020 election called Independent State Legislature theory. The basis behind ISL theory is that the Constitution gives state legislatures pretty much the exclusive power to set election rules and congressional maps. But not only is that authority singular, nothing can stop them — there can be no intervention from state courts, governors, or voters. I mean, we’re talking about a case where North Carolina literally argued that legislatures would even violate their own state Constitutions! #US  #Politics  #MooreVHarper</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7249771117815123243" rel="alternate"/>
+    <published>2023-06-28T20:00:00+00:00</published>
   </entry>
 </feed>

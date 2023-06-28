@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-06-27T21:48:41+00:00</updated>
+  <updated>2023-06-28T19:56:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7248329651632819498</id>
-    <title>The Russian Civil War Coup Is Over #russia #ukraine #usa  The Russian civil war Coup attempt is over… maybe? Kind of? Reports are coming out that Wagner has halted their advance to Moscow and will be returning to their bases after Lukashenko of all people</title>
-    <updated>2023-06-24T19:01:10+00:00</updated>
-    <content>The Russian Civil War Coup Is Over #russia #ukraine #usa  The Russian civil war Coup attempt is over… maybe? Kind of? Reports are coming out that Wagner has halted their advance to Moscow and will be returning to their bases after Lukashenko of all people struck a deal with them. The deal reportedly will see Russia's defense minister and chief general replaced while Wagner’s leader and his fighters will get total legal immunity in exchange for not overthrowing the government. If you’re confused, I can assure you that everyone is. A point of no return was reached today, they shot down 7 aircraft, occupied cities, and humiliated Putin. Russia was blowing up their own bridges and oil depots, and digging trenches in Moscow. Maybe the immediate situation is over but the crisis is just beginning. It’s now very clear how incredibly weak Putin is and you can’t get that cat back in the bag.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7248329651632819498" rel="alternate"/>
-    <published>2023-06-24T19:01:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7248696266413198634</id>
     <title>The US Knew Of Russian Coup Plot #usa #russia  The U.S. reportedly knew Russia was about to be coup’d two weeks ago after spies uncovered the plot. In fact, Congress had reportedly been briefed on it days before it happened. This demonstrates just how big</title>
@@ -51,5 +43,13 @@
     <content>US Prepares For Collapse Of Russia #usa #russia #uk  The UK is making plans for Russia if it suddenly collapses. This comes after this weekend’s coup attempt. The US had also prepared plans for a range of scenarios with Russia. When we spoke to officials over the weekend, Western capitals were already starting to make plans if Wagner were to come in possession of nuclear weapons. Officials in Washington are left wondering if they witnessed an aborted coup or a thwarted mutiny. One senior European Diplomat asked “Why did it calm down so quickly, and how come Putin’s puppet Lukashenko got the credit?” Many western officials are skeptical that this is the end, with some believing that Wagner will either challenge Russia’s military from abroad or that Prigo will be killed in Belarus. Also Putin revealed today Russia had paid Wagner 68 billion rubles just this year… damn and I thought my Peloton investment was bad.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7249486072445521198" rel="alternate"/>
     <published>2023-06-27T21:48:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7249828198110825770</id>
+    <title>The World Loves America #usa #america  America is beloved all over the globe according to a new pew research poll. The results of this poll are stunning. With 93% of Poland having a positive view of the U.S. So does 60% of Italy, 59% of the UK, 57% of Ger</title>
+    <updated>2023-06-28T19:56:22+00:00</updated>
+    <content>The World Loves America #usa #america  America is beloved all over the globe according to a new pew research poll. The results of this poll are stunning. With 93% of Poland having a positive view of the U.S. So does 60% of Italy, 59% of the UK, 57% of Germany and 52% of France. 51% of Hungarians don’t view the U.S. positively. In Asia, they can’t stop loving us. Over 70% of South Korea and Japan view the U.S. positively. 65% of India and 52% of Australia. In Africa, over 70% of Nigeria and Kenya view the U.S. positively along with 59% of South Africans. And the love continues in the Americas with Brazil, Mexico, and Argentina all having positive views of the U.S. Of the 23 countries surveyed, only one country didn’t like us and that country is terrible.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7249828198110825770" rel="alternate"/>
+    <published>2023-06-28T19:56:22+00:00</published>
   </entry>
 </feed>
