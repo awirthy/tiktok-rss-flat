@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-06-28T19:56:22+00:00</updated>
+  <updated>2023-06-28T21:27:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7248696266413198634</id>
-    <title>The US Knew Of Russian Coup Plot #usa #russia  The U.S. reportedly knew Russia was about to be coup’d two weeks ago after spies uncovered the plot. In fact, Congress had reportedly been briefed on it days before it happened. This demonstrates just how big</title>
-    <updated>2023-06-25T18:43:55+00:00</updated>
-    <content>The US Knew Of Russian Coup Plot #usa #russia  The U.S. reportedly knew Russia was about to be coup’d two weeks ago after spies uncovered the plot. In fact, Congress had reportedly been briefed on it days before it happened. This demonstrates just how big of an intelligence failure this was for Russia. The leader of Wagner has reportedly been exiled to Belarus and it’s hard to say how long that will last for. It’s still not quite clear to anyone who’s currently in charge of the Russian military or why Wagner stopped when they had it in the bag. But The U.S. believes that we haven’t seen the end of Russian turmoil and that Pandora’s box has been opened.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7248696266413198634" rel="alternate"/>
-    <published>2023-06-25T18:43:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7248726082432748846</id>
     <title>Bobby Wagner Just Rizzed Up Baby Gronk. #usa  This video is in full compliance of community guidelines and is an obvious parody. Baby Gronk is like 10 and lives in America, Bobby Wagner is a mercenary group in Russia this is obvuously nonsense. It doesnt </title>
@@ -51,5 +43,13 @@
     <content>The World Loves America #usa #america  America is beloved all over the globe according to a new pew research poll. The results of this poll are stunning. With 93% of Poland having a positive view of the U.S. So does 60% of Italy, 59% of the UK, 57% of Germany and 52% of France. 51% of Hungarians don’t view the U.S. positively. In Asia, they can’t stop loving us. Over 70% of South Korea and Japan view the U.S. positively. 65% of India and 52% of Australia. In Africa, over 70% of Nigeria and Kenya view the U.S. positively along with 59% of South Africans. And the love continues in the Americas with Brazil, Mexico, and Argentina all having positive views of the U.S. Of the 23 countries surveyed, only one country didn’t like us and that country is terrible.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7249828198110825770" rel="alternate"/>
     <published>2023-06-28T19:56:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7249851787761503530</id>
+    <title>All Of South Korea Just Got 2 Years Younger! #southkorea #korea  All South Koreans are now a year or two younger as of today. South Korea has adopted the international age system that the rest of the world uses that states that when babies are born, they </title>
+    <updated>2023-06-28T21:27:50+00:00</updated>
+    <content>All Of South Korea Just Got 2 Years Younger! #southkorea #korea  All South Koreans are now a year or two younger as of today. South Korea has adopted the international age system that the rest of the world uses that states that when babies are born, they are 0 years old. With South Korea’s old age system, when a baby was born they were 1 year old and on every New Year’s Day, they aged 1 year. So if you were born on New Years Eve, you’d be two years old despite only being two days old! What an interesting way to do pension reform. #korean </content>
+    <link href="https://tiktok.com/@philipdefranco/video/7249851787761503530" rel="alternate"/>
+    <published>2023-06-28T21:27:50+00:00</published>
   </entry>
 </feed>
