@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-06-28T06:20:00+00:00</updated>
+  <updated>2023-06-28T08:30:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7249165425177644289</id>
-    <title>Woodside and Shell withheld Australian gas from Australian customers, and made billions doing it. #auspol</title>
-    <updated>2023-06-27T02:30:00+00:00</updated>
-    <content>Woodside and Shell withheld Australian gas from Australian customers, and made billions doing it. #auspol</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7249165425177644289" rel="alternate"/>
-    <published>2023-06-27T02:30:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7249209308343323905</id>
     <title>When industry buys carbon credits to offset emissions, that's money not spent on technology like renewables that permanently reduces emissions. #auspol</title>
@@ -51,5 +43,13 @@
     <content>The solutions to inflation are vastly different depending on the cause: ie if it's profits or wages. If it's profits, as the IMF, the OECD &amp; our research have shown, then price caps &amp; competition policy are the way to go, rather than smashing households w rate rises. #auspol #ausecon #inflation</content>
     <link href="https://tiktok.com/@theausinstitute/video/7249613067410099457" rel="alternate"/>
     <published>2023-06-28T06:20:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7249616979919785223</id>
+    <title>For all those Swifties out there waiting in the queue... #auspol</title>
+    <updated>2023-06-28T08:30:00+00:00</updated>
+    <content>For all those Swifties out there waiting in the queue... #auspol</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7249616979919785223" rel="alternate"/>
+    <published>2023-06-28T08:30:00+00:00</published>
   </entry>
 </feed>
