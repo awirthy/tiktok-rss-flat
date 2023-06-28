@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-06-27T05:57:05+00:00</updated>
+  <updated>2023-06-28T06:55:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7247026961174859009</id>
-    <title>The information comes following a freedom of information request by the Australian Associated Press #aunews #australia #edutok #police #nsw #news </title>
-    <updated>2023-06-21T06:45:58+00:00</updated>
-    <content>The information comes following a freedom of information request by the Australian Associated Press #aunews #australia #edutok #police #nsw #news </content>
-    <link href="https://tiktok.com/@viceautoday/video/7247026961174859009" rel="alternate"/>
-    <published>2023-06-21T06:45:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7247403906337230081</id>
     <title>Would a rent freeze actually help Australia’s rental and housing crisis?🥶 @Max Chandler Mather says yes, and other countries are proof. #australia #news #rent #rental #housing #politics #auspol #todayilearned #learnontiktok </title>
@@ -51,5 +43,13 @@
     <content>Victoria P0lice has been accused of rac!al profiling, again, after new data about lockdown fines was released. #australia #news #melbourne #vic #justice #auspol #politics #fine #todayilearned #learnontiktok #newstory </content>
     <link href="https://tiktok.com/@viceautoday/video/7249240881675390209" rel="alternate"/>
     <published>2023-06-27T05:57:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7249627064251321601</id>
+    <title>Can sport even exist if you’re not being told to bet on it all day? #australia #aunews #ausnews #auspol </title>
+    <updated>2023-06-28T06:55:43+00:00</updated>
+    <content>Can sport even exist if you’re not being told to bet on it all day? #australia #aunews #ausnews #auspol </content>
+    <link href="https://tiktok.com/@viceautoday/video/7249627064251321601" rel="alternate"/>
+    <published>2023-06-28T06:55:43+00:00</published>
   </entry>
 </feed>
