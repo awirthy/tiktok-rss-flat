@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-06-28T06:55:43+00:00</updated>
+  <updated>2023-06-29T02:29:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7247403906337230081</id>
-    <title>Would a rent freeze actually help Australia’s rental and housing crisis?🥶 @Max Chandler Mather says yes, and other countries are proof. #australia #news #rent #rental #housing #politics #auspol #todayilearned #learnontiktok </title>
-    <updated>2023-06-22T07:08:44+00:00</updated>
-    <content>Would a rent freeze actually help Australia’s rental and housing crisis?🥶 @Max Chandler Mather says yes, and other countries are proof. #australia #news #rent #rental #housing #politics #auspol #todayilearned #learnontiktok </content>
-    <link href="https://tiktok.com/@viceautoday/video/7247403906337230081" rel="alternate"/>
-    <published>2023-06-22T07:08:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7247762069410368770</id>
     <title>Can the government force Meta to stop someone from livestreaming? #aunews #climate #nsw #auspol </title>
@@ -51,5 +43,13 @@
     <content>Can sport even exist if you’re not being told to bet on it all day? #australia #aunews #ausnews #auspol </content>
     <link href="https://tiktok.com/@viceautoday/video/7249627064251321601" rel="alternate"/>
     <published>2023-06-28T06:55:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7249929442783513858</id>
+    <title>ICAC has handed down findings that former NSW Premier Gladys Berejiklian and former MP Daryl Maguire engaged in “serious corrupt conduct”. #australia #news #gladysberejiklian #nsw #icac #auspol #politics #political #premier #corruption #todayilearned #lea</title>
+    <updated>2023-06-29T02:29:04+00:00</updated>
+    <content>ICAC has handed down findings that former NSW Premier Gladys Berejiklian and former MP Daryl Maguire engaged in “serious corrupt conduct”. #australia #news #gladysberejiklian #nsw #icac #auspol #politics #political #premier #corruption #todayilearned #learnontiktok </content>
+    <link href="https://tiktok.com/@viceautoday/video/7249929442783513858" rel="alternate"/>
+    <published>2023-06-29T02:29:04+00:00</published>
   </entry>
 </feed>
