@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@davecairnsfilm</id>
   <title>davecairnsfilm TikTok</title>
-  <updated>2023-06-27T12:21:22+00:00</updated>
+  <updated>2023-06-29T15:35:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from davecairnsfilm</subtitle>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7248222528508906754</id>
-    <title>#stitch with @Dan McCurdy 24 JUNE 2023 - #politics #auspol #1percent #elite #submarine #oceangate #classwarfare #latestagecapitalism </title>
-    <updated>2023-06-24T12:05:23+00:00</updated>
-    <content>#stitch with @Dan McCurdy 24 JUNE 2023 - #politics #auspol #1percent #elite #submarine #oceangate #classwarfare #latestagecapitalism </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7248222528508906754" rel="alternate"/>
-    <published>2023-06-24T12:05:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@davecairnsfilm/video/7248506867079482626</id>
     <title>#stitch with @JahanKalantarOfficial 25 JUNE 2023 - #australia #victoria #law #familycourt #childrenscourt </title>
@@ -51,5 +43,13 @@
     <content>27 JUNE 2023 - #australia #melbourne #sydney #economist #mostliveablecity </content>
     <link href="https://tiktok.com/@davecairnsfilm/video/7249339916344151298" rel="alternate"/>
     <published>2023-06-27T12:21:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@davecairnsfilm/video/7250132011401088257</id>
+    <title>30 JUNE 2023 - #melbourne #earthquake</title>
+    <updated>2023-06-29T15:35:07+00:00</updated>
+    <content>30 JUNE 2023 - #melbourne #earthquake</content>
+    <link href="https://tiktok.com/@davecairnsfilm/video/7250132011401088257" rel="alternate"/>
+    <published>2023-06-29T15:35:07+00:00</published>
   </entry>
 </feed>
