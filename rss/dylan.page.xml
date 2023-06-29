@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-06-29T10:34:59+00:00</updated>
+  <updated>2023-06-28T19:14:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7248691387619740955</id>
+    <title>Way too young💔 but AI Joe really helps us forget 😔</title>
+    <updated>2023-06-25T18:24:51+00:00</updated>
+    <content>Way too young💔 but AI Joe really helps us forget 😔</content>
+    <link href="https://tiktok.com/@dylan.page/video/7248691387619740955" rel="alternate"/>
+    <published>2023-06-25T18:24:51+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7249005617241771290</id>
     <title>Too soon bro…💀</title>
@@ -43,13 +51,5 @@
     <content>This is my ONLY account on Tiktok right now!</content>
     <link href="https://tiktok.com/@dylan.page/video/7249817464576445722" rel="alternate"/>
     <published>2023-06-28T19:14:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7250054657316244762</id>
-    <title>What do we think about this??🤔😳</title>
-    <updated>2023-06-29T10:34:59+00:00</updated>
-    <content>What do we think about this??🤔😳</content>
-    <link href="https://tiktok.com/@dylan.page/video/7250054657316244762" rel="alternate"/>
-    <published>2023-06-29T10:34:59+00:00</published>
   </entry>
 </feed>
