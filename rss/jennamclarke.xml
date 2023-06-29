@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jennamclarke</id>
   <title>jennamclarke TikTok</title>
-  <updated>2023-06-28T13:05:21+00:00</updated>
+  <updated>2023-06-29T13:48:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jennamclarke</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jennamclarke/video/7247128696836918530</id>
-    <title>4 things to know before #☕️ on #thursday including the #auspol version a fashion show - the #midwinterball - basically it’s the #metgala for public policy wonks.  👋🏼 ya every night from 10:30pm for #thefrontpage on #skynewsaustralia </title>
-    <updated>2023-06-21T13:20:44+00:00</updated>
-    <content>4 things to know before #☕️ on #thursday including the #auspol version a fashion show - the #midwinterball - basically it’s the #metgala for public policy wonks.  👋🏼 ya every night from 10:30pm for #thefrontpage on #skynewsaustralia </content>
-    <link href="https://tiktok.com/@jennamclarke/video/7247128696836918530" rel="alternate"/>
-    <published>2023-06-21T13:20:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jennamclarke/video/7247496264038862082</id>
     <title>4 things to know before #☕️ on #friday including a lot of 🍑 🐕 and #wintersolstice celebrations.  👋🏼 ya every night for #thefrontpage on #skynewsaustralia from 10:30pm. </title>
@@ -51,5 +43,13 @@
     <content>4 things to know before #☕️ on #thursday including the #taylorswift #erastour recovery and the power of true crime prevails once again with #theteacherspet  👋🏼 ya every night from 10:30pm for #thefrontpage on #skynewsaustralia </content>
     <link href="https://tiktok.com/@jennamclarke/video/7249722324931398914" rel="alternate"/>
     <published>2023-06-28T13:05:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jennamclarke/video/7250100649990343937</id>
+    <title>4 things to know before #☕️ on #friday including #icac giving #ick  👋🏼 ya every night from 10:30pm for #thefrontpage on #skynewsaustralia  #gladysberejiklian #sydney #nswpolitics </title>
+    <updated>2023-06-29T13:48:26+00:00</updated>
+    <content>4 things to know before #☕️ on #friday including #icac giving #ick  👋🏼 ya every night from 10:30pm for #thefrontpage on #skynewsaustralia  #gladysberejiklian #sydney #nswpolitics </content>
+    <link href="https://tiktok.com/@jennamclarke/video/7250100649990343937" rel="alternate"/>
+    <published>2023-06-29T13:48:26+00:00</published>
   </entry>
 </feed>
