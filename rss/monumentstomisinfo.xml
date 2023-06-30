@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-06-30T03:59:54+00:00</updated>
+  <updated>2023-06-30T07:37:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7248583952775089410</id>
-    <title>Someone with any social media experience help me #auspol #tiktokanalytics #contentcreation </title>
-    <updated>2023-06-25T11:27:52+00:00</updated>
-    <content>Someone with any social media experience help me #auspol #tiktokanalytics #contentcreation </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7248583952775089410" rel="alternate"/>
-    <published>2023-06-25T11:27:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7249319170209287426</id>
     <title>I ws a big fan of the production quality @adu  @adu #australianlaborparty #auspol #housingcrisisaustralia #australiangreens </title>
@@ -51,5 +43,13 @@
     <content>Seriously corrupt but not corrupt enough for punishment… #auspol #nswpolitics #gladysberejiklian #icac </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7250323931696090369" rel="alternate"/>
     <published>2023-06-30T03:59:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7250379997339274497</id>
+    <title>@Jack Toohey genuine questions 1. What evidence is there the government used P.W.C. because of their donations 2. Example of dark money altering legislation and nothing being done? @Jack Toohey #auspol #housingcrisisaustralia #australianlaborparty </title>
+    <updated>2023-06-30T07:37:28+00:00</updated>
+    <content>@Jack Toohey genuine questions 1. What evidence is there the government used P.W.C. because of their donations 2. Example of dark money altering legislation and nothing being done? @Jack Toohey #auspol #housingcrisisaustralia #australianlaborparty </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7250379997339274497" rel="alternate"/>
+    <published>2023-06-30T07:37:28+00:00</published>
   </entry>
 </feed>
