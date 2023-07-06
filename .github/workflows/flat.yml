@@ -11,16 +11,14 @@ jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
+      - name: Check out repo
+        uses: actions/checkout@v2
       - name: Setup deno
         uses: denoland/setup-deno@main
         with:
-          deno-version: v1.10.x
-      - name: Check out repo
-        uses: actions/checkout@v2
-      - name: update apt
-        run: sudo apt-get update
+          deno-version: v1.x
       - name: Fetch data
-        uses: githubocto/flat@v3
+        uses: githubocto/flat@v2
         with:
           http_url: https://validator.w3.org/feed/docs/rss2.html
           downloaded_filename: rss2_spec.html
