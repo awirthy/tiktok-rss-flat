@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-07-13T17:54:47+00:00</updated>
+  <updated>2023-07-14T14:16:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7254248694164294939</id>
-    <title>What do we think??🤔</title>
-    <updated>2023-07-10T17:50:01+00:00</updated>
-    <content>What do we think??🤔</content>
-    <link href="https://tiktok.com/@dylan.page/video/7254248694164294939" rel="alternate"/>
-    <published>2023-07-10T17:50:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7254266208374017307</id>
     <title>Ill keep you updated as soon as we know more😔</title>
@@ -51,5 +43,13 @@
     <content>Cerberus heatwave is sweeping through southern Europe right now!😳🔥</content>
     <link href="https://tiktok.com/@dylan.page/video/7255363185291611418" rel="alternate"/>
     <published>2023-07-13T17:54:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7255678089722678554</id>
+    <title>What do we think about this?🤔🚀</title>
+    <updated>2023-07-14T14:16:50+00:00</updated>
+    <content>What do we think about this?🤔🚀</content>
+    <link href="https://tiktok.com/@dylan.page/video/7255678089722678554" rel="alternate"/>
+    <published>2023-07-14T14:16:50+00:00</published>
   </entry>
 </feed>
