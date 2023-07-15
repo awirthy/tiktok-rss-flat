@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-07-14T20:00:00+00:00</updated>
+  <updated>2023-07-15T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7254336617278737707</id>
-    <title>A single senator is holding the process for replacing the military’s top brass until he gets what he wants, but it could upend national security. #Military  #US  #Politics  #Marines</title>
-    <updated>2023-07-10T23:31:18+00:00</updated>
-    <content>A single senator is holding the process for replacing the military’s top brass until he gets what he wants, but it could upend national security. #Military  #US  #Politics  #Marines</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7254336617278737707" rel="alternate"/>
-    <published>2023-07-10T23:31:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7254677926262705450</id>
     <title>Trump could be on the verge of not one but two more indictments #Trump  Trump could be on the verge of yet ANOTHER indictment. Right, two grand juries are being seated in Georgia today to decide if Trump and/or any of his allies will face criminal charges</title>
@@ -51,5 +43,13 @@
     <content>Gal Luft, a potential whistleblower toured by Republicans, has been indicted as an unregistered foreign agent after accusing the Bidens of similar corruption #US  #Politics  #JoeBiden  #HunterBiden</content>
     <link href="https://tiktok.com/@pdspolitics/video/7255719438228475179" rel="alternate"/>
     <published>2023-07-14T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7255741136025865518</id>
+    <title>Lawyers were caught venmoing a Clarence Thomas aide, but after reporters asked about the payments, they were quickly made private. #Politics  The Guardian reported that one of Thomas’ top aides received Venmo payments from “several lawyers who have had bu</title>
+    <updated>2023-07-15T20:00:00+00:00</updated>
+    <content>Lawyers were caught venmoing a Clarence Thomas aide, but after reporters asked about the payments, they were quickly made private. #Politics  The Guardian reported that one of Thomas’ top aides received Venmo payments from “several lawyers who have had business before the supreme court” — Including one who just successfully argued in favor of ending Affirmative Action. According to the outlet, the Venmo payments “appear to have been made in connection to Thomas’s 2019 Christmas party.” And it was able to track these down because the aide’s Venmo account was literally public until the Guardian requested comment for this same article. With reporters saying those now-private transactions showed that the aide “received seven payments in November and December 2019 from lawyers who previously served as Thomas legal clerks.” And while the amounts being paid were not disclosed, the purpose of each payment relates to the Christmas party and either explicitly mentions Thomas by name or appears to use his initials. Now, notably, all of the lawyers and aides in question have declined to comment or not responded to requests to do so, but experts say these payments raised some red flags. #ClarenceThomas  #SupremeCourt  #US</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7255741136025865518" rel="alternate"/>
+    <published>2023-07-15T20:00:00+00:00</published>
   </entry>
 </feed>
