@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-07-14T08:08:23+00:00</updated>
+  <updated>2023-07-15T08:11:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7254331831041019138</id>
-    <title>We’ll look deeper into this during the research stream #auspol #auspolitics #thevoicetoparliament #indigenousaustralian </title>
-    <updated>2023-07-10T23:12:50+00:00</updated>
-    <content>We’ll look deeper into this during the research stream #auspol #auspolitics #thevoicetoparliament #indigenousaustralian </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7254331831041019138" rel="alternate"/>
-    <published>2023-07-10T23:12:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7254466174468099330</id>
     <title>We’ll do future research streams on the topic #auspol #australianpolitics #vaccines #covid19 </title>
@@ -51,5 +43,13 @@
     <content>Phillip Lowe is gone, time to see who will be the next RBA governer #auspol #rba #phillowe #interestrates </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7255583161009048834" rel="alternate"/>
     <published>2023-07-14T08:08:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7255955006279421186</id>
+    <title>Welcome #Michelebullock as the new #rba govenor #auspol #interestrates #phillowe </title>
+    <updated>2023-07-15T08:11:19+00:00</updated>
+    <content>Welcome #Michelebullock as the new #rba govenor #auspol #interestrates #phillowe </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7255955006279421186" rel="alternate"/>
+    <published>2023-07-15T08:11:19+00:00</published>
   </entry>
 </feed>
