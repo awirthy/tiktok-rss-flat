@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-07-15T21:26:30+00:00</updated>
+  <updated>2023-07-16T16:24:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7255718503183944986</id>
-    <title>If anyone comment about bros eyes i swear… HE JUST HAD HIS HEAD REATTACHED! </title>
-    <updated>2023-07-14T16:53:37+00:00</updated>
-    <content>If anyone comment about bros eyes i swear… HE JUST HAD HIS HEAD REATTACHED! </content>
-    <link href="https://tiktok.com/@dylan.page/video/7255718503183944986" rel="alternate"/>
-    <published>2023-07-14T16:53:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7255765637211933979</id>
     <title>What do we think about this?!😳</title>
@@ -51,5 +43,13 @@
     <content>I now identify as a gamer😑 @Gamers8_AR #gamers8 #landofheroes </content>
     <link href="https://tiktok.com/@dylan.page/video/7256159907492236571" rel="alternate"/>
     <published>2023-07-15T21:26:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7256453188193094939</id>
+    <title>Bro wouldn’t even know about the submarine💀 </title>
+    <updated>2023-07-16T16:24:33+00:00</updated>
+    <content>Bro wouldn’t even know about the submarine💀 </content>
+    <link href="https://tiktok.com/@dylan.page/video/7256453188193094939" rel="alternate"/>
+    <published>2023-07-16T16:24:33+00:00</published>
   </entry>
 </feed>
