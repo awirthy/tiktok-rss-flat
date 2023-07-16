@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-07-15T23:00:00+00:00</updated>
+  <updated>2023-07-16T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7254976466067131691</id>
-    <title>Alabama Senator Tommy Tuberville went on CNN Monday and made wild statements. Eventually, Tuberville did do the bare minimum and relent, but now everyone wants to know: Is he evil or just stupid? #US  #Politics  #TommyTuberville  #CNN</title>
-    <updated>2023-07-12T20:00:00+00:00</updated>
-    <content>Alabama Senator Tommy Tuberville went on CNN Monday and made wild statements. Eventually, Tuberville did do the bare minimum and relent, but now everyone wants to know: Is he evil or just stupid? #US  #Politics  #TommyTuberville  #CNN</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7254976466067131691" rel="alternate"/>
-    <published>2023-07-12T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7255451915394321707</id>
     <title>The FDA just approved the first over the counter birth control pill for the U.S. #Politics  #FDA  #US  #Opill</title>
@@ -51,5 +43,13 @@
     <content>Democrats are pushing to stop the practice of “judge shopping,” which allows plaintiffs to essentially pick judges sympathetic to them. #Politics  Senate Majority Leader Chuck Schumer and 17 other dems wrote a letter urging the policymaking body for the judicial system — the Judicial Conference — to end a system for assigning cases that basically allows plaintiffs to select their own judges. Aka, judge shopping. Specifically, the group is pushing the Judicial Conference to change single-judge divisions, which allows for ALL federal cases filed in certain geographic regions to be assigned to just one judge — And specifically, a judge that is sympathetic to the case, effectively allowing plaintiffs to pick what judge they want by filing their lawsuit in a specific division. With the senators explaining in their letter that this creates an unbalanced system because plenty of other districts assign cases to judges randomly, writing: “Based on geography, some plaintiffs are able to guarantee that their claims will be heard before a specific judge, whereas others are left to chance. This inconsistency undermines Americans’ faith in our judicial system.” The letter also goes on to flag single-judge districts in Texas, pointing to the Northern District of Texas as a particularly egregious example. Noting that, even though there are more than a dozen judges in the district, “civil cases are filed in many divisions are always assigned to a single judge, or to one of just a few.” And that is very significant because this goes beyond just cases that impact Texas — right, this has major implications on federal policies that affect all Americans. #US  #Texas  #Court</content>
     <link href="https://tiktok.com/@pdspolitics/video/7255744544887606571" rel="alternate"/>
     <published>2023-07-15T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7255747482070633774</id>
+    <title>Fox News is being sued for defamation AGAIN, but this time, it’s by a Trump supporter. #Politics  Okay, so let’s break this down — because it’s a real weird one. Right, this whole story centers around a man named Ray Epps who was at pro-Trump rallies in D</title>
+    <updated>2023-07-16T20:00:00+00:00</updated>
+    <content>Fox News is being sued for defamation AGAIN, but this time, it’s by a Trump supporter. #Politics  Okay, so let’s break this down — because it’s a real weird one. Right, this whole story centers around a man named Ray Epps who was at pro-Trump rallies in D.C. in January 2021 but is not known to have stormed the Capitol. But Epps still gained widespread attention because of two separate video clips. The first, which was taken the day before the insurrection, Epps is seen arguing with the far-right live-streamer “Baked Alaska.”  And there, he can be heard encouraging Trump supporters to enter the Capitol during the planned protests the next day. Right, and the second clip of Epps was actually taken on January 6th in front of the Capitol. And there, he’s seen speaking with another protestor, who moments later joined others in breaching the police barricade in front of the Capitol. Then, a few days after the insurrection, the FBI uploaded a picture of Epps on its website and indicated it was seeking information about him. But the agency eventually removed the picture several months later in July after interviewing Epps, and he was not ultimately prosecuted by the Justice Department. So those factors, combined with the videos, became the basis of a far-right conspiracy that Epps was a federal agent who was trying to get Trump supporters to commit crimes. #FoxNews  #TuckerCarlson  #US</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7255747482070633774" rel="alternate"/>
+    <published>2023-07-16T20:00:00+00:00</published>
   </entry>
 </feed>
