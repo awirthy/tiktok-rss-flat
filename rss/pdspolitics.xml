@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-07-15T20:00:00+00:00</updated>
+  <updated>2023-07-15T23:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7254677926262705450</id>
-    <title>Trump could be on the verge of not one but two more indictments #Trump  Trump could be on the verge of yet ANOTHER indictment. Right, two grand juries are being seated in Georgia today to decide if Trump and/or any of his allies will face criminal charges</title>
-    <updated>2023-07-11T23:00:00+00:00</updated>
-    <content>Trump could be on the verge of not one but two more indictments #Trump  Trump could be on the verge of yet ANOTHER indictment. Right, two grand juries are being seated in Georgia today to decide if Trump and/or any of his allies will face criminal charges in their effort to overturn the 2020 election in the state. And this is a big deal because it marks the beginning of the end for the massive, sweeping investigation that Fulton County District Attorney Fani Willis launched more than two years ago now. What’s more, it also represents one of the last of the remaining major legal threats hanging over Trump’s head. With Willis suggesting in the past that any indictments will come in August. And, if Trump is indicted, it would mark the third time in just the last year. Right, and on that note, this also comes as Trump is now asking that the trial for the Mar-a-Lago documents case be postponed indefinitely. With his lawyers arguing in a filing that starting the trial in December as the DOJ has requested would be “unrealistic” because of all the preparations they need to do and could “result in a miscarriage of justice.” And if a delay is approved, it could push the trial to the final stages of the 2024 campaign or even beyond. #US  #Politics  #Georgia</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7254677926262705450" rel="alternate"/>
-    <published>2023-07-11T23:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7254976466067131691</id>
     <title>Alabama Senator Tommy Tuberville went on CNN Monday and made wild statements. Eventually, Tuberville did do the bare minimum and relent, but now everyone wants to know: Is he evil or just stupid? #US  #Politics  #TommyTuberville  #CNN</title>
@@ -51,5 +43,13 @@
     <content>Lawyers were caught venmoing a Clarence Thomas aide, but after reporters asked about the payments, they were quickly made private. #Politics  The Guardian reported that one of Thomas’ top aides received Venmo payments from “several lawyers who have had business before the supreme court” — Including one who just successfully argued in favor of ending Affirmative Action. According to the outlet, the Venmo payments “appear to have been made in connection to Thomas’s 2019 Christmas party.” And it was able to track these down because the aide’s Venmo account was literally public until the Guardian requested comment for this same article. With reporters saying those now-private transactions showed that the aide “received seven payments in November and December 2019 from lawyers who previously served as Thomas legal clerks.” And while the amounts being paid were not disclosed, the purpose of each payment relates to the Christmas party and either explicitly mentions Thomas by name or appears to use his initials. Now, notably, all of the lawyers and aides in question have declined to comment or not responded to requests to do so, but experts say these payments raised some red flags. #ClarenceThomas  #SupremeCourt  #US</content>
     <link href="https://tiktok.com/@pdspolitics/video/7255741136025865518" rel="alternate"/>
     <published>2023-07-15T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7255744544887606571</id>
+    <title>Democrats are pushing to stop the practice of “judge shopping,” which allows plaintiffs to essentially pick judges sympathetic to them. #Politics  Senate Majority Leader Chuck Schumer and 17 other dems wrote a letter urging the policymaking body for the j</title>
+    <updated>2023-07-15T23:00:00+00:00</updated>
+    <content>Democrats are pushing to stop the practice of “judge shopping,” which allows plaintiffs to essentially pick judges sympathetic to them. #Politics  Senate Majority Leader Chuck Schumer and 17 other dems wrote a letter urging the policymaking body for the judicial system — the Judicial Conference — to end a system for assigning cases that basically allows plaintiffs to select their own judges. Aka, judge shopping. Specifically, the group is pushing the Judicial Conference to change single-judge divisions, which allows for ALL federal cases filed in certain geographic regions to be assigned to just one judge — And specifically, a judge that is sympathetic to the case, effectively allowing plaintiffs to pick what judge they want by filing their lawsuit in a specific division. With the senators explaining in their letter that this creates an unbalanced system because plenty of other districts assign cases to judges randomly, writing: “Based on geography, some plaintiffs are able to guarantee that their claims will be heard before a specific judge, whereas others are left to chance. This inconsistency undermines Americans’ faith in our judicial system.” The letter also goes on to flag single-judge districts in Texas, pointing to the Northern District of Texas as a particularly egregious example. Noting that, even though there are more than a dozen judges in the district, “civil cases are filed in many divisions are always assigned to a single judge, or to one of just a few.” And that is very significant because this goes beyond just cases that impact Texas — right, this has major implications on federal policies that affect all Americans. #US  #Texas  #Court</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7255744544887606571" rel="alternate"/>
+    <published>2023-07-15T23:00:00+00:00</published>
   </entry>
 </feed>
