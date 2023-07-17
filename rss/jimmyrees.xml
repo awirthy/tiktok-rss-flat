@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-07-14T09:50:32+00:00</updated>
+  <updated>2023-07-08T03:10:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7249290367546248449</id>
+    <title>Youse know one of these people!? 😳🤬 Say It Properly PART 7 #sayitproperly </title>
+    <updated>2023-06-27T09:09:07+00:00</updated>
+    <content>Youse know one of these people!? 😳🤬 Say It Properly PART 7 #sayitproperly </content>
+    <link href="https://tiktok.com/@jimmyrees/video/7249290367546248449" rel="alternate"/>
+    <published>2023-06-27T09:09:07+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7251471300483484929</id>
     <title>Everyone got an opinion 🥴 #holidays #groupholiday #relatable </title>
@@ -43,13 +51,5 @@
     <content>Guy who doesnt know the name of things *PART 3* #alternatenames #funny </content>
     <link href="https://tiktok.com/@jimmyrees/video/7253279853665914113" rel="alternate"/>
     <published>2023-07-08T03:10:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7255609486239452418</id>
-    <title>The end though … 😬!!! “Just a lil bit more” #couples #couplegoals </title>
-    <updated>2023-07-14T09:50:32+00:00</updated>
-    <content>The end though … 😬!!! “Just a lil bit more” #couples #couplegoals </content>
-    <link href="https://tiktok.com/@jimmyrees/video/7255609486239452418" rel="alternate"/>
-    <published>2023-07-14T09:50:32+00:00</published>
   </entry>
 </feed>
