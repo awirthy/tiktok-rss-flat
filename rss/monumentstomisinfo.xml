@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-07-16T10:15:04+00:00</updated>
+  <updated>2023-07-17T08:40:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7254823253749828865</id>
-    <title>The voice does not have vetos powers. Well research into it thursday on stream #auspol #australianpolitics #thevoicetoparliament #indigenousaustralian </title>
-    <updated>2023-07-12T06:59:34+00:00</updated>
-    <content>The voice does not have vetos powers. Well research into it thursday on stream #auspol #australianpolitics #thevoicetoparliament #indigenousaustralian </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7254823253749828865" rel="alternate"/>
-    <published>2023-07-12T06:59:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7255216817243737345</id>
     <title>Gonna stream on here at 7pm too probably #auspol #australianpolitics #thegreens #australianlaborparty </title>
@@ -51,5 +43,13 @@
     <content>This research is gonna break me (Come join the discord, link is in the bio) #auspol #covid19 #wuhanlabexperiment #wuhanlab </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7256357977098063106" rel="alternate"/>
     <published>2023-07-16T10:15:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7256704675758607617</id>
+    <title>Good convo from our first stream and #voicetoparliament call ins #auspol #indigenousaustralian (join the discord)</title>
+    <updated>2023-07-17T08:40:26+00:00</updated>
+    <content>Good convo from our first stream and #voicetoparliament call ins #auspol #indigenousaustralian (join the discord)</content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7256704675758607617" rel="alternate"/>
+    <published>2023-07-17T08:40:26+00:00</published>
   </entry>
 </feed>
