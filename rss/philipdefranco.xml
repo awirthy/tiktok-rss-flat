@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-07-18T01:26:40+00:00</updated>
+  <updated>2023-07-18T14:53:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7253884260510125354</id>
-    <title>Japan Plans To Dump Nuclear Waste In The Ocean #japan #environment </title>
-    <updated>2023-07-09T18:15:54+00:00</updated>
-    <content>Japan Plans To Dump Nuclear Waste In The Ocean #japan #environment </content>
-    <link href="https://tiktok.com/@philipdefranco/video/7253884260510125354" rel="alternate"/>
-    <published>2023-07-09T18:15:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7254335118226279726</id>
     <title>The US Plans to Send 155 Howitzer Cluster Munitions to Ukraine #Ukraine  #Russia  #US</title>
@@ -51,5 +43,13 @@
     <content>US Preparing Military Response To Russia #usa #russia  The U.S. is looking at military responses to Russia. For the last two weeks, the Russian Air Force has been harassing US drones, servicemembers, bases, and aircraft. They’ve done everything from locking on to aircraft to dumping fuel on them. Earlier in the year, the US deployed F-22s to the region to ward off Russia. A new report says that Iran and Russia are colluding to try to force the U.S. out of Syria. They are now deploying F-35s and F-16s to combat the squeeze from the two countries. An interesting side note is that the last time Russia attacked the US in Syria, they were squad wiped.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7256963948082203946" rel="alternate"/>
     <published>2023-07-18T01:26:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7257171915914169646</id>
+    <title>US Soldier Detained By North Korea #usa #korea  An American soldier has entered North Korea by crossing the demilitarized line into the country. Travis King has been identified as the soldier and he is currently in North Korean custody. He reportedly let </title>
+    <updated>2023-07-18T14:53:37+00:00</updated>
+    <content>US Soldier Detained By North Korea #usa #korea  An American soldier has entered North Korea by crossing the demilitarized line into the country. Travis King has been identified as the soldier and he is currently in North Korean custody. He reportedly let out a loud laugh before running across the border. It’s unclear if it’s a defection. The US and UN are currently working on negotiating his release.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7257171915914169646" rel="alternate"/>
+    <published>2023-07-18T14:53:37+00:00</published>
   </entry>
 </feed>
