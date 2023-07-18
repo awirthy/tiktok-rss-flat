@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-07-17T23:00:00+00:00</updated>
+  <updated>2023-07-18T23:10:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7255719438228475179</id>
-    <title>Gal Luft, a potential whistleblower toured by Republicans, has been indicted as an unregistered foreign agent after accusing the Bidens of similar corruption #US  #Politics  #JoeBiden  #HunterBiden</title>
-    <updated>2023-07-14T20:00:00+00:00</updated>
-    <content>Gal Luft, a potential whistleblower toured by Republicans, has been indicted as an unregistered foreign agent after accusing the Bidens of similar corruption #US  #Politics  #JoeBiden  #HunterBiden</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7255719438228475179" rel="alternate"/>
-    <published>2023-07-14T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7255741136025865518</id>
     <title>Lawyers were caught venmoing a Clarence Thomas aide, but after reporters asked about the payments, they were quickly made private. #Politics  The Guardian reported that one of Thomas’ top aides received Venmo payments from “several lawyers who have had bu</title>
@@ -51,5 +43,13 @@
     <content>The Biden administration will cancel $39 billion in student loan debt for 804,000 Americans. #Politics  Now, of course, that is much less than Biden’s initial effort to forgive $400 billion in loans for tens of millions of borrowers. But with that shutdown by the Supreme Court last month, his options are much more limited. So, with that said, who qualifies for the new forgiveness? Well, this new policy specifically targets the 8 million Americans who use what are known as income-driven repayment plans — or IDR plans. Under those programs, student loan borrowers make payments that are capped at a percentage of their income. And after they have paid a certain amount of time — Typically either 20 or 25 years, depending on their plan — they are eligible to have their remaining debt forgiven. But few people actually have their loans forgiven under these programs. And that’s in large part because, for decades, the loan servicers that collect payments from people with IDR plans have made many mistakes. Improperly tracking payments made by borrowers that should have helped them qualify for forgiveness. What’s more, servicers also gave people IDR programs horrible guidance and advice that prevented them from making qualifying payments, including improperly steering them into long-term forbearances. #US  #Money  #StudentLoans</content>
     <link href="https://tiktok.com/@pdspolitics/video/7256918221285068074" rel="alternate"/>
     <published>2023-07-17T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7257296126758407470</id>
+    <title>Texas troopers were allegedly told to throw migrant children and babies back into the Rio Grande by the offices of Gov. Greg Abbott #Texas #GregAbbott  #US  #Children</title>
+    <updated>2023-07-18T23:10:00+00:00</updated>
+    <content>Texas troopers were allegedly told to throw migrant children and babies back into the Rio Grande by the offices of Gov. Greg Abbott #Texas #GregAbbott  #US  #Children</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7257296126758407470" rel="alternate"/>
+    <published>2023-07-18T23:10:00+00:00</published>
   </entry>
 </feed>
