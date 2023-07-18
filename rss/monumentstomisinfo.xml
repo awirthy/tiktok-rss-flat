@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-07-17T08:40:26+00:00</updated>
+  <updated>2023-07-18T08:43:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7255216817243737345</id>
-    <title>Gonna stream on here at 7pm too probably #auspol #australianpolitics #thegreens #australianlaborparty </title>
-    <updated>2023-07-13T08:26:45+00:00</updated>
-    <content>Gonna stream on here at 7pm too probably #auspol #australianpolitics #thegreens #australianlaborparty </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7255216817243737345" rel="alternate"/>
-    <published>2023-07-13T08:26:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7255583161009048834</id>
     <title>Phillip Lowe is gone, time to see who will be the next RBA governer #auspol #rba #phillowe #interestrates </title>
@@ -51,5 +43,13 @@
     <content>Good convo from our first stream and #voicetoparliament call ins #auspol #indigenousaustralian (join the discord)</content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7256704675758607617" rel="alternate"/>
     <published>2023-07-17T08:40:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7257076504146808066</id>
+    <title>The freedom to die by a preventable disease is a weird hill to die on #auspol #lockdowns #victoria #covid19 </title>
+    <updated>2023-07-18T08:43:18+00:00</updated>
+    <content>The freedom to die by a preventable disease is a weird hill to die on #auspol #lockdowns #victoria #covid19 </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7257076504146808066" rel="alternate"/>
+    <published>2023-07-18T08:43:18+00:00</published>
   </entry>
 </feed>
