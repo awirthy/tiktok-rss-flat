@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-07-12T19:00:00+00:00</updated>
+  <updated>2023-07-18T01:26:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7253604141052857642</id>
-    <title>Hong-Konger Arrested For Disrespecting National Anthem #hongkong #china  Here in the US, if you don’t respect the national anthem the worst that is going to happen is you’re going to kill your football career due to faux-outrage. But in Hong Kong? Straigh</title>
-    <updated>2023-07-09T00:08:53+00:00</updated>
-    <content>Hong-Konger Arrested For Disrespecting National Anthem #hongkong #china  Here in the US, if you don’t respect the national anthem the worst that is going to happen is you’re going to kill your football career due to faux-outrage. But in Hong Kong? Straight to jail. Chung Wing-chun just found that out after he just became the first person tried under the city’s controversial National Anthem law. Right, what Chung did was edit a video of a Hong Kong Olympic Fencer during the Tokyo Olympics awards ceremony by replacing the Chinese national anthem with the song “Glory to Hong Kong,” Which became a major protest anthem during the massive 2018-2019 protests. Many think what Chung did wasn’t even disrespectful at all, and he continues to claim that he never meant it as disrespect.| [] However, the court magistrate said that “This behavior clearly undermines the dignity of the national anthem as a symbol and sign of the People’s Republic of China.” The 27-year-old man won’t find out his sentence until July 20th, but this conviction carries upwards of three years in prison and an over $6,000 fine. [] It’s bad enough that a law like this even exists, Like sure, if people want to be so patriotic that disrespecting your country’s national anthem can kill a career then let them be. It’s stupid, but on a completely different level to actually having the government potentially throw you in prison for it.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7253604141052857642" rel="alternate"/>
-    <published>2023-07-09T00:08:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7253884260510125354</id>
     <title>Japan Plans To Dump Nuclear Waste In The Ocean #japan #environment </title>
@@ -51,5 +43,13 @@
     <content>People in Uruguay are accusing Google of stealing precious water needed amid a devastating drought to cool a planned data center. #Google  #Tech  #Uruguay  #Water</content>
     <link href="https://tiktok.com/@philipdefranco/video/7254969387713695019" rel="alternate"/>
     <published>2023-07-12T19:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7256963948082203946</id>
+    <title>US Preparing Military Response To Russia #usa #russia  The U.S. is looking at military responses to Russia. For the last two weeks, the Russian Air Force has been harassing US drones, servicemembers, bases, and aircraft. They’ve done everything from locki</title>
+    <updated>2023-07-18T01:26:40+00:00</updated>
+    <content>US Preparing Military Response To Russia #usa #russia  The U.S. is looking at military responses to Russia. For the last two weeks, the Russian Air Force has been harassing US drones, servicemembers, bases, and aircraft. They’ve done everything from locking on to aircraft to dumping fuel on them. Earlier in the year, the US deployed F-22s to the region to ward off Russia. A new report says that Iran and Russia are colluding to try to force the U.S. out of Syria. They are now deploying F-35s and F-16s to combat the squeeze from the two countries. An interesting side note is that the last time Russia attacked the US in Syria, they were squad wiped.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7256963948082203946" rel="alternate"/>
+    <published>2023-07-18T01:26:40+00:00</published>
   </entry>
 </feed>
