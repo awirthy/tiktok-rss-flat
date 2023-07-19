@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-07-19T03:37:11+00:00</updated>
+  <updated>2023-07-18T09:26:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7252130247355780354</id>
+    <title>Did my fair share of 8 point turns, never put the wrong fuel in the car tho! Be safe on the roads around trucks and heavy vehicles. Remember we all need space to keep you safe #ad #nhvr</title>
+    <updated>2023-07-05T00:51:21+00:00</updated>
+    <content>Did my fair share of 8 point turns, never put the wrong fuel in the car tho! Be safe on the roads around trucks and heavy vehicles. Remember we all need space to keep you safe #ad #nhvr</content>
+    <link href="https://tiktok.com/@jimmyrees/video/7252130247355780354" rel="alternate"/>
+    <published>2023-07-05T00:51:21+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7252541253265526017</id>
     <title>Ice cream in the winter sale JASON!!! 😂😂😂 Check out @woolworths_au Prices Dropped for Winter program, over 450 items on the list with everyday essentials that will help your budget go that bit further this season. #ad</title>
@@ -43,13 +51,5 @@
     <content>Not Tay Tay 😂 </content>
     <link href="https://tiktok.com/@jimmyrees/video/7257087629538102529" rel="alternate"/>
     <published>2023-07-18T09:26:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7257368500136643842</id>
-    <title>Is this your office? 🤣😅 #officeculture  #officelife</title>
-    <updated>2023-07-19T03:37:11+00:00</updated>
-    <content>Is this your office? 🤣😅 #officeculture  #officelife</content>
-    <link href="https://tiktok.com/@jimmyrees/video/7257368500136643842" rel="alternate"/>
-    <published>2023-07-19T03:37:11+00:00</published>
   </entry>
 </feed>
