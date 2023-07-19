@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-07-18T21:34:31+00:00</updated>
+  <updated>2023-07-19T16:31:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7254969387713695019</id>
-    <title>People in Uruguay are accusing Google of stealing precious water needed amid a devastating drought to cool a planned data center. #Google  #Tech  #Uruguay  #Water</title>
-    <updated>2023-07-12T19:00:00+00:00</updated>
-    <content>People in Uruguay are accusing Google of stealing precious water needed amid a devastating drought to cool a planned data center. #Google  #Tech  #Uruguay  #Water</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7254969387713695019" rel="alternate"/>
-    <published>2023-07-12T19:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7256963948082203946</id>
     <title>US Preparing Military Response To Russia #usa #russia  The U.S. is looking at military responses to Russia. For the last two weeks, the Russian Air Force has been harassing US drones, servicemembers, bases, and aircraft. They’ve done everything from locki</title>
@@ -51,5 +43,13 @@
     <content>Russia Threatens South Africa With War #russia #southafrica  Russia has threatened to declare war on South Africa. South Africa has been warning Putin to not physically come to the country next month because they have a legal obligation to arrest him. And Putin doesn’t care and he says he’s coming to South Africa no matter what and if they arrest him, it’s war. So now South Africa is asking the international criminal court for permission to not arrest Putin due to the Russian threat of war.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7257275236784065835" rel="alternate"/>
     <published>2023-07-18T21:34:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7257568244893044010</id>
+    <title>Russia Backs Down To South Africa #russia #southafrica  Russia has backed down to South Africa. After months of warning Putin not to come to South Africa and him threatening to declare war on the country if they try to arrest him when he visits, he is now</title>
+    <updated>2023-07-19T16:31:44+00:00</updated>
+    <content>Russia Backs Down To South Africa #russia #southafrica  Russia has backed down to South Africa. After months of warning Putin not to come to South Africa and him threatening to declare war on the country if they try to arrest him when he visits, he is now no longer coming. He desperately wanted to come to the BRICS summit but it seems as though he’ll have to use zoom to speak to his fake alliance.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7257568244893044010" rel="alternate"/>
+    <published>2023-07-19T16:31:44+00:00</published>
   </entry>
 </feed>
