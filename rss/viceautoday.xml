@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-07-18T05:48:39+00:00</updated>
+  <updated>2023-07-17T07:04:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7254455308041342210</id>
+    <title>Reproductive healthcare will become more accessible in Australia next month. #australia #news #auspol #health #healthcare #nurse #doctor #women #healthtok #politics #todayilearned #learnontiktok </title>
+    <updated>2023-07-11T07:11:43+00:00</updated>
+    <content>Reproductive healthcare will become more accessible in Australia next month. #australia #news #auspol #health #healthcare #nurse #doctor #women #healthtok #politics #todayilearned #learnontiktok </content>
+    <link href="https://tiktok.com/@viceautoday/video/7254455308041342210" rel="alternate"/>
+    <published>2023-07-11T07:11:43+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7254824963268463873</id>
     <title>Australia’s rental crisis has kept getting worse over the last 12 months but could it possibly be about to… maybe… start getting less worse? #australia #news #auspol #rent #renter #rental #housing #politics #costofliving #todayilearned #learnwithtiktok </title>
@@ -43,13 +51,5 @@
     <content>Its official: 98% of Australian private schools are overfunded above the Schooling Resource Standard while 98% of public schools are funded below it. #australia #news #school #privateschool #publicschool #education #highschool #auspol #politics #todayilearned #learnontiktok </content>
     <link href="https://tiktok.com/@viceautoday/video/7256679952500739329" rel="alternate"/>
     <published>2023-07-17T07:04:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7257031489458572545</id>
-    <title>The government-authorised Indigenous Voice to Parliament Yes/No cases have been released on the Australian Electoral Commission website. What do they say about the how to vote in the referendum? #australia #news #politics #auspol #constitution #vote #firs</title>
-    <updated>2023-07-18T05:48:39+00:00</updated>
-    <content>The government-authorised Indigenous Voice to Parliament Yes/No cases have been released on the Australian Electoral Commission website. What do they say about the how to vote in the referendum? #australia #news #politics #auspol #constitution #vote #firstnations #indigenous #todayilearned #learnontiktok  </content>
-    <link href="https://tiktok.com/@viceautoday/video/7257031489458572545" rel="alternate"/>
-    <published>2023-07-18T05:48:39+00:00</published>
   </entry>
 </feed>
