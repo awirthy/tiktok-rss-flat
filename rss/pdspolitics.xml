@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-07-19T20:00:00+00:00</updated>
+  <updated>2023-07-19T23:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7255744544887606571</id>
-    <title>Democrats are pushing to stop the practice of “judge shopping,” which allows plaintiffs to essentially pick judges sympathetic to them. #Politics  Senate Majority Leader Chuck Schumer and 17 other dems wrote a letter urging the policymaking body for the j</title>
-    <updated>2023-07-15T23:00:00+00:00</updated>
-    <content>Democrats are pushing to stop the practice of “judge shopping,” which allows plaintiffs to essentially pick judges sympathetic to them. #Politics  Senate Majority Leader Chuck Schumer and 17 other dems wrote a letter urging the policymaking body for the judicial system — the Judicial Conference — to end a system for assigning cases that basically allows plaintiffs to select their own judges. Aka, judge shopping. Specifically, the group is pushing the Judicial Conference to change single-judge divisions, which allows for ALL federal cases filed in certain geographic regions to be assigned to just one judge — And specifically, a judge that is sympathetic to the case, effectively allowing plaintiffs to pick what judge they want by filing their lawsuit in a specific division. With the senators explaining in their letter that this creates an unbalanced system because plenty of other districts assign cases to judges randomly, writing: “Based on geography, some plaintiffs are able to guarantee that their claims will be heard before a specific judge, whereas others are left to chance. This inconsistency undermines Americans’ faith in our judicial system.” The letter also goes on to flag single-judge districts in Texas, pointing to the Northern District of Texas as a particularly egregious example. Noting that, even though there are more than a dozen judges in the district, “civil cases are filed in many divisions are always assigned to a single judge, or to one of just a few.” And that is very significant because this goes beyond just cases that impact Texas — right, this has major implications on federal policies that affect all Americans. #US  #Texas  #Court</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7255744544887606571" rel="alternate"/>
-    <published>2023-07-15T23:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7255747482070633774</id>
     <title>Fox News is being sued for defamation AGAIN, but this time, it’s by a Trump supporter. #Politics  Okay, so let’s break this down — because it’s a real weird one. Right, this whole story centers around a man named Ray Epps who was at pro-Trump rallies in D</title>
@@ -51,5 +43,13 @@
     <content>It looks like Trump is about to be federally indicted AGAIN. #DonaldTrump   The former president said in a post on Truth Social that he received a letter from special counsel Jack Smith this weekend informing him that he’s a target of a federal criminal investigation into efforts to overturn the 2020 election. With Trump writing calling Smith “deranged” and claiming the special counsel gave him “a very short 4 days to report to the Grand Jury, which almost always means an Arrest and Indictment.” And, I mean, he’s not wrong there… when someone gets a letter from the DOJ telling them they are the target of a probe, it is usually a really good sign they are about to be indicted. Right, this is actually something we talked about before when it was first reported that Trump had been informed he was a target in the Mar-a-Lago documents probe. But, for some quick catch-up here, “target” is actually a technical term that the DOJ defines as a person “to whom the prosecutor or the grand jury has substantial evidence linking him or her to the commission of a crime.” With DOJ specifically encouraging prosecutors to send so-called “target letters” in cases where people are likely to be indicted so they get the opportunity to testify before the grand jury in their probe. And, very notably, Trump was in fact indicted on federal charges about a week after it was reported he had gotten a target letter for the Mar-a-Lago inquiry. So, in other words, it seems likely that Trump is going to be indicted in the Jan. 6 probe in a matter of days or weeks. #US  #Politics  #JackSmith</content>
     <link href="https://tiktok.com/@pdspolitics/video/7257571475715116331" rel="alternate"/>
     <published>2023-07-19T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7257649131999612206</id>
+    <title>Michigan just brought the FIRST-ever criminal charges against fake electors that tried to overturn the 2020 election. #Politics  Yesterday, Michigan Attorney General Dana Nessel charged 16 Republicans who falsely claimed to be the presidential electors in</title>
+    <updated>2023-07-19T23:00:00+00:00</updated>
+    <content>Michigan just brought the FIRST-ever criminal charges against fake electors that tried to overturn the 2020 election. #Politics  Yesterday, Michigan Attorney General Dana Nessel charged 16 Republicans who falsely claimed to be the presidential electors in 2020 in an effort to get Trump elected in the state. And the charges here are hefty, with Nessel slapping all 16 with eight criminal counts including forgery, conspiracy to commit forgery, and election law forgery —  Some of which carry sentences of up to 14 years in prison. Specifically, court documents released after the charges were announced detail how the 16 Republicans met and filled out paperwork claiming they were Michigan’s official electors and that Trump had won the election. This despite the fact that Biden had actually won by 150,000 votes, courts had already thrown out lawsuits that claimed Trump had won, and leaders in the legislature had made it clear they would not challenge the results further. #US  #Trump  #Michigan</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7257649131999612206" rel="alternate"/>
+    <published>2023-07-19T23:00:00+00:00</published>
   </entry>
 </feed>
