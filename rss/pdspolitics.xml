@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-07-19T23:00:00+00:00</updated>
+  <updated>2023-07-20T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7255747482070633774</id>
-    <title>Fox News is being sued for defamation AGAIN, but this time, it’s by a Trump supporter. #Politics  Okay, so let’s break this down — because it’s a real weird one. Right, this whole story centers around a man named Ray Epps who was at pro-Trump rallies in D</title>
-    <updated>2023-07-16T20:00:00+00:00</updated>
-    <content>Fox News is being sued for defamation AGAIN, but this time, it’s by a Trump supporter. #Politics  Okay, so let’s break this down — because it’s a real weird one. Right, this whole story centers around a man named Ray Epps who was at pro-Trump rallies in D.C. in January 2021 but is not known to have stormed the Capitol. But Epps still gained widespread attention because of two separate video clips. The first, which was taken the day before the insurrection, Epps is seen arguing with the far-right live-streamer “Baked Alaska.”  And there, he can be heard encouraging Trump supporters to enter the Capitol during the planned protests the next day. Right, and the second clip of Epps was actually taken on January 6th in front of the Capitol. And there, he’s seen speaking with another protestor, who moments later joined others in breaching the police barricade in front of the Capitol. Then, a few days after the insurrection, the FBI uploaded a picture of Epps on its website and indicated it was seeking information about him. But the agency eventually removed the picture several months later in July after interviewing Epps, and he was not ultimately prosecuted by the Justice Department. So those factors, combined with the videos, became the basis of a far-right conspiracy that Epps was a federal agent who was trying to get Trump supporters to commit crimes. #FoxNews  #TuckerCarlson  #US</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7255747482070633774" rel="alternate"/>
-    <published>2023-07-16T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7256918221285068074</id>
     <title>The Biden administration will cancel $39 billion in student loan debt for 804,000 Americans. #Politics  Now, of course, that is much less than Biden’s initial effort to forgive $400 billion in loans for tens of millions of borrowers. But with that shutdow</title>
@@ -51,5 +43,13 @@
     <content>Michigan just brought the FIRST-ever criminal charges against fake electors that tried to overturn the 2020 election. #Politics  Yesterday, Michigan Attorney General Dana Nessel charged 16 Republicans who falsely claimed to be the presidential electors in 2020 in an effort to get Trump elected in the state. And the charges here are hefty, with Nessel slapping all 16 with eight criminal counts including forgery, conspiracy to commit forgery, and election law forgery —  Some of which carry sentences of up to 14 years in prison. Specifically, court documents released after the charges were announced detail how the 16 Republicans met and filled out paperwork claiming they were Michigan’s official electors and that Trump had won the election. This despite the fact that Biden had actually won by 150,000 votes, courts had already thrown out lawsuits that claimed Trump had won, and leaders in the legislature had made it clear they would not challenge the results further. #US  #Trump  #Michigan</content>
     <link href="https://tiktok.com/@pdspolitics/video/7257649131999612206" rel="alternate"/>
     <published>2023-07-19T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7257934613669055786</id>
+    <title>Reports indicate that police are using Big Brother tactics to track people crossing state lines to seek gender-affirming and reproductive care #Politics  Big Brother has gone too far! That is what a group of more than three dozen lawmakers argued in a let</title>
+    <updated>2023-07-20T20:00:00+00:00</updated>
+    <content>Reports indicate that police are using Big Brother tactics to track people crossing state lines to seek gender-affirming and reproductive care #Politics  Big Brother has gone too far! That is what a group of more than three dozen lawmakers argued in a letter urging the Biden administration to change federal laws that allow law enforcement to access sensitive medical data without a warrant. #US  #Biden  #BigBrother</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7257934613669055786" rel="alternate"/>
+    <published>2023-07-20T20:00:00+00:00</published>
   </entry>
 </feed>
