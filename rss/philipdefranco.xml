@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-07-19T21:47:44+00:00</updated>
+  <updated>2023-07-20T20:02:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7257209457208364334</id>
-    <title>US Soldier Escaped To North Korea #usa #korea  The US soldier who crossed into North Korea had been in U.S. custody for over a month and was being taken to the airport to be sent back to the U.S. when he escaped and joined a tour group and then ran into N</title>
-    <updated>2023-07-18T17:19:20+00:00</updated>
-    <content>US Soldier Escaped To North Korea #usa #korea  The US soldier who crossed into North Korea had been in U.S. custody for over a month and was being taken to the airport to be sent back to the U.S. when he escaped and joined a tour group and then ran into North Korea. The US Military says it’s working with North Korea to resolve the incident, they say he crossed the line “willfully and without authorization”.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7257209457208364334" rel="alternate"/>
-    <published>2023-07-18T17:19:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7257275236784065835</id>
     <title>Russia Threatens South Africa With War #russia #southafrica  Russia has threatened to declare war on South Africa. South Africa has been warning Putin to not physically come to the country next month because they have a legal obligation to arrest him. And</title>
@@ -51,5 +43,13 @@
     <content>This Is Why A US Soldier Defected To North Korea #usa #korea  Travis King, the US soldier, who defected to North Korea was reportedly facing two assault allegations and was fined for damaging a South Korean police car. He still remains in North Korean custody and his status is unknown, although the U.S. says it’s committed to getting him back. His mom says she just can’t see her son defecting to North Korea.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7257649692371160363" rel="alternate"/>
     <published>2023-07-19T21:47:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7257993609507556651</id>
+    <title>Swedish Embassy Burned Down #sweden #iraq  Protesters stormed the Swedish embassy in Baghdad and set it on fire in response to Quran burnings in Sweden. All because an Iraqi living in Sweden is planning to exercise his freedom of speech by burning another</title>
+    <updated>2023-07-20T20:02:10+00:00</updated>
+    <content>Swedish Embassy Burned Down #sweden #iraq  Protesters stormed the Swedish embassy in Baghdad and set it on fire in response to Quran burnings in Sweden. All because an Iraqi living in Sweden is planning to exercise his freedom of speech by burning another Quran today and now an Iraqi flag outside of the Iraqi embassy to Sweden. Swedish and Iraqi authorities have exchanged threats with each other over the two sets of protests and both have condemned each other. And Iraq has expelled the Swedish ambassador from the country.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7257993609507556651" rel="alternate"/>
+    <published>2023-07-20T20:02:10+00:00</published>
   </entry>
 </feed>
