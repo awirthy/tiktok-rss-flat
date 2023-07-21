@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-07-20T07:08:20+00:00</updated>
+  <updated>2023-07-21T02:32:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7255187823974829314</id>
-    <title>Stay safe! #health #aunews #victoria #lifeprotip #australia </title>
-    <updated>2023-07-13T06:34:17+00:00</updated>
-    <content>Stay safe! #health #aunews #victoria #lifeprotip #australia </content>
-    <link href="https://tiktok.com/@viceautoday/video/7255187823974829314" rel="alternate"/>
-    <published>2023-07-13T06:34:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7255560354313391361</id>
     <title>The Reserve Bank of Australia (RBA) has just replaced its governor Philip Lowe with Michele Bullock. What does this mean for the cost of living? Will anything get cheaper? #australia #news #auspol #politics #rba #reservebankofaustralia #interest #interest</title>
@@ -51,5 +43,13 @@
     <content>Kathryn Campbell, the official who oversaw Australia’s robodebt scheme, has been suspended without pay after a royal commission into the scheme found she was responsible in part for implementing and maintaining the unlawful program. #australia #news #robodebt #debt #centrelink #ato #kathryncampbell #politics #auspol #todayilearned #learnwithtiktok </content>
     <link href="https://tiktok.com/@viceautoday/video/7257794196298353922" rel="alternate"/>
     <published>2023-07-20T07:08:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7258094121624046849</id>
+    <title>International flights in and out of Australia could be cut back as countries scramble to meet their 2030 emissions reductions targets. #australia #news #climatechange #climatecrisis #emission #carbonemissions #flight #plane #airport #auspol #politics #tod</title>
+    <updated>2023-07-21T02:32:14+00:00</updated>
+    <content>International flights in and out of Australia could be cut back as countries scramble to meet their 2030 emissions reductions targets. #australia #news #climatechange #climatecrisis #emission #carbonemissions #flight #plane #airport #auspol #politics #todayilearned #learnontiktok </content>
+    <link href="https://tiktok.com/@viceautoday/video/7258094121624046849" rel="alternate"/>
+    <published>2023-07-21T02:32:14+00:00</published>
   </entry>
 </feed>
