@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-07-20T20:43:53+00:00</updated>
+  <updated>2023-07-21T21:54:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7257568244893044010</id>
-    <title>Russia Backs Down To South Africa #russia #southafrica  Russia has backed down to South Africa. After months of warning Putin not to come to South Africa and him threatening to declare war on the country if they try to arrest him when he visits, he is now</title>
-    <updated>2023-07-19T16:31:44+00:00</updated>
-    <content>Russia Backs Down To South Africa #russia #southafrica  Russia has backed down to South Africa. After months of warning Putin not to come to South Africa and him threatening to declare war on the country if they try to arrest him when he visits, he is now no longer coming. He desperately wanted to come to the BRICS summit but it seems as though he’ll have to use zoom to speak to his fake alliance.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7257568244893044010" rel="alternate"/>
-    <published>2023-07-19T16:31:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7257610229901200682</id>
     <title>Russia To Sink All Ships Heading To Ukraine #russia #ukraine  Russia has announced that they will now be sinking all ships heading to Ukrainian ports. They’re now considering all ships, including those carrying people and wheat, to be potential carriers o</title>
@@ -51,5 +43,13 @@
     <content>North Korea Says It’ll Nuke USA #usa #korea  North Korea says that the US and South Korea have met the threshold to be hit with a nuclear strike after a U.S. nuclear submarine visited South Korea today. The US and North Korea have had better months. Just this month, North Korea has threatened to shoot down US spy craft and has tested more missiles. And earlier this week a U.S. soldier ran into the country. The U.S. must not have crossed the threshold that hard given that we haven’t been nuked yet.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7258004349727657259" rel="alternate"/>
     <published>2023-07-20T20:43:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7258393488629222698</id>
+    <title>US Readies For War With Iran #usa #america  The United States is preparing for an imminent standoff with Iran. In the past two years, Iran has attacked or seized nearly 20 merchant vessels in the Persian gulf. And after it attacked 3 vessels earlier this </title>
+    <updated>2023-07-21T21:54:01+00:00</updated>
+    <content>US Readies For War With Iran #usa #america  The United States is preparing for an imminent standoff with Iran. In the past two years, Iran has attacked or seized nearly 20 merchant vessels in the Persian gulf. And after it attacked 3 vessels earlier this month, one of which was a US vessel, the US lost patience and deployed F-16s, F-35s, F-22s, and destroyers to the gulf. And now the US is sending an additional 2,000 marines and 3 more warships to the region. The US has been clear, don’t infringe on international shipping lanes and Iran simply doesn't care. In 1987, Iran was sinking Kuwait’s oil tankers. The US Navy began escorting Kuwait’s tankers when an Iranian mine hit a US missile ship. The US destroyed half of Iran’s navy overnight in response. And yet, 40 years later - Iran is still using the half of the Navy that wasn’t sunk to harass shipping lanes. American patience is running out especially now that Iran has detained a fourth US citizen. The message from US Central Command has been clear: we won’t hesitate to protect the flow of international commerce. In addition to a strong statement, the US has been flying A-10s over the Strait of Hormuz all week. Will Iran back down or are we gonna have another event on our hands?</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7258393488629222698" rel="alternate"/>
+    <published>2023-07-21T21:54:01+00:00</published>
   </entry>
 </feed>
