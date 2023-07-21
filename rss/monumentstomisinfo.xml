@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-07-20T13:27:09+00:00</updated>
+  <updated>2023-07-21T11:16:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7256357977098063106</id>
-    <title>This research is gonna break me (Come join the discord, link is in the bio) #auspol #covid19 #wuhanlabexperiment #wuhanlab </title>
-    <updated>2023-07-16T10:15:04+00:00</updated>
-    <content>This research is gonna break me (Come join the discord, link is in the bio) #auspol #covid19 #wuhanlabexperiment #wuhanlab </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7256357977098063106" rel="alternate"/>
-    <published>2023-07-16T10:15:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7256704675758607617</id>
     <title>Good convo from our first stream and #voicetoparliament call ins #auspol #indigenousaustralian (join the discord)</title>
@@ -51,5 +43,13 @@
     <content>And the games are gone #commonwealthgames #victoria #auspol </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7257891819772562689" rel="alternate"/>
     <published>2023-07-20T13:27:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7258229156075392258</id>
+    <title>The f chemical shall not be named #auspol #covid19 #fluoride </title>
+    <updated>2023-07-21T11:16:12+00:00</updated>
+    <content>The f chemical shall not be named #auspol #covid19 #fluoride </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7258229156075392258" rel="alternate"/>
+    <published>2023-07-21T11:16:12+00:00</published>
   </entry>
 </feed>
