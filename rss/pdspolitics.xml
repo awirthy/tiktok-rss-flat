@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-07-20T20:00:00+00:00</updated>
+  <updated>2023-07-21T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7256918221285068074</id>
-    <title>The Biden administration will cancel $39 billion in student loan debt for 804,000 Americans. #Politics  Now, of course, that is much less than Biden’s initial effort to forgive $400 billion in loans for tens of millions of borrowers. But with that shutdow</title>
-    <updated>2023-07-17T23:00:00+00:00</updated>
-    <content>The Biden administration will cancel $39 billion in student loan debt for 804,000 Americans. #Politics  Now, of course, that is much less than Biden’s initial effort to forgive $400 billion in loans for tens of millions of borrowers. But with that shutdown by the Supreme Court last month, his options are much more limited. So, with that said, who qualifies for the new forgiveness? Well, this new policy specifically targets the 8 million Americans who use what are known as income-driven repayment plans — or IDR plans. Under those programs, student loan borrowers make payments that are capped at a percentage of their income. And after they have paid a certain amount of time — Typically either 20 or 25 years, depending on their plan — they are eligible to have their remaining debt forgiven. But few people actually have their loans forgiven under these programs. And that’s in large part because, for decades, the loan servicers that collect payments from people with IDR plans have made many mistakes. Improperly tracking payments made by borrowers that should have helped them qualify for forgiveness. What’s more, servicers also gave people IDR programs horrible guidance and advice that prevented them from making qualifying payments, including improperly steering them into long-term forbearances. #US  #Money  #StudentLoans</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7256918221285068074" rel="alternate"/>
-    <published>2023-07-17T23:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7257296126758407470</id>
     <title>Texas troopers were allegedly told to throw migrant children and babies back into the Rio Grande by the offices of Gov. Greg Abbott #Texas #GregAbbott  #US  #Children</title>
@@ -51,5 +43,13 @@
     <content>Reports indicate that police are using Big Brother tactics to track people crossing state lines to seek gender-affirming and reproductive care #Politics  Big Brother has gone too far! That is what a group of more than three dozen lawmakers argued in a letter urging the Biden administration to change federal laws that allow law enforcement to access sensitive medical data without a warrant. #US  #Biden  #BigBrother</content>
     <link href="https://tiktok.com/@pdspolitics/video/7257934613669055786" rel="alternate"/>
     <published>2023-07-20T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7258308019056872750</id>
+    <title>Wesleyan University says it will end legacy admissions following SCOTUS overturning affirmative action. #Wesleyan  Should college applicants be given a boost in admissions because a member of their family went to the same school? That’s a question many ar</title>
+    <updated>2023-07-21T20:00:00+00:00</updated>
+    <content>Wesleyan University says it will end legacy admissions following SCOTUS overturning affirmative action. #Wesleyan  Should college applicants be given a boost in admissions because a member of their family went to the same school? That’s a question many are asking after the Supreme Court overturned Affirmative Action. So-called legacy admissions have been criticized for years now for favoring rich, white applicants over people of color. But that practice has come under even more attack since the Supreme Court decided that schools can’t consider race in admissions. And it seems like, increasingly, more and more people agree that legacy admissions are unfair. Right, top politicians on both sides of the aisle — including President Biden himself — have come out against this practice. And polls have consistently shown that the public agrees. And it seems like some schools are actually taking that to heart. Right, the reason we’re talking about this today is because the esteemed liberal arts school Wesleyan University announced that it would be ending legacy admissions. With this following in the footsteps of other selective schools that have recently made the same move including Amherst, Johns Hopkins, and Carnegie Mellon. #AffirmativeAction  #College  #Politics</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7258308019056872750" rel="alternate"/>
+    <published>2023-07-21T20:00:00+00:00</published>
   </entry>
 </feed>
