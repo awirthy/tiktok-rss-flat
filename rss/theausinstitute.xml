@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-07-14T06:51:03+00:00</updated>
+  <updated>2023-07-21T03:33:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7252923028747734273</id>
-    <title>"What the OECD and the IMF are making quite clear is that a lot of companies are increasing their prices at much higher rates than their costs are going up. That's what's driving most of the inflation in Australia."  Richard Denniss, executive director of</title>
-    <updated>2023-07-07T04:05:54+00:00</updated>
-    <content>"What the OECD and the IMF are making quite clear is that a lot of companies are increasing their prices at much higher rates than their costs are going up. That's what's driving most of the inflation in Australia."  Richard Denniss, executive director of the Australia Institute spells it out clearly on @TheTodayShow. #auspol</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7252923028747734273" rel="alternate"/>
-    <published>2023-07-07T04:05:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7254746524771503361</id>
     <title>We don't just need a new governor at the RBA, we need a new way of thinking. The idea that just jacking up interest rates will fix this bout of inflation is simply wrong. #auspol</title>
@@ -51,5 +43,13 @@
     <content>Our polling this month showed that 73% of young people (aged 18-29) support the Voice to Parliament. Young people have a very important role to play in talking to their parents and grandparents about why they support the Yes vote &amp; their hopes for the future of our nation.</content>
     <link href="https://tiktok.com/@theausinstitute/video/7255563013174856961" rel="alternate"/>
     <published>2023-07-14T06:51:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7258108892691909906</id>
+    <title>Our universal healthcare system is in crisis. Without urgent reform, Australia’s universal healthcare may become a thing of the past. #auspol #fyp</title>
+    <updated>2023-07-21T03:33:30+00:00</updated>
+    <content>Our universal healthcare system is in crisis. Without urgent reform, Australia’s universal healthcare may become a thing of the past. #auspol #fyp</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7258108892691909906" rel="alternate"/>
+    <published>2023-07-21T03:33:30+00:00</published>
   </entry>
 </feed>
