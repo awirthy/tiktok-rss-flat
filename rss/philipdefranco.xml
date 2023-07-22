@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-07-21T21:54:01+00:00</updated>
+  <updated>2023-07-22T13:38:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7257610229901200682</id>
-    <title>Russia To Sink All Ships Heading To Ukraine #russia #ukraine  Russia has announced that they will now be sinking all ships heading to Ukrainian ports. They’re now considering all ships, including those carrying people and wheat, to be potential carriers o</title>
-    <updated>2023-07-19T19:14:32+00:00</updated>
-    <content>Russia To Sink All Ships Heading To Ukraine #russia #ukraine  Russia has announced that they will now be sinking all ships heading to Ukrainian ports. They’re now considering all ships, including those carrying people and wheat, to be potential carriers of military cargo starting at midnight tonight. Russia added that the countries with their flags on the ships will now be considered part of the war. Ukraine has called for an international escort in the Black Sea. With Ukraine being unable to export wheat due to this, the developing world will face starvation and become victims of Putin’s war.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7257610229901200682" rel="alternate"/>
-    <published>2023-07-19T19:14:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7257649692371160363</id>
     <title>This Is Why A US Soldier Defected To North Korea #usa #korea  Travis King, the US soldier, who defected to North Korea was reportedly facing two assault allegations and was fined for damaging a South Korean police car. He still remains in North Korean cus</title>
@@ -51,5 +43,13 @@
     <content>US Readies For War With Iran #usa #america  The United States is preparing for an imminent standoff with Iran. In the past two years, Iran has attacked or seized nearly 20 merchant vessels in the Persian gulf. And after it attacked 3 vessels earlier this month, one of which was a US vessel, the US lost patience and deployed F-16s, F-35s, F-22s, and destroyers to the gulf. And now the US is sending an additional 2,000 marines and 3 more warships to the region. The US has been clear, don’t infringe on international shipping lanes and Iran simply doesn't care. In 1987, Iran was sinking Kuwait’s oil tankers. The US Navy began escorting Kuwait’s tankers when an Iranian mine hit a US missile ship. The US destroyed half of Iran’s navy overnight in response. And yet, 40 years later - Iran is still using the half of the Navy that wasn’t sunk to harass shipping lanes. American patience is running out especially now that Iran has detained a fourth US citizen. The message from US Central Command has been clear: we won’t hesitate to protect the flow of international commerce. In addition to a strong statement, the US has been flying A-10s over the Strait of Hormuz all week. Will Iran back down or are we gonna have another event on our hands?</content>
     <link href="https://tiktok.com/@philipdefranco/video/7258393488629222698" rel="alternate"/>
     <published>2023-07-21T21:54:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7258636890633506090</id>
+    <title>Poland And Belarus Are Ready To Fight #poland #russia  Poland has moved its troops to the border of Belarus due to the deployment of Wagner in the country. They’ve called the joint exercises of Belarus and Wagner a provocation. Germany says it’s prepared </title>
+    <updated>2023-07-22T13:38:51+00:00</updated>
+    <content>Poland And Belarus Are Ready To Fight #poland #russia  Poland has moved its troops to the border of Belarus due to the deployment of Wagner in the country. They’ve called the joint exercises of Belarus and Wagner a provocation. Germany says it’s prepared to defend Poland against Belarussian aggression. And Russia says that preparing to defend against Belarus is preparing to defend against Russia. And that they will respond to this with all means at their disposal. Putin himself said today that Poland was a gift from Stalin and that Poland has forgotten about that. Adding that Poland dreams of conquering Belarus and Ukraine.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7258636890633506090" rel="alternate"/>
+    <published>2023-07-22T13:38:51+00:00</published>
   </entry>
 </feed>
