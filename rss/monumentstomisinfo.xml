@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-07-22T09:33:17+00:00</updated>
+  <updated>2023-07-22T10:38:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7257106810841156866</id>
-    <title>Some of the greatest takes I’ve ever heard #auspol #lgbtq #lgbt </title>
-    <updated>2023-07-18T10:40:54+00:00</updated>
-    <content>Some of the greatest takes I’ve ever heard #auspol #lgbtq #lgbt </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7257106810841156866" rel="alternate"/>
-    <published>2023-07-18T10:40:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7257891819772562689</id>
     <title>And the games are gone #commonwealthgames #victoria #auspol </title>
@@ -51,5 +43,13 @@
     <content>We’re in a weird economic state #auspol #ausfinance #auseconomy </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7258573720946625794" rel="alternate"/>
     <published>2023-07-22T09:33:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7258590465384008962</id>
+    <title>The vaccines are safe, chill #auspol #covid19 #covid </title>
+    <updated>2023-07-22T10:38:15+00:00</updated>
+    <content>The vaccines are safe, chill #auspol #covid19 #covid </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7258590465384008962" rel="alternate"/>
+    <published>2023-07-22T10:38:15+00:00</published>
   </entry>
 </feed>
