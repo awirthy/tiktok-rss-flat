@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@davecairnsfilm</id>
   <title>davecairnsfilm TikTok</title>
-  <updated>2023-07-18T12:31:01+00:00</updated>
+  <updated>2023-07-23T12:42:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from davecairnsfilm</subtitle>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7254901526240431362</id>
-    <title>12 JULY 2023 - #australia #politics #auspol #voicetoparliament #corporations #peterdutton </title>
-    <updated>2023-07-12T12:03:17+00:00</updated>
-    <content>12 JULY 2023 - #australia #politics #auspol #voicetoparliament #corporations #peterdutton </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7254901526240431362" rel="alternate"/>
-    <published>2023-07-12T12:03:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@davecairnsfilm/video/7254903078791466242</id>
     <title>12 JULY 2023 - #australia #politics #auspol #voicetoparliament </title>
@@ -51,5 +43,13 @@
     <content>18 JULY 2023 - #australia #politics #auspol #victoria #commonwealthgames #danandrews </content>
     <link href="https://tiktok.com/@davecairnsfilm/video/7257135192135961858" rel="alternate"/>
     <published>2023-07-18T12:31:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@davecairnsfilm/video/7258993660006632705</id>
+    <title>23 JULY 2023 - #media #journalism #tmz #foxcorporation #foxnews #murdoch </title>
+    <updated>2023-07-23T12:42:52+00:00</updated>
+    <content>23 JULY 2023 - #media #journalism #tmz #foxcorporation #foxnews #murdoch </content>
+    <link href="https://tiktok.com/@davecairnsfilm/video/7258993660006632705" rel="alternate"/>
+    <published>2023-07-23T12:42:52+00:00</published>
   </entry>
 </feed>
