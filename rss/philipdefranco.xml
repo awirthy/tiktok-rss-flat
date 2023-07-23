@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-07-22T19:38:41+00:00</updated>
+  <updated>2023-07-23T18:43:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7258004349727657259</id>
-    <title>North Korea Says It’ll Nuke USA #usa #korea  North Korea says that the US and South Korea have met the threshold to be hit with a nuclear strike after a U.S. nuclear submarine visited South Korea today. The US and North Korea have had better months. Just </title>
-    <updated>2023-07-20T20:43:53+00:00</updated>
-    <content>North Korea Says It’ll Nuke USA #usa #korea  North Korea says that the US and South Korea have met the threshold to be hit with a nuclear strike after a U.S. nuclear submarine visited South Korea today. The US and North Korea have had better months. Just this month, North Korea has threatened to shoot down US spy craft and has tested more missiles. And earlier this week a U.S. soldier ran into the country. The U.S. must not have crossed the threshold that hard given that we haven’t been nuked yet.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7258004349727657259" rel="alternate"/>
-    <published>2023-07-20T20:43:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7258393488629222698</id>
     <title>US Readies For War With Iran #usa #america  The United States is preparing for an imminent standoff with Iran. In the past two years, Iran has attacked or seized nearly 20 merchant vessels in the Persian gulf. And after it attacked 3 vessels earlier this </title>
@@ -51,5 +43,13 @@
     <content>Ukraine To Sink All Ships Going To Russia #ukraine #russia  Ukraine is now threatening a tit-for-tat against Russia after Russia threatened to sink civilian vessels traveling to Ukraine. With Ukraine now saying that all ships heading to Russia will be considered to be carrying military cargo with all corresponding risks. This comes after Russia blew up over 60,000 tons of grain meant for China in a Ukrainian port. Russia’s goal is to scare ships from going to Ukrainian ports and now Ukraine is doing the same to Russia. What a fun time to be a fisherman in the Black Sea</content>
     <link href="https://tiktok.com/@philipdefranco/video/7258729696563596586" rel="alternate"/>
     <published>2023-07-22T19:38:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7259086473260010794</id>
+    <title>Wagner Wants To Invade Poland #poland #russia  Wagner wants to invade Poland! Belarus says Wagner is stressing them out because they want to invade Poland and that they’ve been “bugging” them to strike Warsaw. And Belarus says it’s been begging them not t</title>
+    <updated>2023-07-23T18:43:12+00:00</updated>
+    <content>Wagner Wants To Invade Poland #poland #russia  Wagner wants to invade Poland! Belarus says Wagner is stressing them out because they want to invade Poland and that they’ve been “bugging” them to strike Warsaw. And Belarus says it’s been begging them not to and that they’re having a hard time controlling them. There are few things the extremely capable Polish military would enjoy more than erasing every member of Wagner stupid enough to cross their border.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7259086473260010794" rel="alternate"/>
+    <published>2023-07-23T18:43:12+00:00</published>
   </entry>
 </feed>
