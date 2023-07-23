@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-07-22T13:38:51+00:00</updated>
+  <updated>2023-07-22T19:38:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7257649692371160363</id>
-    <title>This Is Why A US Soldier Defected To North Korea #usa #korea  Travis King, the US soldier, who defected to North Korea was reportedly facing two assault allegations and was fined for damaging a South Korean police car. He still remains in North Korean cus</title>
-    <updated>2023-07-19T21:47:44+00:00</updated>
-    <content>This Is Why A US Soldier Defected To North Korea #usa #korea  Travis King, the US soldier, who defected to North Korea was reportedly facing two assault allegations and was fined for damaging a South Korean police car. He still remains in North Korean custody and his status is unknown, although the U.S. says it’s committed to getting him back. His mom says she just can’t see her son defecting to North Korea.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7257649692371160363" rel="alternate"/>
-    <published>2023-07-19T21:47:44+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7257993609507556651</id>
-    <title>Swedish Embassy Burned Down #sweden #iraq  Protesters stormed the Swedish embassy in Baghdad and set it on fire in response to Quran burnings in Sweden. All because an Iraqi living in Sweden is planning to exercise his freedom of speech by burning another</title>
-    <updated>2023-07-20T20:02:10+00:00</updated>
-    <content>Swedish Embassy Burned Down #sweden #iraq  Protesters stormed the Swedish embassy in Baghdad and set it on fire in response to Quran burnings in Sweden. All because an Iraqi living in Sweden is planning to exercise his freedom of speech by burning another Quran today and now an Iraqi flag outside of the Iraqi embassy to Sweden. Swedish and Iraqi authorities have exchanged threats with each other over the two sets of protests and both have condemned each other. And Iraq has expelled the Swedish ambassador from the country.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7257993609507556651" rel="alternate"/>
-    <published>2023-07-20T20:02:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7258004349727657259</id>
     <title>North Korea Says It’ll Nuke USA #usa #korea  North Korea says that the US and South Korea have met the threshold to be hit with a nuclear strike after a U.S. nuclear submarine visited South Korea today. The US and North Korea have had better months. Just </title>
@@ -51,5 +35,21 @@
     <content>Poland And Belarus Are Ready To Fight #poland #russia  Poland has moved its troops to the border of Belarus due to the deployment of Wagner in the country. They’ve called the joint exercises of Belarus and Wagner a provocation. Germany says it’s prepared to defend Poland against Belarussian aggression. And Russia says that preparing to defend against Belarus is preparing to defend against Russia. And that they will respond to this with all means at their disposal. Putin himself said today that Poland was a gift from Stalin and that Poland has forgotten about that. Adding that Poland dreams of conquering Belarus and Ukraine.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7258636890633506090" rel="alternate"/>
     <published>2023-07-22T13:38:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7258692381627780394</id>
+    <title>Russia Buzzes Another US Plane #usa #russia  Russia has buzzed yet another US plane. Earlier this week Russia flew dangerously close to a manned US spy plane over Syria and endangered the lives of 4 Americans. This comes as Russia is attempting to break a</title>
+    <updated>2023-07-22T17:13:58+00:00</updated>
+    <content>Russia Buzzes Another US Plane #usa #russia  Russia has buzzed yet another US plane. Earlier this week Russia flew dangerously close to a manned US spy plane over Syria and endangered the lives of 4 Americans. This comes as Russia is attempting to break a record of harassment, after they’ve harassed the US’s drones, planes, and troops over 5 times this month by dropping fuel on them, buzzing them, and dropping flares on them. The US has urged Russia to cut it out, saying that Russia should act like a professional air force so we can resume our focus on the enduring defeat of.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7258692381627780394" rel="alternate"/>
+    <published>2023-07-22T17:13:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7258729696563596586</id>
+    <title>Ukraine To Sink All Ships Going To Russia #ukraine #russia  Ukraine is now threatening a tit-for-tat against Russia after Russia threatened to sink civilian vessels traveling to Ukraine. With Ukraine now saying that all ships heading to Russia will be con</title>
+    <updated>2023-07-22T19:38:41+00:00</updated>
+    <content>Ukraine To Sink All Ships Going To Russia #ukraine #russia  Ukraine is now threatening a tit-for-tat against Russia after Russia threatened to sink civilian vessels traveling to Ukraine. With Ukraine now saying that all ships heading to Russia will be considered to be carrying military cargo with all corresponding risks. This comes after Russia blew up over 60,000 tons of grain meant for China in a Ukrainian port. Russia’s goal is to scare ships from going to Ukrainian ports and now Ukraine is doing the same to Russia. What a fun time to be a fisherman in the Black Sea</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7258729696563596586" rel="alternate"/>
+    <published>2023-07-22T19:38:41+00:00</published>
   </entry>
 </feed>
