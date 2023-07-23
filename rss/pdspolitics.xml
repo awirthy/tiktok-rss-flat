@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-07-21T23:00:00+00:00</updated>
+  <updated>2023-07-22T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7257571475715116331</id>
-    <title>It looks like Trump is about to be federally indicted AGAIN. #DonaldTrump   The former president said in a post on Truth Social that he received a letter from special counsel Jack Smith this weekend informing him that he’s a target of a federal criminal i</title>
-    <updated>2023-07-19T20:00:00+00:00</updated>
-    <content>It looks like Trump is about to be federally indicted AGAIN. #DonaldTrump   The former president said in a post on Truth Social that he received a letter from special counsel Jack Smith this weekend informing him that he’s a target of a federal criminal investigation into efforts to overturn the 2020 election. With Trump writing calling Smith “deranged” and claiming the special counsel gave him “a very short 4 days to report to the Grand Jury, which almost always means an Arrest and Indictment.” And, I mean, he’s not wrong there… when someone gets a letter from the DOJ telling them they are the target of a probe, it is usually a really good sign they are about to be indicted. Right, this is actually something we talked about before when it was first reported that Trump had been informed he was a target in the Mar-a-Lago documents probe. But, for some quick catch-up here, “target” is actually a technical term that the DOJ defines as a person “to whom the prosecutor or the grand jury has substantial evidence linking him or her to the commission of a crime.” With DOJ specifically encouraging prosecutors to send so-called “target letters” in cases where people are likely to be indicted so they get the opportunity to testify before the grand jury in their probe. And, very notably, Trump was in fact indicted on federal charges about a week after it was reported he had gotten a target letter for the Mar-a-Lago inquiry. So, in other words, it seems likely that Trump is going to be indicted in the Jan. 6 probe in a matter of days or weeks. #US  #Politics  #JackSmith</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7257571475715116331" rel="alternate"/>
-    <published>2023-07-19T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7257649131999612206</id>
     <title>Michigan just brought the FIRST-ever criminal charges against fake electors that tried to overturn the 2020 election. #Politics  Yesterday, Michigan Attorney General Dana Nessel charged 16 Republicans who falsely claimed to be the presidential electors in</title>
@@ -51,5 +43,13 @@
     <content>Democrats say Republicans in Alabama are so determined to undermine Black voters that they’re now defying the Supreme Court. #Politics  Right, last month, the conservative high court made an absolutely shocking 5-4 decision to uphold a lower court ruling that tossed Alabama’s Congressional map on the grounds that it discriminated against Black voters and violated the Voting Rights Act. This because, despite the fact that nearly a third of voters in the state are Black, the GOP had drawn its Congressional map so just one of the state’s 7 districts had a Black majority.  And, of course, as part of that decision, the Supreme Court directed Alabama to comply with a federal court order to re-draw the map so at least TWO districts had at least close to a majority of Black voters. But apparently, that’s too complicated for the tiny brains of the Alabama GOP. Because Republicans in both the State House and Senate passed two different maps this week — and NEITHER sets up another district Black residents make up a majority or near-majority of voters. This notably despite the fact that Democrats literally drew a map that would make another Black-majority district, but Republicans shot it down in favor of their own versions. #US  #Vote  #Politics</content>
     <link href="https://tiktok.com/@pdspolitics/video/7258307419556629806" rel="alternate"/>
     <published>2023-07-21T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7258309834175434027</id>
+    <title>Millions of U.S. military emails with very sensitive contents have been sent to the country Mali — a big ally of Russia and employer of the Wagner group, all because of a simple typo… #Russia  The Pentagon confirmed that instead of using the military’s do</title>
+    <updated>2023-07-22T20:00:00+00:00</updated>
+    <content>Millions of U.S. military emails with very sensitive contents have been sent to the country Mali — a big ally of Russia and employer of the Wagner group, all because of a simple typo… #Russia  The Pentagon confirmed that instead of using the military’s domain for emails which is “.MIL” (M-I-L), people are incorrectly typing “.ML” (ML) — which is the domain for Mali. Now, notably, according to reports:  “None of the missent emails have been marked classified, but many contain highly sensitive information about American military personnel and installations, including base staff lists, medical data, and identity documents.” But still, the Dutch internet entrepreneur who has contracted to manage Mali’s country domain for the last decade told reporters that he first noticed this issue when he first started working on the domain and has tried to repeatedly warn U.S. authorities. #US  #Politics  #Military</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7258309834175434027" rel="alternate"/>
+    <published>2023-07-22T20:00:00+00:00</published>
   </entry>
 </feed>
