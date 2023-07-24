@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-07-24T19:49:54+00:00</updated>
+  <updated>2023-07-24T21:18:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7258636890633506090</id>
-    <title>Poland And Belarus Are Ready To Fight #poland #russia  Poland has moved its troops to the border of Belarus due to the deployment of Wagner in the country. They’ve called the joint exercises of Belarus and Wagner a provocation. Germany says it’s prepared </title>
-    <updated>2023-07-22T13:38:51+00:00</updated>
-    <content>Poland And Belarus Are Ready To Fight #poland #russia  Poland has moved its troops to the border of Belarus due to the deployment of Wagner in the country. They’ve called the joint exercises of Belarus and Wagner a provocation. Germany says it’s prepared to defend Poland against Belarussian aggression. And Russia says that preparing to defend against Belarus is preparing to defend against Russia. And that they will respond to this with all means at their disposal. Putin himself said today that Poland was a gift from Stalin and that Poland has forgotten about that. Adding that Poland dreams of conquering Belarus and Ukraine.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7258636890633506090" rel="alternate"/>
-    <published>2023-07-22T13:38:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7258692381627780394</id>
     <title>Russia Buzzes Another US Plane #usa #russia  Russia has buzzed yet another US plane. Earlier this week Russia flew dangerously close to a manned US spy plane over Syria and endangered the lives of 4 Americans. This comes as Russia is attempting to break a</title>
@@ -51,5 +43,13 @@
     <content>UN Trying To Save US Soldier From North Korea #usa #korea  The UN has begun talks with North Korea about Travis King, the U.S. soldier who ran into North Korea. King hasn’t been seen since he ran across the border and was shoved into a van and driven off by North Korean soldiers. The US says they’re not ruling out that he contacted North Korea beforehand but currently they don’t believe he was in prior contact. New reports suggest that there was a 13 hour gap between when he escaped the airport and when he crossed into the North. North Korea has so far refused to talk to the U.S. about the issue.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7259474763851042091" rel="alternate"/>
     <published>2023-07-24T19:49:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7259497585491184938</id>
+    <title>China Is Now Supplying Russia In Ukraine #ukraine #russia  China is supplying Russia with enough gear to equip the entire Russian army. China has been supplying Russia with dual use equipment - so things that are civilian but could be used for military pu</title>
+    <updated>2023-07-24T21:18:27+00:00</updated>
+    <content>China Is Now Supplying Russia In Ukraine #ukraine #russia  China is supplying Russia with enough gear to equip the entire Russian army. China has been supplying Russia with dual use equipment - so things that are civilian but could be used for military purposes. So for example: Russia has imported over 100 million dollars worth of drones from China this year as well as 225 million dollars of Ceramic. This goes right up to the West’s red line.. with both France and the U.S. telling China earlier this month that they rely on the west and that they won’t hesitate to cut them off. While it’s clear that China is not a neutral actor unless they cross the red line of supplying munitions and equipment,. They’re unlikely to face sanctions</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7259497585491184938" rel="alternate"/>
+    <published>2023-07-24T21:18:27+00:00</published>
   </entry>
 </feed>
