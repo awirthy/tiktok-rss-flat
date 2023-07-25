@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-07-24T21:18:27+00:00</updated>
+  <updated>2023-07-25T14:45:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7258692381627780394</id>
-    <title>Russia Buzzes Another US Plane #usa #russia  Russia has buzzed yet another US plane. Earlier this week Russia flew dangerously close to a manned US spy plane over Syria and endangered the lives of 4 Americans. This comes as Russia is attempting to break a</title>
-    <updated>2023-07-22T17:13:58+00:00</updated>
-    <content>Russia Buzzes Another US Plane #usa #russia  Russia has buzzed yet another US plane. Earlier this week Russia flew dangerously close to a manned US spy plane over Syria and endangered the lives of 4 Americans. This comes as Russia is attempting to break a record of harassment, after they’ve harassed the US’s drones, planes, and troops over 5 times this month by dropping fuel on them, buzzing them, and dropping flares on them. The US has urged Russia to cut it out, saying that Russia should act like a professional air force so we can resume our focus on the enduring defeat of.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7258692381627780394" rel="alternate"/>
-    <published>2023-07-22T17:13:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7258729696563596586</id>
     <title>Ukraine To Sink All Ships Going To Russia #ukraine #russia  Ukraine is now threatening a tit-for-tat against Russia after Russia threatened to sink civilian vessels traveling to Ukraine. With Ukraine now saying that all ships heading to Russia will be con</title>
@@ -51,5 +43,13 @@
     <content>China Is Now Supplying Russia In Ukraine #ukraine #russia  China is supplying Russia with enough gear to equip the entire Russian army. China has been supplying Russia with dual use equipment - so things that are civilian but could be used for military purposes. So for example: Russia has imported over 100 million dollars worth of drones from China this year as well as 225 million dollars of Ceramic. This goes right up to the West’s red line.. with both France and the U.S. telling China earlier this month that they rely on the west and that they won’t hesitate to cut them off. While it’s clear that China is not a neutral actor unless they cross the red line of supplying munitions and equipment,. They’re unlikely to face sanctions</content>
     <link href="https://tiktok.com/@philipdefranco/video/7259497585491184938" rel="alternate"/>
     <published>2023-07-24T21:18:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7259767425774816558</id>
+    <title>Russia Attacked US Drone #usa #russia  Russia just attacked a U.S. drone. When a U.S. drone was returning home after it completed its mission of defeating, a Russian jet flew within meters of it and deployed flares on it which hit its propeller, severely </title>
+    <updated>2023-07-25T14:45:35+00:00</updated>
+    <content>Russia Attacked US Drone #usa #russia  Russia just attacked a U.S. drone. When a U.S. drone was returning home after it completed its mission of defeating, a Russian jet flew within meters of it and deployed flares on it which hit its propeller, severely damaging it. The U.S. says this was an attempt to knock the US drone out of the sky. With the U.S. saying “We call upon the Russian forces in Syria to put an immediate end to this reckless, unprovoked, and unprofessional behavior.” Apparently both sides used the deconfliction hotline but reportedly the line has been very heated lately and just been a place for the two of them to verbally argue instead of deconflict.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7259767425774816558" rel="alternate"/>
+    <published>2023-07-25T14:45:35+00:00</published>
   </entry>
 </feed>
