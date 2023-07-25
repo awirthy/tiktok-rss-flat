@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-07-23T20:00:00+00:00</updated>
+  <updated>2023-07-25T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7257934613669055786</id>
-    <title>Reports indicate that police are using Big Brother tactics to track people crossing state lines to seek gender-affirming and reproductive care #Politics  Big Brother has gone too far! That is what a group of more than three dozen lawmakers argued in a let</title>
-    <updated>2023-07-20T20:00:00+00:00</updated>
-    <content>Reports indicate that police are using Big Brother tactics to track people crossing state lines to seek gender-affirming and reproductive care #Politics  Big Brother has gone too far! That is what a group of more than three dozen lawmakers argued in a letter urging the Biden administration to change federal laws that allow law enforcement to access sensitive medical data without a warrant. #US  #Biden  #BigBrother</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7257934613669055786" rel="alternate"/>
-    <published>2023-07-20T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7258308019056872750</id>
     <title>Wesleyan University says it will end legacy admissions following SCOTUS overturning affirmative action. #Wesleyan  Should college applicants be given a boost in admissions because a member of their family went to the same school? That’s a question many ar</title>
@@ -51,5 +43,13 @@
     <content>A Small Handful of Court Cases Could Decide Control of the House in 2024 #Politics  Control of the House in 2024 could be decided by a few court cases. Right, according to Axios, cases involving gerrymandering in Alabama, Louisiana, New York, North Carolina, and Ohio “will play an outsized role in determining which party holds the House majority next year.” In Alabama, more districts that are more likely to swing blue will likely be added after the Supreme Court made a very surprising decision last month where they ruled the state had racially gerrymandered its districts and needed to redraw them. With Axios also not that the high court’s decision there “is also expected to overturn Louisiana's map and could reverberate in several other Southern states.” Meanwhile, just last week, an Appeals Court in New York sided with Democrats and ordered the state’s map to be redrawn. And while Republicans have vowed to appeal the case to the state’s highest court — which did previously strike down Democrats’ map — it is now composed of judges that are more liberal. Right, and that decision especially will be key here because New York alone could determine the majority. With Axios explaining that the GOP “can’t afford to lose more than four House seats in next year’s election,” but adding: “Republicans in 2022 won six congressional districts in New York State that President Biden carried, and even small tweaks to the map could make competitive districts unwinnable for Republicans.” But, at the same time, Republicans are also expected to gain three seats in the House in North Carolina. This after the State Supreme Court overturned its OWN past ruling making partisan gerrymandering illegal. #House  #US  #2024</content>
     <link href="https://tiktok.com/@pdspolitics/video/7258317911398305067" rel="alternate"/>
     <published>2023-07-23T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7259788259289566510</id>
+    <title>Republicans in the House are proposing tax credits for unborn fetuses #Politics  #US  #Money</title>
+    <updated>2023-07-25T20:00:00+00:00</updated>
+    <content>Republicans in the House are proposing tax credits for unborn fetuses #Politics  #US  #Money</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7259788259289566510" rel="alternate"/>
+    <published>2023-07-25T20:00:00+00:00</published>
   </entry>
 </feed>
