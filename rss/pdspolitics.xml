@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-07-25T20:00:00+00:00</updated>
+  <updated>2023-07-25T23:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7258308019056872750</id>
-    <title>Wesleyan University says it will end legacy admissions following SCOTUS overturning affirmative action. #Wesleyan  Should college applicants be given a boost in admissions because a member of their family went to the same school? That’s a question many ar</title>
-    <updated>2023-07-21T20:00:00+00:00</updated>
-    <content>Wesleyan University says it will end legacy admissions following SCOTUS overturning affirmative action. #Wesleyan  Should college applicants be given a boost in admissions because a member of their family went to the same school? That’s a question many are asking after the Supreme Court overturned Affirmative Action. So-called legacy admissions have been criticized for years now for favoring rich, white applicants over people of color. But that practice has come under even more attack since the Supreme Court decided that schools can’t consider race in admissions. And it seems like, increasingly, more and more people agree that legacy admissions are unfair. Right, top politicians on both sides of the aisle — including President Biden himself — have come out against this practice. And polls have consistently shown that the public agrees. And it seems like some schools are actually taking that to heart. Right, the reason we’re talking about this today is because the esteemed liberal arts school Wesleyan University announced that it would be ending legacy admissions. With this following in the footsteps of other selective schools that have recently made the same move including Amherst, Johns Hopkins, and Carnegie Mellon. #AffirmativeAction  #College  #Politics</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7258308019056872750" rel="alternate"/>
-    <published>2023-07-21T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7258307419556629806</id>
     <title>Democrats say Republicans in Alabama are so determined to undermine Black voters that they’re now defying the Supreme Court. #Politics  Right, last month, the conservative high court made an absolutely shocking 5-4 decision to uphold a lower court ruling </title>
@@ -51,5 +43,13 @@
     <content>Republicans in the House are proposing tax credits for unborn fetuses #Politics  #US  #Money</content>
     <link href="https://tiktok.com/@pdspolitics/video/7259788259289566510" rel="alternate"/>
     <published>2023-07-25T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7259877020321041707</id>
+    <title>Biden’s Justice Department is suing Texas and Gov. Greg Abbott over its controversial Rio Grande buoy barrier at the US-Mexico border. #Texas  #Politics  #US  #RioGrande</title>
+    <updated>2023-07-25T23:00:00+00:00</updated>
+    <content>Biden’s Justice Department is suing Texas and Gov. Greg Abbott over its controversial Rio Grande buoy barrier at the US-Mexico border. #Texas  #Politics  #US  #RioGrande</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7259877020321041707" rel="alternate"/>
+    <published>2023-07-25T23:00:00+00:00</published>
   </entry>
 </feed>
