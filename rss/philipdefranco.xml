@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-07-25T14:45:35+00:00</updated>
+  <updated>2023-07-25T21:11:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7258729696563596586</id>
-    <title>Ukraine To Sink All Ships Going To Russia #ukraine #russia  Ukraine is now threatening a tit-for-tat against Russia after Russia threatened to sink civilian vessels traveling to Ukraine. With Ukraine now saying that all ships heading to Russia will be con</title>
-    <updated>2023-07-22T19:38:41+00:00</updated>
-    <content>Ukraine To Sink All Ships Going To Russia #ukraine #russia  Ukraine is now threatening a tit-for-tat against Russia after Russia threatened to sink civilian vessels traveling to Ukraine. With Ukraine now saying that all ships heading to Russia will be considered to be carrying military cargo with all corresponding risks. This comes after Russia blew up over 60,000 tons of grain meant for China in a Ukrainian port. Russia’s goal is to scare ships from going to Ukrainian ports and now Ukraine is doing the same to Russia. What a fun time to be a fisherman in the Black Sea</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7258729696563596586" rel="alternate"/>
-    <published>2023-07-22T19:38:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7259086473260010794</id>
     <title>Wagner Wants To Invade Poland #poland #russia  Wagner wants to invade Poland! Belarus says Wagner is stressing them out because they want to invade Poland and that they’ve been “bugging” them to strike Warsaw. And Belarus says it’s been begging them not t</title>
@@ -51,5 +43,13 @@
     <content>Russia Attacked US Drone #usa #russia  Russia just attacked a U.S. drone. When a U.S. drone was returning home after it completed its mission of defeating, a Russian jet flew within meters of it and deployed flares on it which hit its propeller, severely damaging it. The U.S. says this was an attempt to knock the US drone out of the sky. With the U.S. saying “We call upon the Russian forces in Syria to put an immediate end to this reckless, unprovoked, and unprofessional behavior.” Apparently both sides used the deconfliction hotline but reportedly the line has been very heated lately and just been a place for the two of them to verbally argue instead of deconflict.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7259767425774816558" rel="alternate"/>
     <published>2023-07-25T14:45:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7259866793546714410</id>
+    <title>Russia Bombs NATO Ship #russia #ukraine  Russia just hit a NATO ship while it was bombing a Ukrainian port. The civilian ship belonged to Romania and it was struck in the Ukrainian port of Reni. The ship was able to complete its voyage despite minor damag</title>
+    <updated>2023-07-25T21:11:11+00:00</updated>
+    <content>Russia Bombs NATO Ship #russia #ukraine  Russia just hit a NATO ship while it was bombing a Ukrainian port. The civilian ship belonged to Romania and it was struck in the Ukrainian port of Reni. The ship was able to complete its voyage despite minor damage. No Romanian citizens were injured. If Russia continues to bomb Ukrainian ports, they will only raise the risk of NATO involvement.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7259866793546714410" rel="alternate"/>
+    <published>2023-07-25T21:11:11+00:00</published>
   </entry>
 </feed>
