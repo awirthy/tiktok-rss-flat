@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-07-26T00:21:34+00:00</updated>
+  <updated>2023-07-26T17:49:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7259474763851042091</id>
-    <title>UN Trying To Save US Soldier From North Korea #usa #korea  The UN has begun talks with North Korea about Travis King, the U.S. soldier who ran into North Korea. King hasn’t been seen since he ran across the border and was shoved into a van and driven off </title>
-    <updated>2023-07-24T19:49:54+00:00</updated>
-    <content>UN Trying To Save US Soldier From North Korea #usa #korea  The UN has begun talks with North Korea about Travis King, the U.S. soldier who ran into North Korea. King hasn’t been seen since he ran across the border and was shoved into a van and driven off by North Korean soldiers. The US says they’re not ruling out that he contacted North Korea beforehand but currently they don’t believe he was in prior contact. New reports suggest that there was a 13 hour gap between when he escaped the airport and when he crossed into the North. North Korea has so far refused to talk to the U.S. about the issue.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7259474763851042091" rel="alternate"/>
-    <published>2023-07-24T19:49:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7259497585491184938</id>
     <title>China Is Now Supplying Russia In Ukraine #ukraine #russia  China is supplying Russia with enough gear to equip the entire Russian army. China has been supplying Russia with dual use equipment - so things that are civilian but could be used for military pu</title>
@@ -51,5 +43,13 @@
     <content>Russian Brain Drain Boosts Neighboring Economies Big Time #russia #ukraine </content>
     <link href="https://tiktok.com/@philipdefranco/video/7259915875946450219" rel="alternate"/>
     <published>2023-07-26T00:21:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7260185946157567275</id>
+    <title>America Has Alien Bodies?! #usa #ufo  A former intelligence officer testified in front of the United States Congress today that the US is in possession of alien bodies and UFOs. The officer claims that non-human technologies have injured humans and that t</title>
+    <updated>2023-07-26T17:49:36+00:00</updated>
+    <content>America Has Alien Bodies?! #usa #ufo  A former intelligence officer testified in front of the United States Congress today that the US is in possession of alien bodies and UFOs. The officer claims that non-human technologies have injured humans and that the US government became aware of Aliens in the 1930s. He also says he’s seen a video of a UFO being shot down and that the US government has a program to retrieve crashed UFOs and to reverse engineer them. He refused to say publicly if the US has communicated with aliens. He said that since coming forward about UFOs, he’s had to fear for his life. The officer also alleges that the US government is conducting a disinformation campaign targeted towards Americans about UFOs. Extraordinary claims require extraordinary amounts of evidence.. And he’s provided nothing.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7260185946157567275" rel="alternate"/>
+    <published>2023-07-26T17:49:36+00:00</published>
   </entry>
 </feed>
