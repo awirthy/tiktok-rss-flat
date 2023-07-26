@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-07-25T23:00:00+00:00</updated>
+  <updated>2023-07-26T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7258307419556629806</id>
-    <title>Democrats say Republicans in Alabama are so determined to undermine Black voters that they’re now defying the Supreme Court. #Politics  Right, last month, the conservative high court made an absolutely shocking 5-4 decision to uphold a lower court ruling </title>
-    <updated>2023-07-21T23:00:00+00:00</updated>
-    <content>Democrats say Republicans in Alabama are so determined to undermine Black voters that they’re now defying the Supreme Court. #Politics  Right, last month, the conservative high court made an absolutely shocking 5-4 decision to uphold a lower court ruling that tossed Alabama’s Congressional map on the grounds that it discriminated against Black voters and violated the Voting Rights Act. This because, despite the fact that nearly a third of voters in the state are Black, the GOP had drawn its Congressional map so just one of the state’s 7 districts had a Black majority.  And, of course, as part of that decision, the Supreme Court directed Alabama to comply with a federal court order to re-draw the map so at least TWO districts had at least close to a majority of Black voters. But apparently, that’s too complicated for the tiny brains of the Alabama GOP. Because Republicans in both the State House and Senate passed two different maps this week — and NEITHER sets up another district Black residents make up a majority or near-majority of voters. This notably despite the fact that Democrats literally drew a map that would make another Black-majority district, but Republicans shot it down in favor of their own versions. #US  #Vote  #Politics</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7258307419556629806" rel="alternate"/>
-    <published>2023-07-21T23:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7258309834175434027</id>
     <title>Millions of U.S. military emails with very sensitive contents have been sent to the country Mali — a big ally of Russia and employer of the Wagner group, all because of a simple typo… #Russia  The Pentagon confirmed that instead of using the military’s do</title>
@@ -51,5 +43,13 @@
     <content>Biden’s Justice Department is suing Texas and Gov. Greg Abbott over its controversial Rio Grande buoy barrier at the US-Mexico border. #Texas  #Politics  #US  #RioGrande</content>
     <link href="https://tiktok.com/@pdspolitics/video/7259877020321041707" rel="alternate"/>
     <published>2023-07-25T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7260158027020504366</id>
+    <title>Kevin McCarthy is now floating the idea of impeaching President Biden over the family’s business dealings. #JoeBiden  While speaking on Sean Hannity’s show last night, the House Speaker discussed House Republican’s investigation into the business dealings</title>
+    <updated>2023-07-26T20:00:00+00:00</updated>
+    <content>Kevin McCarthy is now floating the idea of impeaching President Biden over the family’s business dealings. #JoeBiden  While speaking on Sean Hannity’s show last night, the House Speaker discussed House Republican’s investigation into the business dealings of Biden’s family members — and in particular, Hunter Biden. Right, for a while now, Republicans have been investigating several unproven claims of financial misconduct. This including claims from two IRS whistleblowers who said the DOJ improperly intervened in the probe into Hunter Biden’s taxes by making it too lenient. As well as an uncorroborated FBI document they claim shows that Biden’s family received payments from foreign companies. Those investigations haven’t gained much traction — probably because all the claims Republicans have made are… still totally unsubstantiated. But despite that, McCarthy has now seriously escalated the situation, discussing various parts of the investigations and telling Hannity: “If you are sitting in our position today, we would know none of this if Republicans had not taken the majority. We only followed where the information has taken us. But, Hannity, this is rising to the level of impeachment inquiry, which provides Congress the strongest power to get the rest of the knowledge and information needed. Because this president has also used something we have not seen since Richard Nixon: used the weaponization of government to benefit his family and deny Congress the ability to have the oversight.” Now, to use the technical political term: them’s fightin’ words. #KevinMcCarthy  #Fox  #Politics</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7260158027020504366" rel="alternate"/>
+    <published>2023-07-26T20:00:00+00:00</published>
   </entry>
 </feed>
