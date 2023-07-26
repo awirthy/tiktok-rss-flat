@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-07-25T21:11:11+00:00</updated>
+  <updated>2023-07-26T00:21:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7259086473260010794</id>
-    <title>Wagner Wants To Invade Poland #poland #russia  Wagner wants to invade Poland! Belarus says Wagner is stressing them out because they want to invade Poland and that they’ve been “bugging” them to strike Warsaw. And Belarus says it’s been begging them not t</title>
-    <updated>2023-07-23T18:43:12+00:00</updated>
-    <content>Wagner Wants To Invade Poland #poland #russia  Wagner wants to invade Poland! Belarus says Wagner is stressing them out because they want to invade Poland and that they’ve been “bugging” them to strike Warsaw. And Belarus says it’s been begging them not to and that they’re having a hard time controlling them. There are few things the extremely capable Polish military would enjoy more than erasing every member of Wagner stupid enough to cross their border.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7259086473260010794" rel="alternate"/>
-    <published>2023-07-23T18:43:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7259474763851042091</id>
     <title>UN Trying To Save US Soldier From North Korea #usa #korea  The UN has begun talks with North Korea about Travis King, the U.S. soldier who ran into North Korea. King hasn’t been seen since he ran across the border and was shoved into a van and driven off </title>
@@ -51,5 +43,13 @@
     <content>Russia Bombs NATO Ship #russia #ukraine  Russia just hit a NATO ship while it was bombing a Ukrainian port. The civilian ship belonged to Romania and it was struck in the Ukrainian port of Reni. The ship was able to complete its voyage despite minor damage. No Romanian citizens were injured. If Russia continues to bomb Ukrainian ports, they will only raise the risk of NATO involvement.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7259866793546714410" rel="alternate"/>
     <published>2023-07-25T21:11:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7259915875946450219</id>
+    <title>Russian Brain Drain Boosts Neighboring Economies Big Time #russia #ukraine </title>
+    <updated>2023-07-26T00:21:34+00:00</updated>
+    <content>Russian Brain Drain Boosts Neighboring Economies Big Time #russia #ukraine </content>
+    <link href="https://tiktok.com/@philipdefranco/video/7259915875946450219" rel="alternate"/>
+    <published>2023-07-26T00:21:34+00:00</published>
   </entry>
 </feed>
