@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-07-25T16:08:04+00:00</updated>
+  <updated>2023-07-26T19:01:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7258624036245130522</id>
-    <title>Who’s in the wrong here? Apple or the UK?🤔😳</title>
-    <updated>2023-07-22T12:48:35+00:00</updated>
-    <content>Who’s in the wrong here? Apple or the UK?🤔😳</content>
-    <link href="https://tiktok.com/@dylan.page/video/7258624036245130522" rel="alternate"/>
-    <published>2023-07-22T12:48:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7258712145460743450</id>
     <title>Can we get some TikTok dermatologists in the comments PLEASE?!?😳 This cant be right💀</title>
@@ -51,5 +43,13 @@
     <content>2 members of the Greek airforce are feared dead trying to put out the wildfires💔😔</content>
     <link href="https://tiktok.com/@dylan.page/video/7259788709736762650" rel="alternate"/>
     <published>2023-07-25T16:08:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7260204457986772251</id>
+    <title>Are facekinis a W or L?🤔😳</title>
+    <updated>2023-07-26T19:01:22+00:00</updated>
+    <content>Are facekinis a W or L?🤔😳</content>
+    <link href="https://tiktok.com/@dylan.page/video/7260204457986772251" rel="alternate"/>
+    <published>2023-07-26T19:01:22+00:00</published>
   </entry>
 </feed>
