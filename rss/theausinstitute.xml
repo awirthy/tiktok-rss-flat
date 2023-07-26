@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-07-25T02:29:28+00:00</updated>
+  <updated>2023-07-26T06:01:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7255165904835611906</id>
-    <title>"We should spend a bit more time thinking about how is the budget affecting actual people's lives and living standards, rather than this rather childish view of, 'a surplus suggests they're good economic managers.'"  Greg Jericho, policy director at the C</title>
-    <updated>2023-07-13T05:10:07+00:00</updated>
-    <content>"We should spend a bit more time thinking about how is the budget affecting actual people's lives and living standards, rather than this rather childish view of, 'a surplus suggests they're good economic managers.'"  Greg Jericho, policy director at the Centre for Future Work, on ABC's The Business. #auspol</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7255165904835611906" rel="alternate"/>
-    <published>2023-07-13T05:10:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7255563013174856961</id>
     <title>Our polling this month showed that 73% of young people (aged 18-29) support the Voice to Parliament. Young people have a very important role to play in talking to their parents and grandparents about why they support the Yes vote &amp; their hopes for the fut</title>
@@ -51,5 +43,13 @@
     <content>Q: Why do you support the #VoiceToParliament?  "The simple answer is because the Indigenous community has asked us to."  "The hard question is why would you say no?" "How at this point in history would you think, ‘Nah they've had it too good for too long'?" Richard Denniss at Politics in the Pub.</content>
     <link href="https://tiktok.com/@theausinstitute/video/7259577444573793538" rel="alternate"/>
     <published>2023-07-25T02:29:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7260003360839847176</id>
+    <title>If the Australian government started taxing oil and gas companies properly, like in Norway, they could give Australians free university education.  It's not that we can't afford it. It's that our governments haven't chosen to do it. #auspol</title>
+    <updated>2023-07-26T06:01:12+00:00</updated>
+    <content>If the Australian government started taxing oil and gas companies properly, like in Norway, they could give Australians free university education.  It's not that we can't afford it. It's that our governments haven't chosen to do it. #auspol</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7260003360839847176" rel="alternate"/>
+    <published>2023-07-26T06:01:12+00:00</published>
   </entry>
 </feed>
