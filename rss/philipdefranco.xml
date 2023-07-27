@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-07-26T21:26:18+00:00</updated>
+  <updated>2023-07-27T19:53:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7259767425774816558</id>
-    <title>Russia Attacked US Drone #usa #russia  Russia just attacked a U.S. drone. When a U.S. drone was returning home after it completed its mission of defeating, a Russian jet flew within meters of it and deployed flares on it which hit its propeller, severely </title>
-    <updated>2023-07-25T14:45:35+00:00</updated>
-    <content>Russia Attacked US Drone #usa #russia  Russia just attacked a U.S. drone. When a U.S. drone was returning home after it completed its mission of defeating, a Russian jet flew within meters of it and deployed flares on it which hit its propeller, severely damaging it. The U.S. says this was an attempt to knock the US drone out of the sky. With the U.S. saying “We call upon the Russian forces in Syria to put an immediate end to this reckless, unprovoked, and unprofessional behavior.” Apparently both sides used the deconfliction hotline but reportedly the line has been very heated lately and just been a place for the two of them to verbally argue instead of deconflict.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7259767425774816558" rel="alternate"/>
-    <published>2023-07-25T14:45:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7259866793546714410</id>
     <title>Russia Bombs NATO Ship #russia #ukraine  Russia just hit a NATO ship while it was bombing a Ukrainian port. The civilian ship belonged to Romania and it was struck in the Ukrainian port of Reni. The ship was able to complete its voyage despite minor damag</title>
@@ -51,5 +43,13 @@
     <content>Large Red Square Hovered Over Air Force Base #usa #america  A US Navy pilot testified in front of Congress today that in 2003 a large red square hovered over an Air Force Base which hovered for approximately 45 seconds before disappearing. The red square was supposedly the size of a football field. He said that UFOs are commonly a black square or a black cube inside of a clear sphere. He also said that he’s talked to two navy pilots who nearly hit a dark gray black cube inside of a clear sphere with no wings</content>
     <link href="https://tiktok.com/@philipdefranco/video/7260241792690392366" rel="alternate"/>
     <published>2023-07-26T21:26:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7260588859367394602</id>
+    <title>Russia Attacks 6th US Drone #usa #russia  For the 6th time this month and the 2nd time in 24 hours, a Russian jet has attacked a U.S. drone. The Russian jet fired flares at the drone which struck the main body of the drone, severely damaging it. Russia cl</title>
+    <updated>2023-07-27T19:53:07+00:00</updated>
+    <content>Russia Attacks 6th US Drone #usa #russia  For the 6th time this month and the 2nd time in 24 hours, a Russian jet has attacked a U.S. drone. The Russian jet fired flares at the drone which struck the main body of the drone, severely damaging it. Russia claims the drone was being highly provocative. And the US statement is the same as last time which is essentially “Russia needs to grow up”. Commanders reportedly exchanged angry threats over the deconfliction hotline afterwards. The U.S. has now deployed even more F-35s to the region as their patience begins to run thin.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7260588859367394602" rel="alternate"/>
+    <published>2023-07-27T19:53:07+00:00</published>
   </entry>
 </feed>
