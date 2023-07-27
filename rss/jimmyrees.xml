@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-07-26T00:01:36+00:00</updated>
+  <updated>2023-07-27T00:28:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7253279853665914113</id>
-    <title>Guy who doesnt know the name of things *PART 3* #alternatenames #funny </title>
-    <updated>2023-07-08T03:10:24+00:00</updated>
-    <content>Guy who doesnt know the name of things *PART 3* #alternatenames #funny </content>
-    <link href="https://tiktok.com/@jimmyrees/video/7253279853665914113" rel="alternate"/>
-    <published>2023-07-08T03:10:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7255609486239452418</id>
     <title>The end though … 😬!!! “Just a lil bit more” #couples #couplegoals </title>
@@ -51,5 +43,13 @@
     <content>Merica vs Straya 😂  @Trey Kennedy #USA #AUS </content>
     <link href="https://tiktok.com/@jimmyrees/video/7259910730156133640" rel="alternate"/>
     <published>2023-07-26T00:01:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7260287923117935874</id>
+    <title>I rubbed them in my eyes!! I suggested they call them Cry-No-More Onions… it’s not a lie, zero tears when chopping!! Try the Happy Chop Tearless Onions from Woolies. Limited time only, ACT, NSW, VIC!! #ad @woolworths_au</title>
+    <updated>2023-07-27T00:28:53+00:00</updated>
+    <content>I rubbed them in my eyes!! I suggested they call them Cry-No-More Onions… it’s not a lie, zero tears when chopping!! Try the Happy Chop Tearless Onions from Woolies. Limited time only, ACT, NSW, VIC!! #ad @woolworths_au</content>
+    <link href="https://tiktok.com/@jimmyrees/video/7260287923117935874" rel="alternate"/>
+    <published>2023-07-27T00:28:53+00:00</published>
   </entry>
 </feed>
