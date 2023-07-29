@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@davecairnsfilm</id>
   <title>davecairnsfilm TikTok</title>
-  <updated>2023-07-27T08:02:50+00:00</updated>
+  <updated>2023-07-29T04:35:58.662170+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,44 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from davecairnsfilm</subtitle>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7257135192135961858</id>
-    <title>18 JULY 2023 - #australia #politics #auspol #victoria #commonwealthgames #danandrews </title>
-    <updated>2023-07-18T12:31:01+00:00</updated>
-    <content>18 JULY 2023 - #australia #politics #auspol #victoria #commonwealthgames #danandrews </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7257135192135961858" rel="alternate"/>
-    <published>2023-07-18T12:31:01+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7258993660006632705</id>
-    <title>23 JULY 2023 - #media #journalism #tmz #foxcorporation #foxnews #murdoch </title>
-    <updated>2023-07-23T12:42:52+00:00</updated>
-    <content>23 JULY 2023 - #media #journalism #tmz #foxcorporation #foxnews #murdoch </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7258993660006632705" rel="alternate"/>
-    <published>2023-07-23T12:42:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7259706886520376583</id>
-    <title>#stitch with @Dave Cairns 25 JULY 2023 - #australia #victoria #melbourne #cookers #antieverything #lockdown #conspiracytheories </title>
-    <updated>2023-07-25T10:50:33+00:00</updated>
-    <content>#stitch with @Dave Cairns 25 JULY 2023 - #australia #victoria #melbourne #cookers #antieverything #lockdown #conspiracytheories </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7259706886520376583" rel="alternate"/>
-    <published>2023-07-25T10:50:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7259727126377598216</id>
-    <title>25 JULY 2023 - #australia #politics #auspol #insiders #voicetoparliament </title>
-    <updated>2023-07-25T12:09:03+00:00</updated>
-    <content>25 JULY 2023 - #australia #politics #auspol #insiders #voicetoparliament </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7259727126377598216" rel="alternate"/>
-    <published>2023-07-25T12:09:03+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7260405849175198981</id>
-    <title>27 JULY 2023 - #australia #politics #auspol #tiktok #tiktoklive #content #trolling </title>
-    <updated>2023-07-27T08:02:50+00:00</updated>
-    <content>27 JULY 2023 - #australia #politics #auspol #tiktok #tiktoklive #content #trolling </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7260405849175198981" rel="alternate"/>
-    <published>2023-07-27T08:02:50+00:00</published>
-  </entry>
 </feed>
