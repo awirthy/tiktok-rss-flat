@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-07-30T18:19:09+00:00</updated>
+  <updated>2023-07-30T19:13:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7260185946157567275</id>
-    <title>America Has Alien Bodies?! #usa #ufo  A former intelligence officer testified in front of the United States Congress today that the US is in possession of alien bodies and UFOs. The officer claims that non-human technologies have injured humans and that t</title>
-    <updated>2023-07-26T17:49:36+00:00</updated>
-    <content>America Has Alien Bodies?! #usa #ufo  A former intelligence officer testified in front of the United States Congress today that the US is in possession of alien bodies and UFOs. The officer claims that non-human technologies have injured humans and that the US government became aware of Aliens in the 1930s. He also says he’s seen a video of a UFO being shot down and that the US government has a program to retrieve crashed UFOs and to reverse engineer them. He refused to say publicly if the US has communicated with aliens. He said that since coming forward about UFOs, he’s had to fear for his life. The officer also alleges that the US government is conducting a disinformation campaign targeted towards Americans about UFOs. Extraordinary claims require extraordinary amounts of evidence.. And he’s provided nothing.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7260185946157567275" rel="alternate"/>
-    <published>2023-07-26T17:49:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7260241792690392366</id>
     <title>Large Red Square Hovered Over Air Force Base #usa #america  A US Navy pilot testified in front of Congress today that in 2003 a large red square hovered over an Air Force Base which hovered for approximately 45 seconds before disappearing. The red square </title>
@@ -51,5 +43,13 @@
     <content>China Hacked US Power Grid #usa #america  China has planted malware inside of networks controlling power grids, communications systems and water supplies that feed US military bases all around the world. And now the U.S. is hunting for it in a panic under the belief that China could activate the code to disrupt the U.S. military in the event of conflict or when China makes a move on Taiwan. One official called it a “ticking time bomb”. If China were to use the malware, it wouldn’t just affect the bases - it would also affect regular Americans as domestic US bases use the same infrastructure.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7261677878058749226" rel="alternate"/>
     <published>2023-07-30T18:19:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7261691797804502314</id>
+    <title>Ukraine Using North Korean Rockets To Hit Russia #ukraine #korea  Ukraine is using North Korean rockets to hit Russia. They say that a friendly nation seized them from a Russian ship and gave them to Ukraine. The friendly nation is suspected to either be </title>
+    <updated>2023-07-30T19:13:12+00:00</updated>
+    <content>Ukraine Using North Korean Rockets To Hit Russia #ukraine #korea  Ukraine is using North Korean rockets to hit Russia. They say that a friendly nation seized them from a Russian ship and gave them to Ukraine. The friendly nation is suspected to either be the United States or South Korea. However, Ukrainians don’t like using the rockets because they have a high dud rate because they’re North Korean and nearly 40 years old. But ammo is ammo.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7261691797804502314" rel="alternate"/>
+    <published>2023-07-30T19:13:12+00:00</published>
   </entry>
 </feed>
