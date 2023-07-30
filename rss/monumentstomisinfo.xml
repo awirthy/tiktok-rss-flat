@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-07-30T09:04:59+00:00</updated>
+  <updated>2023-07-30T10:03:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7259684311501180161</id>
-    <title>The greens are funny #auspol #australiangreens #australianlaborparty </title>
-    <updated>2023-07-25T09:22:55+00:00</updated>
-    <content>The greens are funny #auspol #australiangreens #australianlaborparty </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7259684311501180161" rel="alternate"/>
-    <published>2023-07-25T09:22:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7259694908238302465</id>
     <title>If you care about keeping children safe, then act accordingly #auspol #lgbt </title>
@@ -51,5 +43,13 @@
     <content>At least I know it now #oxycodon #fdaapproved #auspol </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7261535112859258114" rel="alternate"/>
     <published>2023-07-30T09:04:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7261550095588429058</id>
+    <title>The #markmcgowan effect is gone #westernaustralia #auspol #australianlaborparty </title>
+    <updated>2023-07-30T10:03:09+00:00</updated>
+    <content>The #markmcgowan effect is gone #westernaustralia #auspol #australianlaborparty </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7261550095588429058" rel="alternate"/>
+    <published>2023-07-30T10:03:09+00:00</published>
   </entry>
 </feed>
