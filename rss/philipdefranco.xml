@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-07-28T19:41:17+00:00</updated>
+  <updated>2023-07-30T18:19:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7259915875946450219</id>
-    <title>Russian Brain Drain Boosts Neighboring Economies Big Time #russia #ukraine </title>
-    <updated>2023-07-26T00:21:34+00:00</updated>
-    <content>Russian Brain Drain Boosts Neighboring Economies Big Time #russia #ukraine </content>
-    <link href="https://tiktok.com/@philipdefranco/video/7259915875946450219" rel="alternate"/>
-    <published>2023-07-26T00:21:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7260185946157567275</id>
     <title>America Has Alien Bodies?! #usa #ufo  A former intelligence officer testified in front of the United States Congress today that the US is in possession of alien bodies and UFOs. The officer claims that non-human technologies have injured humans and that t</title>
@@ -51,5 +43,13 @@
     <content>NATO To Escort Ukrainian Ships?! #usa #ukraine  A US Admiral and former Supreme Allied commander of NATO has suggested the US Navy and NATO escort Ukraine’s ships exporting grain in the Black Sea. He says they would bundle merchant ships into three-to-five ship convoys, each escorted by a couple of guided-missile warships. He cites how the US Navy did the same thing in the Persian Gulf when Iran was sinking Kuwait’s oil vessels. The justification for this action would be that blockades are illegal and that there is no declared state of war between Ukraine and Russia. It may have worked against Iran, but the serious flaw in this plan is that your average Russian sailor is silly and that Biden is too risk averse for such a plan.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7260956878946143534" rel="alternate"/>
     <published>2023-07-28T19:41:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7261677878058749226</id>
+    <title>China Hacked US Power Grid #usa #america  China has planted malware inside of networks controlling power grids, communications systems and water supplies that feed US military bases all around the world. And now the U.S. is hunting for it in a panic under</title>
+    <updated>2023-07-30T18:19:09+00:00</updated>
+    <content>China Hacked US Power Grid #usa #america  China has planted malware inside of networks controlling power grids, communications systems and water supplies that feed US military bases all around the world. And now the U.S. is hunting for it in a panic under the belief that China could activate the code to disrupt the U.S. military in the event of conflict or when China makes a move on Taiwan. One official called it a “ticking time bomb”. If China were to use the malware, it wouldn’t just affect the bases - it would also affect regular Americans as domestic US bases use the same infrastructure.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7261677878058749226" rel="alternate"/>
+    <published>2023-07-30T18:19:09+00:00</published>
   </entry>
 </feed>
