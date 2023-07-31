@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-07-31T06:23:18+00:00</updated>
+  <updated>2023-07-28T05:54:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7259275135851580679</id>
+    <title>If you worked full-time hours as a casual employee, would you want to switch to permanent status? Anyone who prioritises job security may soon be able to do just that under new workplace legislation reforms. #australia #news #work #worker #workersrights #</title>
+    <updated>2023-07-24T06:55:10+00:00</updated>
+    <content>If you worked full-time hours as a casual employee, would you want to switch to permanent status? Anyone who prioritises job security may soon be able to do just that under new workplace legislation reforms. #australia #news #work #worker #workersrights #employee #employer #boss #job #employment #casualworker #fulltime #politics #auspol #todayilearned #learnontiktok </content>
+    <link href="https://tiktok.com/@viceautoday/video/7259275135851580679" rel="alternate"/>
+    <published>2023-07-24T06:55:10+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7259622354416848135</id>
     <title>Remember how we used to be able to recycle soft plastics in supermarkets in Australia? Well they’re now racing to find a solution to this growing environmental problem. #australia #news #green #environment #activism #recycle #recycling #plastic #waste #au</title>
@@ -43,13 +51,5 @@
     <content>The Victorian Government has banned gas stoves, ovens and heating in all new homes and public buildings in the state. What are your thoughts? #australia #news #climatechange #emissions #carbon #gas #energy #clean #auspol #politics #melbourne #health #pollution #learnontiktok #todayilearned </content>
     <link href="https://tiktok.com/@viceautoday/video/7260743802565020934" rel="alternate"/>
     <published>2023-07-28T05:54:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7261864527975828743</id>
-    <title>Australia’s winter weather has been wild. This weekend was as much as 8 degrees warmer than the July average high temperatures in some parts, including Sydney that got up to 25.2C on Saturday. So what’s going on? #australia #news #weather #winter #climate</title>
-    <updated>2023-07-31T06:23:18+00:00</updated>
-    <content>Australia’s winter weather has been wild. This weekend was as much as 8 degrees warmer than the July average high temperatures in some parts, including Sydney that got up to 25.2C on Saturday. So what’s going on? #australia #news #weather #winter #climatechange #globalwarming #globalboiling #sydney #sydneyweather #emissions #energy #auspol #politics #pollution #todayilearned #learnontiktok </content>
-    <link href="https://tiktok.com/@viceautoday/video/7261864527975828743" rel="alternate"/>
-    <published>2023-07-31T06:23:18+00:00</published>
   </entry>
 </feed>
