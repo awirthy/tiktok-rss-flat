@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-07-29T20:00:00+00:00</updated>
+  <updated>2023-07-31T23:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7260158027020504366</id>
-    <title>Kevin McCarthy is now floating the idea of impeaching President Biden over the family’s business dealings. #JoeBiden  While speaking on Sean Hannity’s show last night, the House Speaker discussed House Republican’s investigation into the business dealings</title>
-    <updated>2023-07-26T20:00:00+00:00</updated>
-    <content>Kevin McCarthy is now floating the idea of impeaching President Biden over the family’s business dealings. #JoeBiden  While speaking on Sean Hannity’s show last night, the House Speaker discussed House Republican’s investigation into the business dealings of Biden’s family members — and in particular, Hunter Biden. Right, for a while now, Republicans have been investigating several unproven claims of financial misconduct. This including claims from two IRS whistleblowers who said the DOJ improperly intervened in the probe into Hunter Biden’s taxes by making it too lenient. As well as an uncorroborated FBI document they claim shows that Biden’s family received payments from foreign companies. Those investigations haven’t gained much traction — probably because all the claims Republicans have made are… still totally unsubstantiated. But despite that, McCarthy has now seriously escalated the situation, discussing various parts of the investigations and telling Hannity: “If you are sitting in our position today, we would know none of this if Republicans had not taken the majority. We only followed where the information has taken us. But, Hannity, this is rising to the level of impeachment inquiry, which provides Congress the strongest power to get the rest of the knowledge and information needed. Because this president has also used something we have not seen since Richard Nixon: used the weaponization of government to benefit his family and deny Congress the ability to have the oversight.” Now, to use the technical political term: them’s fightin’ words. #KevinMcCarthy  #Fox  #Politics</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7260158027020504366" rel="alternate"/>
-    <published>2023-07-26T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7260238636204051754</id>
     <title>A whistleblower just told Congress that the U.S. has captured “non-human” pilots operating UFOs #UFO  The House Oversight Committee is holding a public hearing today as part of an effort to convince the Biden Administration to release more information abo</title>
@@ -51,5 +43,13 @@
     <content>Trucking Lobbyists Are Blocking Crash Survivors from $$$ #Cars  #Trucks  #Crash  #Politics</content>
     <link href="https://tiktok.com/@pdspolitics/video/7260922565093494062" rel="alternate"/>
     <published>2023-07-29T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7262096674040859946</id>
+    <title>Texas is ripping libraries out of schools and turning them into “discipline centers.” #Texas  A judge in Arkansas temporarily blocked a law that would have made it a crime for librarians and booksellers to give minors “harmful” materials. And so last mont</title>
+    <updated>2023-07-31T23:00:00+00:00</updated>
+    <content>Texas is ripping libraries out of schools and turning them into “discipline centers.” #Texas  A judge in Arkansas temporarily blocked a law that would have made it a crime for librarians and booksellers to give minors “harmful” materials. And so last month, a group of booksellers and libraries filed a lawsuit, arguing that elements of the new law were unconstitutional. With the groups also claiming that the law presented them with an impossible situation. And the judge agreed, issuing a preliminary injunction where he argued the law would: “permit, if not encourage, library committees and local governmental bodies to make censorship decisions based on content or viewpoint, which would violate the First Amendment.” Right, and this is just one state of many where conservative makers are trying to ban and restrict access to books. And some places are finding really unique ways to do this. Right, recently, Texas’ largest public school district in the state — Houston Independent School District — announced that it is eliminating school librarians at 28 schools, And converting the libraries into discipline centers for kids with behavior problems. And this isn’t just a few schools — the move will apply to 28 different schools, with the district saying an additional 57 schools will be assessed on a case-by-case basis. #BookTok  #BookBan  #Politics</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7262096674040859946" rel="alternate"/>
+    <published>2023-07-31T23:00:00+00:00</published>
   </entry>
 </feed>
