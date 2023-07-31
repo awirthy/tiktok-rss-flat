@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-07-30T19:13:12+00:00</updated>
+  <updated>2023-07-31T14:52:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7260241792690392366</id>
-    <title>Large Red Square Hovered Over Air Force Base #usa #america  A US Navy pilot testified in front of Congress today that in 2003 a large red square hovered over an Air Force Base which hovered for approximately 45 seconds before disappearing. The red square </title>
-    <updated>2023-07-26T21:26:18+00:00</updated>
-    <content>Large Red Square Hovered Over Air Force Base #usa #america  A US Navy pilot testified in front of Congress today that in 2003 a large red square hovered over an Air Force Base which hovered for approximately 45 seconds before disappearing. The red square was supposedly the size of a football field. He said that UFOs are commonly a black square or a black cube inside of a clear sphere. He also said that he’s talked to two navy pilots who nearly hit a dark gray black cube inside of a clear sphere with no wings</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7260241792690392366" rel="alternate"/>
-    <published>2023-07-26T21:26:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7260588859367394602</id>
     <title>Russia Attacks 6th US Drone #usa #russia  For the 6th time this month and the 2nd time in 24 hours, a Russian jet has attacked a U.S. drone. The Russian jet fired flares at the drone which struck the main body of the drone, severely damaging it. Russia cl</title>
@@ -51,5 +43,13 @@
     <content>Ukraine Using North Korean Rockets To Hit Russia #ukraine #korea  Ukraine is using North Korean rockets to hit Russia. They say that a friendly nation seized them from a Russian ship and gave them to Ukraine. The friendly nation is suspected to either be the United States or South Korea. However, Ukrainians don’t like using the rockets because they have a high dud rate because they’re North Korean and nearly 40 years old. But ammo is ammo.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7261691797804502314" rel="alternate"/>
     <published>2023-07-30T19:13:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7261995787427826990</id>
+    <title>France Puts Niger On Notice #france #niger  Protesters in Niger are attacking the French embassy. France has condemned the violence and pledged to react strongly to any attack on its nationals or interests. Since the coup, France has cut off all aid to th</title>
+    <updated>2023-07-31T14:52:56+00:00</updated>
+    <content>France Puts Niger On Notice #france #niger  Protesters in Niger are attacking the French embassy. France has condemned the violence and pledged to react strongly to any attack on its nationals or interests. Since the coup, France has cut off all aid to the country until the President is reinstated.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7261995787427826990" rel="alternate"/>
+    <published>2023-07-31T14:52:56+00:00</published>
   </entry>
 </feed>
