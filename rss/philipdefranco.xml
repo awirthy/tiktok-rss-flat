@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-07-31T14:52:56+00:00</updated>
+  <updated>2023-07-31T20:17:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7260588859367394602</id>
-    <title>Russia Attacks 6th US Drone #usa #russia  For the 6th time this month and the 2nd time in 24 hours, a Russian jet has attacked a U.S. drone. The Russian jet fired flares at the drone which struck the main body of the drone, severely damaging it. Russia cl</title>
-    <updated>2023-07-27T19:53:07+00:00</updated>
-    <content>Russia Attacks 6th US Drone #usa #russia  For the 6th time this month and the 2nd time in 24 hours, a Russian jet has attacked a U.S. drone. The Russian jet fired flares at the drone which struck the main body of the drone, severely damaging it. Russia claims the drone was being highly provocative. And the US statement is the same as last time which is essentially “Russia needs to grow up”. Commanders reportedly exchanged angry threats over the deconfliction hotline afterwards. The U.S. has now deployed even more F-35s to the region as their patience begins to run thin.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7260588859367394602" rel="alternate"/>
-    <published>2023-07-27T19:53:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7260956878946143534</id>
     <title>NATO To Escort Ukrainian Ships?! #usa #ukraine  A US Admiral and former Supreme Allied commander of NATO has suggested the US Navy and NATO escort Ukraine’s ships exporting grain in the Black Sea. He says they would bundle merchant ships into three-to-fiv</title>
@@ -51,5 +43,13 @@
     <content>France Puts Niger On Notice #france #niger  Protesters in Niger are attacking the French embassy. France has condemned the violence and pledged to react strongly to any attack on its nationals or interests. Since the coup, France has cut off all aid to the country until the President is reinstated.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7261995787427826990" rel="alternate"/>
     <published>2023-07-31T14:52:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7262079526224547114</id>
+    <title>Is Elon Helping Russia Invade Ukraine? #ukraine #russia  Elon Musk may have just helped Russia’s invasion of Ukraine. Musk has explicitly intervened and refused to let Starlink be activated in occupied territories so Ukraine could conduct drone strikes in</title>
+    <updated>2023-07-31T20:17:42+00:00</updated>
+    <content>Is Elon Helping Russia Invade Ukraine? #ukraine #russia  Elon Musk may have just helped Russia’s invasion of Ukraine. Musk has explicitly intervened and refused to let Starlink be activated in occupied territories so Ukraine could conduct drone strikes in places like Crimea. Musk was concerned that such strikes would escalate the war and loss of life, even though not allowing such strikes just meant more dead Ukrainians and that ultimately such a decision was not his to make. This led to the US having to pay for specific access and control of certain Starlink systems so that Musk could get over himself and quit intervening in the war. #elonmusk #usa </content>
+    <link href="https://tiktok.com/@philipdefranco/video/7262079526224547114" rel="alternate"/>
+    <published>2023-07-31T20:17:42+00:00</published>
   </entry>
 </feed>
