@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-07-31T20:17:42+00:00</updated>
+  <updated>2023-08-01T20:48:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7260956878946143534</id>
-    <title>NATO To Escort Ukrainian Ships?! #usa #ukraine  A US Admiral and former Supreme Allied commander of NATO has suggested the US Navy and NATO escort Ukraine’s ships exporting grain in the Black Sea. He says they would bundle merchant ships into three-to-fiv</title>
-    <updated>2023-07-28T19:41:17+00:00</updated>
-    <content>NATO To Escort Ukrainian Ships?! #usa #ukraine  A US Admiral and former Supreme Allied commander of NATO has suggested the US Navy and NATO escort Ukraine’s ships exporting grain in the Black Sea. He says they would bundle merchant ships into three-to-five ship convoys, each escorted by a couple of guided-missile warships. He cites how the US Navy did the same thing in the Persian Gulf when Iran was sinking Kuwait’s oil vessels. The justification for this action would be that blockades are illegal and that there is no declared state of war between Ukraine and Russia. It may have worked against Iran, but the serious flaw in this plan is that your average Russian sailor is silly and that Biden is too risk averse for such a plan.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7260956878946143534" rel="alternate"/>
-    <published>2023-07-28T19:41:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7261677878058749226</id>
     <title>China Hacked US Power Grid #usa #america  China has planted malware inside of networks controlling power grids, communications systems and water supplies that feed US military bases all around the world. And now the U.S. is hunting for it in a panic under</title>
@@ -51,5 +43,13 @@
     <content>Is Elon Helping Russia Invade Ukraine? #ukraine #russia  Elon Musk may have just helped Russia’s invasion of Ukraine. Musk has explicitly intervened and refused to let Starlink be activated in occupied territories so Ukraine could conduct drone strikes in places like Crimea. Musk was concerned that such strikes would escalate the war and loss of life, even though not allowing such strikes just meant more dead Ukrainians and that ultimately such a decision was not his to make. This led to the US having to pay for specific access and control of certain Starlink systems so that Musk could get over himself and quit intervening in the war. #elonmusk #usa </content>
     <link href="https://tiktok.com/@philipdefranco/video/7262079526224547114" rel="alternate"/>
     <published>2023-07-31T20:17:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7262458406756306218</id>
+    <title>On The Verge Of World War: Africa #usa #france  We’re on the verge of World War: Africa. The Economic Community of West African States says that Niger has 5 days to reinstate the President or that they’ll take military force to reinstate him. With Nigeria</title>
+    <updated>2023-08-01T20:48:00+00:00</updated>
+    <content>On The Verge Of World War: Africa #usa #france  We’re on the verge of World War: Africa. The Economic Community of West African States says that Niger has 5 days to reinstate the President or that they’ll take military force to reinstate him. With Nigeria’s military saying that if they’re called upon to reinstate the President, they will. Saying “we will defend democracy” The US says they support ECOWAS’s attempts to reverse the military takeover. But Burkina Faso and Mali, the two neighboring juntas, say they will join the war on the side of the junta. France has begun a military evacuation of its citizens and any European who wants to leave. The U.S. has around 2,000 soldiers in the country meant to train the Nigerian military but they have suspended that mission. It’s unclear if the US and French support for the coalition will be kinetic, intelligence, or just diplomatic support. There are 5 days left on the war ultimatum</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7262458406756306218" rel="alternate"/>
+    <published>2023-08-01T20:48:00+00:00</published>
   </entry>
 </feed>
