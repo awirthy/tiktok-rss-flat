@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-02T17:07:16+00:00</updated>
+  <updated>2023-08-02T17:50:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7261995787427826990</id>
-    <title>France Puts Niger On Notice #france #niger  Protesters in Niger are attacking the French embassy. France has condemned the violence and pledged to react strongly to any attack on its nationals or interests. Since the coup, France has cut off all aid to th</title>
-    <updated>2023-07-31T14:52:56+00:00</updated>
-    <content>France Puts Niger On Notice #france #niger  Protesters in Niger are attacking the French embassy. France has condemned the violence and pledged to react strongly to any attack on its nationals or interests. Since the coup, France has cut off all aid to the country until the President is reinstated.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7261995787427826990" rel="alternate"/>
-    <published>2023-07-31T14:52:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7262079526224547114</id>
     <title>Is Elon Helping Russia Invade Ukraine? #ukraine #russia  Elon Musk may have just helped Russia’s invasion of Ukraine. Musk has explicitly intervened and refused to let Starlink be activated in occupied territories so Ukraine could conduct drone strikes in</title>
@@ -51,5 +43,13 @@
     <content>Belarusian Helicopters Cross Into Poland #usa #poland  Two Belarusian helicopters crossed into Poland earlier today violating their airspace during a training exercise. In response, Poland is deploying additional troops and combat helicopters to the border with Belarus. This comes after the US said that an attack by Wagner will be considered an attack by Russia. However the US says it’s aware of the threats Wagner is making to Poland but that it’s unaware of any credible threats to Poland.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7262772636801895723" rel="alternate"/>
     <published>2023-08-02T17:07:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7262783774134471978</id>
+    <title>US Evacuates Embassy In Niger #usa #nigeria  The U.S. is preparing to evacuate its embassy in Niger but as of right now, its 2K troops are staying put. The junta in Niger has requested the rapid deployment of Wagner to the country. ECOWAS says the militar</title>
+    <updated>2023-08-02T17:50:30+00:00</updated>
+    <content>US Evacuates Embassy In Niger #usa #nigeria  The U.S. is preparing to evacuate its embassy in Niger but as of right now, its 2K troops are staying put. The junta in Niger has requested the rapid deployment of Wagner to the country. ECOWAS says the military option is the very last option on the table, but that they need to prepare for that eventuality. Nigeria has cut all electricity to the country as Niger plunges into darkness and rolling blackouts. There are 4 days left on the war deadline.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7262783774134471978" rel="alternate"/>
+    <published>2023-08-02T17:50:30+00:00</published>
   </entry>
 </feed>
