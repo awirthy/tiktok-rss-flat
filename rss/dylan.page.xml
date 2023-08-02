@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-08-02T17:08:16+00:00</updated>
+  <updated>2023-08-02T21:20:18.439379+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,44 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7261949611386948897</id>
-    <title>You’re welcome and im sorry at the same time😂🙏</title>
-    <updated>2023-07-31T11:53:32+00:00</updated>
-    <content>You’re welcome and im sorry at the same time😂🙏</content>
-    <link href="https://tiktok.com/@dylan.page/video/7261949611386948897" rel="alternate"/>
-    <published>2023-07-31T11:53:32+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7262041243692043552</id>
-    <title>Would you buy a ticket or nah?🤔😳</title>
-    <updated>2023-07-31T17:49:02+00:00</updated>
-    <content>Would you buy a ticket or nah?🤔😳</content>
-    <link href="https://tiktok.com/@dylan.page/video/7262041243692043552" rel="alternate"/>
-    <published>2023-07-31T17:49:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7262288010186722593</id>
-    <title>Anyone dealing with mental health issue, please talk to someone and find help😔R.I.P Angus Cloud💔😔</title>
-    <updated>2023-08-01T09:46:40+00:00</updated>
-    <content>Anyone dealing with mental health issue, please talk to someone and find help😔R.I.P Angus Cloud💔😔</content>
-    <link href="https://tiktok.com/@dylan.page/video/7262288010186722593" rel="alternate"/>
-    <published>2023-08-01T09:46:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7262736251428605217</id>
-    <title>I can’t tell if i love them or they creep me out…🤔🥴</title>
-    <updated>2023-08-02T14:46:00+00:00</updated>
-    <content>I can’t tell if i love them or they creep me out…🤔🥴</content>
-    <link href="https://tiktok.com/@dylan.page/video/7262736251428605217" rel="alternate"/>
-    <published>2023-08-02T14:46:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7262772910224379169</id>
-    <title>2 weeks like this is actually hard to imagine!🤯</title>
-    <updated>2023-08-02T17:08:16+00:00</updated>
-    <content>2 weeks like this is actually hard to imagine!🤯</content>
-    <link href="https://tiktok.com/@dylan.page/video/7262772910224379169" rel="alternate"/>
-    <published>2023-08-02T17:08:16+00:00</published>
-  </entry>
 </feed>
