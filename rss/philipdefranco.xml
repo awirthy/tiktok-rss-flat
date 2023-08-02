@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-02T17:50:30+00:00</updated>
+  <updated>2023-08-02T19:23:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7262079526224547114</id>
-    <title>Is Elon Helping Russia Invade Ukraine? #ukraine #russia  Elon Musk may have just helped Russia’s invasion of Ukraine. Musk has explicitly intervened and refused to let Starlink be activated in occupied territories so Ukraine could conduct drone strikes in</title>
-    <updated>2023-07-31T20:17:42+00:00</updated>
-    <content>Is Elon Helping Russia Invade Ukraine? #ukraine #russia  Elon Musk may have just helped Russia’s invasion of Ukraine. Musk has explicitly intervened and refused to let Starlink be activated in occupied territories so Ukraine could conduct drone strikes in places like Crimea. Musk was concerned that such strikes would escalate the war and loss of life, even though not allowing such strikes just meant more dead Ukrainians and that ultimately such a decision was not his to make. This led to the US having to pay for specific access and control of certain Starlink systems so that Musk could get over himself and quit intervening in the war. #elonmusk #usa </content>
-    <link href="https://tiktok.com/@philipdefranco/video/7262079526224547114" rel="alternate"/>
-    <published>2023-07-31T20:17:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7262458406756306218</id>
     <title>On The Verge Of World War: Africa #usa #france  We’re on the verge of World War: Africa. The Economic Community of West African States says that Niger has 5 days to reinstate the President or that they’ll take military force to reinstate him. With Nigeria</title>
@@ -51,5 +43,13 @@
     <content>US Evacuates Embassy In Niger #usa #nigeria  The U.S. is preparing to evacuate its embassy in Niger but as of right now, its 2K troops are staying put. The junta in Niger has requested the rapid deployment of Wagner to the country. ECOWAS says the military option is the very last option on the table, but that they need to prepare for that eventuality. Nigeria has cut all electricity to the country as Niger plunges into darkness and rolling blackouts. There are 4 days left on the war deadline.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7262783774134471978" rel="alternate"/>
     <published>2023-08-02T17:50:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7262807707504102698</id>
+    <title>Reports Of Mass Shooting At US Capitol #usa #america  The U.S. Capitol is on lockdown after reports of a mass shooter in the Senate. All Senate offices have been evacuated by armed police, and now additional buildings are being evacuated. Capitol Police a</title>
+    <updated>2023-08-02T19:23:23+00:00</updated>
+    <content>Reports Of Mass Shooting At US Capitol #usa #america  The U.S. Capitol is on lockdown after reports of a mass shooter in the Senate. All Senate offices have been evacuated by armed police, and now additional buildings are being evacuated. Capitol Police are asking people remaining to barricade themselves in their offices.A massive police response is currently underway. It should be stressed though that Capitol police have yet to hear gunshots or seen evidence of a shooter.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7262807707504102698" rel="alternate"/>
+    <published>2023-08-02T19:23:23+00:00</published>
   </entry>
 </feed>
