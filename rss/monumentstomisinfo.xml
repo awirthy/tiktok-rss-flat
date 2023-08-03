@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-08-02T09:31:17+00:00</updated>
+  <updated>2023-08-03T08:12:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7262275253236256002</id>
-    <title>Can’t just throw money at the wall #auspol #australianlaborparty #australiangreens #housingaustraliafuturefund </title>
-    <updated>2023-08-01T08:57:08+00:00</updated>
-    <content>Can’t just throw money at the wall #auspol #australianlaborparty #australiangreens #housingaustraliafuturefund </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7262275253236256002" rel="alternate"/>
-    <published>2023-08-01T08:57:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7262281961656388865</id>
     <title>Come say hey #auspol #australianpolitics #australianlaborparty </title>
@@ -51,5 +43,13 @@
     <content>The engagement pains me honestly #auspol #australianlaborparty #australiangreens #HAFF #housingaustraliafuturefund </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7262655146306342146" rel="alternate"/>
     <published>2023-08-02T09:31:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7263005883959921922</id>
+    <title>The one benefit of rent caps is in the short term, they can stop harsh rent increases on tennants. In the long run however, they can effect housing supply, harming renters and cause sharp rental increases anyway after the lease is up. Only in conjunction </title>
+    <updated>2023-08-03T08:12:19+00:00</updated>
+    <content>The one benefit of rent caps is in the short term, they can stop harsh rent increases on tennants. In the long run however, they can effect housing supply, harming renters and cause sharp rental increases anyway after the lease is up. Only in conjunction with rent protections against no ground evictions and dramatic increases to supply are they feasible, neither of which we do or will have #auspol #australiahousingcrisis #housingaustraliafuturefund #rentcaps #rentfreeze #australianlaborparty </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7263005883959921922" rel="alternate"/>
+    <published>2023-08-03T08:12:19+00:00</published>
   </entry>
 </feed>
