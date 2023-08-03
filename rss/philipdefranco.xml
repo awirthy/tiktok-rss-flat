@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-03T17:03:50+00:00</updated>
+  <updated>2023-08-03T20:25:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7262772636801895723</id>
-    <title>Belarusian Helicopters Cross Into Poland #usa #poland  Two Belarusian helicopters crossed into Poland earlier today violating their airspace during a training exercise. In response, Poland is deploying additional troops and combat helicopters to the borde</title>
-    <updated>2023-08-02T17:07:16+00:00</updated>
-    <content>Belarusian Helicopters Cross Into Poland #usa #poland  Two Belarusian helicopters crossed into Poland earlier today violating their airspace during a training exercise. In response, Poland is deploying additional troops and combat helicopters to the border with Belarus. This comes after the US said that an attack by Wagner will be considered an attack by Russia. However the US says it’s aware of the threats Wagner is making to Poland but that it’s unaware of any credible threats to Poland.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7262772636801895723" rel="alternate"/>
-    <published>2023-08-02T17:07:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7262783774134471978</id>
     <title>US Evacuates Embassy In Niger #usa #nigeria  The U.S. is preparing to evacuate its embassy in Niger but as of right now, its 2K troops are staying put. The junta in Niger has requested the rapid deployment of Wagner to the country. ECOWAS says the militar</title>
@@ -51,5 +43,13 @@
     <content>Coalition To Liberate Niger Grows #niger #usa  Ivory Coast, Senegal, and Benin say they will participate in ECOWAS’s military coalition to restore democracy in Niger. China has told its citizens in the country to prepare for an emergency. America has put Niger on its Do Not Travel list and has ordered all non-essential government employees and their families to leave. The US also told the ousted President of Niger that it remains committed to restoring democracy. New reports say that the Junta was in contact with Mali and Burkina Faso before they even took power suggesting that at some level Russia and Wagner have been involved since the very start. We’re now 3 days away from the war deadline with no sign of a diplomatic solution on the horizon. #ivorycoast #benin #senegal #nigeria </content>
     <link href="https://tiktok.com/@philipdefranco/video/7263142801657924906" rel="alternate"/>
     <published>2023-08-03T17:03:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7263194812277427499</id>
+    <title>US Military To Put Soldiers On Boats To Deter Iran #usa #america  The US Military is considering putting armed soldiers on commercial ships traveling through the Strait of Hormuz. Such a plan is unheard of, but its goal would be to deter Iran from seizing</title>
+    <updated>2023-08-03T20:25:39+00:00</updated>
+    <content>US Military To Put Soldiers On Boats To Deter Iran #usa #america  The US Military is considering putting armed soldiers on commercial ships traveling through the Strait of Hormuz. Such a plan is unheard of, but its goal would be to deter Iran from seizing and harassing civilian vessels. The US didn’t even go this far during the Tanker War it had with Iran in the 1980s. Currently two ships worth of Marines and Sailors are on their way to the Persian Gulf.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7263194812277427499" rel="alternate"/>
+    <published>2023-08-03T20:25:39+00:00</published>
   </entry>
 </feed>
