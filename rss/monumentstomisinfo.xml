@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-08-03T08:12:19+00:00</updated>
+  <updated>2023-08-04T09:18:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7262281961656388865</id>
-    <title>Come say hey #auspol #australianpolitics #australianlaborparty </title>
-    <updated>2023-08-01T09:23:08+00:00</updated>
-    <content>Come say hey #auspol #australianpolitics #australianlaborparty </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7262281961656388865" rel="alternate"/>
-    <published>2023-08-01T09:23:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7262648881903586562</id>
     <title>For once the interest rate will not move #auspol #philliplowe #interestrates #RBA </title>
@@ -51,5 +43,13 @@
     <content>The one benefit of rent caps is in the short term, they can stop harsh rent increases on tennants. In the long run however, they can effect housing supply, harming renters and cause sharp rental increases anyway after the lease is up. Only in conjunction with rent protections against no ground evictions and dramatic increases to supply are they feasible, neither of which we do or will have #auspol #australiahousingcrisis #housingaustraliafuturefund #rentcaps #rentfreeze #australianlaborparty </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7263005883959921922" rel="alternate"/>
     <published>2023-08-03T08:12:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7263393967427947778</id>
+    <title>Replying to @Mell There’s always some risk, I belive far more often not, in the case of stealthing, “no” can do a lot #auspol #feminism #melbourneaustralia #danielandrews </title>
+    <updated>2023-08-04T09:18:19+00:00</updated>
+    <content>Replying to @Mell There’s always some risk, I belive far more often not, in the case of stealthing, “no” can do a lot #auspol #feminism #melbourneaustralia #danielandrews </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7263393967427947778" rel="alternate"/>
+    <published>2023-08-04T09:18:19+00:00</published>
   </entry>
 </feed>
