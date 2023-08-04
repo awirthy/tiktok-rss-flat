@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-08-04T20:00:00+00:00</updated>
+  <updated>2023-08-04T23:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7260922565093494062</id>
-    <title>Trucking Lobbyists Are Blocking Crash Survivors from $$$ #Cars  #Trucks  #Crash  #Politics</title>
-    <updated>2023-07-29T20:00:00+00:00</updated>
-    <content>Trucking Lobbyists Are Blocking Crash Survivors from $$$ #Cars  #Trucks  #Crash  #Politics</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7260922565093494062" rel="alternate"/>
-    <published>2023-07-29T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7262096674040859946</id>
     <title>Texas is ripping libraries out of schools and turning them into “discipline centers.” #Texas  A judge in Arkansas temporarily blocked a law that would have made it a crime for librarians and booksellers to give minors “harmful” materials. And so last mont</title>
@@ -51,5 +43,13 @@
     <content>Bodies have now been found in Texas’ buoy barrier meant to prevent migrants crossing from from the Mexican border #Texas  #Mexico  #Politics  #US</content>
     <link href="https://tiktok.com/@pdspolitics/video/7263522866317167918" rel="alternate"/>
     <published>2023-08-04T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7263511978063433006</id>
+    <title>China &amp; Russia used Microsoft to hack the US government, and Microsoft might have known it had serious flaws the whole time. #Microsoft  Microsoft is under heavy scrutiny after both China and Russia managed to use vulnerabilities in their products to hack</title>
+    <updated>2023-08-04T23:00:00+00:00</updated>
+    <content>China &amp; Russia used Microsoft to hack the US government, and Microsoft might have known it had serious flaws the whole time. #Microsoft  Microsoft is under heavy scrutiny after both China and Russia managed to use vulnerabilities in their products to hack the United States government. The most recent hack was announced by Microsoft yesterday, and involved Russian hackers linked to their foreign intelligence service using Microsoft 365 accounts to trick Microsoft Teams users. Using their compromised 365 accounts, the hackers set up official-looking technical support-themed domains and sent Teams messages to a ton of people directing them to the fake websites. Once there they’d be asked to login and grant approval on their Microsoft multi-factor authentication app. But in reality, it was the hackers who needed that authentication code to get access to the target's account. Once in, they had full access and used it to access sensitive information at various global organizations and even US government agencies.#Tech  #Politics  #US</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7263511978063433006" rel="alternate"/>
+    <published>2023-08-04T23:00:00+00:00</published>
   </entry>
 </feed>
