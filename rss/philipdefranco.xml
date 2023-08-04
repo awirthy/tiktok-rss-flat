@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-03T20:25:39+00:00</updated>
+  <updated>2023-08-04T23:24:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7262783774134471978</id>
-    <title>US Evacuates Embassy In Niger #usa #nigeria  The U.S. is preparing to evacuate its embassy in Niger but as of right now, its 2K troops are staying put. The junta in Niger has requested the rapid deployment of Wagner to the country. ECOWAS says the militar</title>
-    <updated>2023-08-02T17:50:30+00:00</updated>
-    <content>US Evacuates Embassy In Niger #usa #nigeria  The U.S. is preparing to evacuate its embassy in Niger but as of right now, its 2K troops are staying put. The junta in Niger has requested the rapid deployment of Wagner to the country. ECOWAS says the military option is the very last option on the table, but that they need to prepare for that eventuality. Nigeria has cut all electricity to the country as Niger plunges into darkness and rolling blackouts. There are 4 days left on the war deadline.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7262783774134471978" rel="alternate"/>
-    <published>2023-08-02T17:50:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7262807707504102698</id>
     <title>Reports Of Mass Shooting At US Capitol #usa #america  The U.S. Capitol is on lockdown after reports of a mass shooter in the Senate. All Senate offices have been evacuated by armed police, and now additional buildings are being evacuated. Capitol Police a</title>
@@ -51,5 +43,13 @@
     <content>US Military To Put Soldiers On Boats To Deter Iran #usa #america  The US Military is considering putting armed soldiers on commercial ships traveling through the Strait of Hormuz. Such a plan is unheard of, but its goal would be to deter Iran from seizing and harassing civilian vessels. The US didn’t even go this far during the Tanker War it had with Iran in the 1980s. Currently two ships worth of Marines and Sailors are on their way to the Persian Gulf.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7263194812277427499" rel="alternate"/>
     <published>2023-08-03T20:25:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7263612031952211246</id>
+    <title>Niger Asks For American Intervention #usa #france  Niger’s President has called upon the United States to restore constitutional order in the country and to stop the military Junta from overthrowing their democracy. Saying that if they’re not stopped the </title>
+    <updated>2023-08-04T23:24:37+00:00</updated>
+    <content>Niger Asks For American Intervention #usa #france  Niger’s President has called upon the United States to restore constitutional order in the country and to stop the military Junta from overthrowing their democracy. Saying that if they’re not stopped the region will fall to Russian influence and become a breeding ground for terrorism. The Junta is currently holding the President hostage and they have ended diplomatic relations with the US, France, Nigeria, and Togo. ECOWAS made a plan for military intervention today, including how and when to deploy forces. France will reportedly give logistical and intelligence support for the invasion. Nigeria’s President has asked the senate to approve a full scale military intervention. They also have called for a blockade of Niger and for a no-fly-zone.  The Junta has cut off military cooperation with France and is now trying to expel French troops from the country. And they have reportedly entered talks with Wagner, presumably about exchanging protection for resources. There are disturbing videos and reports emerging of the Junta shooting protesters who support the President. They say they’ll fight any invasion to the death. There is a lot of misinformation going around suggesting that this was a popular revolution, that is false. This is a military coup that was started due to one man’s desire to stay in power. It was never about resources or the will of the people. The people of Niger certainly don’t back them and the US, France, and ECOWAS have a clear mandate to restore democracy here. There are two days left on the deadline to war.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7263612031952211246" rel="alternate"/>
+    <published>2023-08-04T23:24:37+00:00</published>
   </entry>
 </feed>
