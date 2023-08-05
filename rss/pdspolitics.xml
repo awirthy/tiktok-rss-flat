@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-08-04T23:00:00+00:00</updated>
+  <updated>2023-08-05T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7262096674040859946</id>
-    <title>Texas is ripping libraries out of schools and turning them into “discipline centers.” #Texas  A judge in Arkansas temporarily blocked a law that would have made it a crime for librarians and booksellers to give minors “harmful” materials. And so last mont</title>
-    <updated>2023-07-31T23:00:00+00:00</updated>
-    <content>Texas is ripping libraries out of schools and turning them into “discipline centers.” #Texas  A judge in Arkansas temporarily blocked a law that would have made it a crime for librarians and booksellers to give minors “harmful” materials. And so last month, a group of booksellers and libraries filed a lawsuit, arguing that elements of the new law were unconstitutional. With the groups also claiming that the law presented them with an impossible situation. And the judge agreed, issuing a preliminary injunction where he argued the law would: “permit, if not encourage, library committees and local governmental bodies to make censorship decisions based on content or viewpoint, which would violate the First Amendment.” Right, and this is just one state of many where conservative makers are trying to ban and restrict access to books. And some places are finding really unique ways to do this. Right, recently, Texas’ largest public school district in the state — Houston Independent School District — announced that it is eliminating school librarians at 28 schools, And converting the libraries into discipline centers for kids with behavior problems. And this isn’t just a few schools — the move will apply to 28 different schools, with the district saying an additional 57 schools will be assessed on a case-by-case basis. #BookTok  #BookBan  #Politics</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7262096674040859946" rel="alternate"/>
-    <published>2023-07-31T23:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7262436715678240043</id>
     <title>Trump Allegedly Pays Legal Battles with $$$ from Small Donors #Trump  Trump’s political action committee has spent more than $40 million on legal expenses for him and others JUST in the first half of 2023. That is what people familiar with the matter firs</title>
@@ -51,5 +43,13 @@
     <content>China &amp; Russia used Microsoft to hack the US government, and Microsoft might have known it had serious flaws the whole time. #Microsoft  Microsoft is under heavy scrutiny after both China and Russia managed to use vulnerabilities in their products to hack the United States government. The most recent hack was announced by Microsoft yesterday, and involved Russian hackers linked to their foreign intelligence service using Microsoft 365 accounts to trick Microsoft Teams users. Using their compromised 365 accounts, the hackers set up official-looking technical support-themed domains and sent Teams messages to a ton of people directing them to the fake websites. Once there they’d be asked to login and grant approval on their Microsoft multi-factor authentication app. But in reality, it was the hackers who needed that authentication code to get access to the target's account. Once in, they had full access and used it to access sensitive information at various global organizations and even US government agencies.#Tech  #Politics  #US</content>
     <link href="https://tiktok.com/@pdspolitics/video/7263511978063433006" rel="alternate"/>
     <published>2023-08-04T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7263517833940847918</id>
+    <title>A Lawsuit Has Now Blocked the US’ 1st Publicly-funded Catholic School from Opening, for Now #Catholic  The future of America’s first public religious school is in legal jeopardy. Right, a few months ago, we talked about the Oklahoma Statewide Virtual Char</title>
+    <updated>2023-08-05T20:00:00+00:00</updated>
+    <content>A Lawsuit Has Now Blocked the US’ 1st Publicly-funded Catholic School from Opening, for Now #Catholic  The future of America’s first public religious school is in legal jeopardy. Right, a few months ago, we talked about the Oklahoma Statewide Virtual Charter School Board just barely approving the nation’s first-ever religious school to be funded entirely by taxpayer dollars in a slim 3-2 vote.  That school, called St. Isidore of Seville Catholic Virtual School, is set will be run by the Roman Catholic Archdiocese of Oklahoma City and the Diocese of Tulsa and will have religion as an integral part of its curriculum. But, as a result, the school’s approval was widely expected to set up a MAJOR constitutional battle over taxpayer dollars going to fund religious schools. And now we’re officially seeing that battle come to fruition, with a group of parents, faith leaders, and education activists filing a lawsuit in Oklahoma yesterday to block the opening of St. Isidore. #Politics  #US  #Oklahoma</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7263517833940847918" rel="alternate"/>
+    <published>2023-08-05T20:00:00+00:00</published>
   </entry>
 </feed>
