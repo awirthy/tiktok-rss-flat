@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-08-04T09:45:58+00:00</updated>
+  <updated>2023-08-06T07:10:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7262655146306342146</id>
-    <title>The engagement pains me honestly #auspol #australianlaborparty #australiangreens #HAFF #housingaustraliafuturefund </title>
-    <updated>2023-08-02T09:31:17+00:00</updated>
-    <content>The engagement pains me honestly #auspol #australianlaborparty #australiangreens #HAFF #housingaustraliafuturefund </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7262655146306342146" rel="alternate"/>
-    <published>2023-08-02T09:31:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7263005883959921922</id>
-    <title>The one benefit of rent caps is in the short term, they can stop harsh rent increases on tennants. In the long run however, they can effect housing supply, harming renters and cause sharp rental increases anyway after the lease is up. Only in conjunction </title>
-    <updated>2023-08-03T08:12:19+00:00</updated>
-    <content>The one benefit of rent caps is in the short term, they can stop harsh rent increases on tennants. In the long run however, they can effect housing supply, harming renters and cause sharp rental increases anyway after the lease is up. Only in conjunction with rent protections against no ground evictions and dramatic increases to supply are they feasible, neither of which we do or will have #auspol #australiahousingcrisis #housingaustraliafuturefund #rentcaps #rentfreeze #australianlaborparty </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7263005883959921922" rel="alternate"/>
-    <published>2023-08-03T08:12:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7263393967427947778</id>
     <title>Replying to @Mell There’s always some risk, I belive far more often not, in the case of stealthing, “no” can do a lot #auspol #feminism #melbourneaustralia #danielandrews </title>
@@ -51,5 +35,21 @@
     <content>Thats such a rough start to a premiership #auspol #nswlabor #chrisminns #nswpolitics </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7263401089574259970" rel="alternate"/>
     <published>2023-08-04T09:45:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7264102017109396738</id>
+    <title>If you want to change my mind, show me counter evidence, until then, rent caps suck in my mind #auspol #rentcaps #rentfreeze #housingaustraliafuturefund #australianlaborparty </title>
+    <updated>2023-08-06T07:05:55+00:00</updated>
+    <content>If you want to change my mind, show me counter evidence, until then, rent caps suck in my mind #auspol #rentcaps #rentfreeze #housingaustraliafuturefund #australianlaborparty </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7264102017109396738" rel="alternate"/>
+    <published>2023-08-06T07:05:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7264103071930699009</id>
+    <title>It’s a mess #westernaustralia #markmcgowan #indigenousaustralian </title>
+    <updated>2023-08-06T07:10:00+00:00</updated>
+    <content>It’s a mess #westernaustralia #markmcgowan #indigenousaustralian </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7264103071930699009" rel="alternate"/>
+    <published>2023-08-06T07:10:00+00:00</published>
   </entry>
 </feed>
