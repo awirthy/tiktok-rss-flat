@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-07-31T08:53:49+00:00</updated>
+  <updated>2023-08-02T07:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7257368500136643842</id>
-    <title>Is this your office? 🤣😅 #officeculture  #officelife</title>
-    <updated>2023-07-19T03:37:11+00:00</updated>
-    <content>Is this your office? 🤣😅 #officeculture  #officelife</content>
-    <link href="https://tiktok.com/@jimmyrees/video/7257368500136643842" rel="alternate"/>
-    <published>2023-07-19T03:37:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7257866377615199489</id>
     <title>Where the Dads ar!? 🥴😂🤦‍♂️ #dadlife #dadsoftiktok #dads #funnydads </title>
@@ -51,5 +43,13 @@
     <content>“Only if youre having it” #mindgames #couples #couplegoals #funny </content>
     <link href="https://tiktok.com/@jimmyrees/video/7261903322104286482" rel="alternate"/>
     <published>2023-07-31T08:53:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7262576695419391234</id>
+    <title>Ever wanted to battle a kid at the playground? Well I did it…using my new Akedo Teenage Mutant Ninja Turtle Battle Arena. Did I win? Maybe... This awesome kids toy is out now at Big W, Kmart, Amazon and toy stores! Cowabunga!🍕  *AD* #moosetoys #akedo #TMN</title>
+    <updated>2023-08-02T07:00:00+00:00</updated>
+    <content>Ever wanted to battle a kid at the playground? Well I did it…using my new Akedo Teenage Mutant Ninja Turtle Battle Arena. Did I win? Maybe... This awesome kids toy is out now at Big W, Kmart, Amazon and toy stores! Cowabunga!🍕  *AD* #moosetoys #akedo #TMNT #teenagemutantninjaturtles </content>
+    <link href="https://tiktok.com/@jimmyrees/video/7262576695419391234" rel="alternate"/>
+    <published>2023-08-02T07:00:00+00:00</published>
   </entry>
 </feed>
