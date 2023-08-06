@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-08-05T20:00:00+00:00</updated>
+  <updated>2023-08-06T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7262436715678240043</id>
-    <title>Trump Allegedly Pays Legal Battles with $$$ from Small Donors #Trump  Trump’s political action committee has spent more than $40 million on legal expenses for him and others JUST in the first half of 2023. That is what people familiar with the matter firs</title>
-    <updated>2023-08-01T20:00:00+00:00</updated>
-    <content>Trump Allegedly Pays Legal Battles with $$$ from Small Donors #Trump  Trump’s political action committee has spent more than $40 million on legal expenses for him and others JUST in the first half of 2023. That is what people familiar with the matter first told The Washington Post, though sources have since relayed the same information to other outlets. According to the sources, Trump’s PAC, Save America, is expected to report the expenses in a legal spending in a filing today. Though as of recording, the disclosure has not officially been filed. And the legal costs just for the first half of the year are more than DOUBLE the $16 million the group spent on legal fees for ALL of 2022. Now, as far as who is receiving this legal aid, Trump advisers told The Post that the PAC is helping pay for “almost anyone drawn into the investigations who requests help from the former president and his advisers.” And, very notably here, most of the money the PAC raises comes “from small-dollar contributions by Trump supporters across the country,” But sources also say that the legal financing has raised questions from prosecutors about possible conflicts of interest between Trump and witnesses. And beyond that, The Post has also previously reported that the fundraising and creation by the Save America PAC is under investigation — though it hasn’t been accused of any wrongdoing yet. With some arguing that this is just a concerted effort to “drain” money from Trump and his allies “so he has far less to spend in 2024 than Democrats.”But others hit back on that, including big names like Tomi Lahren. #Politics  #US  #TomiLahren</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7262436715678240043" rel="alternate"/>
-    <published>2023-08-01T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7262857344755731758</id>
     <title>Former President Trump has been indicted on charges of trying to overturn the 2020 Presidential Election results. #DonaldTrump  #Politics  #US  #Indictment</title>
@@ -51,5 +43,13 @@
     <content>A Lawsuit Has Now Blocked the US’ 1st Publicly-funded Catholic School from Opening, for Now #Catholic  The future of America’s first public religious school is in legal jeopardy. Right, a few months ago, we talked about the Oklahoma Statewide Virtual Charter School Board just barely approving the nation’s first-ever religious school to be funded entirely by taxpayer dollars in a slim 3-2 vote.  That school, called St. Isidore of Seville Catholic Virtual School, is set will be run by the Roman Catholic Archdiocese of Oklahoma City and the Diocese of Tulsa and will have religion as an integral part of its curriculum. But, as a result, the school’s approval was widely expected to set up a MAJOR constitutional battle over taxpayer dollars going to fund religious schools. And now we’re officially seeing that battle come to fruition, with a group of parents, faith leaders, and education activists filing a lawsuit in Oklahoma yesterday to block the opening of St. Isidore. #Politics  #US  #Oklahoma</content>
     <link href="https://tiktok.com/@pdspolitics/video/7263517833940847918" rel="alternate"/>
     <published>2023-08-05T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7263520364867767594</id>
+    <title>The government just investigated itself for a crime it didn’t know it actually committed. #FBI  #US  #Politics  #Spy</title>
+    <updated>2023-08-06T20:00:00+00:00</updated>
+    <content>The government just investigated itself for a crime it didn’t know it actually committed. #FBI  #US  #Politics  #Spy</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7263520364867767594" rel="alternate"/>
+    <published>2023-08-06T20:00:00+00:00</published>
   </entry>
 </feed>
