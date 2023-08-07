@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-07T20:49:34+00:00</updated>
+  <updated>2023-08-07T22:17:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7263142801657924906</id>
-    <title>Coalition To Liberate Niger Grows #niger #usa  Ivory Coast, Senegal, and Benin say they will participate in ECOWAS’s military coalition to restore democracy in Niger. China has told its citizens in the country to prepare for an emergency. America has put </title>
-    <updated>2023-08-03T17:03:50+00:00</updated>
-    <content>Coalition To Liberate Niger Grows #niger #usa  Ivory Coast, Senegal, and Benin say they will participate in ECOWAS’s military coalition to restore democracy in Niger. China has told its citizens in the country to prepare for an emergency. America has put Niger on its Do Not Travel list and has ordered all non-essential government employees and their families to leave. The US also told the ousted President of Niger that it remains committed to restoring democracy. New reports say that the Junta was in contact with Mali and Burkina Faso before they even took power suggesting that at some level Russia and Wagner have been involved since the very start. We’re now 3 days away from the war deadline with no sign of a diplomatic solution on the horizon. #ivorycoast #benin #senegal #nigeria </content>
-    <link href="https://tiktok.com/@philipdefranco/video/7263142801657924906" rel="alternate"/>
-    <published>2023-08-03T17:03:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7263194812277427499</id>
     <title>US Military To Put Soldiers On Boats To Deter Iran #usa #america  The US Military is considering putting armed soldiers on commercial ships traveling through the Strait of Hormuz. Such a plan is unheard of, but its goal would be to deter Iran from seizing</title>
@@ -51,5 +43,13 @@
     <content>Calm Before World War: Africa #usa #france #nigeria  It’s the calm before the storm for World War: Africa. The U.S. is reportedly going to send a special emissary to try to reason with the Junta. The Junta has closed the airspace and has called on the people to be ready to “defend the homeland”. Wagner has deployed advisors to Niger to reportedly defend the capital; they'll also open an office there. France has issued a Do-Not-Travel advisory for Niger, Mail, and Burkina Faso. They’ve also canceled all flights going to these places and those that fly over them. ECOWAS’s deadline for military intervention is over but they say that the militaries need more time to amass troops so they’ve extended it a week to align with the African Union’s deadline, likely in an attempt to gain more manpower. They will hold an extraordinary summit on Thursday to seek one last attempt at diplomacy. #africa </content>
     <link href="https://tiktok.com/@philipdefranco/video/7264685315024080171" rel="alternate"/>
     <published>2023-08-07T20:49:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7264708088266116395</id>
+    <title>Kenya To Intervene In Haiti #usa #kenya  Kenya is ready to lead a multinational force into Haiti. Gangs in Haiti are causing a humanitarian crisis leading to the Prime Minister sending out a request to the world for help last year. The UN has backed the c</title>
+    <updated>2023-08-07T22:17:57+00:00</updated>
+    <content>Kenya To Intervene In Haiti #usa #kenya  Kenya is ready to lead a multinational force into Haiti. Gangs in Haiti are causing a humanitarian crisis leading to the Prime Minister sending out a request to the world for help last year. The UN has backed the calls for a security force but no country has been willing to do it because.. to keep it brief, it’s anarchy. But Kenya has answered the call and has offered to deploy a thousand police officers to the island to train and assist Haitian police. The U.S. has offered to propose it to the security council for Kenya as it mulls how it can support them by potentially forming a coalition of countries to support the UN action by giving personnel, financing, and equipment.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7264708088266116395" rel="alternate"/>
+    <published>2023-08-07T22:17:57+00:00</published>
   </entry>
 </feed>
