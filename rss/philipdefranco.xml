@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-07T19:26:12+00:00</updated>
+  <updated>2023-08-07T20:49:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7262825176608345386</id>
-    <title>Replying to @Philip DeFranco Senate Active Shooter Was Prank Call Capitol Police say that the 911 call about an active shooter may have been a “prank call”. All buildings have been cleared and Capitol Police reportedly sealed off all of the Senate’s under</title>
-    <updated>2023-08-02T20:31:10+00:00</updated>
-    <content>Replying to @Philip DeFranco Senate Active Shooter Was Prank Call Capitol Police say that the 911 call about an active shooter may have been a “prank call”. All buildings have been cleared and Capitol Police reportedly sealed off all of the Senate’s underground tunnels. No shooter has been located and so far no injuries reported. Police are still searching but this does appear to be a false alarm.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7262825176608345386" rel="alternate"/>
-    <published>2023-08-02T20:31:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7263142801657924906</id>
     <title>Coalition To Liberate Niger Grows #niger #usa  Ivory Coast, Senegal, and Benin say they will participate in ECOWAS’s military coalition to restore democracy in Niger. China has told its citizens in the country to prepare for an emergency. America has put </title>
@@ -51,5 +43,13 @@
     <content>China &amp; Russia Sail Off Coast Of America #usa #america  China and Russia sent a huge Naval patrol near Alaska. At least 11 Chinese and Russian ships came very close to Alaska but never entered US waters. 4 US destroyers and P-8 aircraft were dispatched to shadow their patrol. It was reportedly a historic first as this was the largest flotilla to ever approach the United States. The U.S. says this was highly provocative</content>
     <link href="https://tiktok.com/@philipdefranco/video/7264663850971155755" rel="alternate"/>
     <published>2023-08-07T19:26:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7264685315024080171</id>
+    <title>Calm Before World War: Africa #usa #france #nigeria  It’s the calm before the storm for World War: Africa. The U.S. is reportedly going to send a special emissary to try to reason with the Junta. The Junta has closed the airspace and has called on the peo</title>
+    <updated>2023-08-07T20:49:34+00:00</updated>
+    <content>Calm Before World War: Africa #usa #france #nigeria  It’s the calm before the storm for World War: Africa. The U.S. is reportedly going to send a special emissary to try to reason with the Junta. The Junta has closed the airspace and has called on the people to be ready to “defend the homeland”. Wagner has deployed advisors to Niger to reportedly defend the capital; they'll also open an office there. France has issued a Do-Not-Travel advisory for Niger, Mail, and Burkina Faso. They’ve also canceled all flights going to these places and those that fly over them. ECOWAS’s deadline for military intervention is over but they say that the militaries need more time to amass troops so they’ve extended it a week to align with the African Union’s deadline, likely in an attempt to gain more manpower. They will hold an extraordinary summit on Thursday to seek one last attempt at diplomacy. #africa </content>
+    <link href="https://tiktok.com/@philipdefranco/video/7264685315024080171" rel="alternate"/>
+    <published>2023-08-07T20:49:34+00:00</published>
   </entry>
 </feed>
