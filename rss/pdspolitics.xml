@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-08-06T20:00:00+00:00</updated>
+  <updated>2023-08-07T23:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7262857344755731758</id>
-    <title>Former President Trump has been indicted on charges of trying to overturn the 2020 Presidential Election results. #DonaldTrump  #Politics  #US  #Indictment</title>
-    <updated>2023-08-02T22:38:05+00:00</updated>
-    <content>Former President Trump has been indicted on charges of trying to overturn the 2020 Presidential Election results. #DonaldTrump  #Politics  #US  #Indictment</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7262857344755731758" rel="alternate"/>
-    <published>2023-08-02T22:38:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7263522866317167918</id>
     <title>Bodies have now been found in Texas’ buoy barrier meant to prevent migrants crossing from from the Mexican border #Texas  #Mexico  #Politics  #US</title>
@@ -51,5 +43,13 @@
     <content>The government just investigated itself for a crime it didn’t know it actually committed. #FBI  #US  #Politics  #Spy</content>
     <link href="https://tiktok.com/@pdspolitics/video/7263520364867767594" rel="alternate"/>
     <published>2023-08-06T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7264712670190816555</id>
+    <title>According to former President Trump’s own lawyer, he only “asked” for the election to be overturned, he didn’t actually do it. #Trump   Trump’s attempts to overturn the 2020 election weren’t criminal because he didn’t DIRECT Mike Pence to throw out Biden’</title>
+    <updated>2023-08-07T23:00:00+00:00</updated>
+    <content>According to former President Trump’s own lawyer, he only “asked” for the election to be overturned, he didn’t actually do it. #Trump   Trump’s attempts to overturn the 2020 election weren’t criminal because he didn’t DIRECT Mike Pence to throw out Biden’s legitimate win, he just ASKED him nicely! That’s what Trump’s lawyer John Lauro argued during an interview with CNN last night, seemingly previewing what Trump’s defense will be in the new federal case against him. With Lauro claiming that Trump's attempts to get Pence to toss the slate of electors and pause the certification of the election amounted to free speech protected under the First Amendment: “Asking is aspirational. Asking is not action. It’s core free speech. The press should be defending free speech.” #Politics  #US  #Election</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7264712670190816555" rel="alternate"/>
+    <published>2023-08-07T23:00:00+00:00</published>
   </entry>
 </feed>
