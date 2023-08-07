@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-08-03T04:30:13+00:00</updated>
+  <updated>2023-08-07T07:21:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7260743802565020934</id>
-    <title>The Victorian Government has banned gas stoves, ovens and heating in all new homes and public buildings in the state. What are your thoughts? #australia #news #climatechange #emissions #carbon #gas #energy #clean #auspol #politics #melbourne #health #poll</title>
-    <updated>2023-07-28T05:54:17+00:00</updated>
-    <content>The Victorian Government has banned gas stoves, ovens and heating in all new homes and public buildings in the state. What are your thoughts? #australia #news #climatechange #emissions #carbon #gas #energy #clean #auspol #politics #melbourne #health #pollution #learnontiktok #todayilearned </content>
-    <link href="https://tiktok.com/@viceautoday/video/7260743802565020934" rel="alternate"/>
-    <published>2023-07-28T05:54:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7261864527975828743</id>
     <title>Australia’s winter weather has been wild. This weekend was as much as 8 degrees warmer than the July average high temperatures in some parts, including Sydney that got up to 25.2C on Saturday. So what’s going on? #australia #news #weather #winter #climate</title>
@@ -51,5 +43,13 @@
     <content>It’s a big week in Australia’s rental crisis! Ever had a mouldy ceiling or mushrooms growing in the shower of your Australian rental? You can tell the government about it today. Submissions to the parliamentary inquiry are about to close – the same week Labor’s Housing Australia Future Fund was reintroduced to parliament. Here’s what you need to know. #australia #news #politics #auspol #rent #rental #house #housing #rentalproperty #renter #mold #mushrooms #landlord </content>
     <link href="https://tiktok.com/@viceautoday/video/7262948648508493074" rel="alternate"/>
     <published>2023-08-03T04:30:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7264477157164944658</id>
+    <title>Three people have died and one remains in a critical condition in Victoria after they were taken to hospital with mushroom poisoning. Now, the homicide squad is investigating. #australia #news #victoria #melbourne #mushroom #poison #toxic #health #healtht</title>
+    <updated>2023-08-07T07:21:39+00:00</updated>
+    <content>Three people have died and one remains in a critical condition in Victoria after they were taken to hospital with mushroom poisoning. Now, the homicide squad is investigating. #australia #news #victoria #melbourne #mushroom #poison #toxic #health #healthtok #foraging #fungus #fungi #todayilearned #learnontiktok </content>
+    <link href="https://tiktok.com/@viceautoday/video/7264477157164944658" rel="alternate"/>
+    <published>2023-08-07T07:21:39+00:00</published>
   </entry>
 </feed>
