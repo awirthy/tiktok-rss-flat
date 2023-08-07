@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-08-07T08:09:47+00:00</updated>
+  <updated>2023-08-07T08:44:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7263400424017759490</id>
-    <title>Similar but not the same #auspol #nursingaustralia #housingaustraliafuturefund #australianlabor #rentfreeze </title>
-    <updated>2023-08-04T09:43:21+00:00</updated>
-    <content>Similar but not the same #auspol #nursingaustralia #housingaustraliafuturefund #australianlabor #rentfreeze </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7263400424017759490" rel="alternate"/>
-    <published>2023-08-04T09:43:21+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7263401089574259970</id>
-    <title>Thats such a rough start to a premiership #auspol #nswlabor #chrisminns #nswpolitics </title>
-    <updated>2023-08-04T09:45:58+00:00</updated>
-    <content>Thats such a rough start to a premiership #auspol #nswlabor #chrisminns #nswpolitics </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7263401089574259970" rel="alternate"/>
-    <published>2023-08-04T09:45:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7264102017109396738</id>
     <title>If you want to change my mind, show me counter evidence, until then, rent caps suck in my mind #auspol #rentcaps #rentfreeze #housingaustraliafuturefund #australianlaborparty </title>
@@ -51,5 +35,21 @@
     <content>And down goes the rental supply #auspol #housingcrisisaustralia #housingaustraliafuturefund #rentcaps </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7264489561508580610" rel="alternate"/>
     <published>2023-08-07T08:09:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7264497523434310913</id>
+    <title>Just a rhetorical god #auspol #australianlaborparty #nswpolitics #nswlabor </title>
+    <updated>2023-08-07T08:40:40+00:00</updated>
+    <content>Just a rhetorical god #auspol #australianlaborparty #nswpolitics #nswlabor </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7264497523434310913" rel="alternate"/>
+    <published>2023-08-07T08:40:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7264498531468102913</id>
+    <title>Another allegation against a MP #auspol #melbourne #danielandrews #australianlaborparty </title>
+    <updated>2023-08-07T08:44:34+00:00</updated>
+    <content>Another allegation against a MP #auspol #melbourne #danielandrews #australianlaborparty </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7264498531468102913" rel="alternate"/>
+    <published>2023-08-07T08:44:34+00:00</published>
   </entry>
 </feed>
