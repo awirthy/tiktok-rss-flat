@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-08-07T04:21:27+00:00</updated>
+  <updated>2023-08-07T19:18:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7262736251428605217</id>
-    <title>I can’t tell if i love them or they creep me out…🤔🥴</title>
-    <updated>2023-08-02T14:46:00+00:00</updated>
-    <content>I can’t tell if i love them or they creep me out…🤔🥴</content>
-    <link href="https://tiktok.com/@dylan.page/video/7262736251428605217" rel="alternate"/>
-    <published>2023-08-02T14:46:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7262772910224379169</id>
     <title>2 weeks like this is actually hard to imagine!🤯</title>
@@ -51,5 +43,13 @@
     <content>ONLY ONE PERSON CAN END THIS… AND ITS NOT ME.😤</content>
     <link href="https://tiktok.com/@dylan.page/video/7264430527019584800" rel="alternate"/>
     <published>2023-08-07T04:21:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7264661872945777953</id>
+    <title>Absolutely unbelievable scenes!! 17 HOURS well worth it!!🙌🥵🥵</title>
+    <updated>2023-08-07T19:18:25+00:00</updated>
+    <content>Absolutely unbelievable scenes!! 17 HOURS well worth it!!🙌🥵🥵</content>
+    <link href="https://tiktok.com/@dylan.page/video/7264661872945777953" rel="alternate"/>
+    <published>2023-08-07T19:18:25+00:00</published>
   </entry>
 </feed>
