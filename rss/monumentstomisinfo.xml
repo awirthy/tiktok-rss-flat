@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-08-07T08:44:34+00:00</updated>
+  <updated>2023-08-08T09:19:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7264102017109396738</id>
-    <title>If you want to change my mind, show me counter evidence, until then, rent caps suck in my mind #auspol #rentcaps #rentfreeze #housingaustraliafuturefund #australianlaborparty </title>
-    <updated>2023-08-06T07:05:55+00:00</updated>
-    <content>If you want to change my mind, show me counter evidence, until then, rent caps suck in my mind #auspol #rentcaps #rentfreeze #housingaustraliafuturefund #australianlaborparty </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7264102017109396738" rel="alternate"/>
-    <published>2023-08-06T07:05:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7264103071930699009</id>
-    <title>It’s a mess #westernaustralia #markmcgowan #indigenousaustralian </title>
-    <updated>2023-08-06T07:10:00+00:00</updated>
-    <content>It’s a mess #westernaustralia #markmcgowan #indigenousaustralian </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7264103071930699009" rel="alternate"/>
-    <published>2023-08-06T07:10:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7264489561508580610</id>
     <title>And down goes the rental supply #auspol #housingcrisisaustralia #housingaustraliafuturefund #rentcaps </title>
@@ -51,5 +35,21 @@
     <content>Another allegation against a MP #auspol #melbourne #danielandrews #australianlaborparty </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7264498531468102913" rel="alternate"/>
     <published>2023-08-07T08:44:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7264877989144431874</id>
+    <title>And now we wait and see what more evidence comes #pwc #auspol #pricewaterhousecooper #pricewaterhousecoopers </title>
+    <updated>2023-08-08T09:17:04+00:00</updated>
+    <content>And now we wait and see what more evidence comes #pwc #auspol #pricewaterhousecooper #pricewaterhousecoopers </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7264877989144431874" rel="alternate"/>
+    <published>2023-08-08T09:17:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7264878581682015489</id>
+    <title>Something dramatically need to change if we want to see the Yes vote passed #auspol #voicetoparliament #indigenousaustralian #voteyes23 </title>
+    <updated>2023-08-08T09:19:20+00:00</updated>
+    <content>Something dramatically need to change if we want to see the Yes vote passed #auspol #voicetoparliament #indigenousaustralian #voteyes23 </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7264878581682015489" rel="alternate"/>
+    <published>2023-08-08T09:19:20+00:00</published>
   </entry>
 </feed>
