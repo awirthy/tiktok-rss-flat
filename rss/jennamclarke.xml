@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jennamclarke</id>
   <title>jennamclarke TikTok</title>
-  <updated>2023-08-07T13:16:08+00:00</updated>
+  <updated>2023-08-08T06:48:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jennamclarke</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jennamclarke/video/7256763280859991297</id>
-    <title>4 things to know before ☕️ on Tuesday including #thevoice campaign kicks off and we’re not having s*x because the economy sucks more than the dating pool.  👋🏼 ya every night from 10:30pm for #thefrontpage on #skynewsaustralia </title>
-    <updated>2023-07-17T12:27:52+00:00</updated>
-    <content>4 things to know before ☕️ on Tuesday including #thevoice campaign kicks off and we’re not having s*x because the economy sucks more than the dating pool.  👋🏼 ya every night from 10:30pm for #thefrontpage on #skynewsaustralia </content>
-    <link href="https://tiktok.com/@jennamclarke/video/7256763280859991297" rel="alternate"/>
-    <published>2023-07-17T12:27:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jennamclarke/video/7257145492394511617</id>
     <title>4 things to know before ☕️ on Wednesday including good news for those who enjoyed cancelled plans, the #commgamesaus is off thanks to #danandrews flaking.  👋🏼 ya every night from 10:30pm for #thefrontpage on #skynewsaustralia </title>
@@ -51,5 +43,13 @@
     <content>4 things to know before ☕️ on Tuesday including #matildas glory, #mushroom terror, #barbie breaking records and #canberra being a hot bureaucratic mess.  👋🏼 every night from 10:30pm for #thefrontpage on #skynewsaustralia   </content>
     <link href="https://tiktok.com/@jennamclarke/video/7264568510418865409" rel="alternate"/>
     <published>2023-08-07T13:16:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jennamclarke/video/7264839683207695617</id>
+    <title>“Scott Morrison’s left overs”. Things got heated about #thevoice in the #senate today between #pennywong and the #liberals #auspol #politok </title>
+    <updated>2023-08-08T06:48:26+00:00</updated>
+    <content>“Scott Morrison’s left overs”. Things got heated about #thevoice in the #senate today between #pennywong and the #liberals #auspol #politok </content>
+    <link href="https://tiktok.com/@jennamclarke/video/7264839683207695617" rel="alternate"/>
+    <published>2023-08-08T06:48:26+00:00</published>
   </entry>
 </feed>
