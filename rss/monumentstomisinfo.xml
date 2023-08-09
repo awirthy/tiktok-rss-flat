@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-08-08T09:19:20+00:00</updated>
+  <updated>2023-08-09T08:22:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7264489561508580610</id>
-    <title>And down goes the rental supply #auspol #housingcrisisaustralia #housingaustraliafuturefund #rentcaps </title>
-    <updated>2023-08-07T08:09:47+00:00</updated>
-    <content>And down goes the rental supply #auspol #housingcrisisaustralia #housingaustraliafuturefund #rentcaps </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7264489561508580610" rel="alternate"/>
-    <published>2023-08-07T08:09:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7264497523434310913</id>
-    <title>Just a rhetorical god #auspol #australianlaborparty #nswpolitics #nswlabor </title>
-    <updated>2023-08-07T08:40:40+00:00</updated>
-    <content>Just a rhetorical god #auspol #australianlaborparty #nswpolitics #nswlabor </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7264497523434310913" rel="alternate"/>
-    <published>2023-08-07T08:40:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7264498531468102913</id>
-    <title>Another allegation against a MP #auspol #melbourne #danielandrews #australianlaborparty </title>
-    <updated>2023-08-07T08:44:34+00:00</updated>
-    <content>Another allegation against a MP #auspol #melbourne #danielandrews #australianlaborparty </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7264498531468102913" rel="alternate"/>
-    <published>2023-08-07T08:44:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7264877989144431874</id>
     <title>And now we wait and see what more evidence comes #pwc #auspol #pricewaterhousecooper #pricewaterhousecoopers </title>
@@ -51,5 +27,29 @@
     <content>Something dramatically need to change if we want to see the Yes vote passed #auspol #voicetoparliament #indigenousaustralian #voteyes23 </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7264878581682015489" rel="alternate"/>
     <published>2023-08-08T09:19:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7265229412491169026</id>
+    <title>As it stands “No” is coming out way ahead #auspol #voicetoparliament #sayyes2023 #indigenousaustralian </title>
+    <updated>2023-08-09T08:00:48+00:00</updated>
+    <content>As it stands “No” is coming out way ahead #auspol #voicetoparliament #sayyes2023 #indigenousaustralian </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7265229412491169026" rel="alternate"/>
+    <published>2023-08-09T08:00:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7265234796085857537</id>
+    <title>Just a sad showing all around from the cops involved #auspol #brittanyhiggins #brucelehrmann #auspolice </title>
+    <updated>2023-08-09T08:21:43+00:00</updated>
+    <content>Just a sad showing all around from the cops involved #auspol #brittanyhiggins #brucelehrmann #auspolice </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7265234796085857537" rel="alternate"/>
+    <published>2023-08-09T08:21:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7265235059836243201</id>
+    <title>Its nowhere near enough but inflation comes at a cost #auspol #jobseeker #centrelink #australianlaborparty </title>
+    <updated>2023-08-09T08:22:42+00:00</updated>
+    <content>Its nowhere near enough but inflation comes at a cost #auspol #jobseeker #centrelink #australianlaborparty </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7265235059836243201" rel="alternate"/>
+    <published>2023-08-09T08:22:42+00:00</published>
   </entry>
 </feed>
