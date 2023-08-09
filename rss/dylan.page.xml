@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-08-07T19:18:25+00:00</updated>
+  <updated>2023-08-09T08:42:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7262772910224379169</id>
-    <title>2 weeks like this is actually hard to imagine!🤯</title>
-    <updated>2023-08-02T17:08:16+00:00</updated>
-    <content>2 weeks like this is actually hard to imagine!🤯</content>
-    <link href="https://tiktok.com/@dylan.page/video/7262772910224379169" rel="alternate"/>
-    <published>2023-08-02T17:08:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7263112056327376160</id>
-    <title>What do we think about this??🤔🤯</title>
-    <updated>2023-08-03T15:04:23+00:00</updated>
-    <content>What do we think about this??🤔🤯</content>
-    <link href="https://tiktok.com/@dylan.page/video/7263112056327376160" rel="alternate"/>
-    <published>2023-08-03T15:04:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7263148324935585057</id>
-    <title>That cow needs to buy a lottery ticket </title>
-    <updated>2023-08-03T17:25:04+00:00</updated>
-    <content>That cow needs to buy a lottery ticket </content>
-    <link href="https://tiktok.com/@dylan.page/video/7263148324935585057" rel="alternate"/>
-    <published>2023-08-03T17:25:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7264430527019584800</id>
     <title>ONLY ONE PERSON CAN END THIS… AND ITS NOT ME.😤</title>
@@ -51,5 +27,29 @@
     <content>Absolutely unbelievable scenes!! 17 HOURS well worth it!!🙌🥵🥵</content>
     <link href="https://tiktok.com/@dylan.page/video/7264661872945777953" rel="alternate"/>
     <published>2023-08-07T19:18:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7264943451106544928</id>
+    <title>Is this what we expected??!🤔</title>
+    <updated>2023-08-08T13:31:05+00:00</updated>
+    <content>Is this what we expected??!🤔</content>
+    <link href="https://tiktok.com/@dylan.page/video/7264943451106544928" rel="alternate"/>
+    <published>2023-08-08T13:31:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7264973862532599073</id>
+    <title>I would hate and love to have this dog at the same time!</title>
+    <updated>2023-08-08T15:29:05+00:00</updated>
+    <content>I would hate and love to have this dog at the same time!</content>
+    <link href="https://tiktok.com/@dylan.page/video/7264973862532599073" rel="alternate"/>
+    <published>2023-08-08T15:29:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7265240050609179937</id>
+    <title>No studio No problem! 😂😉</title>
+    <updated>2023-08-09T08:42:08+00:00</updated>
+    <content>No studio No problem! 😂😉</content>
+    <link href="https://tiktok.com/@dylan.page/video/7265240050609179937" rel="alternate"/>
+    <published>2023-08-09T08:42:08+00:00</published>
   </entry>
 </feed>

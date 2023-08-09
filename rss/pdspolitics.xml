@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-08-07T23:00:00+00:00</updated>
+  <updated>2023-08-09T23:23:03.524213+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,44 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7263522866317167918</id>
-    <title>Bodies have now been found in Texas’ buoy barrier meant to prevent migrants crossing from from the Mexican border #Texas  #Mexico  #Politics  #US</title>
-    <updated>2023-08-04T20:00:00+00:00</updated>
-    <content>Bodies have now been found in Texas’ buoy barrier meant to prevent migrants crossing from from the Mexican border #Texas  #Mexico  #Politics  #US</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7263522866317167918" rel="alternate"/>
-    <published>2023-08-04T20:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7263511978063433006</id>
-    <title>China &amp; Russia used Microsoft to hack the US government, and Microsoft might have known it had serious flaws the whole time. #Microsoft  Microsoft is under heavy scrutiny after both China and Russia managed to use vulnerabilities in their products to hack</title>
-    <updated>2023-08-04T23:00:00+00:00</updated>
-    <content>China &amp; Russia used Microsoft to hack the US government, and Microsoft might have known it had serious flaws the whole time. #Microsoft  Microsoft is under heavy scrutiny after both China and Russia managed to use vulnerabilities in their products to hack the United States government. The most recent hack was announced by Microsoft yesterday, and involved Russian hackers linked to their foreign intelligence service using Microsoft 365 accounts to trick Microsoft Teams users. Using their compromised 365 accounts, the hackers set up official-looking technical support-themed domains and sent Teams messages to a ton of people directing them to the fake websites. Once there they’d be asked to login and grant approval on their Microsoft multi-factor authentication app. But in reality, it was the hackers who needed that authentication code to get access to the target's account. Once in, they had full access and used it to access sensitive information at various global organizations and even US government agencies.#Tech  #Politics  #US</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7263511978063433006" rel="alternate"/>
-    <published>2023-08-04T23:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7263517833940847918</id>
-    <title>A Lawsuit Has Now Blocked the US’ 1st Publicly-funded Catholic School from Opening, for Now #Catholic  The future of America’s first public religious school is in legal jeopardy. Right, a few months ago, we talked about the Oklahoma Statewide Virtual Char</title>
-    <updated>2023-08-05T20:00:00+00:00</updated>
-    <content>A Lawsuit Has Now Blocked the US’ 1st Publicly-funded Catholic School from Opening, for Now #Catholic  The future of America’s first public religious school is in legal jeopardy. Right, a few months ago, we talked about the Oklahoma Statewide Virtual Charter School Board just barely approving the nation’s first-ever religious school to be funded entirely by taxpayer dollars in a slim 3-2 vote.  That school, called St. Isidore of Seville Catholic Virtual School, is set will be run by the Roman Catholic Archdiocese of Oklahoma City and the Diocese of Tulsa and will have religion as an integral part of its curriculum. But, as a result, the school’s approval was widely expected to set up a MAJOR constitutional battle over taxpayer dollars going to fund religious schools. And now we’re officially seeing that battle come to fruition, with a group of parents, faith leaders, and education activists filing a lawsuit in Oklahoma yesterday to block the opening of St. Isidore. #Politics  #US  #Oklahoma</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7263517833940847918" rel="alternate"/>
-    <published>2023-08-05T20:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7263520364867767594</id>
-    <title>The government just investigated itself for a crime it didn’t know it actually committed. #FBI  #US  #Politics  #Spy</title>
-    <updated>2023-08-06T20:00:00+00:00</updated>
-    <content>The government just investigated itself for a crime it didn’t know it actually committed. #FBI  #US  #Politics  #Spy</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7263520364867767594" rel="alternate"/>
-    <published>2023-08-06T20:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7264712670190816555</id>
-    <title>According to former President Trump’s own lawyer, he only “asked” for the election to be overturned, he didn’t actually do it. #Trump   Trump’s attempts to overturn the 2020 election weren’t criminal because he didn’t DIRECT Mike Pence to throw out Biden’</title>
-    <updated>2023-08-07T23:00:00+00:00</updated>
-    <content>According to former President Trump’s own lawyer, he only “asked” for the election to be overturned, he didn’t actually do it. #Trump   Trump’s attempts to overturn the 2020 election weren’t criminal because he didn’t DIRECT Mike Pence to throw out Biden’s legitimate win, he just ASKED him nicely! That’s what Trump’s lawyer John Lauro argued during an interview with CNN last night, seemingly previewing what Trump’s defense will be in the new federal case against him. With Lauro claiming that Trump's attempts to get Pence to toss the slate of electors and pause the certification of the election amounted to free speech protected under the First Amendment: “Asking is aspirational. Asking is not action. It’s core free speech. The press should be defending free speech.” #Politics  #US  #Election</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7264712670190816555" rel="alternate"/>
-    <published>2023-08-07T23:00:00+00:00</published>
-  </entry>
 </feed>
