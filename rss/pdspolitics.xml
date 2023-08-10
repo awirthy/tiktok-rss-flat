@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-08-09T23:00:00+00:00</updated>
+  <updated>2023-08-10T22:59:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7263517833940847918</id>
-    <title>A Lawsuit Has Now Blocked the US’ 1st Publicly-funded Catholic School from Opening, for Now #Catholic  The future of America’s first public religious school is in legal jeopardy. Right, a few months ago, we talked about the Oklahoma Statewide Virtual Char</title>
-    <updated>2023-08-05T20:00:00+00:00</updated>
-    <content>A Lawsuit Has Now Blocked the US’ 1st Publicly-funded Catholic School from Opening, for Now #Catholic  The future of America’s first public religious school is in legal jeopardy. Right, a few months ago, we talked about the Oklahoma Statewide Virtual Charter School Board just barely approving the nation’s first-ever religious school to be funded entirely by taxpayer dollars in a slim 3-2 vote.  That school, called St. Isidore of Seville Catholic Virtual School, is set will be run by the Roman Catholic Archdiocese of Oklahoma City and the Diocese of Tulsa and will have religion as an integral part of its curriculum. But, as a result, the school’s approval was widely expected to set up a MAJOR constitutional battle over taxpayer dollars going to fund religious schools. And now we’re officially seeing that battle come to fruition, with a group of parents, faith leaders, and education activists filing a lawsuit in Oklahoma yesterday to block the opening of St. Isidore. #Politics  #US  #Oklahoma</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7263517833940847918" rel="alternate"/>
-    <published>2023-08-05T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7263520364867767594</id>
     <title>The government just investigated itself for a crime it didn’t know it actually committed. #FBI  #US  #Politics  #Spy</title>
@@ -51,5 +43,13 @@
     <content>Voters in Ohio overwhelmingly rejected Issue 1, which threatened to change democracy in the state forever #Ohio  #ohioelection  #Vote  #Politics</content>
     <link href="https://tiktok.com/@pdspolitics/video/7265436544914165038" rel="alternate"/>
     <published>2023-08-09T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7265831640109239594</id>
+    <title>ProPublica Finds Clarence Thomas Accepted Even More Gifts #ClarenceThomas  That includes: “At least 38 destination vacations, including a previously unreported voyage on a yacht around the Bahamas; 26 private jet flights, plus an additional eight by helic</title>
+    <updated>2023-08-10T22:59:28+00:00</updated>
+    <content>ProPublica Finds Clarence Thomas Accepted Even More Gifts #ClarenceThomas  That includes: “At least 38 destination vacations, including a previously unreported voyage on a yacht around the Bahamas; 26 private jet flights, plus an additional eight by helicopter; a dozen VIP passes to professional and college sporting events, typically perched in the skybox; two stays at luxury resorts in Florida and Jamaica; and one standing invitation to an uber-exclusive golf club overlooking the Atlantic coast.” But the report explicitly states that even THAT “it is almost certainly an undercount.” #political  #US  #Propublica</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7265831640109239594" rel="alternate"/>
+    <published>2023-08-10T22:59:28+00:00</published>
   </entry>
 </feed>
