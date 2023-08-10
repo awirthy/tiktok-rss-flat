@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-08-09T07:37:35+00:00</updated>
+  <updated>2023-08-10T06:31:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7262634590655761666</id>
-    <title>The man was first arrested in august 2022. #news #aunews #investigation #qld #queensland </title>
-    <updated>2023-08-02T08:11:31+00:00</updated>
-    <content>The man was first arrested in august 2022. #news #aunews #investigation #qld #queensland </content>
-    <link href="https://tiktok.com/@viceautoday/video/7262634590655761666" rel="alternate"/>
-    <published>2023-08-02T08:11:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7262948648508493074</id>
     <title>It’s a big week in Australia’s rental crisis! Ever had a mouldy ceiling or mushrooms growing in the shower of your Australian rental? You can tell the government about it today. Submissions to the parliamentary inquiry are about to close – the same week L</title>
@@ -51,5 +43,13 @@
     <content>Commonwealth Bank just reported a record $10.2 billion annual profit. Why are Australia’s banks making so much money right now, while we’re in a cost-of-living crisis? #australia #news #bank #money #profit #business #finance #politics #auspol #government #explained #todayilearned #learnontiktok </content>
     <link href="https://tiktok.com/@viceautoday/video/7265223434521627911" rel="alternate"/>
     <published>2023-08-09T07:37:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7265577525143751943</id>
+    <title>A Melbourne man behind a campaign that opposes the Indigenous Voice to Parliament has been accused of using AI-generated First Nations faces in social media ads encouraging people to vote No. #australia #news #politics #auspol #indigenous #firstnations #p</title>
+    <updated>2023-08-10T06:31:38+00:00</updated>
+    <content>A Melbourne man behind a campaign that opposes the Indigenous Voice to Parliament has been accused of using AI-generated First Nations faces in social media ads encouraging people to vote No. #australia #news #politics #auspol #indigenous #firstnations #parliament #vote #voice #ai #aigenerated #todayilearned #learnontiktok</content>
+    <link href="https://tiktok.com/@viceautoday/video/7265577525143751943" rel="alternate"/>
+    <published>2023-08-10T06:31:38+00:00</published>
   </entry>
 </feed>
