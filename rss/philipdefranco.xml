@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-10T18:30:48+00:00</updated>
+  <updated>2023-08-10T21:45:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7265061817574198574</id>
-    <title>Belarus Begins Military Drills On Border With Poland and Lithuania #poland #usa  Belarus has begun military drills on the border with Poland and Lithuania. They say the drills are based on experiences from the “Special military operation”. This comes afte</title>
-    <updated>2023-08-08T21:10:28+00:00</updated>
-    <content>Belarus Begins Military Drills On Border With Poland and Lithuania #poland #usa  Belarus has begun military drills on the border with Poland and Lithuania. They say the drills are based on experiences from the “Special military operation”. This comes after two Belarusian helicopters flew into Poland last week. Poland and Lithuania have built up forces on the border in order to protect against Wagner and Belarus. I’m sure European Texas will have something to say about this.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7265061817574198574" rel="alternate"/>
-    <published>2023-08-08T21:10:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7265409212384021806</id>
     <title>Russia Won’t Have A Presidential Election #russia #usa  Russia says they may not hold Presidential elections next year because Putin will obviously win re-election. Putin is expected to announce his run for a 6th presidential term, especially since he cha</title>
@@ -51,5 +43,13 @@
     <content>World War Africa Has Begun #usa #nigeria  World War: Africa has begun. ECOWAS has activated its standby forces to restore democracy and constitutional order in the Republic of Niger. They maintain that all options remain on the table. Earlier today, Niger told the US that if their neighboring nations intervene they will kill the ousted President that they’re holding hostage. This seems to be what pushed ECOWAS to intervention. Mali and Burkina Faso have said that they will go to war on the side of Niger. In a statement today, the US said it supports “African solutions to African problems”</content>
     <link href="https://tiktok.com/@philipdefranco/video/7265762813769993515" rel="alternate"/>
     <published>2023-08-10T18:30:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7265813081597725998</id>
+    <title>Military Intervention Into Niger To Happen ASAP #usa #nigeria  ECOWAS says military intervention in Niger will happen as soon as possible. With the President of the Ivory Coast saying “The junta in Niger are keeping the President as a hostage. I personall</title>
+    <updated>2023-08-10T21:45:52+00:00</updated>
+    <content>Military Intervention Into Niger To Happen ASAP #usa #nigeria  ECOWAS says military intervention in Niger will happen as soon as possible. With the President of the Ivory Coast saying “The junta in Niger are keeping the President as a hostage. I personally consider this as a terrorist act. And we cannot let this continue. We have to act”. It’s suspected now that France will in some type of way assist ECOWAS after the Junta said they would kill the President. #france </content>
+    <link href="https://tiktok.com/@philipdefranco/video/7265813081597725998" rel="alternate"/>
+    <published>2023-08-10T21:45:52+00:00</published>
   </entry>
 </feed>
