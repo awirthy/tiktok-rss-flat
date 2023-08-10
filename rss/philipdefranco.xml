@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-09T22:52:13+00:00</updated>
+  <updated>2023-08-10T16:15:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7265021040030469419</id>
-    <title>China Is Abandoning Russia #ukraine #russia  First China condemned Russia for what it said was “brutal and excessive law enforcement” after they denied 5 Chinese citizens entry. Then Russia rejected China’s 12 point peace plan earlier this year so now Chi</title>
-    <updated>2023-08-08T18:32:15+00:00</updated>
-    <content>China Is Abandoning Russia #ukraine #russia  First China condemned Russia for what it said was “brutal and excessive law enforcement” after they denied 5 Chinese citizens entry. Then Russia rejected China’s 12 point peace plan earlier this year so now China believes that Russia doesn’t want peace at all. Fast forward to the peace talks in Saudi Arabia this weekend, and Chinese representatives were said to be helpful and keen to show that they weren’t Russia with China even asking to attend the next meeting that Russia wasn’t invited to, showing that Russia is becoming more isolated. And to put the icing on the cake, China praised the talks that Russia said were doomed to fail and signaled an openness to Ukraine’s 10 point peace plan that would see Russia leave the country entirely.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7265021040030469419" rel="alternate"/>
-    <published>2023-08-08T18:32:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7265038663011110187</id>
     <title>US Trying To Prevent World War Africa #usa #nigeria  The US is taking over peace talks on World War: Africa. Niger’s Junta would only let the US’s special emissary into the country and refused entry to peace delegations from the UN and the African Union. </title>
@@ -51,5 +43,13 @@
     <content>US &amp; Saudi Near Deal To Normalize Relations With Israel #usa #saudiarabia #israel  The U.S. and Saudi Arabia reportedly have a working plan in place to normalize relations with Israel! The deal would see the US help Saudi develop a civilian nuclear program and give them iron-clad security guarantees similar to that of NATO Article 5. It would also see the creation of a Palestinian state. Now in return, Saudi would distance itself from China economically and militarily. Saudi will price oil sales to China in dollas, it’ll also drop Chinese tech, and not allow China to build a base in the country. And lastly, they’ll stop messing with oil prices. But there are some obstacles though. For one, Israel fears that a nuclear program would allow Saudi to develop nukes if Iran does and it also wants a larger US security guarantee that is also similar to NATO’s Article 5. Israel will also have to agree to help forward the Palestinian quest for statehood. And the last obstacle for this deal is at home. Such a deal would require Senate approval and Saudi is toxic. They funded 9/11, they killed a US journalist, they mess with gas prices to swing our elections and they’re ruining golf. The Senate already won’t sell more weapons to Saudi, so to get them to agree to a security guarantee like an Article 5 seems far-fetched. But the Biden Admin is hoping that the history shifting deal will be enough for lawmakers to drop opposition if and when that day comes.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7265459095942024490" rel="alternate"/>
     <published>2023-08-09T22:52:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7265727828107300138</id>
+    <title>US Asks Citizens To Shelter In Place In Niger #usa #niger  The U.S. has issued an urgent security alert telling all American citizens in Niger to shelter in place. Niger armed forces are on high alert in order to defend against attacks by the French milit</title>
+    <updated>2023-08-10T16:15:08+00:00</updated>
+    <content>US Asks Citizens To Shelter In Place In Niger #usa #niger  The U.S. has issued an urgent security alert telling all American citizens in Niger to shelter in place. Niger armed forces are on high alert in order to defend against attacks by the French military. The Junta is accusing France of having violated their airspace and of having released terrorists to the region. But France released the receipts showing that the Junta said they could fly over the country and released the agreement that was signed by the head of the Junta himself. As for the terrorist accusations, there is currently no evidence of such a thing happening. Niger’s ousted political party has called for a nationwide mobilization and is calling on the citizens to save the President and his family. And here’s an interesting side plot to all of this: an Al-Qaeda Affiliate killed two Wagner spies on the border of Niger.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7265727828107300138" rel="alternate"/>
+    <published>2023-08-10T16:15:08+00:00</published>
   </entry>
 </feed>
