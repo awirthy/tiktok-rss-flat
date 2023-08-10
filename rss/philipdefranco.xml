@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-10T16:15:08+00:00</updated>
+  <updated>2023-08-10T18:30:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7265038663011110187</id>
-    <title>US Trying To Prevent World War Africa #usa #nigeria  The US is taking over peace talks on World War: Africa. Niger’s Junta would only let the US’s special emissary into the country and refused entry to peace delegations from the UN and the African Union. </title>
-    <updated>2023-08-08T19:40:37+00:00</updated>
-    <content>US Trying To Prevent World War Africa #usa #nigeria  The US is taking over peace talks on World War: Africa. Niger’s Junta would only let the US’s special emissary into the country and refused entry to peace delegations from the UN and the African Union. The US’s special emissary is the deputy Secretary of State, Victoria Nuland. She’s very experienced in foreign affairs but this is actually her first week on the job. She’s trying to convince the Junta to stand down but says that the talks are “extremely frank and at times quite difficult.”. Adding that she hopes to keep the door open to diplomacy but that “their ideas do not comport with the Constitution”. She has also suspended all US aid to the country. Also Russia couldn’t control itself this morning and said that Nuland can’t trick Niger with buns in a cellophane bag like she did with Ukraine. Whatever that means.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7265038663011110187" rel="alternate"/>
-    <published>2023-08-08T19:40:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7265061817574198574</id>
     <title>Belarus Begins Military Drills On Border With Poland and Lithuania #poland #usa  Belarus has begun military drills on the border with Poland and Lithuania. They say the drills are based on experiences from the “Special military operation”. This comes afte</title>
@@ -51,5 +43,13 @@
     <content>US Asks Citizens To Shelter In Place In Niger #usa #niger  The U.S. has issued an urgent security alert telling all American citizens in Niger to shelter in place. Niger armed forces are on high alert in order to defend against attacks by the French military. The Junta is accusing France of having violated their airspace and of having released terrorists to the region. But France released the receipts showing that the Junta said they could fly over the country and released the agreement that was signed by the head of the Junta himself. As for the terrorist accusations, there is currently no evidence of such a thing happening. Niger’s ousted political party has called for a nationwide mobilization and is calling on the citizens to save the President and his family. And here’s an interesting side plot to all of this: an Al-Qaeda Affiliate killed two Wagner spies on the border of Niger.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7265727828107300138" rel="alternate"/>
     <published>2023-08-10T16:15:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7265762813769993515</id>
+    <title>World War Africa Has Begun #usa #nigeria  World War: Africa has begun. ECOWAS has activated its standby forces to restore democracy and constitutional order in the Republic of Niger. They maintain that all options remain on the table. Earlier today, Niger</title>
+    <updated>2023-08-10T18:30:48+00:00</updated>
+    <content>World War Africa Has Begun #usa #nigeria  World War: Africa has begun. ECOWAS has activated its standby forces to restore democracy and constitutional order in the Republic of Niger. They maintain that all options remain on the table. Earlier today, Niger told the US that if their neighboring nations intervene they will kill the ousted President that they’re holding hostage. This seems to be what pushed ECOWAS to intervention. Mali and Burkina Faso have said that they will go to war on the side of Niger. In a statement today, the US said it supports “African solutions to African problems”</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7265762813769993515" rel="alternate"/>
+    <published>2023-08-10T18:30:48+00:00</published>
   </entry>
 </feed>
