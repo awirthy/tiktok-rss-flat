@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-08-09T08:42:08+00:00</updated>
+  <updated>2023-08-10T13:31:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7264430527019584800</id>
-    <title>ONLY ONE PERSON CAN END THIS… AND ITS NOT ME.😤</title>
-    <updated>2023-08-07T04:21:27+00:00</updated>
-    <content>ONLY ONE PERSON CAN END THIS… AND ITS NOT ME.😤</content>
-    <link href="https://tiktok.com/@dylan.page/video/7264430527019584800" rel="alternate"/>
-    <published>2023-08-07T04:21:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7264661872945777953</id>
-    <title>Absolutely unbelievable scenes!! 17 HOURS well worth it!!🙌🥵🥵</title>
-    <updated>2023-08-07T19:18:25+00:00</updated>
-    <content>Absolutely unbelievable scenes!! 17 HOURS well worth it!!🙌🥵🥵</content>
-    <link href="https://tiktok.com/@dylan.page/video/7264661872945777953" rel="alternate"/>
-    <published>2023-08-07T19:18:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7264943451106544928</id>
     <title>Is this what we expected??!🤔</title>
@@ -51,5 +35,21 @@
     <content>No studio No problem! 😂😉</content>
     <link href="https://tiktok.com/@dylan.page/video/7265240050609179937" rel="alternate"/>
     <published>2023-08-09T08:42:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7265665561864981793</id>
+    <title>Wildfires have devistated the Hawaii island of Maui🚨🤯 </title>
+    <updated>2023-08-10T12:13:16+00:00</updated>
+    <content>Wildfires have devistated the Hawaii island of Maui🚨🤯 </content>
+    <link href="https://tiktok.com/@dylan.page/video/7265665561864981793" rel="alternate"/>
+    <published>2023-08-10T12:13:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7265685733938138400</id>
+    <title>What do we think about this??🤔😳</title>
+    <updated>2023-08-10T13:31:33+00:00</updated>
+    <content>What do we think about this??🤔😳</content>
+    <link href="https://tiktok.com/@dylan.page/video/7265685733938138400" rel="alternate"/>
+    <published>2023-08-10T13:31:33+00:00</published>
   </entry>
 </feed>
