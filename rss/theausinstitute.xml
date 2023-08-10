@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-08-10T03:29:02+00:00</updated>
+  <updated>2023-08-03T01:35:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7259577444573793538</id>
+    <title>Q: Why do you support the #VoiceToParliament?  "The simple answer is because the Indigenous community has asked us to."  "The hard question is why would you say no?" "How at this point in history would you think, ‘Nah they've had it too good for too long'</title>
+    <updated>2023-07-25T02:29:28+00:00</updated>
+    <content>Q: Why do you support the #VoiceToParliament?  "The simple answer is because the Indigenous community has asked us to."  "The hard question is why would you say no?" "How at this point in history would you think, ‘Nah they've had it too good for too long'?" Richard Denniss at Politics in the Pub.</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7259577444573793538" rel="alternate"/>
+    <published>2023-07-25T02:29:28+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7260003360839847176</id>
     <title>If the Australian government started taxing oil and gas companies properly, like in Norway, they could give Australians free university education.  It's not that we can't afford it. It's that our governments haven't chosen to do it. #auspol</title>
@@ -43,13 +51,5 @@
     <content>Let us just say it for what it is: CCS is a scam. It is a scam that has been used by the coal and gas industries to con (usually willing) governments and populations into delaying climate action. #auspol #climatechange</content>
     <link href="https://tiktok.com/@theausinstitute/video/7262903338306522369" rel="alternate"/>
     <published>2023-08-03T01:35:43+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7265530107408731400</id>
-    <title>"It's a universal truism that when you involve the people that you're making decisions for and policies for, you get better laws, better outcomes, and in our case, more targeted resources." Aunty Pat explains how the Voice will make a difference on ABC's </title>
-    <updated>2023-08-10T03:29:02+00:00</updated>
-    <content>"It's a universal truism that when you involve the people that you're making decisions for and policies for, you get better laws, better outcomes, and in our case, more targeted resources." Aunty Pat explains how the Voice will make a difference on ABC's 730 last night. @ulurustatement #auspol #voteyes #yes23</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7265530107408731400" rel="alternate"/>
-    <published>2023-08-10T03:29:02+00:00</published>
   </entry>
 </feed>
