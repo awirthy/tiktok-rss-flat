@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-10T21:45:52+00:00</updated>
+  <updated>2023-08-11T20:58:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7265409212384021806</id>
-    <title>Russia Won’t Have A Presidential Election #russia #usa  Russia says they may not hold Presidential elections next year because Putin will obviously win re-election. Putin is expected to announce his run for a 6th presidential term, especially since he cha</title>
-    <updated>2023-08-09T19:38:37+00:00</updated>
-    <content>Russia Won’t Have A Presidential Election #russia #usa  Russia says they may not hold Presidential elections next year because Putin will obviously win re-election. Putin is expected to announce his run for a 6th presidential term, especially since he changed the constitution to let him be President until 2036. All of this, of course, doesn’t matter though because they don’t have free and fair elections. But it does raise an interesting question - we know the elections are rigged, so why not just have another fake election? Maybe he thinks that the few real votes will reveal just how weak support for him has gotten.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7265409212384021806" rel="alternate"/>
-    <published>2023-08-09T19:38:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7265459095942024490</id>
     <title>US &amp; Saudi Near Deal To Normalize Relations With Israel #usa #saudiarabia #israel  The U.S. and Saudi Arabia reportedly have a working plan in place to normalize relations with Israel! The deal would see the US help Saudi develop a civilian nuclear progra</title>
@@ -51,5 +43,13 @@
     <content>Military Intervention Into Niger To Happen ASAP #usa #nigeria  ECOWAS says military intervention in Niger will happen as soon as possible. With the President of the Ivory Coast saying “The junta in Niger are keeping the President as a hostage. I personally consider this as a terrorist act. And we cannot let this continue. We have to act”. It’s suspected now that France will in some type of way assist ECOWAS after the Junta said they would kill the President. #france </content>
     <link href="https://tiktok.com/@philipdefranco/video/7265813081597725998" rel="alternate"/>
     <published>2023-08-10T21:45:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7266171843969633579</id>
+    <title>US Picks A Side In World War Africa #usa #france #nigeria  The U.S. has picked a side in World War Africa. With it now saying it fully backs ECOWAS’s military intervention into Niger. France has also come out in full support &amp; says it will study their req</title>
+    <updated>2023-08-11T20:58:02+00:00</updated>
+    <content>US Picks A Side In World War Africa #usa #france #nigeria  The U.S. has picked a side in World War Africa. With it now saying it fully backs ECOWAS’s military intervention into Niger. France has also come out in full support &amp; says it will study their requests for military support. 5,000 combat troops have already been moved to staging areas. Mail and Burkina Faso have been radio silent since the intervention was announced, leading many to believe their bluff to defend Niger has been called. The African Union has fully backed ECOWAS and has called on the international community to save the life of the President. Russia says that intervention would destabilize the region meanwhile their mercenaries are in Niger trying to disrupt diplomatic efforts that would prevent a war. Allegedly 3,000 people are protesting in front of the French military base in the country after the Junta called for people to surround it. The Nigerian military is taking the lead on the invasion. Ivory Coast will send between 850 to 1,100 soldiers into Niger. With the President saying that if the Junta leaves tomorrow there will be no war, adding that whether or not there’s a war is up to them.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7266171843969633579" rel="alternate"/>
+    <published>2023-08-11T20:58:02+00:00</published>
   </entry>
 </feed>
