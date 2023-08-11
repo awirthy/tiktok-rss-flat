@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-08-10T22:59:28+00:00</updated>
+  <updated>2023-08-11T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7263520364867767594</id>
-    <title>The government just investigated itself for a crime it didn’t know it actually committed. #FBI  #US  #Politics  #Spy</title>
-    <updated>2023-08-06T20:00:00+00:00</updated>
-    <content>The government just investigated itself for a crime it didn’t know it actually committed. #FBI  #US  #Politics  #Spy</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7263520364867767594" rel="alternate"/>
-    <published>2023-08-06T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7264712670190816555</id>
     <title>According to former President Trump’s own lawyer, he only “asked” for the election to be overturned, he didn’t actually do it. #Trump   Trump’s attempts to overturn the 2020 election weren’t criminal because he didn’t DIRECT Mike Pence to throw out Biden’</title>
@@ -51,5 +43,13 @@
     <content>ProPublica Finds Clarence Thomas Accepted Even More Gifts #ClarenceThomas  That includes: “At least 38 destination vacations, including a previously unreported voyage on a yacht around the Bahamas; 26 private jet flights, plus an additional eight by helicopter; a dozen VIP passes to professional and college sporting events, typically perched in the skybox; two stays at luxury resorts in Florida and Jamaica; and one standing invitation to an uber-exclusive golf club overlooking the Atlantic coast.” But the report explicitly states that even THAT “it is almost certainly an undercount.” #political  #US  #Propublica</content>
     <link href="https://tiktok.com/@pdspolitics/video/7265831640109239594" rel="alternate"/>
     <published>2023-08-10T22:59:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7266125810636197166</id>
+    <title>Trump is spreading a fake and unfounded rumor that Fani Willis had an affair with a former client. #DonaldTrump   Willis is the Fulton County District Attorney and prosecutor who’s expected to unveil over a dozen charges against Trump next week for his ac</title>
+    <updated>2023-08-11T20:00:00+00:00</updated>
+    <content>Trump is spreading a fake and unfounded rumor that Fani Willis had an affair with a former client. #DonaldTrump   Willis is the Fulton County District Attorney and prosecutor who’s expected to unveil over a dozen charges against Trump next week for his actions in the 2020 election. #FaniWillis  #Politics  #Georgia</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7266125810636197166" rel="alternate"/>
+    <published>2023-08-11T20:00:00+00:00</published>
   </entry>
 </feed>
