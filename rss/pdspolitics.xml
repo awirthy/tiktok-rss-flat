@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-08-11T20:00:00+00:00</updated>
+  <updated>2023-08-12T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7264712670190816555</id>
-    <title>According to former President Trump’s own lawyer, he only “asked” for the election to be overturned, he didn’t actually do it. #Trump   Trump’s attempts to overturn the 2020 election weren’t criminal because he didn’t DIRECT Mike Pence to throw out Biden’</title>
-    <updated>2023-08-07T23:00:00+00:00</updated>
-    <content>According to former President Trump’s own lawyer, he only “asked” for the election to be overturned, he didn’t actually do it. #Trump   Trump’s attempts to overturn the 2020 election weren’t criminal because he didn’t DIRECT Mike Pence to throw out Biden’s legitimate win, he just ASKED him nicely! That’s what Trump’s lawyer John Lauro argued during an interview with CNN last night, seemingly previewing what Trump’s defense will be in the new federal case against him. With Lauro claiming that Trump's attempts to get Pence to toss the slate of electors and pause the certification of the election amounted to free speech protected under the First Amendment: “Asking is aspirational. Asking is not action. It’s core free speech. The press should be defending free speech.” #Politics  #US  #Election</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7264712670190816555" rel="alternate"/>
-    <published>2023-08-07T23:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7265068326794186026</id>
     <title>Democracy is on the line in Ohio, and there’s just a few hours left to vote. #Ohio  #Election  #Vote  #Politics  Ohio voters are heading to the polls for a special election today where democracy itself is on the line. The very surface-level TLDR is basica</title>
@@ -51,5 +43,13 @@
     <content>Trump is spreading a fake and unfounded rumor that Fani Willis had an affair with a former client. #DonaldTrump   Willis is the Fulton County District Attorney and prosecutor who’s expected to unveil over a dozen charges against Trump next week for his actions in the 2020 election. #FaniWillis  #Politics  #Georgia</content>
     <link href="https://tiktok.com/@pdspolitics/video/7266125810636197166" rel="alternate"/>
     <published>2023-08-11T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7266130841842044206</id>
+    <title>Florida Schools Are Now Indoctrinating Students with Right Wing PragerU Videos #Florida  #Politics  #US  #PragerU</title>
+    <updated>2023-08-12T20:00:00+00:00</updated>
+    <content>Florida Schools Are Now Indoctrinating Students with Right Wing PragerU Videos #Florida  #Politics  #US  #PragerU</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7266130841842044206" rel="alternate"/>
+    <published>2023-08-12T20:00:00+00:00</published>
   </entry>
 </feed>
