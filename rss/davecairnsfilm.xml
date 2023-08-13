@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@davecairnsfilm</id>
   <title>davecairnsfilm TikTok</title>
-  <updated>2023-08-09T12:02:06+00:00</updated>
+  <updated>2023-08-09T12:17:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from davecairnsfilm</subtitle>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7263073688495443208</id>
-    <title>3 AUGUST 2023 - #australia #politics #auspol #jacintaprice #onthisday </title>
-    <updated>2023-08-03T12:35:26+00:00</updated>
-    <content>3 AUGUST 2023 - #australia #politics #auspol #jacintaprice #onthisday </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7263073688495443208" rel="alternate"/>
-    <published>2023-08-03T12:35:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@davecairnsfilm/video/7264195767470935314</id>
     <title>6 AUGUST 2023 - #nerd #geek #sports #worldcup #usa #matildas #funny</title>
@@ -51,5 +43,13 @@
     <content>9 AUGUST 2023 - #filter #ai #memegenerator #humor #funny</content>
     <link href="https://tiktok.com/@davecairnsfilm/video/7265291604049546503" rel="alternate"/>
     <published>2023-08-09T12:02:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@davecairnsfilm/video/7265295699900927250</id>
+    <title>#stitch with @Kevin Cooney 9 AUGUST 2023 - #australia #boston #accent </title>
+    <updated>2023-08-09T12:17:59+00:00</updated>
+    <content>#stitch with @Kevin Cooney 9 AUGUST 2023 - #australia #boston #accent </content>
+    <link href="https://tiktok.com/@davecairnsfilm/video/7265295699900927250" rel="alternate"/>
+    <published>2023-08-09T12:17:59+00:00</published>
   </entry>
 </feed>
