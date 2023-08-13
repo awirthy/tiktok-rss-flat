@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-08-12T20:00:00+00:00</updated>
+  <updated>2023-08-13T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7265068326794186026</id>
-    <title>Democracy is on the line in Ohio, and there’s just a few hours left to vote. #Ohio  #Election  #Vote  #Politics  Ohio voters are heading to the polls for a special election today where democracy itself is on the line. The very surface-level TLDR is basica</title>
-    <updated>2023-08-08T21:39:01+00:00</updated>
-    <content>Democracy is on the line in Ohio, and there’s just a few hours left to vote. #Ohio  #Election  #Vote  #Politics  Ohio voters are heading to the polls for a special election today where democracy itself is on the line. The very surface-level TLDR is basically that the special election is being held for people to vote on Issue 1 — a measure that will make it harder to pass constitutional amendments by ballot initiative. The measure achieves this in a few ways, but the most significant is that it would raise the number of votes required to approve a constitutional amendment from 50% to a 60% supermajority. So, in other words, 59% of voters can want an amendment, and a minority can undermine the democratic will of that huge majority. And if that sounds like minority rule, it’s because it’s literally minority rule.</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7265068326794186026" rel="alternate"/>
-    <published>2023-08-08T21:39:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7265436544914165038</id>
     <title>Voters in Ohio overwhelmingly rejected Issue 1, which threatened to change democracy in the state forever #Ohio  #ohioelection  #Vote  #Politics</title>
@@ -51,5 +43,13 @@
     <content>Florida Schools Are Now Indoctrinating Students with Right Wing PragerU Videos #Florida  #Politics  #US  #PragerU</content>
     <link href="https://tiktok.com/@pdspolitics/video/7266130841842044206" rel="alternate"/>
     <published>2023-08-12T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7266148204591336746</id>
+    <title>Republican Voters Are Getting Tired of “Woke” Buzzwords from Candidates Like Ron DeSantis #Voting  #Politics  #Trump  #US</title>
+    <updated>2023-08-13T20:00:00+00:00</updated>
+    <content>Republican Voters Are Getting Tired of “Woke” Buzzwords from Candidates Like Ron DeSantis #Voting  #Politics  #Trump  #US</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7266148204591336746" rel="alternate"/>
+    <published>2023-08-13T20:00:00+00:00</published>
   </entry>
 </feed>
