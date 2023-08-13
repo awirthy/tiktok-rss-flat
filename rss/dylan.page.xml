@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-08-11T12:42:36+00:00</updated>
+  <updated>2023-08-13T18:57:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7264973862532599073</id>
-    <title>I would hate and love to have this dog at the same time!</title>
-    <updated>2023-08-08T15:29:05+00:00</updated>
-    <content>I would hate and love to have this dog at the same time!</content>
-    <link href="https://tiktok.com/@dylan.page/video/7264973862532599073" rel="alternate"/>
-    <published>2023-08-08T15:29:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7265240050609179937</id>
     <title>No studio No problem! 😂😉</title>
@@ -51,5 +43,13 @@
     <content>What the hell did that cat smell on his foot?!😳💀</content>
     <link href="https://tiktok.com/@dylan.page/video/7266044204348869921" rel="alternate"/>
     <published>2023-08-11T12:42:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7266882987118152993</id>
+    <title>Yet another new fear unlocked!😑😳</title>
+    <updated>2023-08-13T18:57:29+00:00</updated>
+    <content>Yet another new fear unlocked!😑😳</content>
+    <link href="https://tiktok.com/@dylan.page/video/7266882987118152993" rel="alternate"/>
+    <published>2023-08-13T18:57:29+00:00</published>
   </entry>
 </feed>
