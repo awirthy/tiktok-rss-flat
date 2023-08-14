@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-08-14T20:22:48+00:00</updated>
+  <updated>2023-08-14T19:06:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7264973862532599073</id>
+    <title>I would hate and love to have this dog at the same time!</title>
+    <updated>2023-08-08T15:29:05+00:00</updated>
+    <content>I would hate and love to have this dog at the same time!</content>
+    <link href="https://tiktok.com/@dylan.page/video/7264973862532599073" rel="alternate"/>
+    <published>2023-08-08T15:29:05+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7265240050609179937</id>
     <title>No studio No problem! 😂😉</title>
@@ -43,13 +51,5 @@
     <content>I would beef every tourist i saw if this happened to me💀</content>
     <link href="https://tiktok.com/@dylan.page/video/7267256490325495072" rel="alternate"/>
     <published>2023-08-14T19:06:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7267276056669850913</id>
-    <title>Would you want this at your work or not??🤔</title>
-    <updated>2023-08-14T20:22:48+00:00</updated>
-    <content>Would you want this at your work or not??🤔</content>
-    <link href="https://tiktok.com/@dylan.page/video/7267276056669850913" rel="alternate"/>
-    <published>2023-08-14T20:22:48+00:00</published>
   </entry>
 </feed>
