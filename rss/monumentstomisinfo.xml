@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-08-12T08:07:44+00:00</updated>
+  <updated>2023-08-14T08:41:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7265229412491169026</id>
-    <title>As it stands “No” is coming out way ahead #auspol #voicetoparliament #sayyes2023 #indigenousaustralian </title>
-    <updated>2023-08-09T08:00:48+00:00</updated>
-    <content>As it stands “No” is coming out way ahead #auspol #voicetoparliament #sayyes2023 #indigenousaustralian </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7265229412491169026" rel="alternate"/>
-    <published>2023-08-09T08:00:48+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7265234796085857537</id>
-    <title>Just a sad showing all around from the cops involved #auspol #brittanyhiggins #brucelehrmann #auspolice </title>
-    <updated>2023-08-09T08:21:43+00:00</updated>
-    <content>Just a sad showing all around from the cops involved #auspol #brittanyhiggins #brucelehrmann #auspolice </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7265234796085857537" rel="alternate"/>
-    <published>2023-08-09T08:21:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7265235059836243201</id>
     <title>Its nowhere near enough but inflation comes at a cost #auspol #jobseeker #centrelink #australianlaborparty </title>
@@ -51,5 +35,21 @@
     <content>Money printing goes off for nuclear energy #nuclearpower #climatechange #renewableenergy #auspol #australianlaborparty </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7266344463172111618" rel="alternate"/>
     <published>2023-08-12T08:07:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7267083968393137409</id>
+    <title>Am I just off here, feels like david is making a fair point #auspol #publicholiday #australianliberalparty #liberalnationalparty #matildas </title>
+    <updated>2023-08-14T07:57:25+00:00</updated>
+    <content>Am I just off here, feels like david is making a fair point #auspol #publicholiday #australianliberalparty #liberalnationalparty #matildas </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7267083968393137409" rel="alternate"/>
+    <published>2023-08-14T07:57:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7267095268577889537</id>
+    <title>And he’s out of here #marklatham #paulinehanson #auspol #OneNation </title>
+    <updated>2023-08-14T08:41:16+00:00</updated>
+    <content>And he’s out of here #marklatham #paulinehanson #auspol #OneNation </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7267095268577889537" rel="alternate"/>
+    <published>2023-08-14T08:41:16+00:00</published>
   </entry>
 </feed>
