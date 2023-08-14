@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-08-11T06:12:05+00:00</updated>
+  <updated>2023-08-14T06:58:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7264477157164944658</id>
-    <title>Three people have died and one remains in a critical condition in Victoria after they were taken to hospital with mushroom poisoning. Now, the homicide squad is investigating. #australia #news #victoria #melbourne #mushroom #poison #toxic #health #healtht</title>
-    <updated>2023-08-07T07:21:39+00:00</updated>
-    <content>Three people have died and one remains in a critical condition in Victoria after they were taken to hospital with mushroom poisoning. Now, the homicide squad is investigating. #australia #news #victoria #melbourne #mushroom #poison #toxic #health #healthtok #foraging #fungus #fungi #todayilearned #learnontiktok </content>
-    <link href="https://tiktok.com/@viceautoday/video/7264477157164944658" rel="alternate"/>
-    <published>2023-08-07T07:21:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7264849419319708946</id>
     <title>Preston Market, one of Melbourne’s oldest and biggest, has just been granted new government heritage protections that activists are hopeful will protect the site from being demolished and redeveloped. #australia #news #melbourne #preston #prestonmarket #m</title>
@@ -51,5 +43,13 @@
     <content>Well, if you cant guarantee it… #australia #news #police #aunews #investigation </content>
     <link href="https://tiktok.com/@viceautoday/video/7265943575257566465" rel="alternate"/>
     <published>2023-08-11T06:12:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7267068887693331714</id>
+    <title>The parents of Reza Berati, an Iranian asylum seeker who was murdered on Manus Island in 2014, have reached a confidential settlement with the federal government and the security firm G4S. In riots at the offshore detention centre that also saw about 70 a</title>
+    <updated>2023-08-14T06:58:53+00:00</updated>
+    <content>The parents of Reza Berati, an Iranian asylum seeker who was murdered on Manus Island in 2014, have reached a confidential settlement with the federal government and the security firm G4S. In riots at the offshore detention centre that also saw about 70 asylum seekers injured, the 23-year-old was beaten to death by guards. In 2021 Berati’s parents, Ita Torab Berati and Farideh Baralak sued G4S and the Australian government for mental harm caused by his murder.  A Senate inquiry in December 2014 found a failure to process asylum seeker claims had caused the riot, which was also deemed “eminently foreseeable”, and that the then-Coalition government failed in its duty to protect asylum seekers. "Reza came to Australia seeking safety. Then he was murdered in a detention centre where he should have been kept safe. He had done nothing wrong," Berati’s parents told the ABC in a statement via their lawyers.  Human Rights Law Centre acting director Freya Dinshaw called for the evacuation of the 75 people still detained at PNG. "Offshore processing has inflicted untold suffering upon people merely asking for safety while private security operators made multi-million dollar profits," she told the ABC.  "The Albanese government must urgently evacuate the 75 people still stranded in PNG, and end the harmful policy of offshore detention once and for all." #australia #aunews #asylumseekers </content>
+    <link href="https://tiktok.com/@viceautoday/video/7267068887693331714" rel="alternate"/>
+    <published>2023-08-14T06:58:53+00:00</published>
   </entry>
 </feed>
