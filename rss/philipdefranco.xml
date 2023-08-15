@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-14T20:39:03+00:00</updated>
+  <updated>2023-08-14T23:49:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7265727828107300138</id>
-    <title>US Asks Citizens To Shelter In Place In Niger #usa #niger  The U.S. has issued an urgent security alert telling all American citizens in Niger to shelter in place. Niger armed forces are on high alert in order to defend against attacks by the French milit</title>
-    <updated>2023-08-10T16:15:08+00:00</updated>
-    <content>US Asks Citizens To Shelter In Place In Niger #usa #niger  The U.S. has issued an urgent security alert telling all American citizens in Niger to shelter in place. Niger armed forces are on high alert in order to defend against attacks by the French military. The Junta is accusing France of having violated their airspace and of having released terrorists to the region. But France released the receipts showing that the Junta said they could fly over the country and released the agreement that was signed by the head of the Junta himself. As for the terrorist accusations, there is currently no evidence of such a thing happening. Niger’s ousted political party has called for a nationwide mobilization and is calling on the citizens to save the President and his family. And here’s an interesting side plot to all of this: an Al-Qaeda Affiliate killed two Wagner spies on the border of Niger.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7265727828107300138" rel="alternate"/>
-    <published>2023-08-10T16:15:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7265762813769993515</id>
     <title>World War Africa Has Begun #usa #nigeria  World War: Africa has begun. ECOWAS has activated its standby forces to restore democracy and constitutional order in the Republic of Niger. They maintain that all options remain on the table. Earlier today, Niger</title>
@@ -51,5 +43,13 @@
     <content>US &amp; France Fighting Over World War Africa #usa #france  The US and France are fighting over World War Africa. France reportedly actively favors and wants to support the military intervention into Niger. While the U.S. actively opposes military intervention and wants to seek diplomatic solutions to the crisis. France believes the US is being “unwise” in their attempts at diplomacy, but the US views the consequences of destabilization as counterproductive to its anti-terror mission. The U.S. currently has a massive drone base in Niger that it uses to combat terrorism across all of Western and Northern Africa.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7267280227997437227" rel="alternate"/>
     <published>2023-08-14T20:39:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7267329367859137838</id>
+    <title>North Korea Is Preparing For Offensive War #usa #korea  North Korea says it’s preparing for an offensive war against South Korea. This comes after the defense chief hinted at a preemptive nuclear strike. In response, the US and South Korea will strengthen</title>
+    <updated>2023-08-14T23:49:46+00:00</updated>
+    <content>North Korea Is Preparing For Offensive War #usa #korea  North Korea says it’s preparing for an offensive war against South Korea. This comes after the defense chief hinted at a preemptive nuclear strike. In response, the US and South Korea will strengthen their defense and surveillance posture. They will also be conducting military exercises later this month. North Korea is expected to make more provocations in response.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7267329367859137838" rel="alternate"/>
+    <published>2023-08-14T23:49:46+00:00</published>
   </entry>
 </feed>
