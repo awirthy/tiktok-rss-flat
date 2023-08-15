@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-08-14T23:05:00+00:00</updated>
+  <updated>2023-08-15T23:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7265831640109239594</id>
-    <title>ProPublica Finds Clarence Thomas Accepted Even More Gifts #ClarenceThomas  That includes: “At least 38 destination vacations, including a previously unreported voyage on a yacht around the Bahamas; 26 private jet flights, plus an additional eight by helic</title>
-    <updated>2023-08-10T22:59:28+00:00</updated>
-    <content>ProPublica Finds Clarence Thomas Accepted Even More Gifts #ClarenceThomas  That includes: “At least 38 destination vacations, including a previously unreported voyage on a yacht around the Bahamas; 26 private jet flights, plus an additional eight by helicopter; a dozen VIP passes to professional and college sporting events, typically perched in the skybox; two stays at luxury resorts in Florida and Jamaica; and one standing invitation to an uber-exclusive golf club overlooking the Atlantic coast.” But the report explicitly states that even THAT “it is almost certainly an undercount.” #political  #US  #Propublica</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7265831640109239594" rel="alternate"/>
-    <published>2023-08-10T22:59:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7266125810636197166</id>
     <title>Trump is spreading a fake and unfounded rumor that Fani Willis had an affair with a former client. #DonaldTrump   Willis is the Fulton County District Attorney and prosecutor who’s expected to unveil over a dozen charges against Trump next week for his ac</title>
@@ -51,5 +43,13 @@
     <content>Illinois’ Child Influencer Law Falls Short #Illinois   Illinois has become the first state to set up financial protections for child influencers. The law was just signed on Friday, and per the Associated Press, it will: “entitle child influencers to a percentage of earnings based on how often they appear on video blogs or online content that generates at least 10 cents per view.” This specifically falls under the state’s Child Labor Law and applies to children under the age of 16. And the adult vloggers or influencers responsible for posting this content, primarily the child’s parents, would have to maintain a record of appearances and set aside earnings in a trust account that the kid can access once they turn 18, And if they don’t do that, the kid can sue. To qualify, a child would reportedly have to be in at least 30% of the content over a 30-day period. With the AP noting that many states already have rules similar to this for children in more traditional forms of entertainment like film and TV, but this is the first to go after online content, which has obviously just blown up in popularity, especially with kids. #Influencer #US  #Politics</content>
     <link href="https://tiktok.com/@pdspolitics/video/7267313954412694826" rel="alternate"/>
     <published>2023-08-14T23:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7267674482918051115</id>
+    <title>Former Pres. Trump has been indicted in Georgia, and this case will be televised. He’ll also have to take a mugshot. #Trump  #Georgia  #Politics  #Indictment</title>
+    <updated>2023-08-15T23:00:00+00:00</updated>
+    <content>Former Pres. Trump has been indicted in Georgia, and this case will be televised. He’ll also have to take a mugshot. #Trump  #Georgia  #Politics  #Indictment</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7267674482918051115" rel="alternate"/>
+    <published>2023-08-15T23:00:00+00:00</published>
   </entry>
 </feed>
