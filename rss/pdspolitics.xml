@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-08-15T23:00:00+00:00</updated>
+  <updated>2023-08-16T23:00:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7266125810636197166</id>
-    <title>Trump is spreading a fake and unfounded rumor that Fani Willis had an affair with a former client. #DonaldTrump   Willis is the Fulton County District Attorney and prosecutor who’s expected to unveil over a dozen charges against Trump next week for his ac</title>
-    <updated>2023-08-11T20:00:00+00:00</updated>
-    <content>Trump is spreading a fake and unfounded rumor that Fani Willis had an affair with a former client. #DonaldTrump   Willis is the Fulton County District Attorney and prosecutor who’s expected to unveil over a dozen charges against Trump next week for his actions in the 2020 election. #FaniWillis  #Politics  #Georgia</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7266125810636197166" rel="alternate"/>
-    <published>2023-08-11T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7266130841842044206</id>
     <title>Florida Schools Are Now Indoctrinating Students with Right Wing PragerU Videos #Florida  #Politics  #US  #PragerU</title>
@@ -51,5 +43,13 @@
     <content>Former Pres. Trump has been indicted in Georgia, and this case will be televised. He’ll also have to take a mugshot. #Trump  #Georgia  #Politics  #Indictment</content>
     <link href="https://tiktok.com/@pdspolitics/video/7267674482918051115" rel="alternate"/>
     <published>2023-08-15T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7268058385189211435</id>
+    <title>Messy Bodycam footages shows Rep. Ronny Jackson and cops scuffling as both try to assist a girl who was allegedly seizing. #RonnyJackson  #Bodycam  #Cops   #Politics</title>
+    <updated>2023-08-16T23:00:04+00:00</updated>
+    <content>Messy Bodycam footages shows Rep. Ronny Jackson and cops scuffling as both try to assist a girl who was allegedly seizing. #RonnyJackson  #Bodycam  #Cops   #Politics</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7268058385189211435" rel="alternate"/>
+    <published>2023-08-16T23:00:04+00:00</published>
   </entry>
 </feed>
