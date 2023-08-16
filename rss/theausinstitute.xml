@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-08-11T05:03:35+00:00</updated>
+  <updated>2023-08-16T05:56:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7260003360839847176</id>
-    <title>If the Australian government started taxing oil and gas companies properly, like in Norway, they could give Australians free university education.  It's not that we can't afford it. It's that our governments haven't chosen to do it. #auspol</title>
-    <updated>2023-07-26T06:01:12+00:00</updated>
-    <content>If the Australian government started taxing oil and gas companies properly, like in Norway, they could give Australians free university education.  It's not that we can't afford it. It's that our governments haven't chosen to do it. #auspol</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7260003360839847176" rel="alternate"/>
-    <published>2023-07-26T06:01:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7260292900762766593</id>
     <title>Prices continue to rise and rents have recorded their strongest quarterly increase in 35 years. Richard Denniss joins Today to discuss what this means for interest rates.#auspol</title>
@@ -51,5 +43,13 @@
     <content>"We've lost the opportunities young people used to have," Dr Fiona MacDonald, Policy Director at our Centre for Future Work, joined ABC News to give analysis on data showing that young people are working multiple jobs at record numbers as cost of living bites. #auspol</content>
     <link href="https://tiktok.com/@theausinstitute/video/7265925642556804370" rel="alternate"/>
     <published>2023-08-11T05:03:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7267794717067300104</id>
+    <title>Why is it so important to have the Voice in the Constitution? "Every organisation that we've set up has been done away in an afternoon, signed away." "Stability, so we can properly participate in the political &amp; social life of the nation."  - Pat Anderson</title>
+    <updated>2023-08-16T05:56:33+00:00</updated>
+    <content>Why is it so important to have the Voice in the Constitution? "Every organisation that we've set up has been done away in an afternoon, signed away." "Stability, so we can properly participate in the political &amp; social life of the nation."  - Pat Anderson AO, Alyawarre woman, on ABC's 730.</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7267794717067300104" rel="alternate"/>
+    <published>2023-08-16T05:56:33+00:00</published>
   </entry>
 </feed>
