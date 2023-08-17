@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-08-16T05:56:33+00:00</updated>
+  <updated>2023-08-17T06:54:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7260292900762766593</id>
-    <title>Prices continue to rise and rents have recorded their strongest quarterly increase in 35 years. Richard Denniss joins Today to discuss what this means for interest rates.#auspol</title>
-    <updated>2023-07-27T00:47:01+00:00</updated>
-    <content>Prices continue to rise and rents have recorded their strongest quarterly increase in 35 years. Richard Denniss joins Today to discuss what this means for interest rates.#auspol</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7260292900762766593" rel="alternate"/>
-    <published>2023-07-27T00:47:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7260707077822205202</id>
     <title>With the federal government bringing back their housing affordability bill next week - and rents going through the roof - this feels like a good time to revisit why we're in a housing crisis, and what we can do to fix it. #auspol</title>
@@ -51,5 +43,13 @@
     <content>Why is it so important to have the Voice in the Constitution? "Every organisation that we've set up has been done away in an afternoon, signed away." "Stability, so we can properly participate in the political &amp; social life of the nation."  - Pat Anderson AO, Alyawarre woman, on ABC's 730.</content>
     <link href="https://tiktok.com/@theausinstitute/video/7267794717067300104" rel="alternate"/>
     <published>2023-08-16T05:56:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7268180856013982994</id>
+    <title>You've probably heard the Government's "1.2 million new homes over 5 years" announcement. We've done the analysis! Verdict: It's better than nothing. But that's not saying much. Matt and Greg explain. "From 2014-19, there were 1.05 million houses built. S</title>
+    <updated>2023-08-17T06:54:58+00:00</updated>
+    <content>You've probably heard the Government's "1.2 million new homes over 5 years" announcement. We've done the analysis! Verdict: It's better than nothing. But that's not saying much. Matt and Greg explain. "From 2014-19, there were 1.05 million houses built. So this announcement is only 150,000 more than already expected." "Are they going to actually build 1.2 million homes themselves?"  "No, they're going to provide incentives to people to build homes and invest in homes. They seem to want to spend billions and billions of dollars, but at the end of it they’ll own no houses. Frankly, it is a pretty strange thing to do." Taken from our live show Nation in a Nutshell (available in full on YouTube).</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7268180856013982994" rel="alternate"/>
+    <published>2023-08-17T06:54:58+00:00</published>
   </entry>
 </feed>
