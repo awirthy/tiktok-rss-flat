@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-16T22:13:21+00:00</updated>
+  <updated>2023-08-17T21:01:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7267280227997437227</id>
-    <title>US &amp; France Fighting Over World War Africa #usa #france  The US and France are fighting over World War Africa. France reportedly actively favors and wants to support the military intervention into Niger. While the U.S. actively opposes military interventi</title>
-    <updated>2023-08-14T20:39:03+00:00</updated>
-    <content>US &amp; France Fighting Over World War Africa #usa #france  The US and France are fighting over World War Africa. France reportedly actively favors and wants to support the military intervention into Niger. While the U.S. actively opposes military intervention and wants to seek diplomatic solutions to the crisis. France believes the US is being “unwise” in their attempts at diplomacy, but the US views the consequences of destabilization as counterproductive to its anti-terror mission. The U.S. currently has a massive drone base in Niger that it uses to combat terrorism across all of Western and Northern Africa.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7267280227997437227" rel="alternate"/>
-    <published>2023-08-14T20:39:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7267329367859137838</id>
     <title>North Korea Is Preparing For Offensive War #usa #korea  North Korea says it’s preparing for an offensive war against South Korea. This comes after the defense chief hinted at a preemptive nuclear strike. In response, the US and South Korea will strengthen</title>
@@ -51,5 +43,13 @@
     <content>US Throws France Under The Bus In Niger #usa #france  The US now says that Niger is a partner and they don’t wanna see that partnership go. Adding that they have invested hundreds of millions of dollars into bases there, so it really wants a peaceful resolution. The US seems to be coming to peace with the Junta because they’re not kicking out the American troops, only the French. So, in essence - the US is throwing France under the bus and leaving them behind. Or as Charles de Gaulle famously said “No nation has friends, only interests”. Bon Voyage.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7268046704086355246" rel="alternate"/>
     <published>2023-08-16T22:13:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7268399243998580011</id>
+    <title>US Asks Iran To Stop Selling Drones To Russia #usa #russia  The US has asked Iran to stop selling drones to Russia. Currently the U.S. and Iran are conducting indirect talks in Oman which is an absolutely ridiculous thing. The two governments want to make</title>
+    <updated>2023-08-17T21:01:21+00:00</updated>
+    <content>US Asks Iran To Stop Selling Drones To Russia #usa #russia  The US has asked Iran to stop selling drones to Russia. Currently the U.S. and Iran are conducting indirect talks in Oman which is an absolutely ridiculous thing. The two governments want to make a deal with each other but they refuse to speak to each other so Omani officials have to go between the two rooms delivering messages between them. Anyways the US asked them to stop supplying drones to Russia and while Iran officially denies that their drones are being used - they told the US that they have asked Moscow to stop but the US wants more concrete steps.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7268399243998580011" rel="alternate"/>
+    <published>2023-08-17T21:01:21+00:00</published>
   </entry>
 </feed>
