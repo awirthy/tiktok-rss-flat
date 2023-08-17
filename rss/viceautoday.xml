@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-08-16T06:45:58+00:00</updated>
+  <updated>2023-08-17T06:41:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7265577525143751943</id>
-    <title>A Melbourne man behind a campaign that opposes the Indigenous Voice to Parliament has been accused of using AI-generated First Nations faces in social media ads encouraging people to vote No. #australia #news #politics #auspol #indigenous #firstnations #p</title>
-    <updated>2023-08-10T06:31:38+00:00</updated>
-    <content>A Melbourne man behind a campaign that opposes the Indigenous Voice to Parliament has been accused of using AI-generated First Nations faces in social media ads encouraging people to vote No. #australia #news #politics #auspol #indigenous #firstnations #parliament #vote #voice #ai #aigenerated #todayilearned #learnontiktok</content>
-    <link href="https://tiktok.com/@viceautoday/video/7265577525143751943" rel="alternate"/>
-    <published>2023-08-10T06:31:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7265943575257566465</id>
     <title>Well, if you cant guarantee it… #australia #news #police #aunews #investigation </title>
@@ -51,5 +43,13 @@
     <content>Australia’s new ban on v@pes, announced by the federal government in May, will see new legislation drawn up and implemented meaning the ban will be more powerful and permanent. #australia #news #politics #auspol #government #parliament #law #vote #health #healthtok #explained #todayilearned #learnontiktok </content>
     <link href="https://tiktok.com/@viceautoday/video/7267807718826577153" rel="alternate"/>
     <published>2023-08-16T06:45:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7268177781958200577</id>
+    <title>Australia’s ski season hasn’t been good. Snowfall has been well below average and is already melting in August. #australia #news #climate #climatechange #climatecrisis #skiing #snow #winter #snowfall #globalwarming #elniño #todayilearned #learnontiktok </title>
+    <updated>2023-08-17T06:41:58+00:00</updated>
+    <content>Australia’s ski season hasn’t been good. Snowfall has been well below average and is already melting in August. #australia #news #climate #climatechange #climatecrisis #skiing #snow #winter #snowfall #globalwarming #elniño #todayilearned #learnontiktok </content>
+    <link href="https://tiktok.com/@viceautoday/video/7268177781958200577" rel="alternate"/>
+    <published>2023-08-17T06:41:58+00:00</published>
   </entry>
 </feed>
