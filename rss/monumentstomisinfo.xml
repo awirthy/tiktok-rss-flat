@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-08-16T08:17:39+00:00</updated>
+  <updated>2023-08-17T04:36:22.270325+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,44 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7267083968393137409</id>
-    <title>Am I just off here, feels like david is making a fair point #auspol #publicholiday #australianliberalparty #liberalnationalparty #matildas </title>
-    <updated>2023-08-14T07:57:25+00:00</updated>
-    <content>Am I just off here, feels like david is making a fair point #auspol #publicholiday #australianliberalparty #liberalnationalparty #matildas </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7267083968393137409" rel="alternate"/>
-    <published>2023-08-14T07:57:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7267095268577889537</id>
-    <title>And he’s out of here #marklatham #paulinehanson #auspol #OneNation </title>
-    <updated>2023-08-14T08:41:16+00:00</updated>
-    <content>And he’s out of here #marklatham #paulinehanson #auspol #OneNation </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7267095268577889537" rel="alternate"/>
-    <published>2023-08-14T08:41:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7267102396541570305</id>
-    <title>Your ideas are bad #auspol #rentcaps #rentfreeze #housingaustraliafuturefund #housingcrisisaustralia </title>
-    <updated>2023-08-14T09:08:54+00:00</updated>
-    <content>Your ideas are bad #auspol #rentcaps #rentfreeze #housingaustraliafuturefund #housingcrisisaustralia </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7267102396541570305" rel="alternate"/>
-    <published>2023-08-14T09:08:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7267470018420509953</id>
-    <title>It’s almost impressive #barnabyjoyce #matildas #auspol #australianlaborparty </title>
-    <updated>2023-08-15T08:55:27+00:00</updated>
-    <content>It’s almost impressive #barnabyjoyce #matildas #auspol #australianlaborparty </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7267470018420509953" rel="alternate"/>
-    <published>2023-08-15T08:55:27+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7267831367105252610</id>
-    <title>The day @Ariel Beninca makes a video actually combatting the fact housing supply reduces without desperately claiming its landlord prop is the day the rent caps and freeze goes through. @Mat Morgan Ill happily talk to you if you’re interested. @adu is the</title>
-    <updated>2023-08-16T08:17:39+00:00</updated>
-    <content>The day @Ariel Beninca makes a video actually combatting the fact housing supply reduces without desperately claiming its landlord prop is the day the rent caps and freeze goes through. @Mat Morgan Ill happily talk to you if you’re interested. @adu is the only leftie I can handle. #auspol #housingaustraliafuturefund #australianhousingmarket #rentcaps </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7267831367105252610" rel="alternate"/>
-    <published>2023-08-16T08:17:39+00:00</published>
-  </entry>
 </feed>
