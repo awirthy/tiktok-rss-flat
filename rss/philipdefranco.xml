@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-16T22:13:21+00:00</updated>
+  <updated>2023-08-16T18:17:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7266171843969633579</id>
+    <title>US Picks A Side In World War Africa #usa #france #nigeria  The U.S. has picked a side in World War Africa. With it now saying it fully backs ECOWAS’s military intervention into Niger. France has also come out in full support &amp; says it will study their req</title>
+    <updated>2023-08-11T20:58:02+00:00</updated>
+    <content>US Picks A Side In World War Africa #usa #france #nigeria  The U.S. has picked a side in World War Africa. With it now saying it fully backs ECOWAS’s military intervention into Niger. France has also come out in full support &amp; says it will study their requests for military support. 5,000 combat troops have already been moved to staging areas. Mail and Burkina Faso have been radio silent since the intervention was announced, leading many to believe their bluff to defend Niger has been called. The African Union has fully backed ECOWAS and has called on the international community to save the life of the President. Russia says that intervention would destabilize the region meanwhile their mercenaries are in Niger trying to disrupt diplomatic efforts that would prevent a war. Allegedly 3,000 people are protesting in front of the French military base in the country after the Junta called for people to surround it. The Nigerian military is taking the lead on the invasion. Ivory Coast will send between 850 to 1,100 soldiers into Niger. With the President saying that if the Junta leaves tomorrow there will be no war, adding that whether or not there’s a war is up to them.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7266171843969633579" rel="alternate"/>
+    <published>2023-08-11T20:58:02+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7267280227997437227</id>
     <title>US &amp; France Fighting Over World War Africa #usa #france  The US and France are fighting over World War Africa. France reportedly actively favors and wants to support the military intervention into Niger. While the U.S. actively opposes military interventi</title>
@@ -43,13 +51,5 @@
     <content>US Soldier Fled To North Korea To Escape Racism In America #usa #korea #america  North Korea says the U.S. soldier, Travis King, who ran into the country did so because of racism in the United States. They say he says he suffered inhuman treatment and racial discrimination in the US Army. They also claim he wants to seek refugee in North Korea or in a 3rd country because he’s disillusioned at “unequal American society”. Travis King was being sent back to the United States due to several crimes he had committed in South Korea when he ran into North Korea.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7267985946149408046" rel="alternate"/>
     <published>2023-08-16T18:17:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7268046704086355246</id>
-    <title>US Throws France Under The Bus In Niger #usa #france  The US now says that Niger is a partner and they don’t wanna see that partnership go. Adding that they have invested hundreds of millions of dollars into bases there, so it really wants a peaceful reso</title>
-    <updated>2023-08-16T22:13:21+00:00</updated>
-    <content>US Throws France Under The Bus In Niger #usa #france  The US now says that Niger is a partner and they don’t wanna see that partnership go. Adding that they have invested hundreds of millions of dollars into bases there, so it really wants a peaceful resolution. The US seems to be coming to peace with the Junta because they’re not kicking out the American troops, only the French. So, in essence - the US is throwing France under the bus and leaving them behind. Or as Charles de Gaulle famously said “No nation has friends, only interests”. Bon Voyage.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7268046704086355246" rel="alternate"/>
-    <published>2023-08-16T22:13:21+00:00</published>
   </entry>
 </feed>
