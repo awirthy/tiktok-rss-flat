@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jennamclarke</id>
   <title>jennamclarke TikTok</title>
-  <updated>2023-08-17T13:30:09+00:00</updated>
+  <updated>2023-08-18T21:35:27.600127+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,44 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jennamclarke</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jennamclarke/video/7265692784395373826</id>
-    <title>4 things to know before ☕️ on Friday including some good news if #baked is your favourite state #greens #australia #auspol #krudd #art </title>
-    <updated>2023-08-10T13:58:53+00:00</updated>
-    <content>4 things to know before ☕️ on Friday including some good news if #baked is your favourite state #greens #australia #auspol #krudd #art </content>
-    <link href="https://tiktok.com/@jennamclarke/video/7265692784395373826" rel="alternate"/>
-    <published>2023-08-10T13:58:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jennamclarke/video/7265715368851721474</id>
-    <title>A day in the sitting week life #auspol #politics #canberra #news #coffee #mittens </title>
-    <updated>2023-08-10T15:26:31+00:00</updated>
-    <content>A day in the sitting week life #auspol #politics #canberra #news #coffee #mittens </content>
-    <link href="https://tiktok.com/@jennamclarke/video/7265715368851721474" rel="alternate"/>
-    <published>2023-08-10T15:26:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jennamclarke/video/7267536940168137985</id>
-    <title>4 things to know before ☕️ on Wednesday is that every #newspaper in #australia is changing their name in anticipation of the #matildas semi final  👋🏼 ya every night from 10:30pm for #thefrontpage on #skynewsaustralia  #matildas #samkerr #mirandakerr #worl</title>
-    <updated>2023-08-15T13:15:09+00:00</updated>
-    <content>4 things to know before ☕️ on Wednesday is that every #newspaper in #australia is changing their name in anticipation of the #matildas semi final  👋🏼 ya every night from 10:30pm for #thefrontpage on #skynewsaustralia  #matildas #samkerr #mirandakerr #worldcup #sydney #lionesses </content>
-    <link href="https://tiktok.com/@jennamclarke/video/7267536940168137985" rel="alternate"/>
-    <published>2023-08-15T13:15:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jennamclarke/video/7267910813250243842</id>
-    <title>4 things to know before ☕️ on Thursday including how it was my fault we lost to #england  👋🏼 ya every night from 10:30pm for #thefrontpage on #skynewsaustralia </title>
-    <updated>2023-08-16T13:25:57+00:00</updated>
-    <content>4 things to know before ☕️ on Thursday including how it was my fault we lost to #england  👋🏼 ya every night from 10:30pm for #thefrontpage on #skynewsaustralia </content>
-    <link href="https://tiktok.com/@jennamclarke/video/7267910813250243842" rel="alternate"/>
-    <published>2023-08-16T13:25:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jennamclarke/video/7268282974582476033</id>
-    <title>4 things to know before ☕️ on Friday including #australia bidding for the next #fifa #worldcup  👋🏼 ya every night from 10:30pm for #thefrontpage on #skynewsaustralia </title>
-    <updated>2023-08-17T13:30:09+00:00</updated>
-    <content>4 things to know before ☕️ on Friday including #australia bidding for the next #fifa #worldcup  👋🏼 ya every night from 10:30pm for #thefrontpage on #skynewsaustralia </content>
-    <link href="https://tiktok.com/@jennamclarke/video/7268282974582476033" rel="alternate"/>
-    <published>2023-08-17T13:30:09+00:00</published>
-  </entry>
 </feed>
