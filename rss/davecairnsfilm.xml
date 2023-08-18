@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@davecairnsfilm</id>
   <title>davecairnsfilm TikTok</title>
-  <updated>2023-08-17T08:08:46+00:00</updated>
+  <updated>2023-08-18T07:57:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from davecairnsfilm</subtitle>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7265284338923621650</id>
-    <title>9 AUGUST 2023 - #australia #politics #auspol #voicetoparliament #ulurustatementfromtheheart #media #newscorp #petacredlin </title>
-    <updated>2023-08-09T11:33:54+00:00</updated>
-    <content>9 AUGUST 2023 - #australia #politics #auspol #voicetoparliament #ulurustatementfromtheheart #media #newscorp #petacredlin </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7265284338923621650" rel="alternate"/>
-    <published>2023-08-09T11:33:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@davecairnsfilm/video/7265291604049546503</id>
     <title>9 AUGUST 2023 - #filter #ai #memegenerator #humor #funny</title>
@@ -51,5 +43,13 @@
     <content>#stitch with @Chezaidan 17 AUGUST 2023 - #filter #baldfilter #comedy #humor </content>
     <link href="https://tiktok.com/@davecairnsfilm/video/7268200138781314306" rel="alternate"/>
     <published>2023-08-17T08:08:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@davecairnsfilm/video/7268568322281590017</id>
+    <title>18 AUGUST 2023 - My 35 year streak has come to an end! #football #aussierules #afl #marvelstadium #gosports </title>
+    <updated>2023-08-18T07:57:26+00:00</updated>
+    <content>18 AUGUST 2023 - My 35 year streak has come to an end! #football #aussierules #afl #marvelstadium #gosports </content>
+    <link href="https://tiktok.com/@davecairnsfilm/video/7268568322281590017" rel="alternate"/>
+    <published>2023-08-18T07:57:26+00:00</published>
   </entry>
 </feed>
