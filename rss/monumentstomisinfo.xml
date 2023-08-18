@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-08-17T08:28:41+00:00</updated>
+  <updated>2023-08-18T09:01:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7267102396541570305</id>
-    <title>Your ideas are bad #auspol #rentcaps #rentfreeze #housingaustraliafuturefund #housingcrisisaustralia </title>
-    <updated>2023-08-14T09:08:54+00:00</updated>
-    <content>Your ideas are bad #auspol #rentcaps #rentfreeze #housingaustraliafuturefund #housingcrisisaustralia </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7267102396541570305" rel="alternate"/>
-    <published>2023-08-14T09:08:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7267470018420509953</id>
-    <title>It’s almost impressive #barnabyjoyce #matildas #auspol #australianlaborparty </title>
-    <updated>2023-08-15T08:55:27+00:00</updated>
-    <content>It’s almost impressive #barnabyjoyce #matildas #auspol #australianlaborparty </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7267470018420509953" rel="alternate"/>
-    <published>2023-08-15T08:55:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7267831367105252610</id>
     <title>The day @Ariel Beninca makes a video actually combatting the fact housing supply reduces without desperately claiming its landlord prop is the day the rent caps and freeze goes through. @Mat Morgan Ill happily talk to you if you’re interested. @adu is the</title>
@@ -51,5 +35,21 @@
     <content>it’ll be a respectful convo, down to talk if you are @Freya Leach #auspol #voicetoparliament #sayyes2023 #indigenousaustralian </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7268205272177413378" rel="alternate"/>
     <published>2023-08-17T08:28:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7268581228482252033</id>
+    <title>It’s such a fun game #auspol #housingcrisisaustralia #housingaustraliafuturefund #australianlaborparty </title>
+    <updated>2023-08-18T08:47:35+00:00</updated>
+    <content>It’s such a fun game #auspol #housingcrisisaustralia #housingaustraliafuturefund #australianlaborparty </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7268581228482252033" rel="alternate"/>
+    <published>2023-08-18T08:47:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7268584945482779906</id>
+    <title>Team hard solo I guess #auspol #hardsolo #australiandrinking #australiandrinkingculture </title>
+    <updated>2023-08-18T09:01:59+00:00</updated>
+    <content>Team hard solo I guess #auspol #hardsolo #australiandrinking #australiandrinkingculture </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7268584945482779906" rel="alternate"/>
+    <published>2023-08-18T09:01:59+00:00</published>
   </entry>
 </feed>
