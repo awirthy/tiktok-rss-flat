@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-08-17T23:27:36+00:00</updated>
+  <updated>2023-08-18T05:05:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7262903338306522369</id>
-    <title>Let us just say it for what it is: CCS is a scam. It is a scam that has been used by the coal and gas industries to con (usually willing) governments and populations into delaying climate action. #auspol #climatechange</title>
-    <updated>2023-08-03T01:35:43+00:00</updated>
-    <content>Let us just say it for what it is: CCS is a scam. It is a scam that has been used by the coal and gas industries to con (usually willing) governments and populations into delaying climate action. #auspol #climatechange</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7262903338306522369" rel="alternate"/>
-    <published>2023-08-03T01:35:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7265925642556804370</id>
     <title>"We've lost the opportunities young people used to have," Dr Fiona MacDonald, Policy Director at our Centre for Future Work, joined ABC News to give analysis on data showing that young people are working multiple jobs at record numbers as cost of living b</title>
@@ -51,5 +43,13 @@
     <content>Gas as a transition fuel?  Doesn't really make sense, when the proposed Middle Arm LNG facility will have lifecycle emissions equal to 12 coal-fired power stations.  #auspol #climatechange</content>
     <link href="https://tiktok.com/@theausinstitute/video/7268436893778316552" rel="alternate"/>
     <published>2023-08-17T23:27:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7268503698353999122</id>
+    <title>Think offsets are our way to Net-Zero? Think again. The majority of carbon offsets are flawed, they aren't used to cover all emissions, and we're even dramatically underestimating our emissions. #auspol #climatechange</title>
+    <updated>2023-08-18T05:05:00+00:00</updated>
+    <content>Think offsets are our way to Net-Zero? Think again. The majority of carbon offsets are flawed, they aren't used to cover all emissions, and we're even dramatically underestimating our emissions. #auspol #climatechange</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7268503698353999122" rel="alternate"/>
+    <published>2023-08-18T05:05:00+00:00</published>
   </entry>
 </feed>
