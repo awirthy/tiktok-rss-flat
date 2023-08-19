@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-08-18T05:05:00+00:00</updated>
+  <updated>2023-08-19T04:30:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7265925642556804370</id>
-    <title>"We've lost the opportunities young people used to have," Dr Fiona MacDonald, Policy Director at our Centre for Future Work, joined ABC News to give analysis on data showing that young people are working multiple jobs at record numbers as cost of living b</title>
-    <updated>2023-08-11T05:03:35+00:00</updated>
-    <content>"We've lost the opportunities young people used to have," Dr Fiona MacDonald, Policy Director at our Centre for Future Work, joined ABC News to give analysis on data showing that young people are working multiple jobs at record numbers as cost of living bites. #auspol</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7265925642556804370" rel="alternate"/>
-    <published>2023-08-11T05:03:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7267794717067300104</id>
     <title>Why is it so important to have the Voice in the Constitution? "Every organisation that we've set up has been done away in an afternoon, signed away." "Stability, so we can properly participate in the political &amp; social life of the nation."  - Pat Anderson</title>
@@ -51,5 +43,13 @@
     <content>Think offsets are our way to Net-Zero? Think again. The majority of carbon offsets are flawed, they aren't used to cover all emissions, and we're even dramatically underestimating our emissions. #auspol #climatechange</content>
     <link href="https://tiktok.com/@theausinstitute/video/7268503698353999122" rel="alternate"/>
     <published>2023-08-18T05:05:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7268522162808556807</id>
+    <title>The official unemployment rate significantly underestimates the actual number of people looking for work. Our research found there are 3X more people looking for work than the official 'tip of the iceberg' number states!  Lilia Anderson and Matt Grudnoff </title>
+    <updated>2023-08-19T04:30:00+00:00</updated>
+    <content>The official unemployment rate significantly underestimates the actual number of people looking for work. Our research found there are 3X more people looking for work than the official 'tip of the iceberg' number states!  Lilia Anderson and Matt Grudnoff explain. #auspol #ausecon</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7268522162808556807" rel="alternate"/>
+    <published>2023-08-19T04:30:00+00:00</published>
   </entry>
 </feed>
