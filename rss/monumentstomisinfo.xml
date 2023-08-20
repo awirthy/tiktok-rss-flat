@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-08-20T02:50:29.187155+00:00</updated>
+  <updated>2023-08-19T08:44:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,44 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7268581228482252033</id>
+    <title>It’s such a fun game #auspol #housingcrisisaustralia #housingaustraliafuturefund #australianlaborparty </title>
+    <updated>2023-08-18T08:47:35+00:00</updated>
+    <content>It’s such a fun game #auspol #housingcrisisaustralia #housingaustraliafuturefund #australianlaborparty </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7268581228482252033" rel="alternate"/>
+    <published>2023-08-18T08:47:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7268584945482779906</id>
+    <title>Team hard solo I guess #auspol #hardsolo #australiandrinking #australiandrinkingculture </title>
+    <updated>2023-08-18T09:01:59+00:00</updated>
+    <content>Team hard solo I guess #auspol #hardsolo #australiandrinking #australiandrinkingculture </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7268584945482779906" rel="alternate"/>
+    <published>2023-08-18T09:01:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7268588005319888130</id>
+    <title>Up the supply #auspol #australianhousingcrisis #australianlaborparty #australianhousingmarket </title>
+    <updated>2023-08-18T09:13:49+00:00</updated>
+    <content>Up the supply #auspol #australianhousingcrisis #australianlaborparty #australianhousingmarket </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7268588005319888130" rel="alternate"/>
+    <published>2023-08-18T09:13:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7268943606008990977</id>
+    <title>It’s almost impressive #auspol #voicetoparliament #sayyes2023 #indigenousaustralian </title>
+    <updated>2023-08-19T08:13:44+00:00</updated>
+    <content>It’s almost impressive #auspol #voicetoparliament #sayyes2023 #indigenousaustralian </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7268943606008990977" rel="alternate"/>
+    <published>2023-08-19T08:13:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7268951592345324801</id>
+    <title>Good speech I’ll give him that #auspol #aukus #aukus🇦🇺🇬🇧🇺🇸 #australianlaborparty </title>
+    <updated>2023-08-19T08:44:44+00:00</updated>
+    <content>Good speech I’ll give him that #auspol #aukus #aukus🇦🇺🇬🇧🇺🇸 #australianlaborparty </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7268951592345324801" rel="alternate"/>
+    <published>2023-08-19T08:44:44+00:00</published>
+  </entry>
 </feed>
