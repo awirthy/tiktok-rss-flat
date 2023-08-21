@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-17T21:25:31+00:00</updated>
+  <updated>2023-08-21T15:24:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7267329367859137838</id>
-    <title>North Korea Is Preparing For Offensive War #usa #korea  North Korea says it’s preparing for an offensive war against South Korea. This comes after the defense chief hinted at a preemptive nuclear strike. In response, the US and South Korea will strengthen</title>
-    <updated>2023-08-14T23:49:46+00:00</updated>
-    <content>North Korea Is Preparing For Offensive War #usa #korea  North Korea says it’s preparing for an offensive war against South Korea. This comes after the defense chief hinted at a preemptive nuclear strike. In response, the US and South Korea will strengthen their defense and surveillance posture. They will also be conducting military exercises later this month. North Korea is expected to make more provocations in response.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7267329367859137838" rel="alternate"/>
-    <published>2023-08-14T23:49:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7267663518541876526</id>
     <title>Al-Qaeda Calls For Revenge On Sweden &amp; Denmark #sweden #denmark  Al-Qaeda has called for revenge attacks on Sweden and Denmark. This comes after people in the two countries burned Qurans. With Al-Qaeda saying “Denmark and Sweden are two small, despicable </title>
@@ -51,5 +43,13 @@
     <content>US Asks Iran To Stop Giving Drones To Russia #usa #russia  The US has asked Iran to stop selling drones to Russia. Currently the U.S. and Iran are conducting indirect talks in Oman which is an absolutely ridiculous thing. The two governments want to make a deal with each other but they refuse to speak to each other so Omani officials have to go between the two rooms delivering messages between them. Anyways the US asked them to stop supplying drones to Russia and while Iran officially denies that their drones are being used - they told the US that they have asked Moscow to stop but the US wants more concrete steps.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7268405461618052394" rel="alternate"/>
     <published>2023-08-17T21:25:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7269796629912341803</id>
+    <title>US Unites Japan and South Korea in Historic Security Pact #usa #japan #korea  A New Friendship has been formed! The US has gotten Japan and South Korea to drop their disputes and agree to a new security pledge that would see all 3 countries defend each ot</title>
+    <updated>2023-08-21T15:24:16+00:00</updated>
+    <content>US Unites Japan and South Korea in Historic Security Pact #usa #japan #korea  A New Friendship has been formed! The US has gotten Japan and South Korea to drop their disputes and agree to a new security pledge that would see all 3 countries defend each other. South Korea and Japan have famously hated each other since the Second World War, but after meeting at Camp David with President Biden - the two countries will now pursue peace and mutual security as friends not foes. The threats of China and North Korea and the friendship of the United States has brought them together. This comes as America seeks to build Asian NATO.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7269796629912341803" rel="alternate"/>
+    <published>2023-08-21T15:24:16+00:00</published>
   </entry>
 </feed>
