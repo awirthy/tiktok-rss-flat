@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-21T15:24:16+00:00</updated>
+  <updated>2023-08-21T16:25:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7267663518541876526</id>
-    <title>Al-Qaeda Calls For Revenge On Sweden &amp; Denmark #sweden #denmark  Al-Qaeda has called for revenge attacks on Sweden and Denmark. This comes after people in the two countries burned Qurans. With Al-Qaeda saying “Denmark and Sweden are two small, despicable </title>
-    <updated>2023-08-15T21:26:27+00:00</updated>
-    <content>Al-Qaeda Calls For Revenge On Sweden &amp; Denmark #sweden #denmark  Al-Qaeda has called for revenge attacks on Sweden and Denmark. This comes after people in the two countries burned Qurans. With Al-Qaeda saying “Denmark and Sweden are two small, despicable countries that amount to no more than two small spots on the world map” And then it called upon Muslims to take revenge on them.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7267663518541876526" rel="alternate"/>
-    <published>2023-08-15T21:26:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7267985946149408046</id>
     <title>US Soldier Fled To North Korea To Escape Racism In America #usa #korea #america  North Korea says the U.S. soldier, Travis King, who ran into the country did so because of racism in the United States. They say he says he suffered inhuman treatment and rac</title>
@@ -51,5 +43,13 @@
     <content>US Unites Japan and South Korea in Historic Security Pact #usa #japan #korea  A New Friendship has been formed! The US has gotten Japan and South Korea to drop their disputes and agree to a new security pledge that would see all 3 countries defend each other. South Korea and Japan have famously hated each other since the Second World War, but after meeting at Camp David with President Biden - the two countries will now pursue peace and mutual security as friends not foes. The threats of China and North Korea and the friendship of the United States has brought them together. This comes as America seeks to build Asian NATO.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7269796629912341803" rel="alternate"/>
     <published>2023-08-21T15:24:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7269812524781014314</id>
+    <title>Niger Changes Mind On France, Wants Them To Stay #usa #france  Niger’s Junta now says they want France to stay in the country, and just asks that they be less condescending which good luck with that request, that’s just part of being French. They praised </title>
+    <updated>2023-08-21T16:25:53+00:00</updated>
+    <content>Niger Changes Mind On France, Wants Them To Stay #usa #france  Niger’s Junta now says they want France to stay in the country, and just asks that they be less condescending which good luck with that request, that’s just part of being French. They praised President Biden and his “extremely reasonable position”. They also said that they won’t allow Wagner into the country because they want to stay partners with the US and France. This comes as ECOWAS announced that they will conduct D-Day on Niger. The Junta seems to have drunk its own Kool-Aid by appealing to France and the U.S. Because it’s Nigeria they should be appealing to right now, it’s Nigeria who will be rolling across the border not the US &amp; France. #nigeria </content>
+    <link href="https://tiktok.com/@philipdefranco/video/7269812524781014314" rel="alternate"/>
+    <published>2023-08-21T16:25:53+00:00</published>
   </entry>
 </feed>
