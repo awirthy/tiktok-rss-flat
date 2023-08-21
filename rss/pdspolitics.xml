@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-08-20T20:00:00+00:00</updated>
+  <updated>2023-08-21T23:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7267674482918051115</id>
-    <title>Former Pres. Trump has been indicted in Georgia, and this case will be televised. He’ll also have to take a mugshot. #Trump  #Georgia  #Politics  #Indictment</title>
-    <updated>2023-08-15T23:00:00+00:00</updated>
-    <content>Former Pres. Trump has been indicted in Georgia, and this case will be televised. He’ll also have to take a mugshot. #Trump  #Georgia  #Politics  #Indictment</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7267674482918051115" rel="alternate"/>
-    <published>2023-08-15T23:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7268058385189211435</id>
     <title>Messy Bodycam footages shows Rep. Ronny Jackson and cops scuffling as both try to assist a girl who was allegedly seizing. #RonnyJackson  #Bodycam  #Cops   #Politics</title>
@@ -51,5 +43,13 @@
     <content>A scary report has found that an EPA-backed fuel will cause cancer 100% of the time #Gas  #EPA  #Pollution  #US</content>
     <link href="https://tiktok.com/@pdspolitics/video/7268704255966596395" rel="alternate"/>
     <published>2023-08-20T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7269902323885853998</id>
+    <title>Another Gov’t Shutdown Is Looming #Politics  #US  #Congress  #KevinMcCarthy</title>
+    <updated>2023-08-21T23:00:00+00:00</updated>
+    <content>Another Gov’t Shutdown Is Looming #Politics  #US  #Congress  #KevinMcCarthy</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7269902323885853998" rel="alternate"/>
+    <published>2023-08-21T23:00:00+00:00</published>
   </entry>
 </feed>
