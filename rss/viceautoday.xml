@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-08-21T07:01:28+00:00</updated>
+  <updated>2023-08-22T07:09:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7267433315819441426</id>
-    <title>Woman at the centre of Victoria's poisonous mushroom d3aths has made a statement to police, saying she regretted not coming forward sooner. #victoria #beefwellington  #posionmushroom #mushroom #police #deathcaps #todayilearned #learnontiktok #news #newsau</title>
-    <updated>2023-08-15T06:33:01+00:00</updated>
-    <content>Woman at the centre of Victoria's poisonous mushroom d3aths has made a statement to police, saying she regretted not coming forward sooner. #victoria #beefwellington  #posionmushroom #mushroom #police #deathcaps #todayilearned #learnontiktok #news #newsaustralia #australia </content>
-    <link href="https://tiktok.com/@viceautoday/video/7267433315819441426" rel="alternate"/>
-    <published>2023-08-15T06:33:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7267807718826577153</id>
     <title>Australia’s new ban on v@pes, announced by the federal government in May, will see new legislation drawn up and implemented meaning the ban will be more powerful and permanent. #australia #news #politics #auspol #government #parliament #law #vote #health </title>
@@ -51,5 +43,13 @@
     <content>Australia’s population growth rate is slowing down. What does this mean for young people and the future of our society? #australia #news #population #migration #fertility #birth #millennial #aging #politics #auspol #todayilearned #learnontiktok </content>
     <link href="https://tiktok.com/@viceautoday/video/7269667143128550657" rel="alternate"/>
     <published>2023-08-21T07:01:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7270040278545812738</id>
+    <title>Lachlan Murdoch has paid $1.3 million to Australian media outlet Crikey after he dropped his defamation case against them. #australia #news #media #journalism #publicinterest #freespeech #murdoch #newscorp #fox #crikey #todayilearned #learnontiktok </title>
+    <updated>2023-08-22T07:09:22+00:00</updated>
+    <content>Lachlan Murdoch has paid $1.3 million to Australian media outlet Crikey after he dropped his defamation case against them. #australia #news #media #journalism #publicinterest #freespeech #murdoch #newscorp #fox #crikey #todayilearned #learnontiktok </content>
+    <link href="https://tiktok.com/@viceautoday/video/7270040278545812738" rel="alternate"/>
+    <published>2023-08-22T07:09:22+00:00</published>
   </entry>
 </feed>
