@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-22T18:29:15+00:00</updated>
+  <updated>2023-08-22T19:25:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7268405461618052394</id>
-    <title>US Asks Iran To Stop Giving Drones To Russia #usa #russia  The US has asked Iran to stop selling drones to Russia. Currently the U.S. and Iran are conducting indirect talks in Oman which is an absolutely ridiculous thing. The two governments want to make </title>
-    <updated>2023-08-17T21:25:31+00:00</updated>
-    <content>US Asks Iran To Stop Giving Drones To Russia #usa #russia  The US has asked Iran to stop selling drones to Russia. Currently the U.S. and Iran are conducting indirect talks in Oman which is an absolutely ridiculous thing. The two governments want to make a deal with each other but they refuse to speak to each other so Omani officials have to go between the two rooms delivering messages between them. Anyways the US asked them to stop supplying drones to Russia and while Iran officially denies that their drones are being used - they told the US that they have asked Moscow to stop but the US wants more concrete steps.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7268405461618052394" rel="alternate"/>
-    <published>2023-08-17T21:25:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7269796629912341803</id>
     <title>US Unites Japan and South Korea in Historic Security Pact #usa #japan #korea  A New Friendship has been formed! The US has gotten Japan and South Korea to drop their disputes and agree to a new security pledge that would see all 3 countries defend each ot</title>
@@ -51,5 +43,13 @@
     <content>Ukraine Destroys Russian Supersonic Bomber #ukraine #russia  Ukraine has destroyed Russia’s supersonic bomber. Now Russia claims it’s only damaged, but judging by the photo. Looks pretty bad to me. Russia called this a terrorist act but hitting a bomber on a military base is the furthest thing from terrorism. A terrorist act is hitting entire apartment buildings with missiles like this supersonic bomber has done since the beginning of the war.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7270215433377254702" rel="alternate"/>
     <published>2023-08-22T18:29:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7270229825829358890</id>
+    <title>Algeria Blocks French Airforce #france #algeria  Algeria says France can’t fly military aircraft over the country in order to conduct a “military operation” in Niger. France responded by saying “cool, we never asked for such a thing”. 12 nigerien soldiers</title>
+    <updated>2023-08-22T19:25:07+00:00</updated>
+    <content>Algeria Blocks French Airforce #france #algeria  Algeria says France can’t fly military aircraft over the country in order to conduct a “military operation” in Niger. France responded by saying “cool, we never asked for such a thing”. 12 nigerien soldiers, as in soldiers from Niger, were killed in a terrorist ambush, that’s the 8th terrorist attack on the Army since the coup happened. Also the African Union has kicked Niger out of the union due to the coup and the new US ambassador has arrived in the country but they won’t be meeting with the Junta.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7270229825829358890" rel="alternate"/>
+    <published>2023-08-22T19:25:07+00:00</published>
   </entry>
 </feed>
