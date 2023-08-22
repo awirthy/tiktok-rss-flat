@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-08-22T09:44:07+00:00</updated>
+  <updated>2023-08-22T15:09:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7269440053162675489</id>
-    <title>Is Messi the greatest footballer ever or not?🤔</title>
-    <updated>2023-08-20T16:20:15+00:00</updated>
-    <content>Is Messi the greatest footballer ever or not?🤔</content>
-    <link href="https://tiktok.com/@dylan.page/video/7269440053162675489" rel="alternate"/>
-    <published>2023-08-20T16:20:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7269456713101610273</id>
     <title>Did Russia fumble the bag or is India gunna do the same??🤔</title>
@@ -51,5 +43,13 @@
     <content>6 children and 8 adults are trapped in a cable car after one of the wires snapped!😳</content>
     <link href="https://tiktok.com/@dylan.page/video/7270080155865845024" rel="alternate"/>
     <published>2023-08-22T09:44:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7270163966117104929</id>
+    <title>What do you think they should name her?🤔</title>
+    <updated>2023-08-22T15:09:22+00:00</updated>
+    <content>What do you think they should name her?🤔</content>
+    <link href="https://tiktok.com/@dylan.page/video/7270163966117104929" rel="alternate"/>
+    <published>2023-08-22T15:09:22+00:00</published>
   </entry>
 </feed>
