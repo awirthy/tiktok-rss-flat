@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-08-22T21:20:05.194382+00:00</updated>
+  <updated>2023-08-20T08:35:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,44 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7268588005319888130</id>
+    <title>Up the supply #auspol #australianhousingcrisis #australianlaborparty #australianhousingmarket </title>
+    <updated>2023-08-18T09:13:49+00:00</updated>
+    <content>Up the supply #auspol #australianhousingcrisis #australianlaborparty #australianhousingmarket </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7268588005319888130" rel="alternate"/>
+    <published>2023-08-18T09:13:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7268943606008990977</id>
+    <title>It’s almost impressive #auspol #voicetoparliament #sayyes2023 #indigenousaustralian </title>
+    <updated>2023-08-19T08:13:44+00:00</updated>
+    <content>It’s almost impressive #auspol #voicetoparliament #sayyes2023 #indigenousaustralian </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7268943606008990977" rel="alternate"/>
+    <published>2023-08-19T08:13:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7268951592345324801</id>
+    <title>Good speech I’ll give him that #auspol #aukus #aukus🇦🇺🇬🇧🇺🇸 #australianlaborparty </title>
+    <updated>2023-08-19T08:44:44+00:00</updated>
+    <content>Good speech I’ll give him that #auspol #aukus #aukus🇦🇺🇬🇧🇺🇸 #australianlaborparty </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7268951592345324801" rel="alternate"/>
+    <published>2023-08-19T08:44:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7269311709175614722</id>
+    <title>Doctors having a winge #auspol #generalpractitioner #medicare </title>
+    <updated>2023-08-20T08:02:11+00:00</updated>
+    <content>Doctors having a winge #auspol #generalpractitioner #medicare </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7269311709175614722" rel="alternate"/>
+    <published>2023-08-20T08:02:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7269320308925025537</id>
+    <title>These people genuinely make me miserbale #auspol #sayyes2023 #voicetoparliament #lidiathorpe </title>
+    <updated>2023-08-20T08:35:33+00:00</updated>
+    <content>These people genuinely make me miserbale #auspol #sayyes2023 #voicetoparliament #lidiathorpe </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7269320308925025537" rel="alternate"/>
+    <published>2023-08-20T08:35:33+00:00</published>
+  </entry>
 </feed>
