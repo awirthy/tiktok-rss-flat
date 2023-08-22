@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-08-21T17:13:43+00:00</updated>
+  <updated>2023-08-22T03:11:42.454763+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,44 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7269070091747101985</id>
-    <title>Deji and I just went head to head for ring side seats!!🥊 😱  Thank you so much @Gamers8 Esports for showing us a great time! @Gamers8_AR #gamers8 #landofheroes </title>
-    <updated>2023-08-19T16:24:34+00:00</updated>
-    <content>Deji and I just went head to head for ring side seats!!🥊 😱  Thank you so much @Gamers8 Esports for showing us a great time! @Gamers8_AR #gamers8 #landofheroes </content>
-    <link href="https://tiktok.com/@dylan.page/video/7269070091747101985" rel="alternate"/>
-    <published>2023-08-19T16:24:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7269440053162675489</id>
-    <title>Is Messi the greatest footballer ever or not?🤔</title>
-    <updated>2023-08-20T16:20:15+00:00</updated>
-    <content>Is Messi the greatest footballer ever or not?🤔</content>
-    <link href="https://tiktok.com/@dylan.page/video/7269440053162675489" rel="alternate"/>
-    <published>2023-08-20T16:20:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7269456713101610273</id>
-    <title>Did Russia fumble the bag or is India gunna do the same??🤔</title>
-    <updated>2023-08-20T17:24:51+00:00</updated>
-    <content>Did Russia fumble the bag or is India gunna do the same??🤔</content>
-    <link href="https://tiktok.com/@dylan.page/video/7269456713101610273" rel="alternate"/>
-    <published>2023-08-20T17:24:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7269484087302245664</id>
-    <title>What do we think about this??🤔😳</title>
-    <updated>2023-08-20T19:11:05+00:00</updated>
-    <content>What do we think about this??🤔😳</content>
-    <link href="https://tiktok.com/@dylan.page/video/7269484087302245664" rel="alternate"/>
-    <published>2023-08-20T19:11:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7269824929195887904</id>
-    <title>What do we think about this?!😳</title>
-    <updated>2023-08-21T17:13:43+00:00</updated>
-    <content>What do we think about this?!😳</content>
-    <link href="https://tiktok.com/@dylan.page/video/7269824929195887904" rel="alternate"/>
-    <published>2023-08-21T17:13:43+00:00</published>
-  </entry>
 </feed>
