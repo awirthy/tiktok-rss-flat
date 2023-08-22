@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-21T17:50:19+00:00</updated>
+  <updated>2023-08-22T18:29:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7268046704086355246</id>
-    <title>US Throws France Under The Bus In Niger #usa #france  The US now says that Niger is a partner and they don’t wanna see that partnership go. Adding that they have invested hundreds of millions of dollars into bases there, so it really wants a peaceful reso</title>
-    <updated>2023-08-16T22:13:21+00:00</updated>
-    <content>US Throws France Under The Bus In Niger #usa #france  The US now says that Niger is a partner and they don’t wanna see that partnership go. Adding that they have invested hundreds of millions of dollars into bases there, so it really wants a peaceful resolution. The US seems to be coming to peace with the Junta because they’re not kicking out the American troops, only the French. So, in essence - the US is throwing France under the bus and leaving them behind. Or as Charles de Gaulle famously said “No nation has friends, only interests”. Bon Voyage.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7268046704086355246" rel="alternate"/>
-    <published>2023-08-16T22:13:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7268405461618052394</id>
     <title>US Asks Iran To Stop Giving Drones To Russia #usa #russia  The US has asked Iran to stop selling drones to Russia. Currently the U.S. and Iran are conducting indirect talks in Oman which is an absolutely ridiculous thing. The two governments want to make </title>
@@ -51,5 +43,13 @@
     <content>Canada Preparing For A Fascist America #usa #canada  Canada says it’s creating a game plan for how to respond and deal with the United States if it takes a far-right authoritarian shift in next year’s Presidential election. They worry that the two Republican front runners will pull the US out of NATO and all of its other treaties including trade agreements, leaving Canada to fend for itself. They declined to comment on what the plan would look like but Europe and Canada have been strengthening ties since the Trump Presidency due to this explicit scenario. If push comes to shove, they could always build a wall.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7269834304388156714" rel="alternate"/>
     <published>2023-08-21T17:50:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7270215433377254702</id>
+    <title>Ukraine Destroys Russian Supersonic Bomber #ukraine #russia  Ukraine has destroyed Russia’s supersonic bomber. Now Russia claims it’s only damaged, but judging by the photo. Looks pretty bad to me. Russia called this a terrorist act but hitting a bomber o</title>
+    <updated>2023-08-22T18:29:15+00:00</updated>
+    <content>Ukraine Destroys Russian Supersonic Bomber #ukraine #russia  Ukraine has destroyed Russia’s supersonic bomber. Now Russia claims it’s only damaged, but judging by the photo. Looks pretty bad to me. Russia called this a terrorist act but hitting a bomber on a military base is the furthest thing from terrorism. A terrorist act is hitting entire apartment buildings with missiles like this supersonic bomber has done since the beginning of the war.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7270215433377254702" rel="alternate"/>
+    <published>2023-08-22T18:29:15+00:00</published>
   </entry>
 </feed>
