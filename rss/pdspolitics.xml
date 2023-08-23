@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-08-22T23:10:00+00:00</updated>
+  <updated>2023-08-23T23:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7268440924064075054</id>
-    <title>New details in the impeachment of Texas AG Ken Paxton just dropped, and wow… are they juicy #KenPaxton  #Impeachment  #Politics  #US</title>
-    <updated>2023-08-17T23:43:07+00:00</updated>
-    <content>New details in the impeachment of Texas AG Ken Paxton just dropped, and wow… are they juicy #KenPaxton  #Impeachment  #Politics  #US</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7268440924064075054" rel="alternate"/>
-    <published>2023-08-17T23:43:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7268700413048769838</id>
     <title>“Barbaric” Conditions Reported in ICE Detention Centers #ICE  #Politics  #US  #Biden</title>
@@ -51,5 +43,13 @@
     <content>TN House Limits Citizens from Chamber Amid Criticism Over Special Session #Tennessee  #Politics  #US</content>
     <link href="https://tiktok.com/@pdspolitics/video/7270283998981524779" rel="alternate"/>
     <published>2023-08-22T23:10:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7270651965586033963</id>
+    <title>The Fall of Affirmative Action Is Spreading! #Politics  #US  #Lawsuit  #AffirmativeAction</title>
+    <updated>2023-08-23T23:00:00+00:00</updated>
+    <content>The Fall of Affirmative Action Is Spreading! #Politics  #US  #Lawsuit  #AffirmativeAction</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7270651965586033963" rel="alternate"/>
+    <published>2023-08-23T23:00:00+00:00</published>
   </entry>
 </feed>
