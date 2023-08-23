@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-08-22T03:32:23+00:00</updated>
+  <updated>2023-08-19T04:30:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7267794717067300104</id>
+    <title>Why is it so important to have the Voice in the Constitution? "Every organisation that we've set up has been done away in an afternoon, signed away." "Stability, so we can properly participate in the political &amp; social life of the nation."  - Pat Anderson</title>
+    <updated>2023-08-16T05:56:33+00:00</updated>
+    <content>Why is it so important to have the Voice in the Constitution? "Every organisation that we've set up has been done away in an afternoon, signed away." "Stability, so we can properly participate in the political &amp; social life of the nation."  - Pat Anderson AO, Alyawarre woman, on ABC's 730.</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7267794717067300104" rel="alternate"/>
+    <published>2023-08-16T05:56:33+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7268180856013982994</id>
     <title>You've probably heard the Government's "1.2 million new homes over 5 years" announcement. We've done the analysis! Verdict: It's better than nothing. But that's not saying much. Matt and Greg explain. "From 2014-19, there were 1.05 million houses built. S</title>
@@ -43,13 +51,5 @@
     <content>The official unemployment rate significantly underestimates the actual number of people looking for work. Our research found there are 3X more people looking for work than the official 'tip of the iceberg' number states!  Lilia Anderson and Matt Grudnoff explain. #auspol #ausecon</content>
     <link href="https://tiktok.com/@theausinstitute/video/7268522162808556807" rel="alternate"/>
     <published>2023-08-19T04:30:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7269984162067631368</id>
-    <title>"If we say Yes now, we can listen to their priorities and needs, and we as a nation can begin to come together after decades of growing apart."  In less than a minute, Richard Denniss, executive director of the Australia Institute explains the simple reas</title>
-    <updated>2023-08-22T03:32:23+00:00</updated>
-    <content>"If we say Yes now, we can listen to their priorities and needs, and we as a nation can begin to come together after decades of growing apart."  In less than a minute, Richard Denniss, executive director of the Australia Institute explains the simple reasons why we are supporting the Voice to Parliament. Here's the facts: The polling shows more than 80% of Indigenous Australians support the Voice.   It was first proposed in the Uluru Statement from the Heart. The Uluru Statement from the Heart is the culmination of over a decade of work and extensive First Nations consultation which arrived at a consensus about what constitutional recognition should look like. Twelve deliberative dialogues were conducted involving a total of 1,200 First Nations people drawn from local traditional owners, First Nations community-based organisations and Aboriginal and Torres Strait Islander leaders. These regional dialogues then selected their own representatives to attend the First Nations Constitutional Convention at Uluru in 2017, where First Nations forged a historic consensus on what constitution recognition should look like, adopting the Uluru Statement from the Heart. The Statement is an invitation from First Nations people to all Australians. One of its key features is to ask Australians to support meaningful constitutional recognition by providing a First Nations Voice. We're proud to support the Yes vote in the upcoming Voice referendum. #WriteYes #auspol #yes23 #fyp</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7269984162067631368" rel="alternate"/>
-    <published>2023-08-22T03:32:23+00:00</published>
   </entry>
 </feed>
