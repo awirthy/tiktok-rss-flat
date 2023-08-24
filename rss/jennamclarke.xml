@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jennamclarke</id>
   <title>jennamclarke TikTok</title>
-  <updated>2023-08-23T13:00:01+00:00</updated>
+  <updated>2023-08-22T12:20:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jennamclarke</subtitle>
+  <entry>
+    <id>https://tiktok.com/@jennamclarke/video/7265715368851721474</id>
+    <title>A day in the sitting week life #auspol #politics #canberra #news #coffee #mittens </title>
+    <updated>2023-08-10T15:26:31+00:00</updated>
+    <content>A day in the sitting week life #auspol #politics #canberra #news #coffee #mittens </content>
+    <link href="https://tiktok.com/@jennamclarke/video/7265715368851721474" rel="alternate"/>
+    <published>2023-08-10T15:26:31+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@jennamclarke/video/7267536940168137985</id>
     <title>4 things to know before ☕️ on Wednesday is that every #newspaper in #australia is changing their name in anticipation of the #matildas semi final  👋🏼 ya every night from 10:30pm for #thefrontpage on #skynewsaustralia  #matildas #samkerr #mirandakerr #worl</title>
@@ -43,13 +51,5 @@
     <content>4 things to know before ☕️ on Wednesday including how #australian #kids are flailing at #school according to #naplan  👋🏼 ya every night from 10:30pm for #thefrontpage on #skynewsaustralia </content>
     <link href="https://tiktok.com/@jennamclarke/video/7270120440461462786" rel="alternate"/>
     <published>2023-08-22T12:20:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jennamclarke/video/7270501716892732673</id>
-    <title>4 things to know before ☕️ on Thursday including the top #thebachelorette of #sydney  👋🏼 ya every night from 10:30pm for #thefrontpage on #skynewsaustralia </title>
-    <updated>2023-08-23T13:00:01+00:00</updated>
-    <content>4 things to know before ☕️ on Thursday including the top #thebachelorette of #sydney  👋🏼 ya every night from 10:30pm for #thefrontpage on #skynewsaustralia </content>
-    <link href="https://tiktok.com/@jennamclarke/video/7270501716892732673" rel="alternate"/>
-    <published>2023-08-23T13:00:01+00:00</published>
   </entry>
 </feed>
