@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-23T19:39:36+00:00</updated>
+  <updated>2023-08-24T18:05:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7269834304388156714</id>
-    <title>Canada Preparing For A Fascist America #usa #canada  Canada says it’s creating a game plan for how to respond and deal with the United States if it takes a far-right authoritarian shift in next year’s Presidential election. They worry that the two Republi</title>
-    <updated>2023-08-21T17:50:19+00:00</updated>
-    <content>Canada Preparing For A Fascist America #usa #canada  Canada says it’s creating a game plan for how to respond and deal with the United States if it takes a far-right authoritarian shift in next year’s Presidential election. They worry that the two Republican front runners will pull the US out of NATO and all of its other treaties including trade agreements, leaving Canada to fend for itself. They declined to comment on what the plan would look like but Europe and Canada have been strengthening ties since the Trump Presidency due to this explicit scenario. If push comes to shove, they could always build a wall.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7269834304388156714" rel="alternate"/>
-    <published>2023-08-21T17:50:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7270215433377254702</id>
     <title>Ukraine Destroys Russian Supersonic Bomber #ukraine #russia  Ukraine has destroyed Russia’s supersonic bomber. Now Russia claims it’s only damaged, but judging by the photo. Looks pretty bad to me. Russia called this a terrorist act but hitting a bomber o</title>
@@ -51,5 +43,13 @@
     <content>Wagner To Get Revenge On Russia For Leader’s Death #russia #ukraine  Wagner says the Kremlin will now be captured after Russia killed the group’s leader. Shortly after Prigo’s death, Putin was seen joyfully speaking at a public event. Russia has opened a criminal investigation into the crash. Some Russian officials have blamed Ukraine but Wagner is pinning the blame straight on the Kremlin. The Pentagon says no one should be surprised that Prigo is dead. Biden says that he’s not surprised and that not much happens in Russia that Putin isn’t behind. It’s unclear if Putin will try to claim the $250,000 bounty the FBI had on Prigo</content>
     <link href="https://tiktok.com/@philipdefranco/video/7270604618403548458" rel="alternate"/>
     <published>2023-08-23T19:39:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7270951365181017387</id>
+    <title>Putin Planted Bomb On Wagner Plane #russia #ukraine  US intelligence believes that a Russian anti-air missile shot down Prigo’s plane, killing all of Wagner’s senior leadership but US officials believe a bomb exploded on board. British Intelligence believ</title>
+    <updated>2023-08-24T18:05:04+00:00</updated>
+    <content>Putin Planted Bomb On Wagner Plane #russia #ukraine  US intelligence believes that a Russian anti-air missile shot down Prigo’s plane, killing all of Wagner’s senior leadership but US officials believe a bomb exploded on board. British Intelligence believes Russia’s FSB took down the plane. Either way it’s believed that yesterday’s assassination was a message to all of Russia’s elite. If Putin is willing to kill Prigo in broad daylight over Moscow.. then absolutely no one is safe. Putin has sent his condolences to Prigo’s family and he says he’s waiting for the results of the investigation.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7270951365181017387" rel="alternate"/>
+    <published>2023-08-24T18:05:04+00:00</published>
   </entry>
 </feed>
