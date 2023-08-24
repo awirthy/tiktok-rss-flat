@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-22T19:25:07+00:00</updated>
+  <updated>2023-08-23T19:39:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7269796629912341803</id>
-    <title>US Unites Japan and South Korea in Historic Security Pact #usa #japan #korea  A New Friendship has been formed! The US has gotten Japan and South Korea to drop their disputes and agree to a new security pledge that would see all 3 countries defend each ot</title>
-    <updated>2023-08-21T15:24:16+00:00</updated>
-    <content>US Unites Japan and South Korea in Historic Security Pact #usa #japan #korea  A New Friendship has been formed! The US has gotten Japan and South Korea to drop their disputes and agree to a new security pledge that would see all 3 countries defend each other. South Korea and Japan have famously hated each other since the Second World War, but after meeting at Camp David with President Biden - the two countries will now pursue peace and mutual security as friends not foes. The threats of China and North Korea and the friendship of the United States has brought them together. This comes as America seeks to build Asian NATO.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7269796629912341803" rel="alternate"/>
-    <published>2023-08-21T15:24:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7269812524781014314</id>
-    <title>Niger Changes Mind On France, Wants Them To Stay #usa #france  Niger’s Junta now says they want France to stay in the country, and just asks that they be less condescending which good luck with that request, that’s just part of being French. They praised </title>
-    <updated>2023-08-21T16:25:53+00:00</updated>
-    <content>Niger Changes Mind On France, Wants Them To Stay #usa #france  Niger’s Junta now says they want France to stay in the country, and just asks that they be less condescending which good luck with that request, that’s just part of being French. They praised President Biden and his “extremely reasonable position”. They also said that they won’t allow Wagner into the country because they want to stay partners with the US and France. This comes as ECOWAS announced that they will conduct D-Day on Niger. The Junta seems to have drunk its own Kool-Aid by appealing to France and the U.S. Because it’s Nigeria they should be appealing to right now, it’s Nigeria who will be rolling across the border not the US &amp; France. #nigeria </content>
-    <link href="https://tiktok.com/@philipdefranco/video/7269812524781014314" rel="alternate"/>
-    <published>2023-08-21T16:25:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7269834304388156714</id>
     <title>Canada Preparing For A Fascist America #usa #canada  Canada says it’s creating a game plan for how to respond and deal with the United States if it takes a far-right authoritarian shift in next year’s Presidential election. They worry that the two Republi</title>
@@ -51,5 +35,21 @@
     <content>Algeria Blocks French Airforce #france #algeria  Algeria says France can’t fly military aircraft over the country in order to conduct a “military operation” in Niger. France responded by saying “cool, we never asked for such a thing”. 12 nigerien soldiers, as in soldiers from Niger, were killed in a terrorist ambush, that’s the 8th terrorist attack on the Army since the coup happened. Also the African Union has kicked Niger out of the union due to the coup and the new US ambassador has arrived in the country but they won’t be meeting with the Junta.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7270229825829358890" rel="alternate"/>
     <published>2023-08-22T19:25:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7270578683927186731</id>
+    <title>Russia Killed Leader Of Wagner #russia #ukraine  Russia has killed the leader of Wagner. Russian state media says Prigo as well as at least 9 others passengers died when his jet crashed. Wagner is accusing Russia of shooting down the plane as he was leavi</title>
+    <updated>2023-08-23T17:58:55+00:00</updated>
+    <content>Russia Killed Leader Of Wagner #russia #ukraine  Russia has killed the leader of Wagner. Russian state media says Prigo as well as at least 9 others passengers died when his jet crashed. Wagner is accusing Russia of shooting down the plane as he was leaving Moscow today. Initial flight data and video evidence seems to back that accusation. Wagner’s military commander is also reportedly among the dead. The CIA doesn’t call Putin the “ultimate Apostle of payback” for no reason.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7270578683927186731" rel="alternate"/>
+    <published>2023-08-23T17:58:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7270604618403548458</id>
+    <title>Wagner To Get Revenge On Russia For Leader’s Death #russia #ukraine  Wagner says the Kremlin will now be captured after Russia killed the group’s leader. Shortly after Prigo’s death, Putin was seen joyfully speaking at a public event. Russia has opened a </title>
+    <updated>2023-08-23T19:39:36+00:00</updated>
+    <content>Wagner To Get Revenge On Russia For Leader’s Death #russia #ukraine  Wagner says the Kremlin will now be captured after Russia killed the group’s leader. Shortly after Prigo’s death, Putin was seen joyfully speaking at a public event. Russia has opened a criminal investigation into the crash. Some Russian officials have blamed Ukraine but Wagner is pinning the blame straight on the Kremlin. The Pentagon says no one should be surprised that Prigo is dead. Biden says that he’s not surprised and that not much happens in Russia that Putin isn’t behind. It’s unclear if Putin will try to claim the $250,000 bounty the FBI had on Prigo</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7270604618403548458" rel="alternate"/>
+    <published>2023-08-23T19:39:36+00:00</published>
   </entry>
 </feed>
