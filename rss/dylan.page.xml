@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-08-25T17:09:16+00:00</updated>
+  <updated>2023-08-25T18:12:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7270525962155068704</id>
-    <title>What do we think about this?!😱</title>
-    <updated>2023-08-23T14:34:09+00:00</updated>
-    <content>What do we think about this?!😱</content>
-    <link href="https://tiktok.com/@dylan.page/video/7270525962155068704" rel="alternate"/>
-    <published>2023-08-23T14:34:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7270565466635128097</id>
     <title>A SPEAR?!?😱🤯WHY?!?</title>
@@ -51,5 +43,13 @@
     <content>The first footage from the moons south pole has been released!!😱🚨</content>
     <link href="https://tiktok.com/@dylan.page/video/7271308099795914016" rel="alternate"/>
     <published>2023-08-25T17:09:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7271324447221632288</id>
+    <title>What do we think about this??!🤔😳</title>
+    <updated>2023-08-25T18:12:37+00:00</updated>
+    <content>What do we think about this??!🤔😳</content>
+    <link href="https://tiktok.com/@dylan.page/video/7271324447221632288" rel="alternate"/>
+    <published>2023-08-25T18:12:37+00:00</published>
   </entry>
 </feed>
