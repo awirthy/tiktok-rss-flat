@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-08-24T23:01:32+00:00</updated>
+  <updated>2023-08-25T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7268704255966596395</id>
-    <title>A scary report has found that an EPA-backed fuel will cause cancer 100% of the time #Gas  #EPA  #Pollution  #US</title>
-    <updated>2023-08-20T20:00:00+00:00</updated>
-    <content>A scary report has found that an EPA-backed fuel will cause cancer 100% of the time #Gas  #EPA  #Pollution  #US</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7268704255966596395" rel="alternate"/>
-    <published>2023-08-20T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7269902323885853998</id>
     <title>Another Gov’t Shutdown Is Looming #Politics  #US  #Congress  #KevinMcCarthy</title>
@@ -51,5 +43,13 @@
     <content>Who won last night’s Republican debate? #RonDeSantis  #Politics  #VivekRamaswamy  #DonaldTrump</content>
     <link href="https://tiktok.com/@pdspolitics/video/7271027769914428714" rel="alternate"/>
     <published>2023-08-24T23:01:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7271314258506583342</id>
+    <title>As rent and housing prices inch higher and higher, homelessness is skyrocketing #Rent  #Housing  #Homeless  #Politics</title>
+    <updated>2023-08-25T20:00:00+00:00</updated>
+    <content>As rent and housing prices inch higher and higher, homelessness is skyrocketing #Rent  #Housing  #Homeless  #Politics</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7271314258506583342" rel="alternate"/>
+    <published>2023-08-25T20:00:00+00:00</published>
   </entry>
 </feed>
