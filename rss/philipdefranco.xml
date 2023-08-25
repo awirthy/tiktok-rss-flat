@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-24T18:05:04+00:00</updated>
+  <updated>2023-08-25T00:43:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7270215433377254702</id>
-    <title>Ukraine Destroys Russian Supersonic Bomber #ukraine #russia  Ukraine has destroyed Russia’s supersonic bomber. Now Russia claims it’s only damaged, but judging by the photo. Looks pretty bad to me. Russia called this a terrorist act but hitting a bomber o</title>
-    <updated>2023-08-22T18:29:15+00:00</updated>
-    <content>Ukraine Destroys Russian Supersonic Bomber #ukraine #russia  Ukraine has destroyed Russia’s supersonic bomber. Now Russia claims it’s only damaged, but judging by the photo. Looks pretty bad to me. Russia called this a terrorist act but hitting a bomber on a military base is the furthest thing from terrorism. A terrorist act is hitting entire apartment buildings with missiles like this supersonic bomber has done since the beginning of the war.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7270215433377254702" rel="alternate"/>
-    <published>2023-08-22T18:29:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7270229825829358890</id>
     <title>Algeria Blocks French Airforce #france #algeria  Algeria says France can’t fly military aircraft over the country in order to conduct a “military operation” in Niger. France responded by saying “cool, we never asked for such a thing”. 12 nigerien soldiers</title>
@@ -51,5 +43,13 @@
     <content>Putin Planted Bomb On Wagner Plane #russia #ukraine  US intelligence believes that a Russian anti-air missile shot down Prigo’s plane, killing all of Wagner’s senior leadership but US officials believe a bomb exploded on board. British Intelligence believes Russia’s FSB took down the plane. Either way it’s believed that yesterday’s assassination was a message to all of Russia’s elite. If Putin is willing to kill Prigo in broad daylight over Moscow.. then absolutely no one is safe. Putin has sent his condolences to Prigo’s family and he says he’s waiting for the results of the investigation.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7270951365181017387" rel="alternate"/>
     <published>2023-08-24T18:05:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7271054071765716267</id>
+    <title>Former President Donald Trump turned himself at the Fulton County jail. This is Donald’s Trump mugshot. Trump and 18 co-defendants face a noon ET Friday deadline to voluntarily surrender after being criminally charged in the state’s 2020 election subversi</title>
+    <updated>2023-08-25T00:43:29+00:00</updated>
+    <content>Former President Donald Trump turned himself at the Fulton County jail. This is Donald’s Trump mugshot. Trump and 18 co-defendants face a noon ET Friday deadline to voluntarily surrender after being criminally charged in the state’s 2020 election subversion case. Trump agreed earlier this week to a $200,000 bond. The order also bars him from using social media to target co-defendants or witnesses. Fulton County District Attorney Fani Willis is asking for the trial of all 19 people to begin on October 23, an extremely ambitious schedule. Trump opposes the proposed trial date, his attorneys said this afternoon. Trump’s former lawyer, Rudy Giuliani, surrendered Wednesday, and former White House chief of staff Mark Meadows surrendered Thursday. Trump is accused in the indictment of being the head of a “criminal enterprise” that was part of a broad conspiracy to overturn his electoral defeat in the state. The former president faces 91 charges across four separate criminal cases. </content>
+    <link href="https://tiktok.com/@philipdefranco/video/7271054071765716267" rel="alternate"/>
+    <published>2023-08-25T00:43:29+00:00</published>
   </entry>
 </feed>
