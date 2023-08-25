@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-08-23T08:43:31+00:00</updated>
+  <updated>2023-08-24T07:58:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7268943606008990977</id>
-    <title>It’s almost impressive #auspol #voicetoparliament #sayyes2023 #indigenousaustralian </title>
-    <updated>2023-08-19T08:13:44+00:00</updated>
-    <content>It’s almost impressive #auspol #voicetoparliament #sayyes2023 #indigenousaustralian </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7268943606008990977" rel="alternate"/>
-    <published>2023-08-19T08:13:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7268951592345324801</id>
     <title>Good speech I’ll give him that #auspol #aukus #aukus🇦🇺🇬🇧🇺🇸 #australianlaborparty </title>
@@ -51,5 +43,13 @@
     <content>Vacanacy Tax seems the most promising on top of supply boosts #auspol #housingcrisisaustralia #rentcaps #rentfreeze #HAFF </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7270435624237141249" rel="alternate"/>
     <published>2023-08-23T08:43:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7270795163167919361</id>
+    <title>Another iffy argument #auspol #voicetoparliament #sayyes2023 #indigenousaustralian </title>
+    <updated>2023-08-24T07:58:42+00:00</updated>
+    <content>Another iffy argument #auspol #voicetoparliament #sayyes2023 #indigenousaustralian </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7270795163167919361" rel="alternate"/>
+    <published>2023-08-24T07:58:42+00:00</published>
   </entry>
 </feed>
