@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-08-24T06:24:14+00:00</updated>
+  <updated>2023-08-25T06:47:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7268493796843851010</id>
-    <title>Australia’s multi-billion-dollar long-range missile program likely wouldn’t deter aggressors or change the outcome of a conflict without the support of the US and other allies, according to new research. So is it worth it? #australia #news #politics #ausp</title>
-    <updated>2023-08-18T03:08:18+00:00</updated>
-    <content>Australia’s multi-billion-dollar long-range missile program likely wouldn’t deter aggressors or change the outcome of a conflict without the support of the US and other allies, according to new research. So is it worth it? #australia #news #politics #auspol #defence #army #government #tax #money #todayilearned #learnontiktok </content>
-    <link href="https://tiktok.com/@viceautoday/video/7268493796843851010" rel="alternate"/>
-    <published>2023-08-18T03:08:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7269667143128550657</id>
     <title>Australia’s population growth rate is slowing down. What does this mean for young people and the future of our society? #australia #news #population #migration #fertility #birth #millennial #aging #politics #auspol #todayilearned #learnontiktok </title>
@@ -51,5 +43,13 @@
     <content>The 2023 Intergenerational Report is here and among its many forecasts for Australia’s economy and budget for the next 40 years, it estimates the climate crisis could costs us $423 billion by 2063. #australia #news #report #climatechange #climatecrisis #weather #naturaldisaster #economy #economics #money #auspol #politics #todayilearned #learnontiktok </content>
     <link href="https://tiktok.com/@viceautoday/video/7270770813685599489" rel="alternate"/>
     <published>2023-08-24T06:24:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7271147782159731970</id>
+    <title>70% of new Victorian roads will be named after women as part of the new gender equality plan #australia #aunews #victoria </title>
+    <updated>2023-08-25T06:47:02+00:00</updated>
+    <content>70% of new Victorian roads will be named after women as part of the new gender equality plan #australia #aunews #victoria </content>
+    <link href="https://tiktok.com/@viceautoday/video/7271147782159731970" rel="alternate"/>
+    <published>2023-08-25T06:47:02+00:00</published>
   </entry>
 </feed>
