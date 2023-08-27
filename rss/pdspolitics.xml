@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-08-25T20:00:00+00:00</updated>
+  <updated>2023-08-26T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7269902323885853998</id>
-    <title>Another Gov’t Shutdown Is Looming #Politics  #US  #Congress  #KevinMcCarthy</title>
-    <updated>2023-08-21T23:00:00+00:00</updated>
-    <content>Another Gov’t Shutdown Is Looming #Politics  #US  #Congress  #KevinMcCarthy</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7269902323885853998" rel="alternate"/>
-    <published>2023-08-21T23:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7270283998981524779</id>
     <title>TN House Limits Citizens from Chamber Amid Criticism Over Special Session #Tennessee  #Politics  #US</title>
@@ -51,5 +43,13 @@
     <content>As rent and housing prices inch higher and higher, homelessness is skyrocketing #Rent  #Housing  #Homeless  #Politics</content>
     <link href="https://tiktok.com/@pdspolitics/video/7271314258506583342" rel="alternate"/>
     <published>2023-08-25T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7271295797797457195</id>
+    <title>Republicans Threatening to Withold Life-Saving Medicine from 20M People #Republican  #Politics  #US  #Congress</title>
+    <updated>2023-08-26T20:00:00+00:00</updated>
+    <content>Republicans Threatening to Withold Life-Saving Medicine from 20M People #Republican  #Politics  #US  #Congress</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7271295797797457195" rel="alternate"/>
+    <published>2023-08-26T20:00:00+00:00</published>
   </entry>
 </feed>
