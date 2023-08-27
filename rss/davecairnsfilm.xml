@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@davecairnsfilm</id>
   <title>davecairnsfilm TikTok</title>
-  <updated>2023-08-26T13:44:52+00:00</updated>
+  <updated>2023-08-27T11:56:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from davecairnsfilm</subtitle>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7268622634361851137</id>
-    <title>18 AUGUST 2023 - The temptation is real! #football #afl #marvel #marvelstadium #thisisthelife</title>
-    <updated>2023-08-18T11:28:12+00:00</updated>
-    <content>18 AUGUST 2023 - The temptation is real! #football #afl #marvel #marvelstadium #thisisthelife</content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7268622634361851137" rel="alternate"/>
-    <published>2023-08-18T11:28:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@davecairnsfilm/video/7268623369539570945</id>
     <title>18 AUGUST 2023 - #football #afl #marvel #marvelstadium #gosports</title>
@@ -51,5 +43,13 @@
     <content>#stitch with @Klem Family 26 AUGUST 2023 - #money #rant #comedy #humor </content>
     <link href="https://tiktok.com/@davecairnsfilm/video/7271626527178083585" rel="alternate"/>
     <published>2023-08-26T13:44:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@davecairnsfilm/video/7271969606489738497</id>
+    <title>#stitch with @Yes2Voice 27 AUGUST 2023 - #australia #politics #auspol #voicetoparliament #comedy #wtf</title>
+    <updated>2023-08-27T11:56:10+00:00</updated>
+    <content>#stitch with @Yes2Voice 27 AUGUST 2023 - #australia #politics #auspol #voicetoparliament #comedy #wtf</content>
+    <link href="https://tiktok.com/@davecairnsfilm/video/7271969606489738497" rel="alternate"/>
+    <published>2023-08-27T11:56:10+00:00</published>
   </entry>
 </feed>

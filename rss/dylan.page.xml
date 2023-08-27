@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-08-26T22:05:35+00:00</updated>
+  <updated>2023-08-27T18:58:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7271308099795914016</id>
-    <title>The first footage from the moons south pole has been released!!😱🚨</title>
-    <updated>2023-08-25T17:09:16+00:00</updated>
-    <content>The first footage from the moons south pole has been released!!😱🚨</content>
-    <link href="https://tiktok.com/@dylan.page/video/7271308099795914016" rel="alternate"/>
-    <published>2023-08-25T17:09:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7271324447221632288</id>
     <title>What do we think about this??!🤔😳</title>
@@ -51,5 +43,13 @@
     <content>Should airlines weigh passengers or not?🤔</content>
     <link href="https://tiktok.com/@dylan.page/video/7271755553922174240" rel="alternate"/>
     <published>2023-08-26T22:05:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7272078539741072672</id>
+    <title>NEWSDADDY SUNDAYS- Week 6</title>
+    <updated>2023-08-27T18:58:54+00:00</updated>
+    <content>NEWSDADDY SUNDAYS- Week 6</content>
+    <link href="https://tiktok.com/@dylan.page/video/7272078539741072672" rel="alternate"/>
+    <published>2023-08-27T18:58:54+00:00</published>
   </entry>
 </feed>
