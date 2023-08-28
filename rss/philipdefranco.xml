@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-28T18:29:56+00:00</updated>
+  <updated>2023-08-28T23:28:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7270578683927186731</id>
-    <title>Russia Killed Leader Of Wagner #russia #ukraine  Russia has killed the leader of Wagner. Russian state media says Prigo as well as at least 9 others passengers died when his jet crashed. Wagner is accusing Russia of shooting down the plane as he was leavi</title>
-    <updated>2023-08-23T17:58:55+00:00</updated>
-    <content>Russia Killed Leader Of Wagner #russia #ukraine  Russia has killed the leader of Wagner. Russian state media says Prigo as well as at least 9 others passengers died when his jet crashed. Wagner is accusing Russia of shooting down the plane as he was leaving Moscow today. Initial flight data and video evidence seems to back that accusation. Wagner’s military commander is also reportedly among the dead. The CIA doesn’t call Putin the “ultimate Apostle of payback” for no reason.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7270578683927186731" rel="alternate"/>
-    <published>2023-08-23T17:58:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7270604618403548458</id>
     <title>Wagner To Get Revenge On Russia For Leader’s Death #russia #ukraine  Wagner says the Kremlin will now be captured after Russia killed the group’s leader. Shortly after Prigo’s death, Putin was seen joyfully speaking at a public event. Russia has opened a </title>
@@ -51,5 +43,13 @@
     <content>Shooting At University of North Carolina Chapel Hill #usa #unc  There has been a shooting at the University of North Carolina Chapel Hill. There are reports of several injuries. The Shooter is believed to be still at large. The college is asking students to shelter in place.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7272442090938797355" rel="alternate"/>
     <published>2023-08-28T18:29:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7272519143495126315</id>
+    <title>Pope Is Beefing With Americans Again #usa #catholic  The Pope is popping off about Americans. He said: “The situation in the United States is not easy” - ya you’re telling me Frank. Adding that conservative Catholics are very reactionary and backwards, an</title>
+    <updated>2023-08-28T23:28:47+00:00</updated>
+    <content>Pope Is Beefing With Americans Again #usa #catholic  The Pope is popping off about Americans. He said: “The situation in the United States is not easy” - ya you’re telling me Frank. Adding that conservative Catholics are very reactionary and backwards, and that LGBTQ are welcome to the Church &amp; they must accept this. He finished his remarks with “Those American groups of which you speak, so closed, are isolating themselves. And instead of living by doctrine, by the true doctrine that always develops and bears fruit, they live by ideologies”. As long as I can remember the American Catholic Church has been beefing with the Pope. Whether it’s Northeastern Catholics thinking the Church isn’t liberal enough or Southern Catholics thinking the Church isn’t cruel enough.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7272519143495126315" rel="alternate"/>
+    <published>2023-08-28T23:28:47+00:00</published>
   </entry>
 </feed>
