@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-08-25T06:47:02+00:00</updated>
+  <updated>2023-08-28T07:25:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7269667143128550657</id>
-    <title>Australia’s population growth rate is slowing down. What does this mean for young people and the future of our society? #australia #news #population #migration #fertility #birth #millennial #aging #politics #auspol #todayilearned #learnontiktok </title>
-    <updated>2023-08-21T07:01:28+00:00</updated>
-    <content>Australia’s population growth rate is slowing down. What does this mean for young people and the future of our society? #australia #news #population #migration #fertility #birth #millennial #aging #politics #auspol #todayilearned #learnontiktok </content>
-    <link href="https://tiktok.com/@viceautoday/video/7269667143128550657" rel="alternate"/>
-    <published>2023-08-21T07:01:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7270040278545812738</id>
     <title>Lachlan Murdoch has paid $1.3 million to Australian media outlet Crikey after he dropped his defamation case against them. #australia #news #media #journalism #publicinterest #freespeech #murdoch #newscorp #fox #crikey #todayilearned #learnontiktok </title>
@@ -51,5 +43,13 @@
     <content>70% of new Victorian roads will be named after women as part of the new gender equality plan #australia #aunews #victoria </content>
     <link href="https://tiktok.com/@viceautoday/video/7271147782159731970" rel="alternate"/>
     <published>2023-08-25T06:47:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7272270991579991298</id>
+    <title>What’s going on with Australia’s university strikes? Hundreds of Melbourne University staff walked off the job today and gathered to protest the increasing casualisation of the workforce. They will strike for up to seven days in an effort to advocate for </title>
+    <updated>2023-08-28T07:25:41+00:00</updated>
+    <content>What’s going on with Australia’s university strikes? Hundreds of Melbourne University staff walked off the job today and gathered to protest the increasing casualisation of the workforce. They will strike for up to seven days in an effort to advocate for better pay and conditions. #australia #news #university #melbourne #unimelb #melbourneuniversity #unimelbstrikes #union #education #wage #salary #pay #workersrights #strike #protest #activist #todayilearned #learnontiktok  </content>
+    <link href="https://tiktok.com/@viceautoday/video/7272270991579991298" rel="alternate"/>
+    <published>2023-08-28T07:25:41+00:00</published>
   </entry>
 </feed>
