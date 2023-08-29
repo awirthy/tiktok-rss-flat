@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-08-28T23:00:00+00:00</updated>
+  <updated>2023-08-29T23:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7270651965586033963</id>
-    <title>The Fall of Affirmative Action Is Spreading! #Politics  #US  #Lawsuit  #AffirmativeAction</title>
-    <updated>2023-08-23T23:00:00+00:00</updated>
-    <content>The Fall of Affirmative Action Is Spreading! #Politics  #US  #Lawsuit  #AffirmativeAction</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7270651965586033963" rel="alternate"/>
-    <published>2023-08-23T23:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7271027769914428714</id>
     <title>Who won last night’s Republican debate? #RonDeSantis  #Politics  #VivekRamaswamy  #DonaldTrump</title>
@@ -51,5 +43,13 @@
     <content>Authorities say this weekend’s tragedy in Jacksonville, Florida, was motivated by race #Jacksonville  #Florida  #US  #Politics</content>
     <link href="https://tiktok.com/@pdspolitics/video/7272494755823602987" rel="alternate"/>
     <published>2023-08-28T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7272867547987348778</id>
+    <title>Alabama and Inmates want a new option for capital punishment, Nitrogen hypoxia #Alabama  #Prison  #Politics  #US</title>
+    <updated>2023-08-29T23:00:00+00:00</updated>
+    <content>Alabama and Inmates want a new option for capital punishment, Nitrogen hypoxia #Alabama  #Prison  #Politics  #US</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7272867547987348778" rel="alternate"/>
+    <published>2023-08-29T23:00:00+00:00</published>
   </entry>
 </feed>
