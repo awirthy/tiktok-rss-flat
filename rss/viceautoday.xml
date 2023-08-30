@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-08-29T07:22:33+00:00</updated>
+  <updated>2023-08-30T05:24:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7270409000292764929</id>
-    <title>Bushfire season has begun in Australia and parts of NSW have entered the “dangerous period” more than a month early. #australia #news #climatechange #bushfire #wildfire #climatecrisis #elniño #summer #nsw #sydney #weather #climate #todayilearned #learnont</title>
-    <updated>2023-08-23T07:00:14+00:00</updated>
-    <content>Bushfire season has begun in Australia and parts of NSW have entered the “dangerous period” more than a month early. #australia #news #climatechange #bushfire #wildfire #climatecrisis #elniño #summer #nsw #sydney #weather #climate #todayilearned #learnontiktok </content>
-    <link href="https://tiktok.com/@viceautoday/video/7270409000292764929" rel="alternate"/>
-    <published>2023-08-23T07:00:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7270770813685599489</id>
     <title>The 2023 Intergenerational Report is here and among its many forecasts for Australia’s economy and budget for the next 40 years, it estimates the climate crisis could costs us $423 billion by 2063. #australia #news #report #climatechange #climatecrisis #w</title>
@@ -51,5 +43,13 @@
     <content>One in two trans Australians has experienced abuse or harrasment in the last 12 months, according to a new report that says anti-trans sentiment is growing in Australia. #australia #news #lgbt #lgbtq #trans #gender #humanrights #equality #politics #auspol #todayilearned #learnontiktok </content>
     <link href="https://tiktok.com/@viceautoday/video/7272641271619996929" rel="alternate"/>
     <published>2023-08-29T07:22:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7272981995406314753</id>
+    <title>The Indigenous Voice to Parliament referendum date has been set for October 14. Here’s what Prime Minister Anthony Albanese said in his speech today. #australia #news #voice #voicereferendum #voicetoparliament #indigenous #indigenousvoicetoparliament #fir</title>
+    <updated>2023-08-30T05:24:45+00:00</updated>
+    <content>The Indigenous Voice to Parliament referendum date has been set for October 14. Here’s what Prime Minister Anthony Albanese said in his speech today. #australia #news #voice #voicereferendum #voicetoparliament #indigenous #indigenousvoicetoparliament #firstnations #politics #auspol #vote #todayilearned #learnontiktok </content>
+    <link href="https://tiktok.com/@viceautoday/video/7272981995406314753" rel="alternate"/>
+    <published>2023-08-30T05:24:45+00:00</published>
   </entry>
 </feed>
