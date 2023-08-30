@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-08-29T06:24:03+00:00</updated>
+  <updated>2023-08-30T07:01:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7268436893778316552</id>
-    <title>Gas as a transition fuel?  Doesn't really make sense, when the proposed Middle Arm LNG facility will have lifecycle emissions equal to 12 coal-fired power stations.  #auspol #climatechange</title>
-    <updated>2023-08-17T23:27:36+00:00</updated>
-    <content>Gas as a transition fuel?  Doesn't really make sense, when the proposed Middle Arm LNG facility will have lifecycle emissions equal to 12 coal-fired power stations.  #auspol #climatechange</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7268436893778316552" rel="alternate"/>
-    <published>2023-08-17T23:27:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7268503698353999122</id>
     <title>Think offsets are our way to Net-Zero? Think again. The majority of carbon offsets are flawed, they aren't used to cover all emissions, and we're even dramatically underestimating our emissions. #auspol #climatechange</title>
@@ -51,5 +43,13 @@
     <content>"The fact that you've got two whistleblowers on trial right now in Australia... sends a really chilling effect to other whistleblowers who might be thinking about speaking up." - Kieran Pender, senior lawyer at the Human Rights Law Centre Watch the full webinar on Whistleblowing in Australia, link in bio. #auspol</content>
     <link href="https://tiktok.com/@theausinstitute/video/7272625721812552968" rel="alternate"/>
     <published>2023-08-29T06:24:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7273006430414703879</id>
+    <title>[Pacific Island leaders] have been very clear in what they expect from Australia...when it comes to partnering to host a COP.  "Is Australia really a credible host? Why should we host an event when they've ignored our requests for years?" Listen to the la</title>
+    <updated>2023-08-30T07:01:05+00:00</updated>
+    <content>[Pacific Island leaders] have been very clear in what they expect from Australia...when it comes to partnering to host a COP.  "Is Australia really a credible host? Why should we host an event when they've ignored our requests for years?" Listen to the latest episode of our Follow the Money podcast, link in bio. #auspol #climate</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7273006430414703879" rel="alternate"/>
+    <published>2023-08-30T07:01:05+00:00</published>
   </entry>
 </feed>
