@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-30T00:10:52+00:00</updated>
+  <updated>2023-08-30T20:30:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7271054071765716267</id>
-    <title>Former President Donald Trump turned himself at the Fulton County jail. This is Donald’s Trump mugshot. Trump and 18 co-defendants face a noon ET Friday deadline to voluntarily surrender after being criminally charged in the state’s 2020 election subversi</title>
-    <updated>2023-08-25T00:43:29+00:00</updated>
-    <content>Former President Donald Trump turned himself at the Fulton County jail. This is Donald’s Trump mugshot. Trump and 18 co-defendants face a noon ET Friday deadline to voluntarily surrender after being criminally charged in the state’s 2020 election subversion case. Trump agreed earlier this week to a $200,000 bond. The order also bars him from using social media to target co-defendants or witnesses. Fulton County District Attorney Fani Willis is asking for the trial of all 19 people to begin on October 23, an extremely ambitious schedule. Trump opposes the proposed trial date, his attorneys said this afternoon. Trump’s former lawyer, Rudy Giuliani, surrendered Wednesday, and former White House chief of staff Mark Meadows surrendered Thursday. Trump is accused in the indictment of being the head of a “criminal enterprise” that was part of a broad conspiracy to overturn his electoral defeat in the state. The former president faces 91 charges across four separate criminal cases. </content>
-    <link href="https://tiktok.com/@philipdefranco/video/7271054071765716267" rel="alternate"/>
-    <published>2023-08-25T00:43:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7272442090938797355</id>
     <title>Shooting At University of North Carolina Chapel Hill #usa #unc  There has been a shooting at the University of North Carolina Chapel Hill. There are reports of several injuries. The Shooter is believed to be still at large. The college is asking students </title>
@@ -51,5 +43,13 @@
     <content>China Having Meltdown Over Japan #japan #korea  China is having an absolute meltdown over Japan. Japan released treated water from Fukushima with the approval of the IAEA into the ocean with many scientists agreeing that it would have a negligible impact on the environment. This is a process that will take 30 years as they slowly release it. But China is acting like Japan unleashed a toxic plague into Asia. With China’s wolf warrior artist releasing this image depicting Japan. First China called them selfish and irresponsible. Now China says it’s blocked all seafood imports from Japan despite all testing of the water and fish showing it to be very safe. So Japan is taking China to the WTO over the seafood ban. Scientists have pointed out that China releases untreated water from its nuclear plants every day that is more radioactive than what Japan is releasing. But that has not stopped Chinese citizens from harassing Japanese businesses and schools with phone calls and throwing rocks at their embassy in China. Japan has asked China to tell its citizens to chill out &amp; China said it has no idea what Japan was talking about. Now as for Japan’s other neighbors - South Korea said that if Japan is following the regulations and doing it safely then who cares. Taiwan and the Philippines basically said whatever. But in Hong Kong, they declared Japan an enemy of the whole world.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7272901083880607019" rel="alternate"/>
     <published>2023-08-30T00:10:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7273215368611532078</id>
+    <title>China Drops New Map Claiming India, Japan, Vietnam, Malaysia, Philippines, Russia, and Bhutan #russia #philippines #japan  China dropped it’s new map and it’s neighbors are upset. China’s new map shows them claiming part of India. India says the map is ab</title>
+    <updated>2023-08-30T20:30:30+00:00</updated>
+    <content>China Drops New Map Claiming India, Japan, Vietnam, Malaysia, Philippines, Russia, and Bhutan #russia #philippines #japan  China dropped it’s new map and it’s neighbors are upset. China’s new map shows them claiming part of India. India says the map is absurd and that their claims have no basis. The map also shows them infringing on Malaysia’s maritime border so Malaysia has rejected their unilateral claims. China’s map also claims part of Russia, Japan, Vietnam, Bhutan, Indonesia, Philippines, and all of Taiwan. It may seem silly for these countries to get very upset over what are essentially just lines on a piece of paper. But lines on a map represent people’s identities, their validation, things they’ve fought thousands of years for. It’s never just a line on a piece of paper.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7273215368611532078" rel="alternate"/>
+    <published>2023-08-30T20:30:30+00:00</published>
   </entry>
 </feed>
