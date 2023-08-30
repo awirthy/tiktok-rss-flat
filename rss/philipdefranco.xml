@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-29T19:09:39+00:00</updated>
+  <updated>2023-08-30T00:10:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7270951365181017387</id>
-    <title>Putin Planted Bomb On Wagner Plane #russia #ukraine  US intelligence believes that a Russian anti-air missile shot down Prigo’s plane, killing all of Wagner’s senior leadership but US officials believe a bomb exploded on board. British Intelligence believ</title>
-    <updated>2023-08-24T18:05:04+00:00</updated>
-    <content>Putin Planted Bomb On Wagner Plane #russia #ukraine  US intelligence believes that a Russian anti-air missile shot down Prigo’s plane, killing all of Wagner’s senior leadership but US officials believe a bomb exploded on board. British Intelligence believes Russia’s FSB took down the plane. Either way it’s believed that yesterday’s assassination was a message to all of Russia’s elite. If Putin is willing to kill Prigo in broad daylight over Moscow.. then absolutely no one is safe. Putin has sent his condolences to Prigo’s family and he says he’s waiting for the results of the investigation.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7270951365181017387" rel="alternate"/>
-    <published>2023-08-24T18:05:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7271054071765716267</id>
     <title>Former President Donald Trump turned himself at the Fulton County jail. This is Donald’s Trump mugshot. Trump and 18 co-defendants face a noon ET Friday deadline to voluntarily surrender after being criminally charged in the state’s 2020 election subversi</title>
@@ -51,5 +43,13 @@
     <content>China Demands Britain Return Stole Relics #UK #british  China has demanded that the British Museum return all of its Chinese cultural relics that it stole. Adding that the British Museum should return all of their stolen relics to their home countries like Egypt, Greece, India, and Nigeria, not just China. They say that the vast majority of their 8 million relics are stolen from other countries, and that the UK has a “bloody, ugly, shameful colonial history”. Damn they kind of ate, not gonna lie. As someone who has been to the British museum, no amount of jokes or memes can prepare you for the amount of theft inside. I was inside for not even 2 minutes when I saw the inside of a pyramid!!! They took part of the inside of one of the pyramids and brought it back to London. What they’ve done to other countries is the equivalent of them stealing our Statue of Liberty, putting it in a museum, and when we ask for it back - they say “hmm no but you can come here and see it”.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7272823440342682926" rel="alternate"/>
     <published>2023-08-29T19:09:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7272901083880607019</id>
+    <title>China Having Meltdown Over Japan #japan #korea  China is having an absolute meltdown over Japan. Japan released treated water from Fukushima with the approval of the IAEA into the ocean with many scientists agreeing that it would have a negligible impact </title>
+    <updated>2023-08-30T00:10:52+00:00</updated>
+    <content>China Having Meltdown Over Japan #japan #korea  China is having an absolute meltdown over Japan. Japan released treated water from Fukushima with the approval of the IAEA into the ocean with many scientists agreeing that it would have a negligible impact on the environment. This is a process that will take 30 years as they slowly release it. But China is acting like Japan unleashed a toxic plague into Asia. With China’s wolf warrior artist releasing this image depicting Japan. First China called them selfish and irresponsible. Now China says it’s blocked all seafood imports from Japan despite all testing of the water and fish showing it to be very safe. So Japan is taking China to the WTO over the seafood ban. Scientists have pointed out that China releases untreated water from its nuclear plants every day that is more radioactive than what Japan is releasing. But that has not stopped Chinese citizens from harassing Japanese businesses and schools with phone calls and throwing rocks at their embassy in China. Japan has asked China to tell its citizens to chill out &amp; China said it has no idea what Japan was talking about. Now as for Japan’s other neighbors - South Korea said that if Japan is following the regulations and doing it safely then who cares. Taiwan and the Philippines basically said whatever. But in Hong Kong, they declared Japan an enemy of the whole world.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7272901083880607019" rel="alternate"/>
+    <published>2023-08-30T00:10:52+00:00</published>
   </entry>
 </feed>
