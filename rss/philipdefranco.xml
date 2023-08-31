@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-30T23:42:44+00:00</updated>
+  <updated>2023-08-31T19:53:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7272519143495126315</id>
-    <title>Pope Is Beefing With Americans Again #usa #catholic  The Pope is popping off about Americans. He said: “The situation in the United States is not easy” - ya you’re telling me Frank. Adding that conservative Catholics are very reactionary and backwards, an</title>
-    <updated>2023-08-28T23:28:47+00:00</updated>
-    <content>Pope Is Beefing With Americans Again #usa #catholic  The Pope is popping off about Americans. He said: “The situation in the United States is not easy” - ya you’re telling me Frank. Adding that conservative Catholics are very reactionary and backwards, and that LGBTQ are welcome to the Church &amp; they must accept this. He finished his remarks with “Those American groups of which you speak, so closed, are isolating themselves. And instead of living by doctrine, by the true doctrine that always develops and bears fruit, they live by ideologies”. As long as I can remember the American Catholic Church has been beefing with the Pope. Whether it’s Northeastern Catholics thinking the Church isn’t liberal enough or Southern Catholics thinking the Church isn’t cruel enough.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7272519143495126315" rel="alternate"/>
-    <published>2023-08-28T23:28:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7272823440342682926</id>
     <title>China Demands Britain Return Stole Relics #UK #british  China has demanded that the British Museum return all of its Chinese cultural relics that it stole. Adding that the British Museum should return all of their stolen relics to their home countries lik</title>
@@ -51,5 +43,13 @@
     <content>Russia Says It Has A Right To 1v1 Each &amp; Every NATO Country #russia #usa  Russia says it has a right to war with each and every NATO country. Saying “whether you like it or not, history is on our side and we will bury you”. Russia has lost half of it’s military hardware and half a million soldiers and NATO hasn’t even shown up yet. So I say fine. If Russia wants to fight each NATO country individually, then I volunteer Hungary to go first and then Poland gets to go second.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7273264915857771822" rel="alternate"/>
     <published>2023-08-30T23:42:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7273576922783681835</id>
+    <title>Police Pull Over Giant Bull Named Howdy Dooty Sitting In Car #usa #america  A car with a giant bull sitting in the passenger seat named Howdy Doody was pulled over by police in Nebraska. The man and Howdy Doody were pulled over after a snitch called the p</title>
+    <updated>2023-08-31T19:53:30+00:00</updated>
+    <content>Police Pull Over Giant Bull Named Howdy Dooty Sitting In Car #usa #america  A car with a giant bull sitting in the passenger seat named Howdy Doody was pulled over by police in Nebraska. The man and Howdy Doody were pulled over after a snitch called the police about the sight. The police didn’t give him a ticket though, they just gave him some warnings and asked him and Howdy to leave the city. Turns out that Howdy Doody is actually a bit of a celebrity and performs at a lot of parades and fairs in the area.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7273576922783681835" rel="alternate"/>
+    <published>2023-08-31T19:53:30+00:00</published>
   </entry>
 </feed>
