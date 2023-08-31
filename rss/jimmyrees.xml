@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-08-18T05:28:21+00:00</updated>
+  <updated>2023-08-31T09:22:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7266396809130478856</id>
-    <title>@CommBank Matildas 👏👏👏👏👏👏👏</title>
-    <updated>2023-08-12T11:30:49+00:00</updated>
-    <content>@CommBank Matildas 👏👏👏👏👏👏👏</content>
-    <link href="https://tiktok.com/@jimmyrees/video/7266396809130478856" rel="alternate"/>
-    <published>2023-08-12T11:30:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7267412622365052168</id>
     <title>Everyone in Australia rn!!! What a bunch of LEGENDS!!! #matildas  #worldcup  #womensworldcup</title>
@@ -51,5 +43,13 @@
     <content>The daycare pickup!! This your kid!? #kids #daycarepickup #funny #schoolpickup #parenting </content>
     <link href="https://tiktok.com/@jimmyrees/video/7268529899235822849" rel="alternate"/>
     <published>2023-08-18T05:28:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7273414127933066498</id>
+    <title>I don't want no trouble 🤦‍♂️ ... Say it properly!!!  #englishlesson  #funny #sayitproperly</title>
+    <updated>2023-08-31T09:22:17+00:00</updated>
+    <content>I don't want no trouble 🤦‍♂️ ... Say it properly!!!  #englishlesson  #funny #sayitproperly</content>
+    <link href="https://tiktok.com/@jimmyrees/video/7273414127933066498" rel="alternate"/>
+    <published>2023-08-31T09:22:17+00:00</published>
   </entry>
 </feed>
