@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-31T19:53:30+00:00</updated>
+  <updated>2023-08-31T21:25:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7272823440342682926</id>
-    <title>China Demands Britain Return Stole Relics #UK #british  China has demanded that the British Museum return all of its Chinese cultural relics that it stole. Adding that the British Museum should return all of their stolen relics to their home countries lik</title>
-    <updated>2023-08-29T19:09:39+00:00</updated>
-    <content>China Demands Britain Return Stole Relics #UK #british  China has demanded that the British Museum return all of its Chinese cultural relics that it stole. Adding that the British Museum should return all of their stolen relics to their home countries like Egypt, Greece, India, and Nigeria, not just China. They say that the vast majority of their 8 million relics are stolen from other countries, and that the UK has a “bloody, ugly, shameful colonial history”. Damn they kind of ate, not gonna lie. As someone who has been to the British museum, no amount of jokes or memes can prepare you for the amount of theft inside. I was inside for not even 2 minutes when I saw the inside of a pyramid!!! They took part of the inside of one of the pyramids and brought it back to London. What they’ve done to other countries is the equivalent of them stealing our Statue of Liberty, putting it in a museum, and when we ask for it back - they say “hmm no but you can come here and see it”.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7272823440342682926" rel="alternate"/>
-    <published>2023-08-29T19:09:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7272901083880607019</id>
     <title>China Having Meltdown Over Japan #japan #korea  China is having an absolute meltdown over Japan. Japan released treated water from Fukushima with the approval of the IAEA into the ocean with many scientists agreeing that it would have a negligible impact </title>
@@ -51,5 +43,13 @@
     <content>Police Pull Over Giant Bull Named Howdy Dooty Sitting In Car #usa #america  A car with a giant bull sitting in the passenger seat named Howdy Doody was pulled over by police in Nebraska. The man and Howdy Doody were pulled over after a snitch called the police about the sight. The police didn’t give him a ticket though, they just gave him some warnings and asked him and Howdy to leave the city. Turns out that Howdy Doody is actually a bit of a celebrity and performs at a lot of parades and fairs in the area.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7273576922783681835" rel="alternate"/>
     <published>2023-08-31T19:53:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7273600574636215598</id>
+    <title>Russia Demands Norway Pay Them $4.4 Million Because Of Reindeer Damage #norway #russia  Russia is demanding that Norway pay them 4.4 million dollars because 42 reindeer crossed the border into Russia. They say the money is for compensation for the reindee</title>
+    <updated>2023-08-31T21:25:20+00:00</updated>
+    <content>Russia Demands Norway Pay Them $4.4 Million Because Of Reindeer Damage #norway #russia  Russia is demanding that Norway pay them 4.4 million dollars because 42 reindeer crossed the border into Russia. They say the money is for compensation for the reindeer eating Russian grass. That’s some expensive grass. Supposedly a gate that separated the two countries and kept Reindeer out of Russia broke. So now 40 of the 42 reindeer have been killed in fears that they’ll cross into Russia again. Norway has asked its citizens to keep their reindeer in check. Look, Santa won’t be stopping in Russia this year with these kinds of rules in place.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7273600574636215598" rel="alternate"/>
+    <published>2023-08-31T21:25:20+00:00</published>
   </entry>
 </feed>
