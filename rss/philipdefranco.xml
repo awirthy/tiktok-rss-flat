@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-30T20:30:30+00:00</updated>
+  <updated>2023-08-30T23:42:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7272442090938797355</id>
-    <title>Shooting At University of North Carolina Chapel Hill #usa #unc  There has been a shooting at the University of North Carolina Chapel Hill. There are reports of several injuries. The Shooter is believed to be still at large. The college is asking students </title>
-    <updated>2023-08-28T18:29:56+00:00</updated>
-    <content>Shooting At University of North Carolina Chapel Hill #usa #unc  There has been a shooting at the University of North Carolina Chapel Hill. There are reports of several injuries. The Shooter is believed to be still at large. The college is asking students to shelter in place.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7272442090938797355" rel="alternate"/>
-    <published>2023-08-28T18:29:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7272519143495126315</id>
     <title>Pope Is Beefing With Americans Again #usa #catholic  The Pope is popping off about Americans. He said: “The situation in the United States is not easy” - ya you’re telling me Frank. Adding that conservative Catholics are very reactionary and backwards, an</title>
@@ -51,5 +43,13 @@
     <content>China Drops New Map Claiming India, Japan, Vietnam, Malaysia, Philippines, Russia, and Bhutan #russia #philippines #japan  China dropped it’s new map and it’s neighbors are upset. China’s new map shows them claiming part of India. India says the map is absurd and that their claims have no basis. The map also shows them infringing on Malaysia’s maritime border so Malaysia has rejected their unilateral claims. China’s map also claims part of Russia, Japan, Vietnam, Bhutan, Indonesia, Philippines, and all of Taiwan. It may seem silly for these countries to get very upset over what are essentially just lines on a piece of paper. But lines on a map represent people’s identities, their validation, things they’ve fought thousands of years for. It’s never just a line on a piece of paper.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7273215368611532078" rel="alternate"/>
     <published>2023-08-30T20:30:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7273264915857771822</id>
+    <title>Russia Says It Has A Right To 1v1 Each &amp; Every NATO Country #russia #usa  Russia says it has a right to war with each and every NATO country. Saying “whether you like it or not, history is on our side and we will bury you”. Russia has lost half of it’s mi</title>
+    <updated>2023-08-30T23:42:44+00:00</updated>
+    <content>Russia Says It Has A Right To 1v1 Each &amp; Every NATO Country #russia #usa  Russia says it has a right to war with each and every NATO country. Saying “whether you like it or not, history is on our side and we will bury you”. Russia has lost half of it’s military hardware and half a million soldiers and NATO hasn’t even shown up yet. So I say fine. If Russia wants to fight each NATO country individually, then I volunteer Hungary to go first and then Poland gets to go second.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7273264915857771822" rel="alternate"/>
+    <published>2023-08-30T23:42:44+00:00</published>
   </entry>
 </feed>
