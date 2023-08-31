@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-08-31T16:16:58+00:00</updated>
+  <updated>2023-08-31T18:59:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7273060083842485537</id>
-    <title>Is the blue moon a W or L?🤔</title>
-    <updated>2023-08-30T10:27:50+00:00</updated>
-    <content>Is the blue moon a W or L?🤔</content>
-    <link href="https://tiktok.com/@dylan.page/video/7273060083842485537" rel="alternate"/>
-    <published>2023-08-30T10:27:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7273137656853253408</id>
     <title>What do we think about this??😳</title>
@@ -51,5 +43,13 @@
     <content>Only in America😂😂🇺🇸</content>
     <link href="https://tiktok.com/@dylan.page/video/7273521152629214497" rel="alternate"/>
     <published>2023-08-31T16:16:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7273562989930761505</id>
+    <title>Is the future of space Indian?🤔</title>
+    <updated>2023-08-31T18:59:17+00:00</updated>
+    <content>Is the future of space Indian?🤔</content>
+    <link href="https://tiktok.com/@dylan.page/video/7273562989930761505" rel="alternate"/>
+    <published>2023-08-31T18:59:17+00:00</published>
   </entry>
 </feed>
