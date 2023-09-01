@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-08-30T07:01:05+00:00</updated>
+  <updated>2023-09-01T00:30:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7268503698353999122</id>
-    <title>Think offsets are our way to Net-Zero? Think again. The majority of carbon offsets are flawed, they aren't used to cover all emissions, and we're even dramatically underestimating our emissions. #auspol #climatechange</title>
-    <updated>2023-08-18T05:05:00+00:00</updated>
-    <content>Think offsets are our way to Net-Zero? Think again. The majority of carbon offsets are flawed, they aren't used to cover all emissions, and we're even dramatically underestimating our emissions. #auspol #climatechange</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7268503698353999122" rel="alternate"/>
-    <published>2023-08-18T05:05:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7268522162808556807</id>
     <title>The official unemployment rate significantly underestimates the actual number of people looking for work. Our research found there are 3X more people looking for work than the official 'tip of the iceberg' number states!  Lilia Anderson and Matt Grudnoff </title>
@@ -51,5 +43,13 @@
     <content>[Pacific Island leaders] have been very clear in what they expect from Australia...when it comes to partnering to host a COP.  "Is Australia really a credible host? Why should we host an event when they've ignored our requests for years?" Listen to the latest episode of our Follow the Money podcast, link in bio. #auspol #climate</content>
     <link href="https://tiktok.com/@theausinstitute/video/7273006430414703879" rel="alternate"/>
     <published>2023-08-30T07:01:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7273648354205207815</id>
+    <title>Why is the Australian Government in such a rush to ensure the Pacific's support for its COP31 bid? "The quicker Australia locks this, the harder it is for Pacific countries to renege when Australia continues expanding its fossil fuel industry." 🔊 Listen t</title>
+    <updated>2023-09-01T00:30:47+00:00</updated>
+    <content>Why is the Australian Government in such a rush to ensure the Pacific's support for its COP31 bid? "The quicker Australia locks this, the harder it is for Pacific countries to renege when Australia continues expanding its fossil fuel industry." 🔊 Listen to the latest ep of Follow the Money 'An Eventful Trip to Fiji' with Polly Hemming and Ebony Bennett. &gt; https://omny.fm/shows/follow-the-money-au/an-eventful-trip-to-fiji</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7273648354205207815" rel="alternate"/>
+    <published>2023-09-01T00:30:47+00:00</published>
   </entry>
 </feed>
