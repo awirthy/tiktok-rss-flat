@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-08-31T22:28:35+00:00</updated>
+  <updated>2023-09-01T22:47:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7273215368611532078</id>
-    <title>China Drops New Map Claiming India, Japan, Vietnam, Malaysia, Philippines, Russia, and Bhutan #russia #philippines #japan  China dropped it’s new map and it’s neighbors are upset. China’s new map shows them claiming part of India. India says the map is ab</title>
-    <updated>2023-08-30T20:30:30+00:00</updated>
-    <content>China Drops New Map Claiming India, Japan, Vietnam, Malaysia, Philippines, Russia, and Bhutan #russia #philippines #japan  China dropped it’s new map and it’s neighbors are upset. China’s new map shows them claiming part of India. India says the map is absurd and that their claims have no basis. The map also shows them infringing on Malaysia’s maritime border so Malaysia has rejected their unilateral claims. China’s map also claims part of Russia, Japan, Vietnam, Bhutan, Indonesia, Philippines, and all of Taiwan. It may seem silly for these countries to get very upset over what are essentially just lines on a piece of paper. But lines on a map represent people’s identities, their validation, things they’ve fought thousands of years for. It’s never just a line on a piece of paper.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7273215368611532078" rel="alternate"/>
-    <published>2023-08-30T20:30:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7273264915857771822</id>
     <title>Russia Says It Has A Right To 1v1 Each &amp; Every NATO Country #russia #usa  Russia says it has a right to war with each and every NATO country. Saying “whether you like it or not, history is on our side and we will bury you”. Russia has lost half of it’s mi</title>
@@ -51,5 +43,13 @@
     <content>French Military Readies To Strike Niger #france #niger  Niger has stripped the French ambassador of their diplomatic immunity and have ordered the police to expel them. They obviously can’t go into the embassy as that would be a major breach of international norms, too far for even them. But Police in Niger are now searching all vehicles leaving the embassy. It can not be understated how absolutely ridiculous this is. If they manage to get their hands on the ambassador; France isn’t going to ask for them back, they’re just going to bomb the country into oblivion. Have the people of Niger not suffered enough? The Junta must stop doing this stupid stuff.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7273616892273691950" rel="alternate"/>
     <published>2023-08-31T22:28:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7273992810217442603</id>
+    <title>Saudi Arabia Kills Man For Tweets #saudiarabia #saudi  Saudi Arabia has sentenced a man to death for criticizing the Saudi Royal Family on Twitter. The charges against him are “betraying his religion,” “disturbing the security of society,” “conspiring aga</title>
+    <updated>2023-09-01T22:47:19+00:00</updated>
+    <content>Saudi Arabia Kills Man For Tweets #saudiarabia #saudi  Saudi Arabia has sentenced a man to death for criticizing the Saudi Royal Family on Twitter. The charges against him are “betraying his religion,” “disturbing the security of society,” “conspiring against the government” and “impugning the kingdom and the crown prince”. The man had just 10 followers so he was tweeting to essentially no one. Killing people for tweets is just yet another human rights violation from the champions of crimes against humanity Saudi Arabia also funded 9/11, genocided Yemenis, aided ISIS, and killed Jamal Khashoggi.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7273992810217442603" rel="alternate"/>
+    <published>2023-09-01T22:47:19+00:00</published>
   </entry>
 </feed>
