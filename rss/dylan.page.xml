@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-09-01T19:03:47+00:00</updated>
+  <updated>2023-09-02T15:49:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7273521152629214497</id>
-    <title>Only in America😂😂🇺🇸</title>
-    <updated>2023-08-31T16:16:58+00:00</updated>
-    <content>Only in America😂😂🇺🇸</content>
-    <link href="https://tiktok.com/@dylan.page/video/7273521152629214497" rel="alternate"/>
-    <published>2023-08-31T16:16:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7273562989930761505</id>
     <title>Is the future of space Indian?🤔</title>
@@ -51,5 +43,13 @@
     <content>I don’t think ill ever complain again😳</content>
     <link href="https://tiktok.com/@dylan.page/video/7273935230891724064" rel="alternate"/>
     <published>2023-09-01T19:03:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7274256354339015969</id>
+    <title>Yahshua Robinson, 12, has tragically passed away following a medical emergency during PE class😔💔 R.I.P</title>
+    <updated>2023-09-02T15:49:56+00:00</updated>
+    <content>Yahshua Robinson, 12, has tragically passed away following a medical emergency during PE class😔💔 R.I.P</content>
+    <link href="https://tiktok.com/@dylan.page/video/7274256354339015969" rel="alternate"/>
+    <published>2023-09-02T15:49:56+00:00</published>
   </entry>
 </feed>
