@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-08-31T08:03:31+00:00</updated>
+  <updated>2023-09-03T08:02:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7270795163167919361</id>
-    <title>Another iffy argument #auspol #voicetoparliament #sayyes2023 #indigenousaustralian </title>
-    <updated>2023-08-24T07:58:42+00:00</updated>
-    <content>Another iffy argument #auspol #voicetoparliament #sayyes2023 #indigenousaustralian </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7270795163167919361" rel="alternate"/>
-    <published>2023-08-24T07:58:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7271908731384909057</id>
-    <title>Community update, come argue, you can talk about pretty much anything just don’t be needlessly edgy #auspol #australianpolitics #discord #australianlaborparty </title>
-    <updated>2023-08-27T07:59:56+00:00</updated>
-    <content>Community update, come argue, you can talk about pretty much anything just don’t be needlessly edgy #auspol #australianpolitics #discord #australianlaborparty </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7271908731384909057" rel="alternate"/>
-    <published>2023-08-27T07:59:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7271909201172008193</id>
     <title>Might not exactly be pork barrelling but it’s suss #auspol #nswlabor #nswpolitics #chrisminns #porkbarrelling </title>
@@ -51,5 +35,21 @@
     <content>On October the 14th, we vote #auspol #voicetoparliament #sayyes2023 #indigenousaustralian </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7273394006963293447" rel="alternate"/>
     <published>2023-08-31T08:03:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7274507022815497479</id>
+    <title>The voice can ONLY give advice, that’s it #auspol #voicetoparliament #sayyes2023 #indigenousaustralian </title>
+    <updated>2023-09-03T08:02:35+00:00</updated>
+    <content>The voice can ONLY give advice, that’s it #auspol #voicetoparliament #sayyes2023 #indigenousaustralian </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7274507022815497479" rel="alternate"/>
+    <published>2023-09-03T08:02:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7274507113076952328</id>
+    <title>Some labor ministers aren’t making this any easier #auspol #indigenousaustralian #sayyes2023  #voicetoparliament </title>
+    <updated>2023-09-03T08:02:57+00:00</updated>
+    <content>Some labor ministers aren’t making this any easier #auspol #indigenousaustralian #sayyes2023  #voicetoparliament </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7274507113076952328" rel="alternate"/>
+    <published>2023-09-03T08:02:57+00:00</published>
   </entry>
 </feed>
