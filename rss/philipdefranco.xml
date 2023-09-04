@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-09-01T22:47:19+00:00</updated>
+  <updated>2023-09-04T16:23:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7273264915857771822</id>
-    <title>Russia Says It Has A Right To 1v1 Each &amp; Every NATO Country #russia #usa  Russia says it has a right to war with each and every NATO country. Saying “whether you like it or not, history is on our side and we will bury you”. Russia has lost half of it’s mi</title>
-    <updated>2023-08-30T23:42:44+00:00</updated>
-    <content>Russia Says It Has A Right To 1v1 Each &amp; Every NATO Country #russia #usa  Russia says it has a right to war with each and every NATO country. Saying “whether you like it or not, history is on our side and we will bury you”. Russia has lost half of it’s military hardware and half a million soldiers and NATO hasn’t even shown up yet. So I say fine. If Russia wants to fight each NATO country individually, then I volunteer Hungary to go first and then Poland gets to go second.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7273264915857771822" rel="alternate"/>
-    <published>2023-08-30T23:42:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7273576922783681835</id>
     <title>Police Pull Over Giant Bull Named Howdy Dooty Sitting In Car #usa #america  A car with a giant bull sitting in the passenger seat named Howdy Doody was pulled over by police in Nebraska. The man and Howdy Doody were pulled over after a snitch called the p</title>
@@ -51,5 +43,13 @@
     <content>Saudi Arabia Kills Man For Tweets #saudiarabia #saudi  Saudi Arabia has sentenced a man to death for criticizing the Saudi Royal Family on Twitter. The charges against him are “betraying his religion,” “disturbing the security of society,” “conspiring against the government” and “impugning the kingdom and the crown prince”. The man had just 10 followers so he was tweeting to essentially no one. Killing people for tweets is just yet another human rights violation from the champions of crimes against humanity Saudi Arabia also funded 9/11, genocided Yemenis, aided ISIS, and killed Jamal Khashoggi.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7273992810217442603" rel="alternate"/>
     <published>2023-09-01T22:47:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7275007107122941226</id>
+    <title>Russia Bombs Romania On Accident #russia #romania #ukraine  Russia hit Romania, a NATO member, with drones in an attack last night according to Ukraine. Romania denies this but Ukraine has released video and pictures of the drones hitting them. However Ro</title>
+    <updated>2023-09-04T16:23:20+00:00</updated>
+    <content>Russia Bombs Romania On Accident #russia #romania #ukraine  Russia hit Romania, a NATO member, with drones in an attack last night according to Ukraine. Romania denies this but Ukraine has released video and pictures of the drones hitting them. However Romania says that they posed no direct military threat. Russia is playing a risky game. They can’t hit the back side of a barn yet they send explosives en masse. This is at least the 2nd time Russia has bombed a NATO country by accident.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7275007107122941226" rel="alternate"/>
+    <published>2023-09-04T16:23:20+00:00</published>
   </entry>
 </feed>
