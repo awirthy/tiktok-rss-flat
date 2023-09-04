@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-08-31T09:22:17+00:00</updated>
+  <updated>2023-09-04T09:52:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7267412622365052168</id>
-    <title>Everyone in Australia rn!!! What a bunch of LEGENDS!!! #matildas  #worldcup  #womensworldcup</title>
-    <updated>2023-08-15T05:13:51+00:00</updated>
-    <content>Everyone in Australia rn!!! What a bunch of LEGENDS!!! #matildas  #worldcup  #womensworldcup</content>
-    <link href="https://tiktok.com/@jimmyrees/video/7267412622365052168" rel="alternate"/>
-    <published>2023-08-15T05:13:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7267459380163939591</id>
     <title>Use GroupTogether to organise a gift &amp; card from the team in a jiffy. @GroupTogether </title>
@@ -51,5 +43,13 @@
     <content>I don't want no trouble 🤦‍♂️ ... Say it properly!!!  #englishlesson  #funny #sayitproperly</content>
     <link href="https://tiktok.com/@jimmyrees/video/7273414127933066498" rel="alternate"/>
     <published>2023-08-31T09:22:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7274906520943398146</id>
+    <title>Hwo Pickleball was invented!!! #pickleball #pickleballtiktok any pickleballers out there? 😂🥴</title>
+    <updated>2023-09-04T09:52:53+00:00</updated>
+    <content>Hwo Pickleball was invented!!! #pickleball #pickleballtiktok any pickleballers out there? 😂🥴</content>
+    <link href="https://tiktok.com/@jimmyrees/video/7274906520943398146" rel="alternate"/>
+    <published>2023-09-04T09:52:53+00:00</published>
   </entry>
 </feed>
