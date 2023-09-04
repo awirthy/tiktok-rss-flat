@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-09-04T17:48:38+00:00</updated>
+  <updated>2023-09-04T19:54:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7273935230891724064</id>
-    <title>I don’t think ill ever complain again😳</title>
-    <updated>2023-09-01T19:03:47+00:00</updated>
-    <content>I don’t think ill ever complain again😳</content>
-    <link href="https://tiktok.com/@dylan.page/video/7273935230891724064" rel="alternate"/>
-    <published>2023-09-01T19:03:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7274256354339015969</id>
     <title>Yahshua Robinson, 12, has tragically passed away following a medical emergency during PE class😔💔 R.I.P</title>
@@ -51,5 +43,13 @@
     <content>Damn we gotta save retail workers for real!😳 </content>
     <link href="https://tiktok.com/@dylan.page/video/7275029121841777953" rel="alternate"/>
     <published>2023-09-04T17:48:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7275061514162277664</id>
+    <title>Should he hate the wire or love it?🤔😳</title>
+    <updated>2023-09-04T19:54:22+00:00</updated>
+    <content>Should he hate the wire or love it?🤔😳</content>
+    <link href="https://tiktok.com/@dylan.page/video/7275061514162277664" rel="alternate"/>
+    <published>2023-09-04T19:54:22+00:00</published>
   </entry>
 </feed>
