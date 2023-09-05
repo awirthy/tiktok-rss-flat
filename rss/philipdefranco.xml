@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-09-05T20:06:31+00:00</updated>
+  <updated>2023-09-05T21:27:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7273616892273691950</id>
-    <title>French Military Readies To Strike Niger #france #niger  Niger has stripped the French ambassador of their diplomatic immunity and have ordered the police to expel them. They obviously can’t go into the embassy as that would be a major breach of internatio</title>
-    <updated>2023-08-31T22:28:35+00:00</updated>
-    <content>French Military Readies To Strike Niger #france #niger  Niger has stripped the French ambassador of their diplomatic immunity and have ordered the police to expel them. They obviously can’t go into the embassy as that would be a major breach of international norms, too far for even them. But Police in Niger are now searching all vehicles leaving the embassy. It can not be understated how absolutely ridiculous this is. If they manage to get their hands on the ambassador; France isn’t going to ask for them back, they’re just going to bomb the country into oblivion. Have the people of Niger not suffered enough? The Junta must stop doing this stupid stuff.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7273616892273691950" rel="alternate"/>
-    <published>2023-08-31T22:28:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7273992810217442603</id>
     <title>Saudi Arabia Kills Man For Tweets #saudiarabia #saudi  Saudi Arabia has sentenced a man to death for criticizing the Saudi Royal Family on Twitter. The charges against him are “betraying his religion,” “disturbing the security of society,” “conspiring aga</title>
@@ -51,5 +43,13 @@
     <content>India Is Changing Its Name To Bharat #india #bharat  India may be changing its name! A special session in parliament may rename the country to Bharat. Bharat is already the name most Indians call India so renaming it would be like Germany changing their name to Deutschland or Japan becoming Nippon. It’s common for places to have their own name and a name that everyone else calls them. For instance: China calls America a name that means “The United States of Beauty, Advantage and Endurance” And we call China “China” which is thought to mean “Land of the Qins”.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7275435734398405930" rel="alternate"/>
     <published>2023-09-05T20:06:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7275456711706561838</id>
+    <title>Russia Wants Alliance With North Korea &amp; China #russia #korea  South Korea says that Russia has proposed a three way with North Korea and China. Under Russia’s proposal, the three of them would conduct naval exercises together. Last time, Russia and China</title>
+    <updated>2023-09-05T21:27:58+00:00</updated>
+    <content>Russia Wants Alliance With North Korea &amp; China #russia #korea  South Korea says that Russia has proposed a three way with North Korea and China. Under Russia’s proposal, the three of them would conduct naval exercises together. Last time, Russia and China got together for an exercise, they just did their own thing next to each other and called it a joint exercise which is not what that is. Also North Korea and Russia are currently negotiating an arms deal. 6 years ago, Russia told North Korea that if the U.S. nukes them that they’ll be justified in doing so and will have no one to blame but themselves. Now Russia is making the nuclear threats they denounced and is becoming friends with the hermit kingdom.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7275456711706561838" rel="alternate"/>
+    <published>2023-09-05T21:27:58+00:00</published>
   </entry>
 </feed>
