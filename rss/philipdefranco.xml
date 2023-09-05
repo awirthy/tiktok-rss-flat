@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-09-04T22:49:33+00:00</updated>
+  <updated>2023-09-05T20:06:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7273600574636215598</id>
-    <title>Russia Demands Norway Pay Them $4.4 Million Because Of Reindeer Damage #norway #russia  Russia is demanding that Norway pay them 4.4 million dollars because 42 reindeer crossed the border into Russia. They say the money is for compensation for the reindee</title>
-    <updated>2023-08-31T21:25:20+00:00</updated>
-    <content>Russia Demands Norway Pay Them $4.4 Million Because Of Reindeer Damage #norway #russia  Russia is demanding that Norway pay them 4.4 million dollars because 42 reindeer crossed the border into Russia. They say the money is for compensation for the reindeer eating Russian grass. That’s some expensive grass. Supposedly a gate that separated the two countries and kept Reindeer out of Russia broke. So now 40 of the 42 reindeer have been killed in fears that they’ll cross into Russia again. Norway has asked its citizens to keep their reindeer in check. Look, Santa won’t be stopping in Russia this year with these kinds of rules in place.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7273600574636215598" rel="alternate"/>
-    <published>2023-08-31T21:25:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7273616892273691950</id>
     <title>French Military Readies To Strike Niger #france #niger  Niger has stripped the French ambassador of their diplomatic immunity and have ordered the police to expel them. They obviously can’t go into the embassy as that would be a major breach of internatio</title>
@@ -51,5 +43,13 @@
     <content>France Bans Muslim Dresses In Schools #france #islam  France says it’ll be uncompromising in its ban on abayas in school. An Abaya is usually a dark cloak worn by Muslim women. The French education minister says “When you walk into a classroom, you shouldn't be able to identify a student’s religion just by looking at them” Some critics have called it discriminatory because Abayas aren’t inherently religious, they’re just a kind of dress. But Macron says French schools are secular and that teachers must enforce the ban. All religious attire and symbols are banned in French schools. Which is quite the difference from America. Here, our secularism is based on freedom of religion. It’s very individual, it’s part of the “be who you want to be” motto of America. While in France, their secularism is based on freedom from religion. It’s based on this belief that there is a collective freedom from religious institutions. It’s an interesting approach.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7275106644634176811" rel="alternate"/>
     <published>2023-09-04T22:49:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7275435734398405930</id>
+    <title>India Is Changing Its Name To Bharat #india #bharat  India may be changing its name! A special session in parliament may rename the country to Bharat. Bharat is already the name most Indians call India so renaming it would be like Germany changing their n</title>
+    <updated>2023-09-05T20:06:31+00:00</updated>
+    <content>India Is Changing Its Name To Bharat #india #bharat  India may be changing its name! A special session in parliament may rename the country to Bharat. Bharat is already the name most Indians call India so renaming it would be like Germany changing their name to Deutschland or Japan becoming Nippon. It’s common for places to have their own name and a name that everyone else calls them. For instance: China calls America a name that means “The United States of Beauty, Advantage and Endurance” And we call China “China” which is thought to mean “Land of the Qins”.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7275435734398405930" rel="alternate"/>
+    <published>2023-09-05T20:06:31+00:00</published>
   </entry>
 </feed>
