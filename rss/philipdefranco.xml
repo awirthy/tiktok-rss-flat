@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-09-06T00:40:05+00:00</updated>
+  <updated>2023-09-06T18:49:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7275007107122941226</id>
-    <title>Russia Bombs Romania On Accident #russia #romania #ukraine  Russia hit Romania, a NATO member, with drones in an attack last night according to Ukraine. Romania denies this but Ukraine has released video and pictures of the drones hitting them. However Ro</title>
-    <updated>2023-09-04T16:23:20+00:00</updated>
-    <content>Russia Bombs Romania On Accident #russia #romania #ukraine  Russia hit Romania, a NATO member, with drones in an attack last night according to Ukraine. Romania denies this but Ukraine has released video and pictures of the drones hitting them. However Romania says that they posed no direct military threat. Russia is playing a risky game. They can’t hit the back side of a barn yet they send explosives en masse. This is at least the 2nd time Russia has bombed a NATO country by accident.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7275007107122941226" rel="alternate"/>
-    <published>2023-09-04T16:23:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7275106644634176811</id>
     <title>France Bans Muslim Dresses In Schools #france #islam  France says it’ll be uncompromising in its ban on abayas in school. An Abaya is usually a dark cloak worn by Muslim women. The French education minister says “When you walk into a classroom, you should</title>
@@ -51,5 +43,13 @@
     <content>US Places Nuclear Weapons In Britain #usa #uk  The U.S. may return it’s nuclear weapons to British soil for the first time in 15 years. The Air Force has secured funding to build a dormitory to house increased personnel due to a potential nuclear mission. This comes as the nuclear capable F-35 has been deployed to the UK. And Russia has taken notice with them saying that the return of US nuclear weapons to the UK will be seen as an escalation.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7275506222642695470" rel="alternate"/>
     <published>2023-09-06T00:40:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7275787044721413422</id>
+    <title>Passenger Coats Plane In Diarrhea #usa #airplane  A flight from Atlanta to Barcelona was forced to turn around 2 hours into the journey because a passenger had diarrhea all throughout the airplane. Passengers say it dribbled down the aisle and that they t</title>
+    <updated>2023-09-06T18:49:50+00:00</updated>
+    <content>Passenger Coats Plane In Diarrhea #usa #airplane  A flight from Atlanta to Barcelona was forced to turn around 2 hours into the journey because a passenger had diarrhea all throughout the airplane. Passengers say it dribbled down the aisle and that they tried to cover up the smell with vanilla but it just smelt like vanilla diarrhea. I do feel bad for the diarrhea passenger because not only did you cover the plane in diarrhea but then you had to sit in it for the next 2 hours, and the rest of the plane is mad at you for ruining their vacation. They’re getting off the plane pointing at you saying “that’s the diarrhea guy” and then just when you think the humiliation is over… it’s front page news across the country.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7275787044721413422" rel="alternate"/>
+    <published>2023-09-06T18:49:50+00:00</published>
   </entry>
 </feed>
