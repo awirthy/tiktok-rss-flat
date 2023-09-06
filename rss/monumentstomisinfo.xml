@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-09-03T08:02:57+00:00</updated>
+  <updated>2023-09-06T07:55:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7271909201172008193</id>
-    <title>Might not exactly be pork barrelling but it’s suss #auspol #nswlabor #nswpolitics #chrisminns #porkbarrelling </title>
-    <updated>2023-08-27T08:01:45+00:00</updated>
-    <content>Might not exactly be pork barrelling but it’s suss #auspol #nswlabor #nswpolitics #chrisminns #porkbarrelling </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7271909201172008193" rel="alternate"/>
-    <published>2023-08-27T08:01:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7272650219496508679</id>
     <title>This is such a non issue to stir outrage #auspol #voicetoparliament #sayyes2023 #indigenousaustralian </title>
@@ -51,5 +43,13 @@
     <content>Some labor ministers aren’t making this any easier #auspol #indigenousaustralian #sayyes2023  #voicetoparliament </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7274507113076952328" rel="alternate"/>
     <published>2023-09-03T08:02:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7275618519667068178</id>
+    <title>This voice has use #auspol #voicetoparliament #sayyes2023 #indigenousaustralian </title>
+    <updated>2023-09-06T07:55:45+00:00</updated>
+    <content>This voice has use #auspol #voicetoparliament #sayyes2023 #indigenousaustralian </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7275618519667068178" rel="alternate"/>
+    <published>2023-09-06T07:55:45+00:00</published>
   </entry>
 </feed>
