@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jennamclarke</id>
   <title>jennamclarke TikTok</title>
-  <updated>2023-09-05T13:23:04+00:00</updated>
+  <updated>2023-09-06T13:33:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jennamclarke</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jennamclarke/video/7272733817486445826</id>
-    <title>4 things to know before ☕️ on Wednesday including #anthonyalbanese - the #harrygoldenblatt of #auspol - will set the date #thevoice in #australia  👋🏼 ya every night from 10:30pm for #thefrontpage </title>
-    <updated>2023-08-29T13:21:39+00:00</updated>
-    <content>4 things to know before ☕️ on Wednesday including #anthonyalbanese - the #harrygoldenblatt of #auspol - will set the date #thevoice in #australia  👋🏼 ya every night from 10:30pm for #thefrontpage </content>
-    <link href="https://tiktok.com/@jennamclarke/video/7272733817486445826" rel="alternate"/>
-    <published>2023-08-29T13:21:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jennamclarke/video/7273104809098530050</id>
     <title>4 things to know before ☕️ on Thursday including day 1 of the #referendum and #airbnb in #townsville going for $16k during the #pink concert  #auspol #thevoice #thefrontpage #australia </title>
@@ -51,5 +43,13 @@
     <content>4 things to know before ☕️ on Wednesday  #ausnews #thethickofit #tomandgerry #qantas #katemoss </content>
     <link href="https://tiktok.com/@jennamclarke/video/7275331773050014977" rel="alternate"/>
     <published>2023-09-05T13:23:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jennamclarke/video/7275705574531108097</id>
+    <title>4 things to know before ☕️ on Thursday  #queenelizabeth #liztruss #botox #maths #qantas #babytiktok </title>
+    <updated>2023-09-06T13:33:36+00:00</updated>
+    <content>4 things to know before ☕️ on Thursday  #queenelizabeth #liztruss #botox #maths #qantas #babytiktok </content>
+    <link href="https://tiktok.com/@jennamclarke/video/7275705574531108097" rel="alternate"/>
+    <published>2023-09-06T13:33:36+00:00</published>
   </entry>
 </feed>
