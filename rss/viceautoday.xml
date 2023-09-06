@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-09-05T06:56:14+00:00</updated>
+  <updated>2023-09-06T07:09:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7272981995406314753</id>
-    <title>The Indigenous Voice to Parliament referendum date has been set for October 14. Here’s what Prime Minister Anthony Albanese said in his speech today. #australia #news #voice #voicereferendum #voicetoparliament #indigenous #indigenousvoicetoparliament #fir</title>
-    <updated>2023-08-30T05:24:45+00:00</updated>
-    <content>The Indigenous Voice to Parliament referendum date has been set for October 14. Here’s what Prime Minister Anthony Albanese said in his speech today. #australia #news #voice #voicereferendum #voicetoparliament #indigenous #indigenousvoicetoparliament #firstnations #politics #auspol #vote #todayilearned #learnontiktok </content>
-    <link href="https://tiktok.com/@viceautoday/video/7272981995406314753" rel="alternate"/>
-    <published>2023-08-30T05:24:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7273379644349451522</id>
     <title>Gig workers in Australia, including delivery drivers, will get minimum pay rates next year under new federal legislation to stop service proivders eroding their rights. #australia #news #politics #auspol #gigworker #gigeconomy #delivery #deliverydriver #f</title>
@@ -51,5 +43,13 @@
     <content>Qantas has been in the news a lot lately and today CEO Alan Joyce announced he would quit immeidately following a week of scandals. Here’s a quick timeline of what’s happened. #australia #news #explained #qantas #accc #alanjoyce #ceo #airline #plane #flight #flightattendant #politics #auspol #anthonyalbanese </content>
     <link href="https://tiktok.com/@viceautoday/video/7275232070165679361" rel="alternate"/>
     <published>2023-09-05T06:56:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7275606481997794578</id>
+    <title>Channel 7 has already apologised for using a photo of a woman without their consent #australia #trans #aunews #transgender #lgbtqia </title>
+    <updated>2023-09-06T07:09:05+00:00</updated>
+    <content>Channel 7 has already apologised for using a photo of a woman without their consent #australia #trans #aunews #transgender #lgbtqia </content>
+    <link href="https://tiktok.com/@viceautoday/video/7275606481997794578" rel="alternate"/>
+    <published>2023-09-06T07:09:05+00:00</published>
   </entry>
 </feed>
