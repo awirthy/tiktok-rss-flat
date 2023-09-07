@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-09-06T21:19:48+00:00</updated>
+  <updated>2023-09-07T19:34:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7275435734398405930</id>
-    <title>India Is Changing Its Name To Bharat #india #bharat  India may be changing its name! A special session in parliament may rename the country to Bharat. Bharat is already the name most Indians call India so renaming it would be like Germany changing their n</title>
-    <updated>2023-09-05T20:06:31+00:00</updated>
-    <content>India Is Changing Its Name To Bharat #india #bharat  India may be changing its name! A special session in parliament may rename the country to Bharat. Bharat is already the name most Indians call India so renaming it would be like Germany changing their name to Deutschland or Japan becoming Nippon. It’s common for places to have their own name and a name that everyone else calls them. For instance: China calls America a name that means “The United States of Beauty, Advantage and Endurance” And we call China “China” which is thought to mean “Land of the Qins”.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7275435734398405930" rel="alternate"/>
-    <published>2023-09-05T20:06:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7275456711706561838</id>
     <title>Russia Wants Alliance With North Korea &amp; China #russia #korea  South Korea says that Russia has proposed a three way with North Korea and China. Under Russia’s proposal, the three of them would conduct naval exercises together. Last time, Russia and China</title>
@@ -51,5 +43,13 @@
     <content>Romania Notifies NATO Of Russian Attack On Country #romania #usa  Romania has found the Russian drone that they denied hit them. With the Romanian defense minister saying: “If it is confirmed that these elements come from a Russian drone, such a situation would be completely inadmissible and a serious violation of the sovereignty and territorial integrity of Romania, a NATO member.” It’s unclear what Romania’s retaliation will be but they did notify NATO today of the attack. Romania could technically invoke NATO’s Article 5 if they want to but are we really gonna do this over a drone hitting an empty field?</content>
     <link href="https://tiktok.com/@philipdefranco/video/7275825668666051882" rel="alternate"/>
     <published>2023-09-06T21:19:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7276169703960186154</id>
+    <title>Man Arrested After Trying To Hamster Wheel To London #usa #london #florida  A Florida man crossing the Atlantic Ocean in a hamster wheel has been arrested after a three day stand off. The man set off from Florida and intended to go to London by running on</title>
+    <updated>2023-09-07T19:34:48+00:00</updated>
+    <content>Man Arrested After Trying To Hamster Wheel To London #usa #london #florida  A Florida man crossing the Atlantic Ocean in a hamster wheel has been arrested after a three day stand off. The man set off from Florida and intended to go to London by running on the wheel but 70 miles into his journey - the Coast Guard stopped him. Now you’re probably wondering “where in the law does it say it’s illegal to hamster wheel across the ocean”. And look it might not be illegal, but the issue is that our Hero went rogue when the Coast Guard approached his wheel. He was finally arrested after a 3 day standoff and has been charged with obstructing a boarding and violation of a Captain of the Port order. BUT It turns out this is his 4th time attempting this and in 2002, he was arrested trying to illegally enter the US. But the Judge let him off and granted him asylum after he promised to run from LA to New York City to commemorate the second anniversary of 9/11. He was set free on $250,000 bond with the terms that he can’t go into the ocean or board a vessel on the ocean.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7276169703960186154" rel="alternate"/>
+    <published>2023-09-07T19:34:48+00:00</published>
   </entry>
 </feed>
