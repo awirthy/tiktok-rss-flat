@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jennamclarke</id>
   <title>jennamclarke TikTok</title>
-  <updated>2023-09-06T13:33:36+00:00</updated>
+  <updated>2023-09-07T13:20:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jennamclarke</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jennamclarke/video/7273104809098530050</id>
-    <title>4 things to know before ☕️ on Thursday including day 1 of the #referendum and #airbnb in #townsville going for $16k during the #pink concert  #auspol #thevoice #thefrontpage #australia </title>
-    <updated>2023-08-30T13:21:19+00:00</updated>
-    <content>4 things to know before ☕️ on Thursday including day 1 of the #referendum and #airbnb in #townsville going for $16k during the #pink concert  #auspol #thevoice #thefrontpage #australia </content>
-    <link href="https://tiktok.com/@jennamclarke/video/7273104809098530050" rel="alternate"/>
-    <published>2023-08-30T13:21:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jennamclarke/video/7273470656157584642</id>
     <title>4 things to know before ☕️ on Friday incluidng how to get a refund from #qantas  👋🏼 ya every night from 10:30pm for #thefrontpage on #skynewsaustralia </title>
@@ -51,5 +43,13 @@
     <content>4 things to know before ☕️ on Thursday  #queenelizabeth #liztruss #botox #maths #qantas #babytiktok </content>
     <link href="https://tiktok.com/@jennamclarke/video/7275705574531108097" rel="alternate"/>
     <published>2023-09-06T13:33:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jennamclarke/video/7276073379591933186</id>
+    <title>4 things to know before ☕️ on #friday including your #qantas #ff points may be worthless. Sorry. </title>
+    <updated>2023-09-07T13:20:53+00:00</updated>
+    <content>4 things to know before ☕️ on #friday including your #qantas #ff points may be worthless. Sorry. </content>
+    <link href="https://tiktok.com/@jennamclarke/video/7276073379591933186" rel="alternate"/>
+    <published>2023-09-07T13:20:53+00:00</published>
   </entry>
 </feed>
