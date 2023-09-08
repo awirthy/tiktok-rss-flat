@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-09-07T19:00:00+00:00</updated>
+  <updated>2023-09-08T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7273888731273121067</id>
-    <title>Students, Staff Are Passing Out Heat Exhaustion in Oven-Like Schools #Schools  #US  #Heat  #AC</title>
-    <updated>2023-09-02T20:00:00+00:00</updated>
-    <content>Students, Staff Are Passing Out Heat Exhaustion in Oven-Like Schools #Schools  #US  #Heat  #AC</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7273888731273121067" rel="alternate"/>
-    <published>2023-09-02T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7274002539425647918</id>
     <title>PB Leader Sentenced to 17 Years for Jan. 6 #Politics  #US  #Prison #Criminal</title>
@@ -51,5 +43,13 @@
     <content>Alabama Supreme Court Rules the GOP Screwed Up the State’s Voting Map AGAIN #Alabama  #Politics  #US  #SupremeCourt</content>
     <link href="https://tiktok.com/@pdspolitics/video/7275829318318755118" rel="alternate"/>
     <published>2023-09-07T19:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7276522887715097899</id>
+    <title>Wisconsin Republicans Are Gunning to Impeach a New Supreme Court Justice Before She Hears a Case #JanetProtasiewicz  #Wisconsin  #Politics  #SupremeCourt</title>
+    <updated>2023-09-08T20:00:00+00:00</updated>
+    <content>Wisconsin Republicans Are Gunning to Impeach a New Supreme Court Justice Before She Hears a Case #JanetProtasiewicz  #Wisconsin  #Politics  #SupremeCourt</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7276522887715097899" rel="alternate"/>
+    <published>2023-09-08T20:00:00+00:00</published>
   </entry>
 </feed>
