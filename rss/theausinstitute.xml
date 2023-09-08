@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-09-06T07:20:00+00:00</updated>
+  <updated>2023-09-07T03:56:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7272625721812552968</id>
-    <title>"The fact that you've got two whistleblowers on trial right now in Australia... sends a really chilling effect to other whistleblowers who might be thinking about speaking up." - Kieran Pender, senior lawyer at the Human Rights Law Centre Watch the full w</title>
-    <updated>2023-08-29T06:24:03+00:00</updated>
-    <content>"The fact that you've got two whistleblowers on trial right now in Australia... sends a really chilling effect to other whistleblowers who might be thinking about speaking up." - Kieran Pender, senior lawyer at the Human Rights Law Centre Watch the full webinar on Whistleblowing in Australia, link in bio. #auspol</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7272625721812552968" rel="alternate"/>
-    <published>2023-08-29T06:24:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7273006430414703879</id>
     <title>[Pacific Island leaders] have been very clear in what they expect from Australia...when it comes to partnering to host a COP.  "Is Australia really a credible host? Why should we host an event when they've ignored our requests for years?" Listen to the la</title>
@@ -51,5 +43,13 @@
     <content>"One of the most frustrating things to hear, particularly during those first fish kills, was politicians in particular saying that they're natural." "These fish kills are not natural and they should not happen." - Kate McBride, researcher and Menindee local Listen to the latest episode of Follow the Money via link in bio #auspol</content>
     <link href="https://tiktok.com/@theausinstitute/video/7275573021203614984" rel="alternate"/>
     <published>2023-09-06T07:20:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7275927968394808583</id>
+    <title>"To be successful in politics...women shave off so much of the edges of their personality until basically they're a man." "The 2023 that I want to live in, I want people to be able to be their full selves. I want to live in a world where wearing a ball go</title>
+    <updated>2023-09-07T03:56:46+00:00</updated>
+    <content>"To be successful in politics...women shave off so much of the edges of their personality until basically they're a man." "The 2023 that I want to live in, I want people to be able to be their full selves. I want to live in a world where wearing a ball gown or wearing a bikini doesn't negate your ability to be a good political staffer." said Alisha Aitken-Ratburn, author of 'The Villain Edit', 3x Bachelor contestant and former Labor staffer, at our Politics in the Pub event.</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7275927968394808583" rel="alternate"/>
+    <published>2023-09-07T03:56:46+00:00</published>
   </entry>
 </feed>
