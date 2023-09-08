@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-09-07T07:20:21+00:00</updated>
+  <updated>2023-09-08T07:10:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7273750212676472066</id>
-    <title>Deputy Prime Minister and Defence Minister Richard Marles’ office has spent $3.6 million of taxpayer money on flights since April last year and concealed where those planes flew and who was on them. #australia #news #defence #minister #politics #auspol #t</title>
-    <updated>2023-09-01T07:05:48+00:00</updated>
-    <content>Deputy Prime Minister and Defence Minister Richard Marles’ office has spent $3.6 million of taxpayer money on flights since April last year and concealed where those planes flew and who was on them. #australia #news #defence #minister #politics #auspol #tax #money #flight #richardmarles #anthonyalbanese #costofliving #todayilearned #learnontiktok </content>
-    <link href="https://tiktok.com/@viceautoday/video/7273750212676472066" rel="alternate"/>
-    <published>2023-09-01T07:05:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7274859310486768898</id>
     <title>Australian households on the median annual income of about $105,000 can now only afford 13% of properties currently on the market. #australia #news #housing #housingmarket #housingaffordability #housingcrisis #costifliving #interestrates #mortgage #income</title>
@@ -51,5 +43,13 @@
     <content>A Victorian coroner has called on the state to introduce pill testing, in a report on the passing of a 26-year-old man at a Melbourne festival last year. The man accidentally overdosed after taking a pill known to contain dangerous levels of MDMA #news #newsaustralia #australia #harmreduction #learnontiktok #todayilearned #melbourne #pilltesting #festivals #aunews </content>
     <link href="https://tiktok.com/@viceautoday/video/7275980465390112002" rel="alternate"/>
     <published>2023-09-07T07:20:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7276348934547672321</id>
+    <title>Should unpaid internships and placements be legal in Australia? Some advocates have told a public hearing they need to end. #australia #news #uni #university #intern #internship #placement #dropout #education #nurse #socialwork #teacher #politics #auspol </title>
+    <updated>2023-09-08T07:10:11+00:00</updated>
+    <content>Should unpaid internships and placements be legal in Australia? Some advocates have told a public hearing they need to end. #australia #news #uni #university #intern #internship #placement #dropout #education #nurse #socialwork #teacher #politics #auspol #todayilearned #learnontiktok </content>
+    <link href="https://tiktok.com/@viceautoday/video/7276348934547672321" rel="alternate"/>
+    <published>2023-09-08T07:10:11+00:00</published>
   </entry>
 </feed>
