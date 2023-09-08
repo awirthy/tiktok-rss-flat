@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-09-08T23:22:11.682190+00:00</updated>
+  <updated>2023-09-08T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,44 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7274002539425647918</id>
+    <title>PB Leader Sentenced to 17 Years for Jan. 6 #Politics  #US  #Prison #Criminal</title>
+    <updated>2023-09-04T23:00:00+00:00</updated>
+    <content>PB Leader Sentenced to 17 Years for Jan. 6 #Politics  #US  #Prison #Criminal</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7274002539425647918" rel="alternate"/>
+    <published>2023-09-04T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7275471864422550827</id>
+    <title>Texas AG Paxton’s Impeachment Trial Begins #Texas  #KenPaxton  #Politics  #US</title>
+    <updated>2023-09-05T23:00:00+00:00</updated>
+    <content>Texas AG Paxton’s Impeachment Trial Begins #Texas  #KenPaxton  #Politics  #US</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7275471864422550827" rel="alternate"/>
+    <published>2023-09-05T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7275750580201524523</id>
+    <title>Unless something massive changes fast, the government could shutdown by the end of the month #Politics  #Congress  #US  #GovernmentShutdown</title>
+    <updated>2023-09-06T19:00:00+00:00</updated>
+    <content>Unless something massive changes fast, the government could shutdown by the end of the month #Politics  #Congress  #US  #GovernmentShutdown</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7275750580201524523" rel="alternate"/>
+    <published>2023-09-06T19:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7275829318318755118</id>
+    <title>Alabama Supreme Court Rules the GOP Screwed Up the State’s Voting Map AGAIN #Alabama  #Politics  #US  #SupremeCourt</title>
+    <updated>2023-09-07T19:00:00+00:00</updated>
+    <content>Alabama Supreme Court Rules the GOP Screwed Up the State’s Voting Map AGAIN #Alabama  #Politics  #US  #SupremeCourt</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7275829318318755118" rel="alternate"/>
+    <published>2023-09-07T19:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7276522887715097899</id>
+    <title>Wisconsin Republicans Are Gunning to Impeach a New Supreme Court Justice Before She Hears a Case #JanetProtasiewicz  #Wisconsin  #Politics  #SupremeCourt</title>
+    <updated>2023-09-08T20:00:00+00:00</updated>
+    <content>Wisconsin Republicans Are Gunning to Impeach a New Supreme Court Justice Before She Hears a Case #JanetProtasiewicz  #Wisconsin  #Politics  #SupremeCourt</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7276522887715097899" rel="alternate"/>
+    <published>2023-09-08T20:00:00+00:00</published>
+  </entry>
 </feed>
