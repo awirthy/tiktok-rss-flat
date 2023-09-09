@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-09-08T23:50:32.100930+00:00</updated>
+  <updated>2023-09-08T07:53:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,44 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7274507022815497479</id>
+    <title>The voice can ONLY give advice, that’s it #auspol #voicetoparliament #sayyes2023 #indigenousaustralian </title>
+    <updated>2023-09-03T08:02:35+00:00</updated>
+    <content>The voice can ONLY give advice, that’s it #auspol #voicetoparliament #sayyes2023 #indigenousaustralian </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7274507022815497479" rel="alternate"/>
+    <published>2023-09-03T08:02:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7274507113076952328</id>
+    <title>Some labor ministers aren’t making this any easier #auspol #indigenousaustralian #sayyes2023  #voicetoparliament </title>
+    <updated>2023-09-03T08:02:57+00:00</updated>
+    <content>Some labor ministers aren’t making this any easier #auspol #indigenousaustralian #sayyes2023  #voicetoparliament </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7274507113076952328" rel="alternate"/>
+    <published>2023-09-03T08:02:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7275618519667068178</id>
+    <title>This voice has use #auspol #voicetoparliament #sayyes2023 #indigenousaustralian </title>
+    <updated>2023-09-06T07:55:45+00:00</updated>
+    <content>This voice has use #auspol #voicetoparliament #sayyes2023 #indigenousaustralian </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7275618519667068178" rel="alternate"/>
+    <published>2023-09-06T07:55:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7275986638642187538</id>
+    <title>Give serious topics like this the respect it deserves instead of milking it #tallknight #tallknightdrama #tallknightcontroversy </title>
+    <updated>2023-09-07T07:44:17+00:00</updated>
+    <content>Give serious topics like this the respect it deserves instead of milking it #tallknight #tallknightdrama #tallknightcontroversy </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7275986638642187538" rel="alternate"/>
+    <published>2023-09-07T07:44:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7276360074170207506</id>
+    <title>Relief through UGH flights #auspol #qantas #australianlaborparty </title>
+    <updated>2023-09-08T07:53:21+00:00</updated>
+    <content>Relief through UGH flights #auspol #qantas #australianlaborparty </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7276360074170207506" rel="alternate"/>
+    <published>2023-09-08T07:53:21+00:00</published>
+  </entry>
 </feed>
