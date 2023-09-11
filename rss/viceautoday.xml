@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-09-08T07:10:11+00:00</updated>
+  <updated>2023-09-11T07:38:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7274859310486768898</id>
-    <title>Australian households on the median annual income of about $105,000 can now only afford 13% of properties currently on the market. #australia #news #housing #housingmarket #housingaffordability #housingcrisis #costifliving #interestrates #mortgage #income</title>
-    <updated>2023-09-04T06:49:43+00:00</updated>
-    <content>Australian households on the median annual income of about $105,000 can now only afford 13% of properties currently on the market. #australia #news #housing #housingmarket #housingaffordability #housingcrisis #costifliving #interestrates #mortgage #income #salary #money #todayilearned #learnontiktok </content>
-    <link href="https://tiktok.com/@viceautoday/video/7274859310486768898" rel="alternate"/>
-    <published>2023-09-04T06:49:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7275232070165679361</id>
     <title>Qantas has been in the news a lot lately and today CEO Alan Joyce announced he would quit immeidately following a week of scandals. Here’s a quick timeline of what’s happened. #australia #news #explained #qantas #accc #alanjoyce #ceo #airline #plane #flig</title>
@@ -51,5 +43,13 @@
     <content>Should unpaid internships and placements be legal in Australia? Some advocates have told a public hearing they need to end. #australia #news #uni #university #intern #internship #placement #dropout #education #nurse #socialwork #teacher #politics #auspol #todayilearned #learnontiktok </content>
     <link href="https://tiktok.com/@viceautoday/video/7276348934547672321" rel="alternate"/>
     <published>2023-09-08T07:10:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7277469511492701442</id>
+    <title>Sydney has been ranked as the sixth most unaffordable city to live in the world, beating New York, London and Paris. Researchers estimate it's costing the city more than $10 billion a year in productivity losses. #housingcrisis #housing #sydney #australia</title>
+    <updated>2023-09-11T07:38:37+00:00</updated>
+    <content>Sydney has been ranked as the sixth most unaffordable city to live in the world, beating New York, London and Paris. Researchers estimate it's costing the city more than $10 billion a year in productivity losses. #housingcrisis #housing #sydney #australia #newsaustralia #australianews #learnontiktok #todayilearned #news </content>
+    <link href="https://tiktok.com/@viceautoday/video/7277469511492701442" rel="alternate"/>
+    <published>2023-09-11T07:38:37+00:00</published>
   </entry>
 </feed>
