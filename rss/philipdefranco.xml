@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-09-11T19:10:01+00:00</updated>
+  <updated>2023-09-11T22:48:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7275787044721413422</id>
-    <title>Passenger Coats Plane In Diarrhea #usa #airplane  A flight from Atlanta to Barcelona was forced to turn around 2 hours into the journey because a passenger had diarrhea all throughout the airplane. Passengers say it dribbled down the aisle and that they t</title>
-    <updated>2023-09-06T18:49:50+00:00</updated>
-    <content>Passenger Coats Plane In Diarrhea #usa #airplane  A flight from Atlanta to Barcelona was forced to turn around 2 hours into the journey because a passenger had diarrhea all throughout the airplane. Passengers say it dribbled down the aisle and that they tried to cover up the smell with vanilla but it just smelt like vanilla diarrhea. I do feel bad for the diarrhea passenger because not only did you cover the plane in diarrhea but then you had to sit in it for the next 2 hours, and the rest of the plane is mad at you for ruining their vacation. They’re getting off the plane pointing at you saying “that’s the diarrhea guy” and then just when you think the humiliation is over… it’s front page news across the country.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7275787044721413422" rel="alternate"/>
-    <published>2023-09-06T18:49:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7275825668666051882</id>
     <title>Romania Notifies NATO Of Russian Attack On Country #romania #usa  Romania has found the Russian drone that they denied hit them. With the Romanian defense minister saying: “If it is confirmed that these elements come from a Russian drone, such a situation</title>
@@ -51,5 +43,13 @@
     <content>US Gains New Ally Thanks To Kim Kardashian #usa #kimkardashian  The U.S. just gained a new ally, thanks to Kim Kardashian. Armenia and the U.S. are conducting an unprecedented joint army exercise for the first time. Russia says it’ll be watching closely. Armenia is an odd bird. It really has no friends except the US and depending on the day, Iran. And that’s primarily because the Armenian lobby in the US is very influential. With Kim Kardashian being the loudest pro-Armenian voice and her asking President Biden to prevent another Armenian genocide. Armenia’s lack of friends is really because of Russia. After Russia’s invasion of Ukraine, Europe came to depend on Azerbaijan for gas and now that Russia lacks the ability to protect Armenia, it has only emboldened the Azeris on territory grabs. You know it’s bleak when up until today, your only friends were Kim Kardashian and like sometimes Iran.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7277647637254393131" rel="alternate"/>
     <published>2023-09-11T19:10:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7277704037972249902</id>
+    <title>Saudi Arabia Has Paid Off Vice News #vice #saudiarabia  Vice News, they were someone you could count on to give you the news that no one else was willing to cover… they have fallen. After striking a deal with a State-run Saudi Arabian media company, Vice </title>
+    <updated>2023-09-11T22:48:49+00:00</updated>
+    <content>Saudi Arabia Has Paid Off Vice News #vice #saudiarabia  Vice News, they were someone you could count on to give you the news that no one else was willing to cover… they have fallen. After striking a deal with a State-run Saudi Arabian media company, Vice removed their documentary that was critical of the Saudi Crown Prince. The documentary revealed how MBS orchestrates purges, kidnaps Saudi elites and tortured them, and how he killed Jamal Khashoggi. The video they removed was from June of this year but Vice’s ties to Saudi Arabia go way back. In 2018, Vice started making promotional videos for the Kingdom after Saudi gave them $200 million from the sovereign wealth fund. In 2020, they helped organize a Saudi music festival that was paid for by the Saudi government &amp; Vice hid their involvement. In 2021, they opened an office in Riyadh after previously being banned from the country. Now they’re actively seeking producers for their “new media brand” that’s headquartered in the country. Vice claims that they have full control over editorial but that seems to be a flagrant lie. This year, Vice entered into another deal with a Saudi media company and after doing so they reportedly canned a story on how Saudi Arabia was helping families harass and threaten transgender Saudis living overseas.  With the Vice Union saying that just cause the company is bankrupt financially doesn’t mean it should also be morally bankrupt. The icing on the cake here is that in Vice headquarters in London, there is reportedly a map of Saudi Arabia on the wall.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7277704037972249902" rel="alternate"/>
+    <published>2023-09-11T22:48:49+00:00</published>
   </entry>
 </feed>
