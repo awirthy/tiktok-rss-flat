@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-09-12T19:25:48+00:00</updated>
+  <updated>2023-09-12T21:43:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7276169703960186154</id>
-    <title>Man Arrested After Trying To Hamster Wheel To London #usa #london #florida  A Florida man crossing the Atlantic Ocean in a hamster wheel has been arrested after a three day stand off. The man set off from Florida and intended to go to London by running on</title>
-    <updated>2023-09-07T19:34:48+00:00</updated>
-    <content>Man Arrested After Trying To Hamster Wheel To London #usa #london #florida  A Florida man crossing the Atlantic Ocean in a hamster wheel has been arrested after a three day stand off. The man set off from Florida and intended to go to London by running on the wheel but 70 miles into his journey - the Coast Guard stopped him. Now you’re probably wondering “where in the law does it say it’s illegal to hamster wheel across the ocean”. And look it might not be illegal, but the issue is that our Hero went rogue when the Coast Guard approached his wheel. He was finally arrested after a 3 day standoff and has been charged with obstructing a boarding and violation of a Captain of the Port order. BUT It turns out this is his 4th time attempting this and in 2002, he was arrested trying to illegally enter the US. But the Judge let him off and granted him asylum after he promised to run from LA to New York City to commemorate the second anniversary of 9/11. He was set free on $250,000 bond with the terms that he can’t go into the ocean or board a vessel on the ocean.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7276169703960186154" rel="alternate"/>
-    <published>2023-09-07T19:34:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7276187616238718254</id>
     <title>Hong Kong Experiencing Apocalyptic Floods #hongkong #china  Hong Kong is experiencing apocalyptic floods. In just one hour, it rained 6 inches. That’s the most since records began in 1884. Buses are flooding, The subways are flooding, and you could take b</title>
@@ -51,5 +43,13 @@
     <content>US &amp; Vietnam Become Allies #usa #vietnam  The US has picked up yet another ally. With Vietnam giving the United States a Comprehensive Strategic Partnership, which is the highest level of diplomatic ties that they have to offer. The two will pursue strategic cooperation as well as a semiconductor supply chain that’s immune from China. They’ll also trade agricultural products. The U.S. is Vietnam's largest export market and last year it was the fastest growing economy in Asia. Despite our shared past of war, 84% of Vietnamese have a positive view of America with only 6% having a negative view. This shift by Vietnam is just as much about Vietnam’s anxiety over China as it is over a desire to make more money with America. American investors are already increasingly looking to Vietnam because of their large swath of highly educated young people who are extremely entrepreneurial in spirit. But the honeymoon phase might not last long because the US says it’ll continue to press Vietnam on human rights. Last year it said that it was neither “free nor fair.”</content>
     <link href="https://tiktok.com/@philipdefranco/video/7278022787334180139" rel="alternate"/>
     <published>2023-09-12T19:25:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7278058200476273963</id>
+    <title>America &amp; Canada Make China Very Mad #usa #canada  The U.S. and Canada sailed two ships through the Taiwan strait after China claimed it had total ownership over the strait. China sent three ships armed with torpedoes and missiles to flank the Canadian wa</title>
+    <updated>2023-09-12T21:43:09+00:00</updated>
+    <content>America &amp; Canada Make China Very Mad #usa #canada  The U.S. and Canada sailed two ships through the Taiwan strait after China claimed it had total ownership over the strait. China sent three ships armed with torpedoes and missiles to flank the Canadian warship and they followed them for 17 hours. China also sent fighter jets to intercept the warships but upon realizing that the Canadian vessel wasn’t alone, it changed course. The U.S. frequently takes this route as part of it’s freedom of navigation operations. China accused these two hoodlums of trying to stir up trouble.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7278058200476273963" rel="alternate"/>
+    <published>2023-09-12T21:43:09+00:00</published>
   </entry>
 </feed>
