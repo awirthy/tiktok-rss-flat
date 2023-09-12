@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-09-11T22:48:49+00:00</updated>
+  <updated>2023-09-12T19:25:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7275825668666051882</id>
-    <title>Romania Notifies NATO Of Russian Attack On Country #romania #usa  Romania has found the Russian drone that they denied hit them. With the Romanian defense minister saying: “If it is confirmed that these elements come from a Russian drone, such a situation</title>
-    <updated>2023-09-06T21:19:48+00:00</updated>
-    <content>Romania Notifies NATO Of Russian Attack On Country #romania #usa  Romania has found the Russian drone that they denied hit them. With the Romanian defense minister saying: “If it is confirmed that these elements come from a Russian drone, such a situation would be completely inadmissible and a serious violation of the sovereignty and territorial integrity of Romania, a NATO member.” It’s unclear what Romania’s retaliation will be but they did notify NATO today of the attack. Romania could technically invoke NATO’s Article 5 if they want to but are we really gonna do this over a drone hitting an empty field?</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7275825668666051882" rel="alternate"/>
-    <published>2023-09-06T21:19:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7276169703960186154</id>
     <title>Man Arrested After Trying To Hamster Wheel To London #usa #london #florida  A Florida man crossing the Atlantic Ocean in a hamster wheel has been arrested after a three day stand off. The man set off from Florida and intended to go to London by running on</title>
@@ -51,5 +43,13 @@
     <content>Saudi Arabia Has Paid Off Vice News #vice #saudiarabia  Vice News, they were someone you could count on to give you the news that no one else was willing to cover… they have fallen. After striking a deal with a State-run Saudi Arabian media company, Vice removed their documentary that was critical of the Saudi Crown Prince. The documentary revealed how MBS orchestrates purges, kidnaps Saudi elites and tortured them, and how he killed Jamal Khashoggi. The video they removed was from June of this year but Vice’s ties to Saudi Arabia go way back. In 2018, Vice started making promotional videos for the Kingdom after Saudi gave them $200 million from the sovereign wealth fund. In 2020, they helped organize a Saudi music festival that was paid for by the Saudi government &amp; Vice hid their involvement. In 2021, they opened an office in Riyadh after previously being banned from the country. Now they’re actively seeking producers for their “new media brand” that’s headquartered in the country. Vice claims that they have full control over editorial but that seems to be a flagrant lie. This year, Vice entered into another deal with a Saudi media company and after doing so they reportedly canned a story on how Saudi Arabia was helping families harass and threaten transgender Saudis living overseas.  With the Vice Union saying that just cause the company is bankrupt financially doesn’t mean it should also be morally bankrupt. The icing on the cake here is that in Vice headquarters in London, there is reportedly a map of Saudi Arabia on the wall.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7277704037972249902" rel="alternate"/>
     <published>2023-09-11T22:48:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7278022787334180139</id>
+    <title>US &amp; Vietnam Become Allies #usa #vietnam  The US has picked up yet another ally. With Vietnam giving the United States a Comprehensive Strategic Partnership, which is the highest level of diplomatic ties that they have to offer. The two will pursue strate</title>
+    <updated>2023-09-12T19:25:48+00:00</updated>
+    <content>US &amp; Vietnam Become Allies #usa #vietnam  The US has picked up yet another ally. With Vietnam giving the United States a Comprehensive Strategic Partnership, which is the highest level of diplomatic ties that they have to offer. The two will pursue strategic cooperation as well as a semiconductor supply chain that’s immune from China. They’ll also trade agricultural products. The U.S. is Vietnam's largest export market and last year it was the fastest growing economy in Asia. Despite our shared past of war, 84% of Vietnamese have a positive view of America with only 6% having a negative view. This shift by Vietnam is just as much about Vietnam’s anxiety over China as it is over a desire to make more money with America. American investors are already increasingly looking to Vietnam because of their large swath of highly educated young people who are extremely entrepreneurial in spirit. But the honeymoon phase might not last long because the US says it’ll continue to press Vietnam on human rights. Last year it said that it was neither “free nor fair.”</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7278022787334180139" rel="alternate"/>
+    <published>2023-09-12T19:25:48+00:00</published>
   </entry>
 </feed>
