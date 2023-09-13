@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jennamclarke</id>
   <title>jennamclarke TikTok</title>
-  <updated>2023-09-12T11:59:52+00:00</updated>
+  <updated>2023-09-13T11:57:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jennamclarke</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jennamclarke/video/7275331773050014977</id>
-    <title>4 things to know before ☕️ on Wednesday  #ausnews #thethickofit #tomandgerry #qantas #katemoss </title>
-    <updated>2023-09-05T13:23:04+00:00</updated>
-    <content>4 things to know before ☕️ on Wednesday  #ausnews #thethickofit #tomandgerry #qantas #katemoss </content>
-    <link href="https://tiktok.com/@jennamclarke/video/7275331773050014977" rel="alternate"/>
-    <published>2023-09-05T13:23:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jennamclarke/video/7275705574531108097</id>
     <title>4 things to know before ☕️ on Thursday  #queenelizabeth #liztruss #botox #maths #qantas #babytiktok </title>
@@ -51,5 +43,13 @@
     <content>4 things to know before ☕️ on Wednesday including #thevoice #howtovote #australia #katemiddleton #mcqueen #sarahburton #collingwood #afltribunal #auspol #news </content>
     <link href="https://tiktok.com/@jennamclarke/video/7277907930421251330" rel="alternate"/>
     <published>2023-09-12T11:59:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jennamclarke/video/7278278372839542017</id>
+    <title>4 things to know before ☕️ on Thursday including #katemiddleton #meghanmarkle #aflfinals #sportsbet #avocadotoast </title>
+    <updated>2023-09-13T11:57:24+00:00</updated>
+    <content>4 things to know before ☕️ on Thursday including #katemiddleton #meghanmarkle #aflfinals #sportsbet #avocadotoast </content>
+    <link href="https://tiktok.com/@jennamclarke/video/7278278372839542017" rel="alternate"/>
+    <published>2023-09-13T11:57:24+00:00</published>
   </entry>
 </feed>
