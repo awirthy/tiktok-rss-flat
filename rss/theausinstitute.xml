@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-09-13T01:35:00+00:00</updated>
+  <updated>2023-09-13T03:40:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7275571761998056712</id>
-    <title>"If they were fluffy koalas piled up, I think people would be a lot more outraged. But unfortunately, because they're fish, we think it's not quite as bad." On this episode of Follow the Money, Ebony is chatting with Australia Institute researcher and Men</title>
-    <updated>2023-09-06T04:55:22+00:00</updated>
-    <content>"If they were fluffy koalas piled up, I think people would be a lot more outraged. But unfortunately, because they're fish, we think it's not quite as bad." On this episode of Follow the Money, Ebony is chatting with Australia Institute researcher and Menindee local Kate McBride about fish kills, and the Murray-Darling Basin Plan. Listen via link in bio. #auspol</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7275571761998056712" rel="alternate"/>
-    <published>2023-09-06T04:55:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7275573021203614984</id>
     <title>"One of the most frustrating things to hear, particularly during those first fish kills, was politicians in particular saying that they're natural." "These fish kills are not natural and they should not happen." - Kate McBride, researcher and Menindee loc</title>
@@ -51,5 +43,13 @@
     <content>"It is so clear from this [report], the support for the Government taking this more seriously, for a much more concerted effort in terms of the transition." ACT Independent Senator David Pocock on our Climate of the Nation 2023 report #auspol</content>
     <link href="https://tiktok.com/@theausinstitute/video/7278117782992997640" rel="alternate"/>
     <published>2023-09-13T01:35:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7278150357547633927</id>
+    <title>When climate change has made bushfires and floods worse, and more frequent, there will be Australians who are unable to insure their homes. When you can't insure a house, you can't get a mortgage.  - Executive Director Richard Denniss #auspol #climatechan</title>
+    <updated>2023-09-13T03:40:45+00:00</updated>
+    <content>When climate change has made bushfires and floods worse, and more frequent, there will be Australians who are unable to insure their homes. When you can't insure a house, you can't get a mortgage.  - Executive Director Richard Denniss #auspol #climatechange</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7278150357547633927" rel="alternate"/>
+    <published>2023-09-13T03:40:45+00:00</published>
   </entry>
 </feed>
