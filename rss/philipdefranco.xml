@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-09-12T21:43:09+00:00</updated>
+  <updated>2023-09-13T20:57:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7276187616238718254</id>
-    <title>Hong Kong Experiencing Apocalyptic Floods #hongkong #china  Hong Kong is experiencing apocalyptic floods. In just one hour, it rained 6 inches. That’s the most since records began in 1884. Buses are flooding, The subways are flooding, and you could take b</title>
-    <updated>2023-09-07T20:44:22+00:00</updated>
-    <content>Hong Kong Experiencing Apocalyptic Floods #hongkong #china  Hong Kong is experiencing apocalyptic floods. In just one hour, it rained 6 inches. That’s the most since records began in 1884. Buses are flooding, The subways are flooding, and you could take boats down these streets because they’re being turned into rivers. It’s so bad that cars in the street are being forced to a total stop by the water.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7276187616238718254" rel="alternate"/>
-    <published>2023-09-07T20:44:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7277647637254393131</id>
     <title>US Gains New Ally Thanks To Kim Kardashian #usa #kimkardashian  The U.S. just gained a new ally, thanks to Kim Kardashian. Armenia and the U.S. are conducting an unprecedented joint army exercise for the first time. Russia says it’ll be watching closely. </title>
@@ -51,5 +43,13 @@
     <content>America &amp; Canada Make China Very Mad #usa #canada  The U.S. and Canada sailed two ships through the Taiwan strait after China claimed it had total ownership over the strait. China sent three ships armed with torpedoes and missiles to flank the Canadian warship and they followed them for 17 hours. China also sent fighter jets to intercept the warships but upon realizing that the Canadian vessel wasn’t alone, it changed course. The U.S. frequently takes this route as part of it’s freedom of navigation operations. China accused these two hoodlums of trying to stir up trouble.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7278058200476273963" rel="alternate"/>
     <published>2023-09-12T21:43:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7278417481327217963</id>
+    <title>Ukraine Destroys Russian Submarine &amp; Landing Ship #ukraine #russia  Ukraine destroyed a Russian submarine and a landing ship. Using British Storm Shadow missiles, they hit a Russian dry dock in Crimea. Both vessels have been completely destroyed. The subm</title>
+    <updated>2023-09-13T20:57:20+00:00</updated>
+    <content>Ukraine Destroys Russian Submarine &amp; Landing Ship #ukraine #russia  Ukraine destroyed a Russian submarine and a landing ship. Using British Storm Shadow missiles, they hit a Russian dry dock in Crimea. Both vessels have been completely destroyed. The submarine is only one of 6 that Russia has in the Black Sea, and Russia frequently uses them to fire cruise missiles at Ukraine. Russia has repeatedly said that attacking this area would result in a nuclear response. These missiles hit the same area that Elon Musk blocked Ukraine from hitting earlier in the year by turning off the internet. Ukraine’s attack would have nearly taken out the entire Russian Black Sea fleet, but General Musk blocked it. As a result of the aborted attack, the Russian Black Sea Fleet would proceed to fire hundreds of missiles at Ukrainian cities in the following months, causing widespread destruction and numerous civilian casualties. So far though, it’s been over 12 hours and Russia’s super spooky nuclear threat appears to be yet another bluff. If you’re threatening to use nukes, you’ve already lost and if you actually believe their nuclear threats - you’re a sucker. You know who also doesn’t buy the nuclear threats? The United States. They will be providing Ukraine with the Army Tactical Missile System, which fires ballistic missiles that have a range of 300 kilometers… So more strikes inside of occupied Crimea and Russia are coming.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7278417481327217963" rel="alternate"/>
+    <published>2023-09-13T20:57:20+00:00</published>
   </entry>
 </feed>
