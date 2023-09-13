@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-09-13T20:57:20+00:00</updated>
+  <updated>2023-09-13T23:09:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7277647637254393131</id>
-    <title>US Gains New Ally Thanks To Kim Kardashian #usa #kimkardashian  The U.S. just gained a new ally, thanks to Kim Kardashian. Armenia and the U.S. are conducting an unprecedented joint army exercise for the first time. Russia says it’ll be watching closely. </title>
-    <updated>2023-09-11T19:10:01+00:00</updated>
-    <content>US Gains New Ally Thanks To Kim Kardashian #usa #kimkardashian  The U.S. just gained a new ally, thanks to Kim Kardashian. Armenia and the U.S. are conducting an unprecedented joint army exercise for the first time. Russia says it’ll be watching closely. Armenia is an odd bird. It really has no friends except the US and depending on the day, Iran. And that’s primarily because the Armenian lobby in the US is very influential. With Kim Kardashian being the loudest pro-Armenian voice and her asking President Biden to prevent another Armenian genocide. Armenia’s lack of friends is really because of Russia. After Russia’s invasion of Ukraine, Europe came to depend on Azerbaijan for gas and now that Russia lacks the ability to protect Armenia, it has only emboldened the Azeris on territory grabs. You know it’s bleak when up until today, your only friends were Kim Kardashian and like sometimes Iran.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7277647637254393131" rel="alternate"/>
-    <published>2023-09-11T19:10:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7277704037972249902</id>
     <title>Saudi Arabia Has Paid Off Vice News #vice #saudiarabia  Vice News, they were someone you could count on to give you the news that no one else was willing to cover… they have fallen. After striking a deal with a State-run Saudi Arabian media company, Vice </title>
@@ -51,5 +43,13 @@
     <content>Ukraine Destroys Russian Submarine &amp; Landing Ship #ukraine #russia  Ukraine destroyed a Russian submarine and a landing ship. Using British Storm Shadow missiles, they hit a Russian dry dock in Crimea. Both vessels have been completely destroyed. The submarine is only one of 6 that Russia has in the Black Sea, and Russia frequently uses them to fire cruise missiles at Ukraine. Russia has repeatedly said that attacking this area would result in a nuclear response. These missiles hit the same area that Elon Musk blocked Ukraine from hitting earlier in the year by turning off the internet. Ukraine’s attack would have nearly taken out the entire Russian Black Sea fleet, but General Musk blocked it. As a result of the aborted attack, the Russian Black Sea Fleet would proceed to fire hundreds of missiles at Ukrainian cities in the following months, causing widespread destruction and numerous civilian casualties. So far though, it’s been over 12 hours and Russia’s super spooky nuclear threat appears to be yet another bluff. If you’re threatening to use nukes, you’ve already lost and if you actually believe their nuclear threats - you’re a sucker. You know who also doesn’t buy the nuclear threats? The United States. They will be providing Ukraine with the Army Tactical Missile System, which fires ballistic missiles that have a range of 300 kilometers… So more strikes inside of occupied Crimea and Russia are coming.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7278417481327217963" rel="alternate"/>
     <published>2023-09-13T20:57:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7278451597305351470</id>
+    <title>Russia Gives North Korea Nuclear Missiles #russia #korea  Kim Jong Un and Putin met in Russia today. Kim vowed “full and unconditional” support for Russia, and called Russia’s war “just”. Russia is seeking stockpiles of aging ammunition and rockets for th</title>
+    <updated>2023-09-13T23:09:40+00:00</updated>
+    <content>Russia Gives North Korea Nuclear Missiles #russia #korea  Kim Jong Un and Putin met in Russia today. Kim vowed “full and unconditional” support for Russia, and called Russia’s war “just”. Russia is seeking stockpiles of aging ammunition and rockets for their soviet weapons. North Korea is seeking food and missile technology for their nuclear missiles and spy satellites. Earlier this year, experts pointed out that North Korea’s nuclear missiles look an awful lot like Russian nuclear missiles which would put Russia in violation of the Nuclear Non-proliferation treaty if true. If Russia and North Korea do sign a deal though, it’ll violate global sanctions making Russia and North Korea subjected to even more UN-sanctioned sanctions. Kim ended the meeting by saying that “we believe with certainty that the Russian army and people will achieve a great victory in the just fight to punish the evil forces”. Uhh.. Lol.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7278451597305351470" rel="alternate"/>
+    <published>2023-09-13T23:09:40+00:00</published>
   </entry>
 </feed>
