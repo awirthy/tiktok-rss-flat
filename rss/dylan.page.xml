@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-09-13T07:32:44+00:00</updated>
+  <updated>2023-09-14T17:44:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7276172072143965472</id>
-    <title>Anyone wanna create a team NewsDaddy with me?😳💰 #gamers8 #nextworldforum </title>
-    <updated>2023-09-07T19:43:55+00:00</updated>
-    <content>Anyone wanna create a team NewsDaddy with me?😳💰 #gamers8 #nextworldforum </content>
-    <link href="https://tiktok.com/@dylan.page/video/7276172072143965472" rel="alternate"/>
-    <published>2023-09-07T19:43:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7276527871655562529</id>
     <title>Was this the worst week of 2023 so far?!🤔😳</title>
@@ -51,5 +43,13 @@
     <content>Is the iPhone 15 a W or L?🤔 #iphone15 </content>
     <link href="https://tiktok.com/@dylan.page/video/7278210121728036128" rel="alternate"/>
     <published>2023-09-13T07:32:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7278738807606856992</id>
+    <title>Do you think they’re real or fake?🤔😳</title>
+    <updated>2023-09-14T17:44:07+00:00</updated>
+    <content>Do you think they’re real or fake?🤔😳</content>
+    <link href="https://tiktok.com/@dylan.page/video/7278738807606856992" rel="alternate"/>
+    <published>2023-09-14T17:44:07+00:00</published>
   </entry>
 </feed>
