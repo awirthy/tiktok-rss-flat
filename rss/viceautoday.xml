@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-09-13T07:05:30+00:00</updated>
+  <updated>2023-09-14T07:08:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7275980465390112002</id>
-    <title>A Victorian coroner has called on the state to introduce pill testing, in a report on the passing of a 26-year-old man at a Melbourne festival last year. The man accidentally overdosed after taking a pill known to contain dangerous levels of MDMA #news #n</title>
-    <updated>2023-09-07T07:20:21+00:00</updated>
-    <content>A Victorian coroner has called on the state to introduce pill testing, in a report on the passing of a 26-year-old man at a Melbourne festival last year. The man accidentally overdosed after taking a pill known to contain dangerous levels of MDMA #news #newsaustralia #australia #harmreduction #learnontiktok #todayilearned #melbourne #pilltesting #festivals #aunews </content>
-    <link href="https://tiktok.com/@viceautoday/video/7275980465390112002" rel="alternate"/>
-    <published>2023-09-07T07:20:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7276348934547672321</id>
     <title>Should unpaid internships and placements be legal in Australia? Some advocates have told a public hearing they need to end. #australia #news #uni #university #intern #internship #placement #dropout #education #nurse #socialwork #teacher #politics #auspol </title>
@@ -51,5 +43,13 @@
     <content>Remember Tim Gurner? The avo toast millionaire property developer who told millennials to stop buying breakfast and coffee if they want to buy a home? He’s back. And he wants to see unemployment rise. #news #australia #housing #housingmarket #housingcrisis #avocadotoast #melbourne #property #developer #millionaire #timgurner #gurner #todayilearned #learnontiktok </content>
     <link href="https://tiktok.com/@viceautoday/video/7278203151801601281" rel="alternate"/>
     <published>2023-09-13T07:05:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7278574977471859970</id>
+    <title>Labor’s $10 billion Housing Australia Future Fund bill has passed parliament after it was blocked for months by the Greens and the Opposition. So what is it and what will we get? #australia #news #housing #housingcrisis #rent #rentalcrisis #renter #haff #</title>
+    <updated>2023-09-14T07:08:22+00:00</updated>
+    <content>Labor’s $10 billion Housing Australia Future Fund bill has passed parliament after it was blocked for months by the Greens and the Opposition. So what is it and what will we get? #australia #news #housing #housingcrisis #rent #rentalcrisis #renter #haff #anthonyalbanese #adambandt #maxchandlermather #greens #labor #politics #auspolitics #explained #todayilearned #learnontiktok </content>
+    <link href="https://tiktok.com/@viceautoday/video/7278574977471859970" rel="alternate"/>
+    <published>2023-09-14T07:08:22+00:00</published>
   </entry>
 </feed>
