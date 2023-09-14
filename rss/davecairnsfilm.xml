@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@davecairnsfilm</id>
   <title>davecairnsfilm TikTok</title>
-  <updated>2023-09-13T11:49:50+00:00</updated>
+  <updated>2023-09-14T02:28:36.606322+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,44 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from davecairnsfilm</subtitle>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7277524017035087105</id>
-    <title>11 SEPTEMBER 2023 - #australia #politics #auspol #liberalparty #peterdutton #voicetoparliament #referendum </title>
-    <updated>2023-09-11T11:10:06+00:00</updated>
-    <content>11 SEPTEMBER 2023 - #australia #politics #auspol #liberalparty #peterdutton #voicetoparliament #referendum </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7277524017035087105" rel="alternate"/>
-    <published>2023-09-11T11:10:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7277561766786206977</id>
-    <title>#stitch with @Gabriella Whiting 11 SEPTEMBER 2023 - #comedy #humor </title>
-    <updated>2023-09-11T13:36:36+00:00</updated>
-    <content>#stitch with @Gabriella Whiting 11 SEPTEMBER 2023 - #comedy #humor </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7277561766786206977" rel="alternate"/>
-    <published>2023-09-11T13:36:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7277884865381436673</id>
-    <title>12 SEPTEMBER 2023 - #australia #politics #auspol #voicetoparliament #fairaustralia #advanceaustralia </title>
-    <updated>2023-09-12T10:30:22+00:00</updated>
-    <content>12 SEPTEMBER 2023 - #australia #politics #auspol #voicetoparliament #fairaustralia #advanceaustralia </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7277884865381436673" rel="alternate"/>
-    <published>2023-09-12T10:30:22+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7277905953704463618</id>
-    <title>Replying to @Kim Wilson 12 SEPTEMBER 2023 - #australia #politics #auspol #referendum #liberalparty #voting #voicetoparliament </title>
-    <updated>2023-09-12T11:52:13+00:00</updated>
-    <content>Replying to @Kim Wilson 12 SEPTEMBER 2023 - #australia #politics #auspol #referendum #liberalparty #voting #voicetoparliament </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7277905953704463618" rel="alternate"/>
-    <published>2023-09-12T11:52:13+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7278276425256373505</id>
-    <title>#stitch with @HapaGirl 13 SEPTEMBER 2023 - #romanempire</title>
-    <updated>2023-09-13T11:49:50+00:00</updated>
-    <content>#stitch with @HapaGirl 13 SEPTEMBER 2023 - #romanempire</content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7278276425256373505" rel="alternate"/>
-    <published>2023-09-13T11:49:50+00:00</published>
-  </entry>
 </feed>
