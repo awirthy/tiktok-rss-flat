@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-09-13T23:09:40+00:00</updated>
+  <updated>2023-09-14T21:49:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7277704037972249902</id>
-    <title>Saudi Arabia Has Paid Off Vice News #vice #saudiarabia  Vice News, they were someone you could count on to give you the news that no one else was willing to cover… they have fallen. After striking a deal with a State-run Saudi Arabian media company, Vice </title>
-    <updated>2023-09-11T22:48:49+00:00</updated>
-    <content>Saudi Arabia Has Paid Off Vice News #vice #saudiarabia  Vice News, they were someone you could count on to give you the news that no one else was willing to cover… they have fallen. After striking a deal with a State-run Saudi Arabian media company, Vice removed their documentary that was critical of the Saudi Crown Prince. The documentary revealed how MBS orchestrates purges, kidnaps Saudi elites and tortured them, and how he killed Jamal Khashoggi. The video they removed was from June of this year but Vice’s ties to Saudi Arabia go way back. In 2018, Vice started making promotional videos for the Kingdom after Saudi gave them $200 million from the sovereign wealth fund. In 2020, they helped organize a Saudi music festival that was paid for by the Saudi government &amp; Vice hid their involvement. In 2021, they opened an office in Riyadh after previously being banned from the country. Now they’re actively seeking producers for their “new media brand” that’s headquartered in the country. Vice claims that they have full control over editorial but that seems to be a flagrant lie. This year, Vice entered into another deal with a Saudi media company and after doing so they reportedly canned a story on how Saudi Arabia was helping families harass and threaten transgender Saudis living overseas.  With the Vice Union saying that just cause the company is bankrupt financially doesn’t mean it should also be morally bankrupt. The icing on the cake here is that in Vice headquarters in London, there is reportedly a map of Saudi Arabia on the wall.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7277704037972249902" rel="alternate"/>
-    <published>2023-09-11T22:48:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7278022787334180139</id>
     <title>US &amp; Vietnam Become Allies #usa #vietnam  The US has picked up yet another ally. With Vietnam giving the United States a Comprehensive Strategic Partnership, which is the highest level of diplomatic ties that they have to offer. The two will pursue strate</title>
@@ -51,5 +43,13 @@
     <content>Russia Gives North Korea Nuclear Missiles #russia #korea  Kim Jong Un and Putin met in Russia today. Kim vowed “full and unconditional” support for Russia, and called Russia’s war “just”. Russia is seeking stockpiles of aging ammunition and rockets for their soviet weapons. North Korea is seeking food and missile technology for their nuclear missiles and spy satellites. Earlier this year, experts pointed out that North Korea’s nuclear missiles look an awful lot like Russian nuclear missiles which would put Russia in violation of the Nuclear Non-proliferation treaty if true. If Russia and North Korea do sign a deal though, it’ll violate global sanctions making Russia and North Korea subjected to even more UN-sanctioned sanctions. Kim ended the meeting by saying that “we believe with certainty that the Russian army and people will achieve a great victory in the just fight to punish the evil forces”. Uhh.. Lol.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7278451597305351470" rel="alternate"/>
     <published>2023-09-13T23:09:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7278802150493408554</id>
+    <title>Putin Praises Musk as SpaceX Faces Growing Criticism #usa #elonmusk  Putin called Elon Musk an outstanding person yesterday. This comes after allegations that he blocked Ukraine from taking out Russia’s navy due to his own ego. British reporters hounded M</title>
+    <updated>2023-09-14T21:49:58+00:00</updated>
+    <content>Putin Praises Musk as SpaceX Faces Growing Criticism #usa #elonmusk  Putin called Elon Musk an outstanding person yesterday. This comes after allegations that he blocked Ukraine from taking out Russia’s navy due to his own ego. British reporters hounded Musk yesterday, asking him repeatedly “Has your ego and ignorance cost Ukrainian lives?”. Musk didn’t respond. And the Washington Post recently pointed out that the government could just nationalize Starlink if Musk’s antics continue. But the press is the least of Musk’s worries right now as SpaceX is growing under increasing scrutiny, not just from the public but from the U.S. military as well. With the Air Force Secretary saying “If we’re going to rely upon commercial architectures or commercial systems for operational use, then we have to have some assurances that they’re going to be available” SpaceX is currently contracted to create a rocket that can deliver supplies to a conflict zone but now the Air Force may be second guessing the contract. With some asking “If Musk will do this to the people who need help the most, what’s stopping him from doing it to America?” And a U.S. general saying “American industry has to be clear-eyed on the full spectrum of what their products could be used for”. On top of all of that, the US awarded Lockheed Martin and Northrop Grumman a 1.5 billion dollar contract to create a competing satellite internet network.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7278802150493408554" rel="alternate"/>
+    <published>2023-09-14T21:49:58+00:00</published>
   </entry>
 </feed>
