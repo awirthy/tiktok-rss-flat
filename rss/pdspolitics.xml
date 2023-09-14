@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-09-12T23:00:00+00:00</updated>
+  <updated>2023-09-14T00:52:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7275829318318755118</id>
-    <title>Alabama Supreme Court Rules the GOP Screwed Up the State’s Voting Map AGAIN #Alabama  #Politics  #US  #SupremeCourt</title>
-    <updated>2023-09-07T19:00:00+00:00</updated>
-    <content>Alabama Supreme Court Rules the GOP Screwed Up the State’s Voting Map AGAIN #Alabama  #Politics  #US  #SupremeCourt</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7275829318318755118" rel="alternate"/>
-    <published>2023-09-07T19:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7276522887715097899</id>
     <title>Wisconsin Republicans Are Gunning to Impeach a New Supreme Court Justice Before She Hears a Case #JanetProtasiewicz  #Wisconsin  #Politics  #SupremeCourt</title>
@@ -51,5 +43,13 @@
     <content>McCarthy Orders Impeachment Inquiry into Biden #Impeachment  #JoeBiden  #politicaltiktok  #KevinMcCarthy</content>
     <link href="https://tiktok.com/@pdspolitics/video/7278063716640296234" rel="alternate"/>
     <published>2023-09-12T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7278478117528735019</id>
+    <title>Cam Video of VA House Candidate Leaked, Prompting Conversation on Whether SWers Are Qualified for Office #SusannaGibson  #Virginia  #US #vote</title>
+    <updated>2023-09-14T00:52:33+00:00</updated>
+    <content>Cam Video of VA House Candidate Leaked, Prompting Conversation on Whether SWers Are Qualified for Office #SusannaGibson  #Virginia  #US #vote</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7278478117528735019" rel="alternate"/>
+    <published>2023-09-14T00:52:33+00:00</published>
   </entry>
 </feed>
