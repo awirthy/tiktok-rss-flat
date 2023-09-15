@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-09-14T23:00:00+00:00</updated>
+  <updated>2023-09-15T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7276521188829039915</id>
-    <title>Unhinged County Hearing Over Affair Leads to Sultry Song from Speaker #Politics  #US  #NatalieHall  #Georgia</title>
-    <updated>2023-09-10T20:00:00+00:00</updated>
-    <content>Unhinged County Hearing Over Affair Leads to Sultry Song from Speaker #Politics  #US  #NatalieHall  #Georgia</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7276521188829039915" rel="alternate"/>
-    <published>2023-09-10T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7277701397527760171</id>
     <title>Parents are being charged in unique ways over their chilrdrens’ ODs #US  #Parents  #Law  #Arrest</title>
@@ -51,5 +43,13 @@
     <content>Judge Rules DACA Is Illegal #DACA  #Politics  #US  #Judge</content>
     <link href="https://tiktok.com/@pdspolitics/video/7278810473200389419" rel="alternate"/>
     <published>2023-09-14T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7279099288783719723</id>
+    <title>NASA Gets Honest About UFOs #Aliens  #UFO  #Nasa  #Politics</title>
+    <updated>2023-09-15T20:00:00+00:00</updated>
+    <content>NASA Gets Honest About UFOs #Aliens  #UFO  #Nasa  #Politics</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7279099288783719723" rel="alternate"/>
+    <published>2023-09-15T20:00:00+00:00</published>
   </entry>
 </feed>
