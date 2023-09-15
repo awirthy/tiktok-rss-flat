@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-09-14T03:53:40+00:00</updated>
+  <updated>2023-09-15T01:32:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7277824623226391826</id>
-    <title>This morning Richard joined the Today Show to discuss the idea of an inheritance tax....."Countries that have inheritance taxes can have lower personal income taxes. So from an economist's point of view, it's a no-brainer," "I'd much rather pay tax when I</title>
-    <updated>2023-09-12T06:36:49+00:00</updated>
-    <content>This morning Richard joined the Today Show to discuss the idea of an inheritance tax....."Countries that have inheritance taxes can have lower personal income taxes. So from an economist's point of view, it's a no-brainer," "I'd much rather pay tax when I'm dead than when I'm alive."  #auspol #ausecon</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7277824623226391826" rel="alternate"/>
-    <published>2023-09-12T06:36:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7278117782992997640</id>
     <title>"It is so clear from this [report], the support for the Government taking this more seriously, for a much more concerted effort in terms of the transition." ACT Independent Senator David Pocock on our Climate of the Nation 2023 report #auspol</title>
@@ -51,5 +43,13 @@
     <content>Climate change induced natural disasters are driving up the cost of living, and Australians have had enough. Author of Climate of the Nation 2023 and Climate &amp; Energy Researcher Liz Morison on this week's episode of Follow the Money, unpacking how climate change is weighing on Australians' minds, despite the cost of living crisis. Listen to the full episode via link in bio. #auspol #climatechange</content>
     <link href="https://tiktok.com/@theausinstitute/video/7278524717487738130" rel="alternate"/>
     <published>2023-09-14T03:53:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7278859318181596423</id>
+    <title>"We don't actually have any national climate policy." "We have targets. We have no policy to drive change." - Executive Director Richard Denniss #auspol #climatechange</title>
+    <updated>2023-09-15T01:32:37+00:00</updated>
+    <content>"We don't actually have any national climate policy." "We have targets. We have no policy to drive change." - Executive Director Richard Denniss #auspol #climatechange</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7278859318181596423" rel="alternate"/>
+    <published>2023-09-15T01:32:37+00:00</published>
   </entry>
 </feed>
