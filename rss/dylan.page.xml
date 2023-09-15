@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-09-15T15:12:54+00:00</updated>
+  <updated>2023-09-15T18:44:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7277268965380967713</id>
-    <title>Moral of the story… don’t be a bomber.</title>
-    <updated>2023-09-10T18:40:24+00:00</updated>
-    <content>Moral of the story… don’t be a bomber.</content>
-    <link href="https://tiktok.com/@dylan.page/video/7277268965380967713" rel="alternate"/>
-    <published>2023-09-10T18:40:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7278210121728036128</id>
     <title>Is the iPhone 15 a W or L?🤔 #iphone15 </title>
@@ -51,5 +43,13 @@
     <content>This is the moment a tourist climbed a statue and broke it!🚨😳</content>
     <link href="https://tiktok.com/@dylan.page/video/7279070845316762912" rel="alternate"/>
     <published>2023-09-15T15:12:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7279125517758942497</id>
+    <title>France have banned the sale of Iphone 12 over radiation concerns 🚨😳</title>
+    <updated>2023-09-15T18:44:45+00:00</updated>
+    <content>France have banned the sale of Iphone 12 over radiation concerns 🚨😳</content>
+    <link href="https://tiktok.com/@dylan.page/video/7279125517758942497" rel="alternate"/>
+    <published>2023-09-15T18:44:45+00:00</published>
   </entry>
 </feed>
