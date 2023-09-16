@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-09-15T20:00:00+00:00</updated>
+  <updated>2023-09-16T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7277701397527760171</id>
-    <title>Parents are being charged in unique ways over their chilrdrens’ ODs #US  #Parents  #Law  #Arrest</title>
-    <updated>2023-09-11T23:00:00+00:00</updated>
-    <content>Parents are being charged in unique ways over their chilrdrens’ ODs #US  #Parents  #Law  #Arrest</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7277701397527760171" rel="alternate"/>
-    <published>2023-09-11T23:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7278063716640296234</id>
     <title>McCarthy Orders Impeachment Inquiry into Biden #Impeachment  #JoeBiden  #politicaltiktok  #KevinMcCarthy</title>
@@ -51,5 +43,13 @@
     <content>NASA Gets Honest About UFOs #Aliens  #UFO  #Nasa  #Politics</content>
     <link href="https://tiktok.com/@pdspolitics/video/7279099288783719723" rel="alternate"/>
     <published>2023-09-15T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7279095001991122219</id>
+    <title>U.S. Facing Major Blood Donation Shortage #RedCross  #US  #Hurricaneyea  #Medicine</title>
+    <updated>2023-09-16T20:00:00+00:00</updated>
+    <content>U.S. Facing Major Blood Donation Shortage #RedCross  #US  #Hurricaneyea  #Medicine</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7279095001991122219" rel="alternate"/>
+    <published>2023-09-16T20:00:00+00:00</published>
   </entry>
 </feed>
