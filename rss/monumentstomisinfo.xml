@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-09-15T08:26:16+00:00</updated>
+  <updated>2023-09-16T08:07:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7278223357923839240</id>
-    <title>It’s a complex discussion, don’t water it down #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian  @Granny’s got something to say! </title>
-    <updated>2023-09-13T08:23:52+00:00</updated>
-    <content>It’s a complex discussion, don’t water it down #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian  @Granny’s got something to say! </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7278223357923839240" rel="alternate"/>
-    <published>2023-09-13T08:23:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7278602530412645639</id>
-    <title>Always open to a chat @Timmeh if you’re interested #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian  @Timmeh </title>
-    <updated>2023-09-14T08:55:16+00:00</updated>
-    <content>Always open to a chat @Timmeh if you’re interested #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian  @Timmeh </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7278602530412645639" rel="alternate"/>
-    <published>2023-09-14T08:55:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7278602727209405714</id>
     <title>It’s all disinformation #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian</title>
@@ -51,5 +35,21 @@
     <content>Capitlist moment #auspol #capitalism #socialism #workersrights #unions </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7278966143216389383" rel="alternate"/>
     <published>2023-09-15T08:26:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7279332097762823431</id>
+    <title>Autonomy is infinitely better than raw funding #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian  @Conor Bowden </title>
+    <updated>2023-09-16T08:06:20+00:00</updated>
+    <content>Autonomy is infinitely better than raw funding #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian  @Conor Bowden </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7279332097762823431" rel="alternate"/>
+    <published>2023-09-16T08:06:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7279332290390494472</id>
+    <title>Thank you everyone, please keep commenting, making response videos and joining the discord #auspol #australianpolitics #nswpolitics</title>
+    <updated>2023-09-16T08:07:05+00:00</updated>
+    <content>Thank you everyone, please keep commenting, making response videos and joining the discord #auspol #australianpolitics #nswpolitics</content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7279332290390494472" rel="alternate"/>
+    <published>2023-09-16T08:07:05+00:00</published>
   </entry>
 </feed>
