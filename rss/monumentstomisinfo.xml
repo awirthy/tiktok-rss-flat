@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-09-16T08:07:05+00:00</updated>
+  <updated>2023-09-17T08:19:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7278602727209405714</id>
-    <title>It’s all disinformation #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian</title>
-    <updated>2023-09-14T08:56:00+00:00</updated>
-    <content>It’s all disinformation #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian</content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7278602727209405714" rel="alternate"/>
-    <published>2023-09-14T08:56:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7278965512778812679</id>
-    <title>@Australian Greens doing what they do best #auspol #australiangreens #australianlaborparty #housingaustraliafuturefund #HAFF #housingaustralia </title>
-    <updated>2023-09-15T08:23:48+00:00</updated>
-    <content>@Australian Greens doing what they do best #auspol #australiangreens #australianlaborparty #housingaustraliafuturefund #HAFF #housingaustralia </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7278965512778812679" rel="alternate"/>
-    <published>2023-09-15T08:23:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7278966143216389383</id>
     <title>Capitlist moment #auspol #capitalism #socialism #workersrights #unions </title>
@@ -51,5 +35,21 @@
     <content>Thank you everyone, please keep commenting, making response videos and joining the discord #auspol #australianpolitics #nswpolitics</content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7279332290390494472" rel="alternate"/>
     <published>2023-09-16T08:07:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7279706306892565768</id>
+    <title>I’ve always said the rhetoric around who is and isn’t racist for voting yes and no is useless but this is a bad argument #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian  @Briggs  @Freya Leach </title>
+    <updated>2023-09-17T08:18:28+00:00</updated>
+    <content>I’ve always said the rhetoric around who is and isn’t racist for voting yes and no is useless but this is a bad argument #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian  @Briggs  @Freya Leach </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7279706306892565768" rel="alternate"/>
+    <published>2023-09-17T08:18:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7279706540796382471</id>
+    <title>Ive never heard a take from Jacinta Price that hasn’t hurt me #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian #jacintaprice </title>
+    <updated>2023-09-17T08:19:23+00:00</updated>
+    <content>Ive never heard a take from Jacinta Price that hasn’t hurt me #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian #jacintaprice </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7279706540796382471" rel="alternate"/>
+    <published>2023-09-17T08:19:23+00:00</published>
   </entry>
 </feed>
