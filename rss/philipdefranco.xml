@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-09-14T21:49:58+00:00</updated>
+  <updated>2023-09-17T21:19:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7278022787334180139</id>
-    <title>US &amp; Vietnam Become Allies #usa #vietnam  The US has picked up yet another ally. With Vietnam giving the United States a Comprehensive Strategic Partnership, which is the highest level of diplomatic ties that they have to offer. The two will pursue strate</title>
-    <updated>2023-09-12T19:25:48+00:00</updated>
-    <content>US &amp; Vietnam Become Allies #usa #vietnam  The US has picked up yet another ally. With Vietnam giving the United States a Comprehensive Strategic Partnership, which is the highest level of diplomatic ties that they have to offer. The two will pursue strategic cooperation as well as a semiconductor supply chain that’s immune from China. They’ll also trade agricultural products. The U.S. is Vietnam's largest export market and last year it was the fastest growing economy in Asia. Despite our shared past of war, 84% of Vietnamese have a positive view of America with only 6% having a negative view. This shift by Vietnam is just as much about Vietnam’s anxiety over China as it is over a desire to make more money with America. American investors are already increasingly looking to Vietnam because of their large swath of highly educated young people who are extremely entrepreneurial in spirit. But the honeymoon phase might not last long because the US says it’ll continue to press Vietnam on human rights. Last year it said that it was neither “free nor fair.”</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7278022787334180139" rel="alternate"/>
-    <published>2023-09-12T19:25:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7278058200476273963</id>
     <title>America &amp; Canada Make China Very Mad #usa #canada  The U.S. and Canada sailed two ships through the Taiwan strait after China claimed it had total ownership over the strait. China sent three ships armed with torpedoes and missiles to flank the Canadian wa</title>
@@ -51,5 +43,13 @@
     <content>Putin Praises Musk as SpaceX Faces Growing Criticism #usa #elonmusk  Putin called Elon Musk an outstanding person yesterday. This comes after allegations that he blocked Ukraine from taking out Russia’s navy due to his own ego. British reporters hounded Musk yesterday, asking him repeatedly “Has your ego and ignorance cost Ukrainian lives?”. Musk didn’t respond. And the Washington Post recently pointed out that the government could just nationalize Starlink if Musk’s antics continue. But the press is the least of Musk’s worries right now as SpaceX is growing under increasing scrutiny, not just from the public but from the U.S. military as well. With the Air Force Secretary saying “If we’re going to rely upon commercial architectures or commercial systems for operational use, then we have to have some assurances that they’re going to be available” SpaceX is currently contracted to create a rocket that can deliver supplies to a conflict zone but now the Air Force may be second guessing the contract. With some asking “If Musk will do this to the people who need help the most, what’s stopping him from doing it to America?” And a U.S. general saying “American industry has to be clear-eyed on the full spectrum of what their products could be used for”. On top of all of that, the US awarded Lockheed Martin and Northrop Grumman a 1.5 billion dollar contract to create a competing satellite internet network.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7278802150493408554" rel="alternate"/>
     <published>2023-09-14T21:49:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7279907511808085294</id>
+    <title>America Trolls China #usa #america  America is giving China a taste of their own medicine. Right now China is undergoing what appears to be a purge with several top officials being fired and placed on house arrest for unknown reasons. But America’s ambass</title>
+    <updated>2023-09-17T21:19:27+00:00</updated>
+    <content>America Trolls China #usa #america  America is giving China a taste of their own medicine. Right now China is undergoing what appears to be a purge with several top officials being fired and placed on house arrest for unknown reasons. But America’s ambassador to Japan, who is none other than Rahm Emmanuel, has wasted no time giving China a taste of their wolf warrior diplomacy. Tweeting: “President Xi's cabinet lineup is now resembling Agatha Christie's novel And Then There Were None. Who's going to win this unemployment race? China’s youth or Xi's cabinet?  #MysteryInBeijingBuilding”. And then once US intelligence concluded that the Chinese defense minister was actually under investigation and put on house arrest for unknown reasons, Rahm tweeted: “As Shakespeare wrote in Hamlet, “Something is rotten in the state of Denmark.” 1st: Defense Minister Li hasn’t been seen or heard from in 3 weeks. 2nd: He was a no-show for his trip to Vietnam. Now: He’s absent from his scheduled meeting with the Singaporean Chief of Navy because he was placed on house arrest???...Might be getting crowded in there. Good news is I heard he’s paid off his mortgage with the Country Garden real estate developers.” I can’t say for certain but I think this is China’s first introduction to Chicago style politics. If Rahm keeps tweeting like this, China is gonna have a mental breakdown by the end of the month. #chicago </content>
+    <link href="https://tiktok.com/@philipdefranco/video/7279907511808085294" rel="alternate"/>
+    <published>2023-09-17T21:19:27+00:00</published>
   </entry>
 </feed>
