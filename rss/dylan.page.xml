@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-09-17T16:55:39+00:00</updated>
+  <updated>2023-09-18T17:34:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7279070845316762912</id>
-    <title>This is the moment a tourist climbed a statue and broke it!🚨😳</title>
-    <updated>2023-09-15T15:12:54+00:00</updated>
-    <content>This is the moment a tourist climbed a statue and broke it!🚨😳</content>
-    <link href="https://tiktok.com/@dylan.page/video/7279070845316762912" rel="alternate"/>
-    <published>2023-09-15T15:12:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7279125517758942497</id>
     <title>France have banned the sale of Iphone 12 over radiation concerns 🚨😳</title>
@@ -51,5 +43,13 @@
     <content>NEWSDADDY SUNDAYS- Week 7</content>
     <link href="https://tiktok.com/@dylan.page/video/7279839573960576288" rel="alternate"/>
     <published>2023-09-17T16:55:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7280220680635927841</id>
+    <title>I feel like theres definitely a good prank in here…🤔</title>
+    <updated>2023-09-18T17:34:33+00:00</updated>
+    <content>I feel like theres definitely a good prank in here…🤔</content>
+    <link href="https://tiktok.com/@dylan.page/video/7280220680635927841" rel="alternate"/>
+    <published>2023-09-18T17:34:33+00:00</published>
   </entry>
 </feed>
