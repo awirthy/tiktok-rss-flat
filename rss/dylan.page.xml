@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-09-17T16:55:39+00:00</updated>
+  <updated>2023-09-16T17:58:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7278755241900723489</id>
+    <title>What do we think about this?!🤔😔</title>
+    <updated>2023-09-14T18:47:52+00:00</updated>
+    <content>What do we think about this?!🤔😔</content>
+    <link href="https://tiktok.com/@dylan.page/video/7278755241900723489" rel="alternate"/>
+    <published>2023-09-14T18:47:52+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7279070845316762912</id>
     <title>This is the moment a tourist climbed a statue and broke it!🚨😳</title>
@@ -43,13 +51,5 @@
     <content>Sad to think we may never know who built it😢</content>
     <link href="https://tiktok.com/@dylan.page/video/7279484674651573536" rel="alternate"/>
     <published>2023-09-16T17:58:28+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7279839573960576288</id>
-    <title>NEWSDADDY SUNDAYS- Week 7</title>
-    <updated>2023-09-17T16:55:39+00:00</updated>
-    <content>NEWSDADDY SUNDAYS- Week 7</content>
-    <link href="https://tiktok.com/@dylan.page/video/7279839573960576288" rel="alternate"/>
-    <published>2023-09-17T16:55:39+00:00</published>
   </entry>
 </feed>
