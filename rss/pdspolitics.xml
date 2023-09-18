@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-09-17T20:00:00+00:00</updated>
+  <updated>2023-09-18T23:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7278478117528735019</id>
-    <title>Cam Video of VA House Candidate Leaked, Prompting Conversation on Whether SWers Are Qualified for Office #SusannaGibson  #Virginia  #US #vote</title>
-    <updated>2023-09-14T00:52:33+00:00</updated>
-    <content>Cam Video of VA House Candidate Leaked, Prompting Conversation on Whether SWers Are Qualified for Office #SusannaGibson  #Virginia  #US #vote</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7278478117528735019" rel="alternate"/>
-    <published>2023-09-14T00:52:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7278810473200389419</id>
     <title>Judge Rules DACA Is Illegal #DACA  #Politics  #US  #Judge</title>
@@ -51,5 +43,13 @@
     <content>Republicans in CO Are Trying to Keep Trump off the Ballot #Politics  #14thAmendment  #DonaldTrump  #2024</content>
     <link href="https://tiktok.com/@pdspolitics/video/7279085691785481515" rel="alternate"/>
     <published>2023-09-17T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7280284426213379370</id>
+    <title>Gov’t Loses Sleath F-35, Asks Public to Find It #Politics  #US  #F35  #Jet</title>
+    <updated>2023-09-18T23:00:00+00:00</updated>
+    <content>Gov’t Loses Sleath F-35, Asks Public to Find It #Politics  #US  #F35  #Jet</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7280284426213379370" rel="alternate"/>
+    <published>2023-09-18T23:00:00+00:00</published>
   </entry>
 </feed>
