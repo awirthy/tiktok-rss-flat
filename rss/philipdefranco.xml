@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-09-17T21:19:27+00:00</updated>
+  <updated>2023-09-18T14:32:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7278058200476273963</id>
-    <title>America &amp; Canada Make China Very Mad #usa #canada  The U.S. and Canada sailed two ships through the Taiwan strait after China claimed it had total ownership over the strait. China sent three ships armed with torpedoes and missiles to flank the Canadian wa</title>
-    <updated>2023-09-12T21:43:09+00:00</updated>
-    <content>America &amp; Canada Make China Very Mad #usa #canada  The U.S. and Canada sailed two ships through the Taiwan strait after China claimed it had total ownership over the strait. China sent three ships armed with torpedoes and missiles to flank the Canadian warship and they followed them for 17 hours. China also sent fighter jets to intercept the warships but upon realizing that the Canadian vessel wasn’t alone, it changed course. The U.S. frequently takes this route as part of it’s freedom of navigation operations. China accused these two hoodlums of trying to stir up trouble.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7278058200476273963" rel="alternate"/>
-    <published>2023-09-12T21:43:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7278417481327217963</id>
     <title>Ukraine Destroys Russian Submarine &amp; Landing Ship #ukraine #russia  Ukraine destroyed a Russian submarine and a landing ship. Using British Storm Shadow missiles, they hit a Russian dry dock in Crimea. Both vessels have been completely destroyed. The subm</title>
@@ -51,5 +43,13 @@
     <content>America Trolls China #usa #america  America is giving China a taste of their own medicine. Right now China is undergoing what appears to be a purge with several top officials being fired and placed on house arrest for unknown reasons. But America’s ambassador to Japan, who is none other than Rahm Emmanuel, has wasted no time giving China a taste of their wolf warrior diplomacy. Tweeting: “President Xi's cabinet lineup is now resembling Agatha Christie's novel And Then There Were None. Who's going to win this unemployment race? China’s youth or Xi's cabinet?  #MysteryInBeijingBuilding”. And then once US intelligence concluded that the Chinese defense minister was actually under investigation and put on house arrest for unknown reasons, Rahm tweeted: “As Shakespeare wrote in Hamlet, “Something is rotten in the state of Denmark.” 1st: Defense Minister Li hasn’t been seen or heard from in 3 weeks. 2nd: He was a no-show for his trip to Vietnam. Now: He’s absent from his scheduled meeting with the Singaporean Chief of Navy because he was placed on house arrest???...Might be getting crowded in there. Good news is I heard he’s paid off his mortgage with the Country Garden real estate developers.” I can’t say for certain but I think this is China’s first introduction to Chicago style politics. If Rahm keeps tweeting like this, China is gonna have a mental breakdown by the end of the month. #chicago </content>
     <link href="https://tiktok.com/@philipdefranco/video/7279907511808085294" rel="alternate"/>
     <published>2023-09-17T21:19:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7280173610302491946</id>
+    <title>F-35 Goes Missing After Pilot Ejects #usa #america  The U.S. military is asking for the public's help in finding a lost F-35. The 80 million dollar stealth jet went missing when a pilot ejected from it over North Carolina this afternoon. The jet is report</title>
+    <updated>2023-09-18T14:32:09+00:00</updated>
+    <content>F-35 Goes Missing After Pilot Ejects #usa #america  The U.S. military is asking for the public's help in finding a lost F-35. The 80 million dollar stealth jet went missing when a pilot ejected from it over North Carolina this afternoon. The jet is reportedly on autopilot and hasn’t crashed. If you’ve seen the jet, they’re asking that you call them. 80 million dollars but you don’t air tag it?</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7280173610302491946" rel="alternate"/>
+    <published>2023-09-18T14:32:09+00:00</published>
   </entry>
 </feed>
