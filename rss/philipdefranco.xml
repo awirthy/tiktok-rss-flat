@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-09-18T14:32:09+00:00</updated>
+  <updated>2023-09-18T22:22:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7278417481327217963</id>
-    <title>Ukraine Destroys Russian Submarine &amp; Landing Ship #ukraine #russia  Ukraine destroyed a Russian submarine and a landing ship. Using British Storm Shadow missiles, they hit a Russian dry dock in Crimea. Both vessels have been completely destroyed. The subm</title>
-    <updated>2023-09-13T20:57:20+00:00</updated>
-    <content>Ukraine Destroys Russian Submarine &amp; Landing Ship #ukraine #russia  Ukraine destroyed a Russian submarine and a landing ship. Using British Storm Shadow missiles, they hit a Russian dry dock in Crimea. Both vessels have been completely destroyed. The submarine is only one of 6 that Russia has in the Black Sea, and Russia frequently uses them to fire cruise missiles at Ukraine. Russia has repeatedly said that attacking this area would result in a nuclear response. These missiles hit the same area that Elon Musk blocked Ukraine from hitting earlier in the year by turning off the internet. Ukraine’s attack would have nearly taken out the entire Russian Black Sea fleet, but General Musk blocked it. As a result of the aborted attack, the Russian Black Sea Fleet would proceed to fire hundreds of missiles at Ukrainian cities in the following months, causing widespread destruction and numerous civilian casualties. So far though, it’s been over 12 hours and Russia’s super spooky nuclear threat appears to be yet another bluff. If you’re threatening to use nukes, you’ve already lost and if you actually believe their nuclear threats - you’re a sucker. You know who also doesn’t buy the nuclear threats? The United States. They will be providing Ukraine with the Army Tactical Missile System, which fires ballistic missiles that have a range of 300 kilometers… So more strikes inside of occupied Crimea and Russia are coming.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7278417481327217963" rel="alternate"/>
-    <published>2023-09-13T20:57:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7278451597305351470</id>
     <title>Russia Gives North Korea Nuclear Missiles #russia #korea  Kim Jong Un and Putin met in Russia today. Kim vowed “full and unconditional” support for Russia, and called Russia’s war “just”. Russia is seeking stockpiles of aging ammunition and rockets for th</title>
@@ -51,5 +43,13 @@
     <content>F-35 Goes Missing After Pilot Ejects #usa #america  The U.S. military is asking for the public's help in finding a lost F-35. The 80 million dollar stealth jet went missing when a pilot ejected from it over North Carolina this afternoon. The jet is reportedly on autopilot and hasn’t crashed. If you’ve seen the jet, they’re asking that you call them. 80 million dollars but you don’t air tag it?</content>
     <link href="https://tiktok.com/@philipdefranco/video/7280173610302491946" rel="alternate"/>
     <published>2023-09-18T14:32:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7280294874832801067</id>
+    <title>India Killed Canadian Leader #canada #india  Canada says India is behind the murder of a Canadian Sikh leader. Canadian intelligence says it’s identified a credible link between the fatal shooting and India. Trudeau raised the issue with Modi at the G-20 </title>
+    <updated>2023-09-18T22:22:34+00:00</updated>
+    <content>India Killed Canadian Leader #canada #india  Canada says India is behind the murder of a Canadian Sikh leader. Canadian intelligence says it’s identified a credible link between the fatal shooting and India. Trudeau raised the issue with Modi at the G-20 which explains their very chilly &amp; awkward greeting here, Trudeau told the House of Commons today: “Any involvement of a foreign government in the killing of a Canadian citizen on Canadian soil is an unacceptable violation of our sovereignty”. Adding “It is contrary to the fundamental rules by which free, open and democratic societies conduct themselves” The murdered leader was very supportive of an Indian separatist state. India has denied the accusation. Canada is looking at severe measures to “punish” India but has reportedly privately ruled out severing diplomatic ties. What’s interesting though is that the Canadian leader was the 3rd Sikh leader to be killed in recent months.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7280294874832801067" rel="alternate"/>
+    <published>2023-09-18T22:22:34+00:00</published>
   </entry>
 </feed>
