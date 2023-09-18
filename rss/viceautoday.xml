@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-09-15T05:10:38+00:00</updated>
+  <updated>2023-09-18T07:21:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7277469511492701442</id>
-    <title>Sydney has been ranked as the sixth most unaffordable city to live in the world, beating New York, London and Paris. Researchers estimate it's costing the city more than $10 billion a year in productivity losses. #housingcrisis #housing #sydney #australia</title>
-    <updated>2023-09-11T07:38:37+00:00</updated>
-    <content>Sydney has been ranked as the sixth most unaffordable city to live in the world, beating New York, London and Paris. Researchers estimate it's costing the city more than $10 billion a year in productivity losses. #housingcrisis #housing #sydney #australia #newsaustralia #australianews #learnontiktok #todayilearned #news </content>
-    <link href="https://tiktok.com/@viceautoday/video/7277469511492701442" rel="alternate"/>
-    <published>2023-09-11T07:38:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7277830652458798338</id>
     <title>Coles supermarket staff and security guatds will wear bodycams  in a trial of 30 stories across Australia in an attempt to “reduce theft”. #australia #news #supermarket #coles #bodycam #bodycamera #security #shoplifter #theft #supermarketjobs #costoflivin</title>
@@ -51,5 +43,13 @@
     <content>Macquarie Bank is set to phase out cash, moving completely to digital and e-banking. #australia #viceau #aunews #news </content>
     <link href="https://tiktok.com/@viceautoday/video/7278915729729031431" rel="alternate"/>
     <published>2023-09-15T05:10:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7280062809570938114</id>
+    <title>‘Yes’ rallies for the Indigenous Voice to Parliament have drawn huge crowds around Australia, four weeks ahead of the referendum to change our constitution. #australia #news #firstnations #indigenous #voicetoparliament #referendum #auspol #politics #yes #</title>
+    <updated>2023-09-18T07:21:56+00:00</updated>
+    <content>‘Yes’ rallies for the Indigenous Voice to Parliament have drawn huge crowds around Australia, four weeks ahead of the referendum to change our constitution. #australia #news #firstnations #indigenous #voicetoparliament #referendum #auspol #politics #yes #vote #rally #activist #melbourne #uluru #ulurustatement #todayilearned #learnontiktok </content>
+    <link href="https://tiktok.com/@viceautoday/video/7280062809570938114" rel="alternate"/>
+    <published>2023-09-18T07:21:56+00:00</published>
   </entry>
 </feed>
