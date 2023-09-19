@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-09-18T23:00:00+00:00</updated>
+  <updated>2023-09-19T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7278810473200389419</id>
-    <title>Judge Rules DACA Is Illegal #DACA  #Politics  #US  #Judge</title>
-    <updated>2023-09-14T23:00:00+00:00</updated>
-    <content>Judge Rules DACA Is Illegal #DACA  #Politics  #US  #Judge</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7278810473200389419" rel="alternate"/>
-    <published>2023-09-14T23:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7279099288783719723</id>
     <title>NASA Gets Honest About UFOs #Aliens  #UFO  #Nasa  #Politics</title>
@@ -51,5 +43,13 @@
     <content>Gov’t Loses Sleath F-35, Asks Public to Find It #Politics  #US  #F35  #Jet</content>
     <link href="https://tiktok.com/@pdspolitics/video/7280284426213379370" rel="alternate"/>
     <published>2023-09-18T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7280579970043366698</id>
+    <title>Ken Paxton Acquitted on Impeachment Charges #KenPaxton  #Politics  #US  #Texas</title>
+    <updated>2023-09-19T20:00:00+00:00</updated>
+    <content>Ken Paxton Acquitted on Impeachment Charges #KenPaxton  #Politics  #US  #Texas</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7280579970043366698" rel="alternate"/>
+    <published>2023-09-19T20:00:00+00:00</published>
   </entry>
 </feed>
