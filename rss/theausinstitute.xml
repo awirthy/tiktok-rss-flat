@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-09-15T01:32:37+00:00</updated>
+  <updated>2023-09-19T04:17:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7278117782992997640</id>
-    <title>"It is so clear from this [report], the support for the Government taking this more seriously, for a much more concerted effort in terms of the transition." ACT Independent Senator David Pocock on our Climate of the Nation 2023 report #auspol</title>
-    <updated>2023-09-13T01:35:00+00:00</updated>
-    <content>"It is so clear from this [report], the support for the Government taking this more seriously, for a much more concerted effort in terms of the transition." ACT Independent Senator David Pocock on our Climate of the Nation 2023 report #auspol</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7278117782992997640" rel="alternate"/>
-    <published>2023-09-13T01:35:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7278150357547633927</id>
     <title>When climate change has made bushfires and floods worse, and more frequent, there will be Australians who are unable to insure their homes. When you can't insure a house, you can't get a mortgage.  - Executive Director Richard Denniss #auspol #climatechan</title>
@@ -51,5 +43,13 @@
     <content>"We don't actually have any national climate policy." "We have targets. We have no policy to drive change." - Executive Director Richard Denniss #auspol #climatechange</content>
     <link href="https://tiktok.com/@theausinstitute/video/7278859318181596423" rel="alternate"/>
     <published>2023-09-15T01:32:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7280386303781276936</id>
+    <title>Australian food retailers make $1.2 billion in profit each year from household food waste. That's 1.2 billion reasons to resist systemic change. Read the full report on our website, link in bio. #auspol</title>
+    <updated>2023-09-19T04:17:31+00:00</updated>
+    <content>Australian food retailers make $1.2 billion in profit each year from household food waste. That's 1.2 billion reasons to resist systemic change. Read the full report on our website, link in bio. #auspol</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7280386303781276936" rel="alternate"/>
+    <published>2023-09-19T04:17:31+00:00</published>
   </entry>
 </feed>
