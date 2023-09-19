@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-09-19T20:18:55+00:00</updated>
+  <updated>2023-09-18T22:22:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7278451597305351470</id>
+    <title>Russia Gives North Korea Nuclear Missiles #russia #korea  Kim Jong Un and Putin met in Russia today. Kim vowed “full and unconditional” support for Russia, and called Russia’s war “just”. Russia is seeking stockpiles of aging ammunition and rockets for th</title>
+    <updated>2023-09-13T23:09:40+00:00</updated>
+    <content>Russia Gives North Korea Nuclear Missiles #russia #korea  Kim Jong Un and Putin met in Russia today. Kim vowed “full and unconditional” support for Russia, and called Russia’s war “just”. Russia is seeking stockpiles of aging ammunition and rockets for their soviet weapons. North Korea is seeking food and missile technology for their nuclear missiles and spy satellites. Earlier this year, experts pointed out that North Korea’s nuclear missiles look an awful lot like Russian nuclear missiles which would put Russia in violation of the Nuclear Non-proliferation treaty if true. If Russia and North Korea do sign a deal though, it’ll violate global sanctions making Russia and North Korea subjected to even more UN-sanctioned sanctions. Kim ended the meeting by saying that “we believe with certainty that the Russian army and people will achieve a great victory in the just fight to punish the evil forces”. Uhh.. Lol.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7278451597305351470" rel="alternate"/>
+    <published>2023-09-13T23:09:40+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7278802150493408554</id>
     <title>Putin Praises Musk as SpaceX Faces Growing Criticism #usa #elonmusk  Putin called Elon Musk an outstanding person yesterday. This comes after allegations that he blocked Ukraine from taking out Russia’s navy due to his own ego. British reporters hounded M</title>
@@ -43,13 +51,5 @@
     <content>India Killed Canadian Leader #canada #india  Canada says India is behind the murder of a Canadian Sikh leader. Canadian intelligence says it’s identified a credible link between the fatal shooting and India. Trudeau raised the issue with Modi at the G-20 which explains their very chilly &amp; awkward greeting here, Trudeau told the House of Commons today: “Any involvement of a foreign government in the killing of a Canadian citizen on Canadian soil is an unacceptable violation of our sovereignty”. Adding “It is contrary to the fundamental rules by which free, open and democratic societies conduct themselves” The murdered leader was very supportive of an Indian separatist state. India has denied the accusation. Canada is looking at severe measures to “punish” India but has reportedly privately ruled out severing diplomatic ties. What’s interesting though is that the Canadian leader was the 3rd Sikh leader to be killed in recent months.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7280294874832801067" rel="alternate"/>
     <published>2023-09-18T22:22:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7280634113508363563</id>
-    <title>India and Canada Continue To Fall Out Over Murder Of Sikh Leader #canada #india #usa  Canada has briefed the US, UK, and France over India’s killing of a Canadian Sikh Leader in Canada. Canada has expelled an Indian diplomat they believe is India’s head s</title>
-    <updated>2023-09-19T20:18:55+00:00</updated>
-    <content>India and Canada Continue To Fall Out Over Murder Of Sikh Leader #canada #india #usa  Canada has briefed the US, UK, and France over India’s killing of a Canadian Sikh Leader in Canada. Canada has expelled an Indian diplomat they believe is India’s head spy over the killing. India has retaliated by kicking out a Canadian diplomat. Canada has halted trade negotiations and postponed its trade mission in response to the killing. In a statement India said the accusation is “absurd and motivated.” And alleged Canada is continuing to give shelter to anti-Indian terrorists and that they refuse to do anything about it. The Canadian ambassador to India was also summoned, he was seen storming out of the building angrily and slamming his car door. Canada is urging its citizens to avoid traveling to India. Meanwhile, Indian TV has labeled their intelligence service “the new Mossad”. Canada has been pressuring 5 eyes to raise the murder with India in recent months, and they allegedly did privately last week. But It also asked them to release a joint statement condemning the action, and its allies, including the United States, have declined. This is in spite of the US helping Canadian intelligence discover India’s action. Yesterday, the U.S. said that it was deeply concerned about the killing and that the perpetrators must be brought to justice. Australia said that they raised the issue with India and expressed their deep concern. This comes at a particularly awkward time. As the US-led West has been courting India to be a strategic counterweight to China and are trying to avoid antagonizing them. Earlier this year, India demanded that the U.S. and UK break up protests outside of their embassies and when the countries said that wasn’t something they could do - they removed the concrete barriers in front of the British embassy in India to punish them. Many have pointed out that India seems to think it can act with impunity &amp; push around everyone in the West except the United States and so for the US to stay quiet as India bullies its allies, it sends the wrong message. The United States would better serve its allies and the values it claims to stand for if it condemned India and backed up its closest ally instead of playing coy.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7280634113508363563" rel="alternate"/>
-    <published>2023-09-19T20:18:55+00:00</published>
   </entry>
 </feed>
