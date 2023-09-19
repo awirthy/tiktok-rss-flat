@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-09-18T17:34:33+00:00</updated>
+  <updated>2023-09-19T19:17:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7279125517758942497</id>
-    <title>France have banned the sale of Iphone 12 over radiation concerns 🚨😳</title>
-    <updated>2023-09-15T18:44:45+00:00</updated>
-    <content>France have banned the sale of Iphone 12 over radiation concerns 🚨😳</content>
-    <link href="https://tiktok.com/@dylan.page/video/7279125517758942497" rel="alternate"/>
-    <published>2023-09-15T18:44:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7279459840173346081</id>
     <title>Do you think they should be banned or not?🤔😳</title>
@@ -51,5 +43,13 @@
     <content>I feel like theres definitely a good prank in here…🤔</content>
     <link href="https://tiktok.com/@dylan.page/video/7280220680635927841" rel="alternate"/>
     <published>2023-09-18T17:34:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7280618314550824225</id>
+    <title>What do we think about this one?🤔😳</title>
+    <updated>2023-09-19T19:17:33+00:00</updated>
+    <content>What do we think about this one?🤔😳</content>
+    <link href="https://tiktok.com/@dylan.page/video/7280618314550824225" rel="alternate"/>
+    <published>2023-09-19T19:17:33+00:00</published>
   </entry>
 </feed>
