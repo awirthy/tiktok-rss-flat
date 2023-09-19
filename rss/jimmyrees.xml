@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-09-12T09:41:54+00:00</updated>
+  <updated>2023-09-11T03:56:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7273414127933066498</id>
+    <title>I don't want no trouble 🤦‍♂️ ... Say it properly!!!  #englishlesson  #funny #sayitproperly</title>
+    <updated>2023-08-31T09:22:17+00:00</updated>
+    <content>I don't want no trouble 🤦‍♂️ ... Say it properly!!!  #englishlesson  #funny #sayitproperly</content>
+    <link href="https://tiktok.com/@jimmyrees/video/7273414127933066498" rel="alternate"/>
+    <published>2023-08-31T09:22:17+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7274906520943398146</id>
     <title>Hwo Pickleball was invented!!! #pickleball #pickleballtiktok any pickleballers out there? 😂🥴</title>
@@ -43,13 +51,5 @@
     <content>No So Emergency Department PART 2: No Tay Tay tickets 🥴🤣😅 #notsoemergencydepartment</content>
     <link href="https://tiktok.com/@jimmyrees/video/7277412224216386823" rel="alternate"/>
     <published>2023-09-11T03:56:40+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7277872366900890881</id>
-    <title>My Twins test iut the Magic Mixies Genie Lamp… think they like it 😂  Magic Mixies Magic Genie Lamp with 60+ Sounds and Reactions. Perform The Magic Steps to Unlock a Magic Ring and Reveal a Pink Genie Mixie From the Real Misting Lamp.   ##moosetoys##magic</title>
-    <updated>2023-09-12T09:41:54+00:00</updated>
-    <content>My Twins test iut the Magic Mixies Genie Lamp… think they like it 😂  Magic Mixies Magic Genie Lamp with 60+ Sounds and Reactions. Perform The Magic Steps to Unlock a Magic Ring and Reveal a Pink Genie Mixie From the Real Misting Lamp.   ##moosetoys##magicmixiesgenielamp##supermoosetoys##ad@@supermoosetoys</content>
-    <link href="https://tiktok.com/@jimmyrees/video/7277872366900890881" rel="alternate"/>
-    <published>2023-09-12T09:41:54+00:00</published>
   </entry>
 </feed>
