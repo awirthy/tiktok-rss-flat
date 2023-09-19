@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-09-18T07:21:56+00:00</updated>
+  <updated>2023-09-19T07:01:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7277830652458798338</id>
-    <title>Coles supermarket staff and security guatds will wear bodycams  in a trial of 30 stories across Australia in an attempt to “reduce theft”. #australia #news #supermarket #coles #bodycam #bodycamera #security #shoplifter #theft #supermarketjobs #costoflivin</title>
-    <updated>2023-09-12T07:00:00+00:00</updated>
-    <content>Coles supermarket staff and security guatds will wear bodycams  in a trial of 30 stories across Australia in an attempt to “reduce theft”. #australia #news #supermarket #coles #bodycam #bodycamera #security #shoplifter #theft #supermarketjobs #costofliving #todayilearned #learnontiktok </content>
-    <link href="https://tiktok.com/@viceautoday/video/7277830652458798338" rel="alternate"/>
-    <published>2023-09-12T07:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7278203151801601281</id>
     <title>Remember Tim Gurner? The avo toast millionaire property developer who told millennials to stop buying breakfast and coffee if they want to buy a home? He’s back. And he wants to see unemployment rise. #news #australia #housing #housingmarket #housingcrisi</title>
@@ -51,5 +43,13 @@
     <content>‘Yes’ rallies for the Indigenous Voice to Parliament have drawn huge crowds around Australia, four weeks ahead of the referendum to change our constitution. #australia #news #firstnations #indigenous #voicetoparliament #referendum #auspol #politics #yes #vote #rally #activist #melbourne #uluru #ulurustatement #todayilearned #learnontiktok </content>
     <link href="https://tiktok.com/@viceautoday/video/7280062809570938114" rel="alternate"/>
     <published>2023-09-18T07:21:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7280428702704454913</id>
+    <title>The Bureau of Meteorology today confirmed an El Niño weather event, as hot and dry conditions fanned bushfires across New South Wales. Schools were closed and the fire danger warning for the state’s far south coast region was upgraded to “catastrophic”. #</title>
+    <updated>2023-09-19T07:01:46+00:00</updated>
+    <content>The Bureau of Meteorology today confirmed an El Niño weather event, as hot and dry conditions fanned bushfires across New South Wales. Schools were closed and the fire danger warning for the state’s far south coast region was upgraded to “catastrophic”. #elnino #dangerousweather #blacksummer #news #newsauatralia #bushfires #sydney #newsouthwales #fires #learnontiktok #todayilearned #firewarning </content>
+    <link href="https://tiktok.com/@viceautoday/video/7280428702704454913" rel="alternate"/>
+    <published>2023-09-19T07:01:46+00:00</published>
   </entry>
 </feed>
