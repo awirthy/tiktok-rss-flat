@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-09-19T19:17:33+00:00</updated>
+  <updated>2023-09-20T11:57:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7279459840173346081</id>
-    <title>Do you think they should be banned or not?🤔😳</title>
-    <updated>2023-09-16T16:22:06+00:00</updated>
-    <content>Do you think they should be banned or not?🤔😳</content>
-    <link href="https://tiktok.com/@dylan.page/video/7279459840173346081" rel="alternate"/>
-    <published>2023-09-16T16:22:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7279484674651573536</id>
     <title>Sad to think we may never know who built it😢</title>
@@ -51,5 +43,13 @@
     <content>What do we think about this one?🤔😳</content>
     <link href="https://tiktok.com/@dylan.page/video/7280618314550824225" rel="alternate"/>
     <published>2023-09-19T19:17:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7280875989532445985</id>
+    <title>This is so sad 😔💔</title>
+    <updated>2023-09-20T11:57:28+00:00</updated>
+    <content>This is so sad 😔💔</content>
+    <link href="https://tiktok.com/@dylan.page/video/7280875989532445985" rel="alternate"/>
+    <published>2023-09-20T11:57:28+00:00</published>
   </entry>
 </feed>
