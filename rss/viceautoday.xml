@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-09-19T07:01:46+00:00</updated>
+  <updated>2023-09-20T06:53:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7278203151801601281</id>
-    <title>Remember Tim Gurner? The avo toast millionaire property developer who told millennials to stop buying breakfast and coffee if they want to buy a home? He’s back. And he wants to see unemployment rise. #news #australia #housing #housingmarket #housingcrisi</title>
-    <updated>2023-09-13T07:05:30+00:00</updated>
-    <content>Remember Tim Gurner? The avo toast millionaire property developer who told millennials to stop buying breakfast and coffee if they want to buy a home? He’s back. And he wants to see unemployment rise. #news #australia #housing #housingmarket #housingcrisis #avocadotoast #melbourne #property #developer #millionaire #timgurner #gurner #todayilearned #learnontiktok </content>
-    <link href="https://tiktok.com/@viceautoday/video/7278203151801601281" rel="alternate"/>
-    <published>2023-09-13T07:05:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7278574977471859970</id>
     <title>Labor’s $10 billion Housing Australia Future Fund bill has passed parliament after it was blocked for months by the Greens and the Opposition. So what is it and what will we get? #australia #news #housing #housingcrisis #rent #rentalcrisis #renter #haff #</title>
@@ -51,5 +43,13 @@
     <content>The Bureau of Meteorology today confirmed an El Niño weather event, as hot and dry conditions fanned bushfires across New South Wales. Schools were closed and the fire danger warning for the state’s far south coast region was upgraded to “catastrophic”. #elnino #dangerousweather #blacksummer #news #newsauatralia #bushfires #sydney #newsouthwales #fires #learnontiktok #todayilearned #firewarning </content>
     <link href="https://tiktok.com/@viceautoday/video/7280428702704454913" rel="alternate"/>
     <published>2023-09-19T07:01:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7280797552046329090</id>
+    <title>Daniel Andrews has unveiled the Victorian Government’s Housing Statement – a 10-year plan to tackle the housing crisis by building 800,000 new homes and introducing an Airbnb levy, among a suite of other policies. Here’s what’s going on. #australia #news </title>
+    <updated>2023-09-20T06:53:06+00:00</updated>
+    <content>Daniel Andrews has unveiled the Victorian Government’s Housing Statement – a 10-year plan to tackle the housing crisis by building 800,000 new homes and introducing an Airbnb levy, among a suite of other policies. Here’s what’s going on. #australia #news #victoria #melbourne #housing #housingcrisis #airbnb #tax #rent #rental #politics #auspol #danielandrews #holiday #holidayhome #todayilearned #learnontiktok </content>
+    <link href="https://tiktok.com/@viceautoday/video/7280797552046329090" rel="alternate"/>
+    <published>2023-09-20T06:53:06+00:00</published>
   </entry>
 </feed>
