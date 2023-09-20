@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-09-20T20:23:02+00:00</updated>
+  <updated>2023-09-20T22:27:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7280173610302491946</id>
-    <title>F-35 Goes Missing After Pilot Ejects #usa #america  The U.S. military is asking for the public's help in finding a lost F-35. The 80 million dollar stealth jet went missing when a pilot ejected from it over North Carolina this afternoon. The jet is report</title>
-    <updated>2023-09-18T14:32:09+00:00</updated>
-    <content>F-35 Goes Missing After Pilot Ejects #usa #america  The U.S. military is asking for the public's help in finding a lost F-35. The 80 million dollar stealth jet went missing when a pilot ejected from it over North Carolina this afternoon. The jet is reportedly on autopilot and hasn’t crashed. If you’ve seen the jet, they’re asking that you call them. 80 million dollars but you don’t air tag it?</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7280173610302491946" rel="alternate"/>
-    <published>2023-09-18T14:32:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7280294874832801067</id>
     <title>India Killed Canadian Leader #canada #india  Canada says India is behind the murder of a Canadian Sikh leader. Canadian intelligence says it’s identified a credible link between the fatal shooting and India. Trudeau raised the issue with Modi at the G-20 </title>
@@ -51,5 +43,13 @@
     <content>Biden Met With The Stans #usa #swiftie  Biden met with the stans yesterday, and I’m not talking about the Barbs or the Swifties. Nope, I’m talking about Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan. This is the first C5+1 summit in Presidential history. They discussed stronger regional security, connectivity, climate action, and governance. Central Asia asked Washington to not forget about them when they left Afghanistan, and sure enough they didn’t.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7281006265705172267" rel="alternate"/>
     <published>2023-09-20T20:23:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7281038330848922922</id>
+    <title>Pakistan Stands Up For Canada Amid Diplomatic Battle With India #canada #india #pakistan  India is warning its citizens traveling to Canada or living in Canada to exercise the utmost caution. They issued this warning in light of what they call “anti-India</title>
+    <updated>2023-09-20T22:27:27+00:00</updated>
+    <content>Pakistan Stands Up For Canada Amid Diplomatic Battle With India #canada #india #pakistan  India is warning its citizens traveling to Canada or living in Canada to exercise the utmost caution. They issued this warning in light of what they call “anti-India activities and politically-condoned hate crimes and criminal violence in Canada”. Adding that any Indians who oppose the “anti-India agenda” in Canada face threats. India, who murdered a Canadian citizen, continues to play the victim. The investigation that caught India was initially thought to be headed by the CIA and Canada, but a western intelligence official dropped a not-so-subtle hint that all of 5 eyes has been investigating the murder. Pakistan has something to say about all of this though, saying “India's terrorism in Canada is not a matter of surprise” Adding “If anyone in the world is aware of Indian terrorism, it is us” Yesterday they said India was a “terrorist and rogue state”, and asked "how long will our friends in the West continue to ignore such acts from India?”</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7281038330848922922" rel="alternate"/>
+    <published>2023-09-20T22:27:27+00:00</published>
   </entry>
 </feed>
