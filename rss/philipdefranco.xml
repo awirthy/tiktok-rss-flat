@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-09-20T00:20:44+00:00</updated>
+  <updated>2023-09-20T20:23:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7279907511808085294</id>
-    <title>America Trolls China #usa #america  America is giving China a taste of their own medicine. Right now China is undergoing what appears to be a purge with several top officials being fired and placed on house arrest for unknown reasons. But America’s ambass</title>
-    <updated>2023-09-17T21:19:27+00:00</updated>
-    <content>America Trolls China #usa #america  America is giving China a taste of their own medicine. Right now China is undergoing what appears to be a purge with several top officials being fired and placed on house arrest for unknown reasons. But America’s ambassador to Japan, who is none other than Rahm Emmanuel, has wasted no time giving China a taste of their wolf warrior diplomacy. Tweeting: “President Xi's cabinet lineup is now resembling Agatha Christie's novel And Then There Were None. Who's going to win this unemployment race? China’s youth or Xi's cabinet?  #MysteryInBeijingBuilding”. And then once US intelligence concluded that the Chinese defense minister was actually under investigation and put on house arrest for unknown reasons, Rahm tweeted: “As Shakespeare wrote in Hamlet, “Something is rotten in the state of Denmark.” 1st: Defense Minister Li hasn’t been seen or heard from in 3 weeks. 2nd: He was a no-show for his trip to Vietnam. Now: He’s absent from his scheduled meeting with the Singaporean Chief of Navy because he was placed on house arrest???...Might be getting crowded in there. Good news is I heard he’s paid off his mortgage with the Country Garden real estate developers.” I can’t say for certain but I think this is China’s first introduction to Chicago style politics. If Rahm keeps tweeting like this, China is gonna have a mental breakdown by the end of the month. #chicago </content>
-    <link href="https://tiktok.com/@philipdefranco/video/7279907511808085294" rel="alternate"/>
-    <published>2023-09-17T21:19:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7280173610302491946</id>
     <title>F-35 Goes Missing After Pilot Ejects #usa #america  The U.S. military is asking for the public's help in finding a lost F-35. The 80 million dollar stealth jet went missing when a pilot ejected from it over North Carolina this afternoon. The jet is report</title>
@@ -51,5 +43,13 @@
     <content>Ukraine Conducts Special Forces Operation In Sudan #ukraine #russia  Ukrainian Special Forces reportedly conducted several drone attacks and ground operations against a Wagner-backed milita in Sudan according to CNN. The rapid support forces are a militia in Sudan, backed by Wagner. Several US officials expressed surprise and were unaware of the operation when asked about it today. Sudan claims that such operations never happened but the drone does appear to be Ukrainian due to the on screen text, however that hasn’t been verified. If true, this is further evidence that the war is expanding beyond the two’s borders and moving globally. Such a move is thought by some to be a favor for one of Russia’s African allies in an attempt to pry them away from Russia.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7280696431718026542" rel="alternate"/>
     <published>2023-09-20T00:20:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7281006265705172267</id>
+    <title>Biden Met With The Stans #usa #swiftie  Biden met with the stans yesterday, and I’m not talking about the Barbs or the Swifties. Nope, I’m talking about Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan. This is the first C5+1 summit in Pre</title>
+    <updated>2023-09-20T20:23:02+00:00</updated>
+    <content>Biden Met With The Stans #usa #swiftie  Biden met with the stans yesterday, and I’m not talking about the Barbs or the Swifties. Nope, I’m talking about Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan. This is the first C5+1 summit in Presidential history. They discussed stronger regional security, connectivity, climate action, and governance. Central Asia asked Washington to not forget about them when they left Afghanistan, and sure enough they didn’t.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7281006265705172267" rel="alternate"/>
+    <published>2023-09-20T20:23:02+00:00</published>
   </entry>
 </feed>
