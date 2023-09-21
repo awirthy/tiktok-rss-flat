@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-09-20T11:57:28+00:00</updated>
+  <updated>2023-09-21T14:25:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7279484674651573536</id>
-    <title>Sad to think we may never know who built it😢</title>
-    <updated>2023-09-16T17:58:28+00:00</updated>
-    <content>Sad to think we may never know who built it😢</content>
-    <link href="https://tiktok.com/@dylan.page/video/7279484674651573536" rel="alternate"/>
-    <published>2023-09-16T17:58:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7279839573960576288</id>
     <title>NEWSDADDY SUNDAYS- Week 7</title>
@@ -51,5 +43,13 @@
     <content>This is so sad 😔💔</content>
     <link href="https://tiktok.com/@dylan.page/video/7280875989532445985" rel="alternate"/>
     <published>2023-09-20T11:57:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7281285289153137952</id>
+    <title>Was her sentence harsh or fair?🤔</title>
+    <updated>2023-09-21T14:25:45+00:00</updated>
+    <content>Was her sentence harsh or fair?🤔</content>
+    <link href="https://tiktok.com/@dylan.page/video/7281285289153137952" rel="alternate"/>
+    <published>2023-09-21T14:25:45+00:00</published>
   </entry>
 </feed>
