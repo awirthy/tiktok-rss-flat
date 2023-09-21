@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-09-21T22:31:22+00:00</updated>
+  <updated>2023-09-21T23:35:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7280696431718026542</id>
-    <title>Ukraine Conducts Special Forces Operation In Sudan #ukraine #russia  Ukrainian Special Forces reportedly conducted several drone attacks and ground operations against a Wagner-backed milita in Sudan according to CNN. The rapid support forces are a militia</title>
-    <updated>2023-09-20T00:20:44+00:00</updated>
-    <content>Ukraine Conducts Special Forces Operation In Sudan #ukraine #russia  Ukrainian Special Forces reportedly conducted several drone attacks and ground operations against a Wagner-backed milita in Sudan according to CNN. The rapid support forces are a militia in Sudan, backed by Wagner. Several US officials expressed surprise and were unaware of the operation when asked about it today. Sudan claims that such operations never happened but the drone does appear to be Ukrainian due to the on screen text, however that hasn’t been verified. If true, this is further evidence that the war is expanding beyond the two’s borders and moving globally. Such a move is thought by some to be a favor for one of Russia’s African allies in an attempt to pry them away from Russia.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7280696431718026542" rel="alternate"/>
-    <published>2023-09-20T00:20:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7281006265705172267</id>
     <title>Biden Met With The Stans #usa #swiftie  Biden met with the stans yesterday, and I’m not talking about the Barbs or the Swifties. Nope, I’m talking about Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan. This is the first C5+1 summit in Pre</title>
@@ -51,5 +43,13 @@
     <content>India Says Quebec Should Be Free #canada #india  India says it should have a referendum on Quebec’s independence from Canada. Also saying that Canada’s reputation is now being a “safe haven for terror”. This comes as India has suspended visa services for Canadians and has demanded that Canada reduce the amount of staff in it’s embassy in India. Saying that Canada has interfered in their domestic affairs… which actually kind of seems like admission of guilt. India continues to deny the accusation but Canada has rejected India’s denial and is urging India to cooperate in the investigation.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7281410415370964270" rel="alternate"/>
     <published>2023-09-21T22:31:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7281426848012061994</id>
+    <title>America abandons Canada #usa #canada  American has abandoned Canada. India has reportedly reached out to the US to offer to cooperate with Canada if they release the evidence publicly. It’s unclear why India didn’t just tell Canada this directly but it’s </title>
+    <updated>2023-09-21T23:35:06+00:00</updated>
+    <content>America abandons Canada #usa #canada  American has abandoned Canada. India has reportedly reached out to the US to offer to cooperate with Canada if they release the evidence publicly. It’s unclear why India didn’t just tell Canada this directly but it’s possible that the Indian government is just lying and is assuming the US won’t involve itself. India is having a full scale meltdown and is throwing gasoline on this fire, making themselves look more guilty in the process as Canada continues to wonder why the US and UK, who helped indict India, are staying silent. As one Canadian in our comments put it “America loves this kind of thing. They love to stick up for the little guy &amp; raise hell but not when it comes to us I guess. Maybe China would be a more dependable ally.”</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7281426848012061994" rel="alternate"/>
+    <published>2023-09-21T23:35:06+00:00</published>
   </entry>
 </feed>
