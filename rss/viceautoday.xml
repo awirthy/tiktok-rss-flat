@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-09-20T06:53:06+00:00</updated>
+  <updated>2023-09-21T07:04:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7278574977471859970</id>
-    <title>Labor’s $10 billion Housing Australia Future Fund bill has passed parliament after it was blocked for months by the Greens and the Opposition. So what is it and what will we get? #australia #news #housing #housingcrisis #rent #rentalcrisis #renter #haff #</title>
-    <updated>2023-09-14T07:08:22+00:00</updated>
-    <content>Labor’s $10 billion Housing Australia Future Fund bill has passed parliament after it was blocked for months by the Greens and the Opposition. So what is it and what will we get? #australia #news #housing #housingcrisis #rent #rentalcrisis #renter #haff #anthonyalbanese #adambandt #maxchandlermather #greens #labor #politics #auspolitics #explained #todayilearned #learnontiktok </content>
-    <link href="https://tiktok.com/@viceautoday/video/7278574977471859970" rel="alternate"/>
-    <published>2023-09-14T07:08:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7278915729729031431</id>
     <title>Macquarie Bank is set to phase out cash, moving completely to digital and e-banking. #australia #viceau #aunews #news </title>
@@ -51,5 +43,13 @@
     <content>Daniel Andrews has unveiled the Victorian Government’s Housing Statement – a 10-year plan to tackle the housing crisis by building 800,000 new homes and introducing an Airbnb levy, among a suite of other policies. Here’s what’s going on. #australia #news #victoria #melbourne #housing #housingcrisis #airbnb #tax #rent #rental #politics #auspol #danielandrews #holiday #holidayhome #todayilearned #learnontiktok </content>
     <link href="https://tiktok.com/@viceautoday/video/7280797552046329090" rel="alternate"/>
     <published>2023-09-20T06:53:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7281171559018958098</id>
+    <title>Abortion by doctors is now decriminalised across all states and territories. #australia #aunews #health #viceau </title>
+    <updated>2023-09-21T07:04:23+00:00</updated>
+    <content>Abortion by doctors is now decriminalised across all states and territories. #australia #aunews #health #viceau </content>
+    <link href="https://tiktok.com/@viceautoday/video/7281171559018958098" rel="alternate"/>
+    <published>2023-09-21T07:04:23+00:00</published>
   </entry>
 </feed>
