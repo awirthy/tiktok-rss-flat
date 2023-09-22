@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-09-21T23:00:00+00:00</updated>
+  <updated>2023-09-22T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7279085691785481515</id>
-    <title>Republicans in CO Are Trying to Keep Trump off the Ballot #Politics  #14thAmendment  #DonaldTrump  #2024</title>
-    <updated>2023-09-17T20:00:00+00:00</updated>
-    <content>Republicans in CO Are Trying to Keep Trump off the Ballot #Politics  #14thAmendment  #DonaldTrump  #2024</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7279085691785481515" rel="alternate"/>
-    <published>2023-09-17T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7280284426213379370</id>
     <title>Gov’t Loses Sleath F-35, Asks Public to Find It #Politics  #US  #F35  #Jet</title>
@@ -51,5 +43,13 @@
     <content>PA Could Sway 2024 Outcome with Automatic Voter Registration #Pennsylvania  #Politics  #Voting  #TaylorSwift</content>
     <link href="https://tiktok.com/@pdspolitics/video/7281400841347632427" rel="alternate"/>
     <published>2023-09-21T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7281405505623362859</id>
+    <title>“Disaster” Declared as Thousands of Migrants Cross into TX Town #Politics  #Texas  #Us  #eaglepass</title>
+    <updated>2023-09-22T20:00:00+00:00</updated>
+    <content>“Disaster” Declared as Thousands of Migrants Cross into TX Town #Politics  #Texas  #Us  #eaglepass</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7281405505623362859" rel="alternate"/>
+    <published>2023-09-22T20:00:00+00:00</published>
   </entry>
 </feed>
