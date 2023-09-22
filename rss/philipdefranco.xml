@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-09-21T23:35:06+00:00</updated>
+  <updated>2023-09-22T21:44:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7281006265705172267</id>
-    <title>Biden Met With The Stans #usa #swiftie  Biden met with the stans yesterday, and I’m not talking about the Barbs or the Swifties. Nope, I’m talking about Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan. This is the first C5+1 summit in Pre</title>
-    <updated>2023-09-20T20:23:02+00:00</updated>
-    <content>Biden Met With The Stans #usa #swiftie  Biden met with the stans yesterday, and I’m not talking about the Barbs or the Swifties. Nope, I’m talking about Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan. This is the first C5+1 summit in Presidential history. They discussed stronger regional security, connectivity, climate action, and governance. Central Asia asked Washington to not forget about them when they left Afghanistan, and sure enough they didn’t.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7281006265705172267" rel="alternate"/>
-    <published>2023-09-20T20:23:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7281038330848922922</id>
     <title>Pakistan Stands Up For Canada Amid Diplomatic Battle With India #canada #india #pakistan  India is warning its citizens traveling to Canada or living in Canada to exercise the utmost caution. They issued this warning in light of what they call “anti-India</title>
@@ -51,5 +43,13 @@
     <content>America abandons Canada #usa #canada  American has abandoned Canada. India has reportedly reached out to the US to offer to cooperate with Canada if they release the evidence publicly. It’s unclear why India didn’t just tell Canada this directly but it’s possible that the Indian government is just lying and is assuming the US won’t involve itself. India is having a full scale meltdown and is throwing gasoline on this fire, making themselves look more guilty in the process as Canada continues to wonder why the US and UK, who helped indict India, are staying silent. As one Canadian in our comments put it “America loves this kind of thing. They love to stick up for the little guy &amp; raise hell but not when it comes to us I guess. Maybe China would be a more dependable ally.”</content>
     <link href="https://tiktok.com/@philipdefranco/video/7281426848012061994" rel="alternate"/>
     <published>2023-09-21T23:35:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7281769554341088555</id>
+    <title>Canada Has India Dead To Rights #canada #india #usa  Canada has India dead to rights in the murder of a Canadian citizen. The Canadian government &amp; an unidentified Five Eyes member reportedly amassed tons of intelligence on India including communications </title>
+    <updated>2023-09-22T21:44:59+00:00</updated>
+    <content>Canada Has India Dead To Rights #canada #india #usa  Canada has India dead to rights in the murder of a Canadian citizen. The Canadian government &amp; an unidentified Five Eyes member reportedly amassed tons of intelligence on India including communications involving Indian officials themselves, including Indian diplomats present in Canada. This reportedly includes texts and recorded calls. Also Canadian officials say that when pressed behind closed doors, no Indian official has denied the bombshell allegation. The US now says that India will not get a free pass after public pressure mounted over the US’ initially staying silent over the row. President Biden reportedly raised the issue with Modi at the G20 which means that the evidence that India murdered a Canadian is rock solid enough for the President of the United States to take action on it.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7281769554341088555" rel="alternate"/>
+    <published>2023-09-22T21:44:59+00:00</published>
   </entry>
 </feed>
