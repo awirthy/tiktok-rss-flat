@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-09-21T07:04:23+00:00</updated>
+  <updated>2023-09-22T05:57:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7278915729729031431</id>
-    <title>Macquarie Bank is set to phase out cash, moving completely to digital and e-banking. #australia #viceau #aunews #news </title>
-    <updated>2023-09-15T05:10:38+00:00</updated>
-    <content>Macquarie Bank is set to phase out cash, moving completely to digital and e-banking. #australia #viceau #aunews #news </content>
-    <link href="https://tiktok.com/@viceautoday/video/7278915729729031431" rel="alternate"/>
-    <published>2023-09-15T05:10:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7280062809570938114</id>
     <title>‘Yes’ rallies for the Indigenous Voice to Parliament have drawn huge crowds around Australia, four weeks ahead of the referendum to change our constitution. #australia #news #firstnations #indigenous #voicetoparliament #referendum #auspol #politics #yes #</title>
@@ -51,5 +43,13 @@
     <content>Abortion by doctors is now decriminalised across all states and territories. #australia #aunews #health #viceau </content>
     <link href="https://tiktok.com/@viceautoday/video/7281171559018958098" rel="alternate"/>
     <published>2023-09-21T07:04:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7281525272866721025</id>
+    <title>Rupert Murdoch, the world’s most influencial media mogul, has stepped down as chair or Fox and News Corp, making way for his successor and eldest son Lachlan Murdoch. #australia #news #media #murdoch #rupertmurdoch #lachlanmurdoch #fox #foxnews #newscorp </title>
+    <updated>2023-09-22T05:57:00+00:00</updated>
+    <content>Rupert Murdoch, the world’s most influencial media mogul, has stepped down as chair or Fox and News Corp, making way for his successor and eldest son Lachlan Murdoch. #australia #news #media #murdoch #rupertmurdoch #lachlanmurdoch #fox #foxnews #newscorp #billionaire #newspaper #tv #succession #todayilearned #learnontiktok </content>
+    <link href="https://tiktok.com/@viceautoday/video/7281525272866721025" rel="alternate"/>
+    <published>2023-09-22T05:57:00+00:00</published>
   </entry>
 </feed>
