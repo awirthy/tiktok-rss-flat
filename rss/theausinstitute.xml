@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-09-19T23:31:15+00:00</updated>
+  <updated>2023-09-20T00:24:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7278170699775216914</id>
-    <title>While Australians are struggling to pay their rapidly growing bills, fossil fuel companies are making record profits. It's time to make fossil fuel companies pay the costs of climate change. #auspol #climatechange</title>
-    <updated>2023-09-13T04:59:35+00:00</updated>
-    <content>While Australians are struggling to pay their rapidly growing bills, fossil fuel companies are making record profits. It's time to make fossil fuel companies pay the costs of climate change. #auspol #climatechange</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7278170699775216914" rel="alternate"/>
-    <published>2023-09-13T04:59:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7278524717487738130</id>
     <title>Climate change induced natural disasters are driving up the cost of living, and Australians have had enough. Author of Climate of the Nation 2023 and Climate &amp; Energy Researcher Liz Morison on this week's episode of Follow the Money, unpacking how climate</title>
@@ -51,5 +43,13 @@
     <content>As the Australian Government tries to tell the UN Climate Ambition Summit in New York how much action it's taking on climate change, back home they're opening new gas &amp; coal mines. We called it out in an open letter in the New York Times signed by over 220 scientists &amp; experts, urging Australia to stop approving new fossil fuel projects. #auspol #climatechange #fyp</content>
     <link href="https://tiktok.com/@theausinstitute/video/7280683548225457409" rel="alternate"/>
     <published>2023-09-19T23:31:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7280696972980391176</id>
+    <title>"We've got climate refugees in Lismore." "We've got a fossil-fuel-funded energy crisis and cost-of-living crisis, right now." - Executive Director Richard Denniss #auspol #climatechange</title>
+    <updated>2023-09-20T00:24:05+00:00</updated>
+    <content>"We've got climate refugees in Lismore." "We've got a fossil-fuel-funded energy crisis and cost-of-living crisis, right now." - Executive Director Richard Denniss #auspol #climatechange</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7280696972980391176" rel="alternate"/>
+    <published>2023-09-20T00:24:05+00:00</published>
   </entry>
 </feed>
