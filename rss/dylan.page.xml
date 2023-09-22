@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-09-22T18:48:51+00:00</updated>
+  <updated>2023-09-22T19:28:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7280996928387566881</id>
-    <title>Would you be okay with this at your school?🤔</title>
-    <updated>2023-09-20T19:46:45+00:00</updated>
-    <content>Would you be okay with this at your school?🤔</content>
-    <link href="https://tiktok.com/@dylan.page/video/7280996928387566881" rel="alternate"/>
-    <published>2023-09-20T19:46:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7281285289153137952</id>
     <title>Was her sentence harsh or fair?🤔</title>
@@ -51,5 +43,13 @@
     <content>They were living life in that prison!🤯😂</content>
     <link href="https://tiktok.com/@dylan.page/video/7281724179789925665" rel="alternate"/>
     <published>2023-09-22T18:48:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7281734445504236832</id>
+    <title>Would you enter this art exhibition?🤔😂</title>
+    <updated>2023-09-22T19:28:42+00:00</updated>
+    <content>Would you enter this art exhibition?🤔😂</content>
+    <link href="https://tiktok.com/@dylan.page/video/7281734445504236832" rel="alternate"/>
+    <published>2023-09-22T19:28:42+00:00</published>
   </entry>
 </feed>
