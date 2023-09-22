@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-09-20T00:24:05+00:00</updated>
+  <updated>2023-09-22T02:29:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7278524717487738130</id>
-    <title>Climate change induced natural disasters are driving up the cost of living, and Australians have had enough. Author of Climate of the Nation 2023 and Climate &amp; Energy Researcher Liz Morison on this week's episode of Follow the Money, unpacking how climate</title>
-    <updated>2023-09-14T03:53:40+00:00</updated>
-    <content>Climate change induced natural disasters are driving up the cost of living, and Australians have had enough. Author of Climate of the Nation 2023 and Climate &amp; Energy Researcher Liz Morison on this week's episode of Follow the Money, unpacking how climate change is weighing on Australians' minds, despite the cost of living crisis. Listen to the full episode via link in bio. #auspol #climatechange</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7278524717487738130" rel="alternate"/>
-    <published>2023-09-14T03:53:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7278859318181596423</id>
     <title>"We don't actually have any national climate policy." "We have targets. We have no policy to drive change." - Executive Director Richard Denniss #auspol #climatechange</title>
@@ -51,5 +43,13 @@
     <content>"We've got climate refugees in Lismore." "We've got a fossil-fuel-funded energy crisis and cost-of-living crisis, right now." - Executive Director Richard Denniss #auspol #climatechange</content>
     <link href="https://tiktok.com/@theausinstitute/video/7280696972980391176" rel="alternate"/>
     <published>2023-09-20T00:24:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7281471539323718919</id>
+    <title>Price gouging from major companies is now the biggest factor in the cost of living crisis. Those blaming workers looking for a pay rise are wrong. "It's l ike blaming a homeowner whose house is on fire for using too much water to put out the flames." said</title>
+    <updated>2023-09-22T02:29:20+00:00</updated>
+    <content>Price gouging from major companies is now the biggest factor in the cost of living crisis. Those blaming workers looking for a pay rise are wrong. "It's l ike blaming a homeowner whose house is on fire for using too much water to put out the flames." said Greg Jericho, Chief Economist at the Australia Institute.  #auspol #ausecon</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7281471539323718919" rel="alternate"/>
+    <published>2023-09-22T02:29:20+00:00</published>
   </entry>
 </feed>
