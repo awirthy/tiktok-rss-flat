@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@davecairnsfilm</id>
   <title>davecairnsfilm TikTok</title>
-  <updated>2023-09-17T22:22:37+00:00</updated>
+  <updated>2023-09-23T12:12:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from davecairnsfilm</subtitle>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7277561766786206977</id>
-    <title>#stitch with @Gabriella Whiting 11 SEPTEMBER 2023 - #comedy #humor </title>
-    <updated>2023-09-11T13:36:36+00:00</updated>
-    <content>#stitch with @Gabriella Whiting 11 SEPTEMBER 2023 - #comedy #humor </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7277561766786206977" rel="alternate"/>
-    <published>2023-09-11T13:36:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@davecairnsfilm/video/7277884865381436673</id>
     <title>12 SEPTEMBER 2023 - #australia #politics #auspol #voicetoparliament #fairaustralia #advanceaustralia </title>
@@ -51,5 +43,13 @@
     <content>18 SEPTEMBER 2023 - #story #creativity #screenwriting #scriptwriting #popculture</content>
     <link href="https://tiktok.com/@davecairnsfilm/video/7279923801545100546" rel="alternate"/>
     <published>2023-09-17T22:22:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@davecairnsfilm/video/7281993112937843970</id>
+    <title>23 SEPTEMBER 2023 - #australia #politics #auspol #voicetoparliament #antieverything #nocampaign </title>
+    <updated>2023-09-23T12:12:26+00:00</updated>
+    <content>23 SEPTEMBER 2023 - #australia #politics #auspol #voicetoparliament #antieverything #nocampaign </content>
+    <link href="https://tiktok.com/@davecairnsfilm/video/7281993112937843970" rel="alternate"/>
+    <published>2023-09-23T12:12:26+00:00</published>
   </entry>
 </feed>
