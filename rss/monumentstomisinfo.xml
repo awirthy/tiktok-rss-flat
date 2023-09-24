@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-09-23T08:05:11+00:00</updated>
+  <updated>2023-09-24T08:12:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7281188150062451976</id>
-    <title>The voice ans treaty are separate but a treaty is also goated #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian</title>
-    <updated>2023-09-21T08:08:47+00:00</updated>
-    <content>The voice ans treaty are separate but a treaty is also goated #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian</content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7281188150062451976" rel="alternate"/>
-    <published>2023-09-21T08:08:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7281561825769016594</id>
-    <title>The NIAA is controlled by the minister, the voice isnt #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian</title>
-    <updated>2023-09-22T08:18:50+00:00</updated>
-    <content>The NIAA is controlled by the minister, the voice isnt #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian</content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7281561825769016594" rel="alternate"/>
-    <published>2023-09-22T08:18:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7281562067004362002</id>
     <title>Amazing stuff from @Jordie van den Berg #australianhousing #australianhousingmarket #australianhousingcrisis #HAFF </title>
@@ -51,5 +35,21 @@
     <content>Still deciding on this #voting #auspol #australianlaborparty #lowerthevotingage </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7281929393679666450" rel="alternate"/>
     <published>2023-09-23T08:05:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7282299600172502280</id>
+    <title>Replying to @Leonardo Puglisi We cop those #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian </title>
+    <updated>2023-09-24T08:01:46+00:00</updated>
+    <content>Replying to @Leonardo Puglisi We cop those #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7282299600172502280" rel="alternate"/>
+    <published>2023-09-24T08:01:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7282302324863732999</id>
+    <title>It’s a long path forward and there ain’t much time #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian </title>
+    <updated>2023-09-24T08:12:21+00:00</updated>
+    <content>It’s a long path forward and there ain’t much time #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7282302324863732999" rel="alternate"/>
+    <published>2023-09-24T08:12:21+00:00</published>
   </entry>
 </feed>
