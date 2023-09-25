@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-09-25T18:18:05+00:00</updated>
+  <updated>2023-09-25T15:54:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7281991890969382176</id>
+    <title>I couldn’t live in that neighbourhood 🤯</title>
+    <updated>2023-09-23T12:07:45+00:00</updated>
+    <content>I couldn’t live in that neighbourhood 🤯</content>
+    <link href="https://tiktok.com/@dylan.page/video/7281991890969382176" rel="alternate"/>
+    <published>2023-09-23T12:07:45+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7282057232911551776</id>
     <title>What do we think about this?!🤔😳 #iphone15 </title>
@@ -43,13 +51,5 @@
     <content>Samples from the asteroid Bennu have just arrived on earth!🚨</content>
     <link href="https://tiktok.com/@dylan.page/video/7282792591756725537" rel="alternate"/>
     <published>2023-09-25T15:54:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7282829500029701409</id>
-    <title>You gunna watch ads or pay the money?🤔</title>
-    <updated>2023-09-25T18:18:05+00:00</updated>
-    <content>You gunna watch ads or pay the money?🤔</content>
-    <link href="https://tiktok.com/@dylan.page/video/7282829500029701409" rel="alternate"/>
-    <published>2023-09-25T18:18:05+00:00</published>
   </entry>
 </feed>
