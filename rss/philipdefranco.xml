@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-09-25T16:45:05+00:00</updated>
+  <updated>2023-09-25T20:05:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7281410415370964270</id>
-    <title>India Says Quebec Should Be Free #canada #india  India says it should have a referendum on Quebec’s independence from Canada. Also saying that Canada’s reputation is now being a “safe haven for terror”. This comes as India has suspended visa services for </title>
-    <updated>2023-09-21T22:31:22+00:00</updated>
-    <content>India Says Quebec Should Be Free #canada #india  India says it should have a referendum on Quebec’s independence from Canada. Also saying that Canada’s reputation is now being a “safe haven for terror”. This comes as India has suspended visa services for Canadians and has demanded that Canada reduce the amount of staff in it’s embassy in India. Saying that Canada has interfered in their domestic affairs… which actually kind of seems like admission of guilt. India continues to deny the accusation but Canada has rejected India’s denial and is urging India to cooperate in the investigation.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7281410415370964270" rel="alternate"/>
-    <published>2023-09-21T22:31:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7281426848012061994</id>
     <title>America abandons Canada #usa #canada  American has abandoned Canada. India has reportedly reached out to the US to offer to cooperate with Canada if they release the evidence publicly. It’s unclear why India didn’t just tell Canada this directly but it’s </title>
@@ -51,5 +43,13 @@
     <content>India Threatens To Kill Americans #usa #india  The FBI has visited Sikh leaders in the United States to warn them that there have been credible threats against their lives from India. This comes after India murdered a Canadian Sikh leader. Across the United States, local law enforcement is reportedly reaching out to Sikh communities with warnings regarding potential threats from India. America is India’s largest trade partner and killing an American in the US would undoubtedly result in India’s economy being completely crippled, if not military action. The US says there must be accountability from India.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7282805487853145386" rel="alternate"/>
     <published>2023-09-25T16:45:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7282857074013375790</id>
+    <title>Russia Rejects Peace, Wants To Settle It On Battlefield #ukraine #russia  Russia has rejected Ukraine’s peace plan because they want to “settle it on the Battlefield” instead. Just this past week, Ukraine struck the Black Sea Headquarters in Crimea - kill</title>
+    <updated>2023-09-25T20:05:11+00:00</updated>
+    <content>Russia Rejects Peace, Wants To Settle It On Battlefield #ukraine #russia  Russia has rejected Ukraine’s peace plan because they want to “settle it on the Battlefield” instead. Just this past week, Ukraine struck the Black Sea Headquarters in Crimea - killing the commander of the Black Sea Fleet. Meanwhile American tanks have finally arrived in Ukraine with Depleted uranium rounds. And while Ukraine’s counteroffensive has been moving slower than expected, their shaping operation in Crimea has seen great success.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7282857074013375790" rel="alternate"/>
+    <published>2023-09-25T20:05:11+00:00</published>
   </entry>
 </feed>
