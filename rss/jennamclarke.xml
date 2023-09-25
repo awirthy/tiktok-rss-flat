@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jennamclarke</id>
   <title>jennamclarke TikTok</title>
-  <updated>2023-09-21T11:24:23+00:00</updated>
+  <updated>2023-09-25T07:09:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jennamclarke</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jennamclarke/video/7277535104669404417</id>
-    <title>4 things to know before ☕️ on Tuesday  Including #kylieandtimothee #cocogauff #annastaciapalaszczuk </title>
-    <updated>2023-09-11T11:53:09+00:00</updated>
-    <content>4 things to know before ☕️ on Tuesday  Including #kylieandtimothee #cocogauff #annastaciapalaszczuk </content>
-    <link href="https://tiktok.com/@jennamclarke/video/7277535104669404417" rel="alternate"/>
-    <published>2023-09-11T11:53:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jennamclarke/video/7277907930421251330</id>
     <title>4 things to know before ☕️ on Wednesday including #thevoice #howtovote #australia #katemiddleton #mcqueen #sarahburton #collingwood #afltribunal #auspol #news </title>
@@ -51,5 +43,13 @@
     <content>4 things to know before ☕️ on Friday  #covid #bulldust #deltagoodrem #taylorsversion #elonmusk </content>
     <link href="https://tiktok.com/@jennamclarke/video/7281238550799043842" rel="alternate"/>
     <published>2023-09-21T11:24:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jennamclarke/video/7282657237338705153</id>
+    <title>#bencousins predicts the #brownlow and who’ll win the #collingwood v #brisbanelions grand final in rhe #afl </title>
+    <updated>2023-09-25T07:09:37+00:00</updated>
+    <content>#bencousins predicts the #brownlow and who’ll win the #collingwood v #brisbanelions grand final in rhe #afl </content>
+    <link href="https://tiktok.com/@jennamclarke/video/7282657237338705153" rel="alternate"/>
+    <published>2023-09-25T07:09:37+00:00</published>
   </entry>
 </feed>
