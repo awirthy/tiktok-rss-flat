@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-09-22T05:25:20+00:00</updated>
+  <updated>2023-09-25T05:26:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7280386303781276936</id>
-    <title>Australian food retailers make $1.2 billion in profit each year from household food waste. That's 1.2 billion reasons to resist systemic change. Read the full report on our website, link in bio. #auspol</title>
-    <updated>2023-09-19T04:17:31+00:00</updated>
-    <content>Australian food retailers make $1.2 billion in profit each year from household food waste. That's 1.2 billion reasons to resist systemic change. Read the full report on our website, link in bio. #auspol</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7280386303781276936" rel="alternate"/>
-    <published>2023-09-19T04:17:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7280683548225457409</id>
     <title>As the Australian Government tries to tell the UN Climate Ambition Summit in New York how much action it's taking on climate change, back home they're opening new gas &amp; coal mines. We called it out in an open letter in the New York Times signed by over 22</title>
@@ -51,5 +43,13 @@
     <content>"It's a fundamental truism that when you engage the people that you're making laws and decisions about, you get better governance, you get better decision making." - Pat Anderson AO, Alyawarre woman and architect of the Uluru Statement from the Heart Watch the full video answering your questions on the Voice to Parliament on our Youtube channel. #auspol #voicetoparliament</content>
     <link href="https://tiktok.com/@theausinstitute/video/7281516966408391944" rel="alternate"/>
     <published>2023-09-22T05:25:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7282630529160072455</id>
+    <title>"I think even people who probably don't even support the Voice agree that there has to be change. The status quo hasn't worked." "The missing ingredient is we haven't been sitting at the table with you." - Pat Anderson AO, Alyawarre woman and architect of</title>
+    <updated>2023-09-25T05:26:45+00:00</updated>
+    <content>"I think even people who probably don't even support the Voice agree that there has to be change. The status quo hasn't worked." "The missing ingredient is we haven't been sitting at the table with you." - Pat Anderson AO, Alyawarre woman and architect of the Uluru Statement from the Heart. Watch the full Q&amp;A on our Youtube channel. #auspol</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7282630529160072455" rel="alternate"/>
+    <published>2023-09-25T05:26:45+00:00</published>
   </entry>
 </feed>
