@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-09-25T20:05:11+00:00</updated>
+  <updated>2023-09-26T19:02:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7281426848012061994</id>
-    <title>America abandons Canada #usa #canada  American has abandoned Canada. India has reportedly reached out to the US to offer to cooperate with Canada if they release the evidence publicly. It’s unclear why India didn’t just tell Canada this directly but it’s </title>
-    <updated>2023-09-21T23:35:06+00:00</updated>
-    <content>America abandons Canada #usa #canada  American has abandoned Canada. India has reportedly reached out to the US to offer to cooperate with Canada if they release the evidence publicly. It’s unclear why India didn’t just tell Canada this directly but it’s possible that the Indian government is just lying and is assuming the US won’t involve itself. India is having a full scale meltdown and is throwing gasoline on this fire, making themselves look more guilty in the process as Canada continues to wonder why the US and UK, who helped indict India, are staying silent. As one Canadian in our comments put it “America loves this kind of thing. They love to stick up for the little guy &amp; raise hell but not when it comes to us I guess. Maybe China would be a more dependable ally.”</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7281426848012061994" rel="alternate"/>
-    <published>2023-09-21T23:35:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7281769554341088555</id>
     <title>Canada Has India Dead To Rights #canada #india #usa  Canada has India dead to rights in the murder of a Canadian citizen. The Canadian government &amp; an unidentified Five Eyes member reportedly amassed tons of intelligence on India including communications </title>
@@ -51,5 +43,13 @@
     <content>Russia Rejects Peace, Wants To Settle It On Battlefield #ukraine #russia  Russia has rejected Ukraine’s peace plan because they want to “settle it on the Battlefield” instead. Just this past week, Ukraine struck the Black Sea Headquarters in Crimea - killing the commander of the Black Sea Fleet. Meanwhile American tanks have finally arrived in Ukraine with Depleted uranium rounds. And while Ukraine’s counteroffensive has been moving slower than expected, their shaping operation in Crimea has seen great success.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7282857074013375790" rel="alternate"/>
     <published>2023-09-25T20:05:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7283211994537184555</id>
+    <title>US Deploys F-16s To Enforce No-Fly Zone #usa #ukraine  The US has deployed F-16s to Romania to enforce the new no fly zone. The No-Fly Zone extends 30 kilometers from Romania’s eastern border and will allow them to shoot down any missiles or drones approa</title>
+    <updated>2023-09-26T19:02:33+00:00</updated>
+    <content>US Deploys F-16s To Enforce No-Fly Zone #usa #ukraine  The US has deployed F-16s to Romania to enforce the new no fly zone. The No-Fly Zone extends 30 kilometers from Romania’s eastern border and will allow them to shoot down any missiles or drones approaching their borders. This comes after Russia kept hitting Romania when they were attacking Ukraine.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7283211994537184555" rel="alternate"/>
+    <published>2023-09-26T19:02:33+00:00</published>
   </entry>
 </feed>
