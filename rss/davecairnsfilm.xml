@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@davecairnsfilm</id>
   <title>davecairnsfilm TikTok</title>
-  <updated>2023-09-25T12:05:40+00:00</updated>
+  <updated>2023-09-26T10:51:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from davecairnsfilm</subtitle>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7281993112937843970</id>
-    <title>23 SEPTEMBER 2023 - #australia #politics #auspol #voicetoparliament #antieverything #nocampaign </title>
-    <updated>2023-09-23T12:12:26+00:00</updated>
-    <content>23 SEPTEMBER 2023 - #australia #politics #auspol #voicetoparliament #antieverything #nocampaign </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7281993112937843970" rel="alternate"/>
-    <published>2023-09-23T12:12:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@davecairnsfilm/video/7282375412599065858</id>
     <title>24 SEPTEMBER 2023 - #australia #usa #uk #media #politics #journalism #newscorp #foxnews #murdoch</title>
@@ -51,5 +43,13 @@
     <content>25 SEPTEMBER 2023 - #writing #scriptwriting #screen #tv #popculture #creativity</content>
     <link href="https://tiktok.com/@davecairnsfilm/video/7282733527920053506" rel="alternate"/>
     <published>2023-09-25T12:05:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@davecairnsfilm/video/7283085569641565441</id>
+    <title>26 SEPTEMBER 2023 - #australia #victoria #politics #auspol #danandrews #melbourne</title>
+    <updated>2023-09-26T10:51:45+00:00</updated>
+    <content>26 SEPTEMBER 2023 - #australia #victoria #politics #auspol #danandrews #melbourne</content>
+    <link href="https://tiktok.com/@davecairnsfilm/video/7283085569641565441" rel="alternate"/>
+    <published>2023-09-26T10:51:45+00:00</published>
   </entry>
 </feed>
