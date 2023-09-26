@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-09-25T23:00:00+00:00</updated>
+  <updated>2023-09-26T23:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7281400841347632427</id>
-    <title>PA Could Sway 2024 Outcome with Automatic Voter Registration #Pennsylvania  #Politics  #Voting  #TaylorSwift</title>
-    <updated>2023-09-21T23:00:00+00:00</updated>
-    <content>PA Could Sway 2024 Outcome with Automatic Voter Registration #Pennsylvania  #Politics  #Voting  #TaylorSwift</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7281400841347632427" rel="alternate"/>
-    <published>2023-09-21T23:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7281405505623362859</id>
     <title>“Disaster” Declared as Thousands of Migrants Cross into TX Town #Politics  #Texas  #Us  #eaglepass</title>
@@ -51,5 +43,13 @@
     <content>Sen. Menendez Charged with Bribery Related to Foreign Military Aid #Senate  #Politics  #US  #Egypt</content>
     <link href="https://tiktok.com/@pdspolitics/video/7282892417471171883" rel="alternate"/>
     <published>2023-09-25T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7283256040970571054</id>
+    <title>Supreme Court Rejects Alabama’s Voting Map, Which Marginalized Black Voters  #Alabama  #Politics  #SupremeCourt  #US</title>
+    <updated>2023-09-26T23:00:00+00:00</updated>
+    <content>Supreme Court Rejects Alabama’s Voting Map, Which Marginalized Black Voters  #Alabama  #Politics  #SupremeCourt  #US</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7283256040970571054" rel="alternate"/>
+    <published>2023-09-26T23:00:00+00:00</published>
   </entry>
 </feed>
