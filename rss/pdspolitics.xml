@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-09-26T23:00:00+00:00</updated>
+  <updated>2023-09-26T23:22:06.012926+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,44 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7281405505623362859</id>
-    <title>“Disaster” Declared as Thousands of Migrants Cross into TX Town #Politics  #Texas  #Us  #eaglepass</title>
-    <updated>2023-09-22T20:00:00+00:00</updated>
-    <content>“Disaster” Declared as Thousands of Migrants Cross into TX Town #Politics  #Texas  #Us  #eaglepass</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7281405505623362859" rel="alternate"/>
-    <published>2023-09-22T20:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7281680271328496938</id>
-    <title>West Point Sued over Affirmative Action Admissions #Military  #Army  #Politics  #AffirmativeAction</title>
-    <updated>2023-09-23T20:00:00+00:00</updated>
-    <content>West Point Sued over Affirmative Action Admissions #Military  #Army  #Politics  #AffirmativeAction</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7281680271328496938" rel="alternate"/>
-    <published>2023-09-23T20:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7281685101996657966</id>
-    <title>Hunter Biden Sues IRS After Indictment #HunterBiden  #US  #Politics  #Lawsuit</title>
-    <updated>2023-09-24T20:00:00+00:00</updated>
-    <content>Hunter Biden Sues IRS After Indictment #HunterBiden  #US  #Politics  #Lawsuit</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7281685101996657966" rel="alternate"/>
-    <published>2023-09-24T20:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7282892417471171883</id>
-    <title>Sen. Menendez Charged with Bribery Related to Foreign Military Aid #Senate  #Politics  #US  #Egypt</title>
-    <updated>2023-09-25T23:00:00+00:00</updated>
-    <content>Sen. Menendez Charged with Bribery Related to Foreign Military Aid #Senate  #Politics  #US  #Egypt</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7282892417471171883" rel="alternate"/>
-    <published>2023-09-25T23:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7283256040970571054</id>
-    <title>Supreme Court Rejects Alabama’s Voting Map, Which Marginalized Black Voters  #Alabama  #Politics  #SupremeCourt  #US</title>
-    <updated>2023-09-26T23:00:00+00:00</updated>
-    <content>Supreme Court Rejects Alabama’s Voting Map, Which Marginalized Black Voters  #Alabama  #Politics  #SupremeCourt  #US</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7283256040970571054" rel="alternate"/>
-    <published>2023-09-26T23:00:00+00:00</published>
-  </entry>
 </feed>
