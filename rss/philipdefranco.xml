@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-09-26T19:02:33+00:00</updated>
+  <updated>2023-09-26T20:33:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7281769554341088555</id>
-    <title>Canada Has India Dead To Rights #canada #india #usa  Canada has India dead to rights in the murder of a Canadian citizen. The Canadian government &amp; an unidentified Five Eyes member reportedly amassed tons of intelligence on India including communications </title>
-    <updated>2023-09-22T21:44:59+00:00</updated>
-    <content>Canada Has India Dead To Rights #canada #india #usa  Canada has India dead to rights in the murder of a Canadian citizen. The Canadian government &amp; an unidentified Five Eyes member reportedly amassed tons of intelligence on India including communications involving Indian officials themselves, including Indian diplomats present in Canada. This reportedly includes texts and recorded calls. Also Canadian officials say that when pressed behind closed doors, no Indian official has denied the bombshell allegation. The US now says that India will not get a free pass after public pressure mounted over the US’ initially staying silent over the row. President Biden reportedly raised the issue with Modi at the G20 which means that the evidence that India murdered a Canadian is rock solid enough for the President of the United States to take action on it.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7281769554341088555" rel="alternate"/>
-    <published>2023-09-22T21:44:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7282086898871455022</id>
     <title>US Navy Is Creating UFOs #usa #america  The US Navy may be creating UFOs unintentionally and that is likely why there are increasing sightings. For at least the past two decades, the US Navy has been researching Laser-Plasma and 3 years ago, they patented</title>
@@ -51,5 +43,13 @@
     <content>US Deploys F-16s To Enforce No-Fly Zone #usa #ukraine  The US has deployed F-16s to Romania to enforce the new no fly zone. The No-Fly Zone extends 30 kilometers from Romania’s eastern border and will allow them to shoot down any missiles or drones approaching their borders. This comes after Russia kept hitting Romania when they were attacking Ukraine.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7283211994537184555" rel="alternate"/>
     <published>2023-09-26T19:02:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7283235540193856811</id>
+    <title>Canadian Pilot Changes Call Sign To What?! #canada #uk  Yesterday a Canadian fighter jet changed its call sign to “D**K69” while it was flying over the UK. Canada says it’s investigating the name change, adding that it was inappropriate and unapproved. Ca</title>
+    <updated>2023-09-26T20:33:53+00:00</updated>
+    <content>Canadian Pilot Changes Call Sign To What?! #canada #uk  Yesterday a Canadian fighter jet changed its call sign to “D**K69” while it was flying over the UK. Canada says it’s investigating the name change, adding that it was inappropriate and unapproved. Call signs contain four letters and two numbers. They are assigned to pilots and usually remain unchanged. And this Canadian pilot changed their call sign from BLDE11 to D**K69. They could be facing a stiff punishment.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7283235540193856811" rel="alternate"/>
+    <published>2023-09-26T20:33:53+00:00</published>
   </entry>
 </feed>
