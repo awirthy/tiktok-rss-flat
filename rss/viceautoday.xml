@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-09-26T06:41:47+00:00</updated>
+  <updated>2023-09-27T07:38:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7280797552046329090</id>
-    <title>Daniel Andrews has unveiled the Victorian Government’s Housing Statement – a 10-year plan to tackle the housing crisis by building 800,000 new homes and introducing an Airbnb levy, among a suite of other policies. Here’s what’s going on. #australia #news </title>
-    <updated>2023-09-20T06:53:06+00:00</updated>
-    <content>Daniel Andrews has unveiled the Victorian Government’s Housing Statement – a 10-year plan to tackle the housing crisis by building 800,000 new homes and introducing an Airbnb levy, among a suite of other policies. Here’s what’s going on. #australia #news #victoria #melbourne #housing #housingcrisis #airbnb #tax #rent #rental #politics #auspol #danielandrews #holiday #holidayhome #todayilearned #learnontiktok </content>
-    <link href="https://tiktok.com/@viceautoday/video/7280797552046329090" rel="alternate"/>
-    <published>2023-09-20T06:53:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7281171559018958098</id>
     <title>Abortion by doctors is now decriminalised across all states and territories. #australia #aunews #health #viceau </title>
@@ -51,5 +43,13 @@
     <content>Victoria’s longest serving Labor premier, Daniel Andrews, has resigned. Now what? #australia #aunews #auspol #viceau </content>
     <link href="https://tiktok.com/@viceautoday/video/7283021159543688466" rel="alternate"/>
     <published>2023-09-26T06:41:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7283406858558164225</id>
+    <title>Jacinta Allan is the new Victorian Premier with Ben Carroll as her Deputy after Daniel Andrews’ resignation. So who are they and what can we expect from them? #australia #news #politics #auspol #victoria #melbourne #bendigo #danielandrews #jacintaallan #p</title>
+    <updated>2023-09-27T07:38:31+00:00</updated>
+    <content>Jacinta Allan is the new Victorian Premier with Ben Carroll as her Deputy after Daniel Andrews’ resignation. So who are they and what can we expect from them? #australia #news #politics #auspol #victoria #melbourne #bendigo #danielandrews #jacintaallan #premier #premiership #vote #todayilearned #learnwithtiktok </content>
+    <link href="https://tiktok.com/@viceautoday/video/7283406858558164225" rel="alternate"/>
+    <published>2023-09-27T07:38:31+00:00</published>
   </entry>
 </feed>
