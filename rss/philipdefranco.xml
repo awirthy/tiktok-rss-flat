@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-09-27T16:45:59+00:00</updated>
+  <updated>2023-09-27T20:21:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7282805487853145386</id>
-    <title>India Threatens To Kill Americans #usa #india  The FBI has visited Sikh leaders in the United States to warn them that there have been credible threats against their lives from India. This comes after India murdered a Canadian Sikh leader. Across the Unit</title>
-    <updated>2023-09-25T16:45:05+00:00</updated>
-    <content>India Threatens To Kill Americans #usa #india  The FBI has visited Sikh leaders in the United States to warn them that there have been credible threats against their lives from India. This comes after India murdered a Canadian Sikh leader. Across the United States, local law enforcement is reportedly reaching out to Sikh communities with warnings regarding potential threats from India. America is India’s largest trade partner and killing an American in the US would undoubtedly result in India’s economy being completely crippled, if not military action. The US says there must be accountability from India.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7282805487853145386" rel="alternate"/>
-    <published>2023-09-25T16:45:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7282857074013375790</id>
     <title>Russia Rejects Peace, Wants To Settle It On Battlefield #ukraine #russia  Russia has rejected Ukraine’s peace plan because they want to “settle it on the Battlefield” instead. Just this past week, Ukraine struck the Black Sea Headquarters in Crimea - kill</title>
@@ -51,5 +43,13 @@
     <content>China Saved US Soldier From North Korea #usa #korea  The US soldier who ran into North Korea is now in American custody. Sweden and China worked diplomatic channels on behalf of the US to get the soldier released. North Korea then transferred him to China who gave him back to the United States. The US has thanked Sweden and China for helping bring Private King home. North Korea deported him for illegally crossing into the country. He must have been messing up the feel good vibes North Korea is so famous for. China Saved US Soldier From North Korea The US soldier who ran into North Korea is now in American custody. Sweden and China worked diplomatic channels on behalf of the US to get the soldier released. North Korea then transferred him to China who gave him back to the United States. The US has thanked Sweden and China for helping bring Private King home. North Korea deported him for illegally crossing into the country. He must have been messing up the feel good vibes North Korea is so famous for.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7283547924317965614" rel="alternate"/>
     <published>2023-09-27T16:45:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7283603550100294954</id>
+    <title>Gamer Leaks Classified Document To Win War Thunder Argument #usa #warthunder  For the third time this month, gamers have leaked restricted military documents on the war thunder forums. This time it’s the manual to the Apache helicopter which was supposed </title>
+    <updated>2023-09-27T20:21:53+00:00</updated>
+    <content>Gamer Leaks Classified Document To Win War Thunder Argument #usa #warthunder  For the third time this month, gamers have leaked restricted military documents on the war thunder forums. This time it’s the manual to the Apache helicopter which was supposed to be for the DoD only. Earlier this month, a user leaked part of the manual to the F-117 Nighthawk’s flight manual. War Thunder’s dedication to realism is its Achilles heal as players often resort to leaking classified documents in order to settle online arguments… which has happened at least 13 times.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7283603550100294954" rel="alternate"/>
+    <published>2023-09-27T20:21:53+00:00</published>
   </entry>
 </feed>
