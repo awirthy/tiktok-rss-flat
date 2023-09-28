@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-09-28T09:19:41+00:00</updated>
+  <updated>2023-09-28T13:37:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7282440356828859680</id>
-    <title>What is going on with the iPhone 15?!🤔😳 #crackgate </title>
-    <updated>2023-09-24T17:08:00+00:00</updated>
-    <content>What is going on with the iPhone 15?!🤔😳 #crackgate </content>
-    <link href="https://tiktok.com/@dylan.page/video/7282440356828859680" rel="alternate"/>
-    <published>2023-09-24T17:08:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7282471641685216544</id>
     <title>Do you think this a good or bad idea??🤔</title>
@@ -51,5 +43,13 @@
     <content>Which creator should’ve been in the top 10 instead??🤔</content>
     <link href="https://tiktok.com/@dylan.page/video/7283803975902661920" rel="alternate"/>
     <published>2023-09-28T09:19:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7283870388872891680</id>
+    <title>RIP Sir Michael Gambon 🫡 💔😔</title>
+    <updated>2023-09-28T13:37:19+00:00</updated>
+    <content>RIP Sir Michael Gambon 🫡 💔😔</content>
+    <link href="https://tiktok.com/@dylan.page/video/7283870388872891680" rel="alternate"/>
+    <published>2023-09-28T13:37:19+00:00</published>
   </entry>
 </feed>
