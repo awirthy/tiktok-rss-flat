@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-09-29T19:05:38+00:00</updated>
+  <updated>2023-09-30T13:35:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7283116643910159649</id>
-    <title>This is what’s actually happening with the Sony hack situation!🚨</title>
-    <updated>2023-09-26T12:52:20+00:00</updated>
-    <content>This is what’s actually happening with the Sony hack situation!🚨</content>
-    <link href="https://tiktok.com/@dylan.page/video/7283116643910159649" rel="alternate"/>
-    <published>2023-09-26T12:52:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7283803975902661920</id>
     <title>Which creator should’ve been in the top 10 instead??🤔</title>
@@ -51,5 +43,13 @@
     <content>This is tragic😢 💔Should someone be accountable or is this the risk of boxing??🤔</content>
     <link href="https://tiktok.com/@dylan.page/video/7284326094663109920" rel="alternate"/>
     <published>2023-09-29T19:05:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7284611997734571297</id>
+    <title>New Yorks flooding got so bad that a Sea Lion swam out its enclosure!😳😂</title>
+    <updated>2023-09-30T13:35:07+00:00</updated>
+    <content>New Yorks flooding got so bad that a Sea Lion swam out its enclosure!😳😂</content>
+    <link href="https://tiktok.com/@dylan.page/video/7284611997734571297" rel="alternate"/>
+    <published>2023-09-30T13:35:07+00:00</published>
   </entry>
 </feed>
