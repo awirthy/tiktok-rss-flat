@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-10-01T10:16:38+00:00</updated>
+  <updated>2023-10-01T20:22:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7283950032540142881</id>
-    <title>MAY NEWSDADDY NEVER BE BANNED!!🚨🫡😤 i need you guys to runnnnn it uppp!!! </title>
-    <updated>2023-09-28T18:46:20+00:00</updated>
-    <content>MAY NEWSDADDY NEVER BE BANNED!!🚨🫡😤 i need you guys to runnnnn it uppp!!! </content>
-    <link href="https://tiktok.com/@dylan.page/video/7283950032540142881" rel="alternate"/>
-    <published>2023-09-28T18:46:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7284326094663109920</id>
     <title>This is tragic😢 💔Should someone be accountable or is this the risk of boxing??🤔</title>
@@ -51,5 +43,13 @@
     <content>Who would be the best to watch in here?!🤔🤯</content>
     <link href="https://tiktok.com/@dylan.page/video/7284931932285160737" rel="alternate"/>
     <published>2023-10-01T10:16:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7285088078794919200</id>
+    <title>I WILL be Mr.Beast verified before 2024!😤</title>
+    <updated>2023-10-01T20:22:32+00:00</updated>
+    <content>I WILL be Mr.Beast verified before 2024!😤</content>
+    <link href="https://tiktok.com/@dylan.page/video/7285088078794919200" rel="alternate"/>
+    <published>2023-10-01T20:22:32+00:00</published>
   </entry>
 </feed>
