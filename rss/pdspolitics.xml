@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-10-01T20:00:00+00:00</updated>
+  <updated>2023-10-02T23:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7283630026363522350</id>
-    <title>Judge: Trump Committed Fraud, Loses NYC Businesses #DonaldTrump  #NewYork  #NYC  #Politics</title>
-    <updated>2023-09-27T23:00:00+00:00</updated>
-    <content>Judge: Trump Committed Fraud, Loses NYC Businesses #DonaldTrump  #NewYork  #NYC  #Politics</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7283630026363522350" rel="alternate"/>
-    <published>2023-09-27T23:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7284000977722789166</id>
     <title>Senate Mandates Dress Code After Fetterman in Shorts Debate #JohnFetterman  #Politics  #US  #KevinJames</title>
@@ -51,5 +43,13 @@
     <content>Louisiana Facing Imminent Water Crisis #Louisiana  #Water  #Politics  #NewOrleans</content>
     <link href="https://tiktok.com/@pdspolitics/video/7284297971242454314" rel="alternate"/>
     <published>2023-10-01T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7285482425742921002</id>
+    <title>Far Right Reps. Move to Oust Kevin McCarthy #KevinMcCarthy  #Politics  #Republican  #MattGaetz</title>
+    <updated>2023-10-02T23:00:00+00:00</updated>
+    <content>Far Right Reps. Move to Oust Kevin McCarthy #KevinMcCarthy  #Politics  #Republican  #MattGaetz</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7285482425742921002" rel="alternate"/>
+    <published>2023-10-02T23:00:00+00:00</published>
   </entry>
 </feed>
