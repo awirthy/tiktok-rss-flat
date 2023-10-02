@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-09-29T05:51:40+00:00</updated>
+  <updated>2023-10-02T05:57:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7275900993294912769</id>
-    <title>Not So Boring AFL Footy Chants!! 😂 Thoughts? #afl #footy #collingwood #melbourne #mcg </title>
-    <updated>2023-09-07T02:12:00+00:00</updated>
-    <content>Not So Boring AFL Footy Chants!! 😂 Thoughts? #afl #footy #collingwood #melbourne #mcg </content>
-    <link href="https://tiktok.com/@jimmyrees/video/7275900993294912769" rel="alternate"/>
-    <published>2023-09-07T02:12:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7277412224216386823</id>
     <title>No So Emergency Department PART 2: No Tay Tay tickets 🥴🤣😅 #notsoemergencydepartment</title>
@@ -51,5 +43,13 @@
     <content>Don’t talk to me until I’ve had my morning coffee…anyone else? 🤣!!! Made exactly as you like it by McCafé 😉 @McDonald’s Australia #ad</content>
     <link href="https://tiktok.com/@jimmyrees/video/7284121483801054466" rel="alternate"/>
     <published>2023-09-29T05:51:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7285236024165371137</id>
+    <title>I'm on an epic quest...to find the ultimate @audible listen! What's your favourite audiobook? #audible #ad</title>
+    <updated>2023-10-02T05:57:06+00:00</updated>
+    <content>I'm on an epic quest...to find the ultimate @audible listen! What's your favourite audiobook? #audible #ad</content>
+    <link href="https://tiktok.com/@jimmyrees/video/7285236024165371137" rel="alternate"/>
+    <published>2023-10-02T05:57:06+00:00</published>
   </entry>
 </feed>
