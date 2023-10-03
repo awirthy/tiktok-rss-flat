@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-09-30T15:30:13+00:00</updated>
+  <updated>2023-10-03T20:59:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7283235540193856811</id>
-    <title>Canadian Pilot Changes Call Sign To What?! #canada #uk  Yesterday a Canadian fighter jet changed its call sign to “D**K69” while it was flying over the UK. Canada says it’s investigating the name change, adding that it was inappropriate and unapproved. Ca</title>
-    <updated>2023-09-26T20:33:53+00:00</updated>
-    <content>Canadian Pilot Changes Call Sign To What?! #canada #uk  Yesterday a Canadian fighter jet changed its call sign to “D**K69” while it was flying over the UK. Canada says it’s investigating the name change, adding that it was inappropriate and unapproved. Call signs contain four letters and two numbers. They are assigned to pilots and usually remain unchanged. And this Canadian pilot changed their call sign from BLDE11 to D**K69. They could be facing a stiff punishment.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7283235540193856811" rel="alternate"/>
-    <published>2023-09-26T20:33:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7283547924317965614</id>
     <title>China Saved US Soldier From North Korea #usa #korea  The US soldier who ran into North Korea is now in American custody. Sweden and China worked diplomatic channels on behalf of the US to get the soldier released. North Korea then transferred him to China</title>
@@ -51,5 +43,13 @@
     <content>Serbia Prepares Invasion of Kosovo &amp; NATO #usa #europe  Serbia could attack NATO and Kosovo soon. The US just delivered an unusually specific warning about a potential Serbian military action into Kosovo. Saying they’re monitoring a larger Serbian deployment on the border of Kosovo including an “unprecedented forward deployment and staging of artillery, tanks, and service members”. The US called on Serbia to withdraw their forces, and said that it’s destabilizing. When asked if Serbia was going to invade Kosovo, the White House said “we’re looking at it but we can’t say right now”. NATO has deployed more forces to Kosovo in light of this, and Britain has placed more troops under NATO command.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7284641615698808106" rel="alternate"/>
     <published>2023-09-30T15:30:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7285839716237200682</id>
+    <title>US Speaker Removed For First Time In History #usa #america  For the first time in American history, the speaker of the house has been removed. Needing only 5 votes to can him, McCarthy’s fellow Republicans cannibalized him after he worked with Democrats t</title>
+    <updated>2023-10-03T20:59:36+00:00</updated>
+    <content>US Speaker Removed For First Time In History #usa #america  For the first time in American history, the speaker of the house has been removed. Needing only 5 votes to can him, McCarthy’s fellow Republicans cannibalized him after he worked with Democrats to prevent the government from shutting down. Democrats said McCarthy wasn't a man of his word, and refused to save his speakership. Kevin was speaker for 270 days, which is about 25 Scaramuccis.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7285839716237200682" rel="alternate"/>
+    <published>2023-10-03T20:59:36+00:00</published>
   </entry>
 </feed>
