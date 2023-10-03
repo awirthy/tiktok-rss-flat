@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-10-02T23:00:00+00:00</updated>
+  <updated>2023-10-03T23:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7284000977722789166</id>
-    <title>Senate Mandates Dress Code After Fetterman in Shorts Debate #JohnFetterman  #Politics  #US  #KevinJames</title>
-    <updated>2023-09-28T23:00:00+00:00</updated>
-    <content>Senate Mandates Dress Code After Fetterman in Shorts Debate #JohnFetterman  #Politics  #US  #KevinJames</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7284000977722789166" rel="alternate"/>
-    <published>2023-09-28T23:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7284315931784973614</id>
     <title>Dianne Feinstein passes away at 90 #DianneFeinstein  #Politics  #US</title>
@@ -51,5 +43,13 @@
     <content>Far Right Reps. Move to Oust Kevin McCarthy #KevinMcCarthy  #Politics  #Republican  #MattGaetz</content>
     <link href="https://tiktok.com/@pdspolitics/video/7285482425742921002" rel="alternate"/>
     <published>2023-10-02T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7285860440117218602</id>
+    <title>Ca Mental Health Courts Could Lead to More Conservatorships #California  #MentalHealth  #Politics  #Court</title>
+    <updated>2023-10-03T23:00:00+00:00</updated>
+    <content>Ca Mental Health Courts Could Lead to More Conservatorships #California  #MentalHealth  #Politics  #Court</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7285860440117218602" rel="alternate"/>
+    <published>2023-10-03T23:00:00+00:00</published>
   </entry>
 </feed>
