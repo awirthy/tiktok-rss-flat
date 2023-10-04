@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-04T18:41:28+00:00</updated>
+  <updated>2023-10-04T19:46:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7284641615698808106</id>
-    <title>Serbia Prepares Invasion of Kosovo &amp; NATO #usa #europe  Serbia could attack NATO and Kosovo soon. The US just delivered an unusually specific warning about a potential Serbian military action into Kosovo. Saying they’re monitoring a larger Serbian deploym</title>
-    <updated>2023-09-30T15:30:13+00:00</updated>
-    <content>Serbia Prepares Invasion of Kosovo &amp; NATO #usa #europe  Serbia could attack NATO and Kosovo soon. The US just delivered an unusually specific warning about a potential Serbian military action into Kosovo. Saying they’re monitoring a larger Serbian deployment on the border of Kosovo including an “unprecedented forward deployment and staging of artillery, tanks, and service members”. The US called on Serbia to withdraw their forces, and said that it’s destabilizing. When asked if Serbia was going to invade Kosovo, the White House said “we’re looking at it but we can’t say right now”. NATO has deployed more forces to Kosovo in light of this, and Britain has placed more troops under NATO command.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7284641615698808106" rel="alternate"/>
-    <published>2023-09-30T15:30:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7285839716237200682</id>
     <title>US Speaker Removed For First Time In History #usa #america  For the first time in American history, the speaker of the house has been removed. Needing only 5 votes to can him, McCarthy’s fellow Republicans cannibalized him after he worked with Democrats t</title>
@@ -51,5 +43,13 @@
     <content>Mexico Says US Doesn’t Do Anything For Them #usa #mexico  The President of Mexico says the U.S. should send the money it’s giving to Ukraine to Latin America instead. Saying that the US doesn’t do anything for them. He also called on the US to lift sanctions on Cuba and Venezuela, adding that the sanctions are why there’s a migrant crisis. But experts say that economic mismanagement and political repression are why people are leaving, not sanctions.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7286175246548258090" rel="alternate"/>
     <published>2023-10-04T18:41:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7286191953404841259</id>
+    <title>Israel &amp; Saudi Arabia Mad At US For Trying To Protect Palestine #usa #israel #saudiarabia  Israel and Saudi Arabia are reportedly frustrated with the United States over its insistence on Palestine. The US and Saudi are negotiating a defense pact that in o</title>
+    <updated>2023-10-04T19:46:22+00:00</updated>
+    <content>Israel &amp; Saudi Arabia Mad At US For Trying To Protect Palestine #usa #israel #saudiarabia  Israel and Saudi Arabia are reportedly frustrated with the United States over its insistence on Palestine. The US and Saudi are negotiating a defense pact that in order to go through requires Israel and Saudi to normalize relations with each other; but the US requires that Palestine be given a pathway to statehood in that normalization deal. This has made the two other countries rather annoyed. Saudi wants a NATO-like pledge from the US to defend the Kingdom but the US isn’t so sure given Saudi’s rampant history of human rights abuses &amp; 9/11. The US would rather just make Saudi a Major Non-NATO ally instead.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7286191953404841259" rel="alternate"/>
+    <published>2023-10-04T19:46:22+00:00</published>
   </entry>
 </feed>
