@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-10-03T19:34:50+00:00</updated>
+  <updated>2023-10-04T15:52:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7284611997734571297</id>
-    <title>New Yorks flooding got so bad that a Sea Lion swam out its enclosure!😳😂</title>
-    <updated>2023-09-30T13:35:07+00:00</updated>
-    <content>New Yorks flooding got so bad that a Sea Lion swam out its enclosure!😳😂</content>
-    <link href="https://tiktok.com/@dylan.page/video/7284611997734571297" rel="alternate"/>
-    <published>2023-09-30T13:35:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7284663529397882144</id>
     <title>The US Government is only hours away from shutdown if a deal can’t be agreed!🚨😳</title>
@@ -51,5 +43,13 @@
     <content>This is actually so sad 😔💔</content>
     <link href="https://tiktok.com/@dylan.page/video/7285817961615576353" rel="alternate"/>
     <published>2023-10-03T19:34:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7286131813334912289</id>
+    <title>Damn cant trust anything nowadays 🙄</title>
+    <updated>2023-10-04T15:52:46+00:00</updated>
+    <content>Damn cant trust anything nowadays 🙄</content>
+    <link href="https://tiktok.com/@dylan.page/video/7286131813334912289" rel="alternate"/>
+    <published>2023-10-04T15:52:46+00:00</published>
   </entry>
 </feed>
