@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-04T16:44:49+00:00</updated>
+  <updated>2023-10-04T18:41:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7284352786714856750</id>
-    <title>China Takes Pandas Away From US, UK, And Australia #usa #uk #australia  China is taking back all of their pandas. Next year the US, UK, and Australia will lose all of their pandas. The Netherlands and Japan both had their pandas taken this year as well. W</title>
-    <updated>2023-09-29T20:49:27+00:00</updated>
-    <content>China Takes Pandas Away From US, UK, And Australia #usa #uk #australia  China is taking back all of their pandas. Next year the US, UK, and Australia will lose all of their pandas. The Netherlands and Japan both had their pandas taken this year as well. With China experts saying the reason they’re being like this about this is because it’s China’s way of saying that they don’t like how they’re being treated. And China says that only friendly nations to China can host Pandas which is why Russia gets to keep their pandas. Pandas have played a vital role in the US-China relationship with the Chinese ambassador saying 10 years ago - “there are two Chinese ambassadors to Washington, me and the Panda at the National Zoo”. The US says it holds out hope that the “charismatic megafauna” may one day return.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7284352786714856750" rel="alternate"/>
-    <published>2023-09-29T20:49:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7284641615698808106</id>
     <title>Serbia Prepares Invasion of Kosovo &amp; NATO #usa #europe  Serbia could attack NATO and Kosovo soon. The US just delivered an unusually specific warning about a potential Serbian military action into Kosovo. Saying they’re monitoring a larger Serbian deploym</title>
@@ -51,5 +43,13 @@
     <content>Los Angeles Trolls Saudi Arabia #usa #saudiarabia  Los Angeles has renamed an intersection for Jamal Khashoggi, the intersection is in front of the Saudi Consulate. Last year, DC renamed the street that the Saudi embassy is on to Jamal Khashoggi Way. Jamal Khashoggi was a very prevalent journalist who worked for the Washington Post, was a permanent US resident, and whose children were US citizens. Saudi Arabia murdered him inside of an embassy in Turkey at the direct order of the Saudi Crown Prince. They cut off his limbs while he was still alive and tortured him on Skype while MBS’s staff watched. After the murder, MBS reportedly was given Khashoggi’s fingers. And this is the country Joe Biden wants to name a “non-NATO major ally”.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7286145132175346987" rel="alternate"/>
     <published>2023-10-04T16:44:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7286175246548258090</id>
+    <title>Mexico Says US Doesn’t Do Anything For Them #usa #mexico  The President of Mexico says the U.S. should send the money it’s giving to Ukraine to Latin America instead. Saying that the US doesn’t do anything for them. He also called on the US to lift sancti</title>
+    <updated>2023-10-04T18:41:28+00:00</updated>
+    <content>Mexico Says US Doesn’t Do Anything For Them #usa #mexico  The President of Mexico says the U.S. should send the money it’s giving to Ukraine to Latin America instead. Saying that the US doesn’t do anything for them. He also called on the US to lift sanctions on Cuba and Venezuela, adding that the sanctions are why there’s a migrant crisis. But experts say that economic mismanagement and political repression are why people are leaving, not sanctions.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7286175246548258090" rel="alternate"/>
+    <published>2023-10-04T18:41:28+00:00</published>
   </entry>
 </feed>
