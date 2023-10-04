@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-10-03T08:17:30+00:00</updated>
+  <updated>2023-10-04T02:45:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7277872366900890881</id>
-    <title>My Twins test iut the Magic Mixies Genie Lamp… think they like it 😂  Magic Mixies Magic Genie Lamp with 60+ Sounds and Reactions. Perform The Magic Steps to Unlock a Magic Ring and Reveal a Pink Genie Mixie From the Real Misting Lamp.   ##moosetoys##magic</title>
-    <updated>2023-09-12T09:41:54+00:00</updated>
-    <content>My Twins test iut the Magic Mixies Genie Lamp… think they like it 😂  Magic Mixies Magic Genie Lamp with 60+ Sounds and Reactions. Perform The Magic Steps to Unlock a Magic Ring and Reveal a Pink Genie Mixie From the Real Misting Lamp.   ##moosetoys##magicmixiesgenielamp##supermoosetoys##ad@@supermoosetoys</content>
-    <link href="https://tiktok.com/@jimmyrees/video/7277872366900890881" rel="alternate"/>
-    <published>2023-09-12T09:41:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7283081957901192449</id>
     <title>Anyone else got a super savvy saver dad? Give him this tip and maybe he’ll stop timing your showers… @Woolworths_au The Odd Bunch, at least 20% cheaper, not as odd as dad. #ad</title>
@@ -51,5 +43,13 @@
     <content>So many Gym-fluencers 🤦‍♂️!! #GymLife #gym #GymTok </content>
     <link href="https://tiktok.com/@jimmyrees/video/7285643403935698177" rel="alternate"/>
     <published>2023-10-03T08:17:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7285928915170872583</id>
+    <title>Another day at the 'Not So Emergency Department' PART 3 ... Awkward ... #aflgrandfinal  #NRLGrandFinal  #funny  #awkward  #notsoemergencydepartment</title>
+    <updated>2023-10-04T02:45:58+00:00</updated>
+    <content>Another day at the 'Not So Emergency Department' PART 3 ... Awkward ... #aflgrandfinal  #NRLGrandFinal  #funny  #awkward  #notsoemergencydepartment</content>
+    <link href="https://tiktok.com/@jimmyrees/video/7285928915170872583" rel="alternate"/>
+    <published>2023-10-04T02:45:58+00:00</published>
   </entry>
 </feed>
