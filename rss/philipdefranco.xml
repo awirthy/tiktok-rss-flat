@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-03T22:51:43+00:00</updated>
+  <updated>2023-10-04T16:44:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7283603550100294954</id>
-    <title>Gamer Leaks Classified Document To Win War Thunder Argument #usa #warthunder  For the third time this month, gamers have leaked restricted military documents on the war thunder forums. This time it’s the manual to the Apache helicopter which was supposed </title>
-    <updated>2023-09-27T20:21:53+00:00</updated>
-    <content>Gamer Leaks Classified Document To Win War Thunder Argument #usa #warthunder  For the third time this month, gamers have leaked restricted military documents on the war thunder forums. This time it’s the manual to the Apache helicopter which was supposed to be for the DoD only. Earlier this month, a user leaked part of the manual to the F-117 Nighthawk’s flight manual. War Thunder’s dedication to realism is its Achilles heal as players often resort to leaking classified documents in order to settle online arguments… which has happened at least 13 times.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7283603550100294954" rel="alternate"/>
-    <published>2023-09-27T20:21:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7284352786714856750</id>
     <title>China Takes Pandas Away From US, UK, And Australia #usa #uk #australia  China is taking back all of their pandas. Next year the US, UK, and Australia will lose all of their pandas. The Netherlands and Japan both had their pandas taken this year as well. W</title>
@@ -51,5 +43,13 @@
     <content>Test Of Emergency Alert System Tomorrow #usa #america  Tomorrow, Wednesday the 4th, all phones, TVs, and radios in America are going to broadcast an emergency message from the President. The message will be broadcast at 2:20pm eastern time and will say “THIS IS A TEST of the National Wireless Emergency Alert System. No action is needed.” Your phone will vibrate and set off an emergency tone, you’ll also get a text message as well. They’re testing the national alert system so you know it exists and also so they know it works. If, god forbid, anything happens tomorrow like an alien invasion or nuclear war - the test will be delayed to the 11th.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7285868658608409899" rel="alternate"/>
     <published>2023-10-03T22:51:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7286145132175346987</id>
+    <title>Los Angeles Trolls Saudi Arabia #usa #saudiarabia  Los Angeles has renamed an intersection for Jamal Khashoggi, the intersection is in front of the Saudi Consulate. Last year, DC renamed the street that the Saudi embassy is on to Jamal Khashoggi Way. Jama</title>
+    <updated>2023-10-04T16:44:49+00:00</updated>
+    <content>Los Angeles Trolls Saudi Arabia #usa #saudiarabia  Los Angeles has renamed an intersection for Jamal Khashoggi, the intersection is in front of the Saudi Consulate. Last year, DC renamed the street that the Saudi embassy is on to Jamal Khashoggi Way. Jamal Khashoggi was a very prevalent journalist who worked for the Washington Post, was a permanent US resident, and whose children were US citizens. Saudi Arabia murdered him inside of an embassy in Turkey at the direct order of the Saudi Crown Prince. They cut off his limbs while he was still alive and tortured him on Skype while MBS’s staff watched. After the murder, MBS reportedly was given Khashoggi’s fingers. And this is the country Joe Biden wants to name a “non-NATO major ally”.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7286145132175346987" rel="alternate"/>
+    <published>2023-10-04T16:44:49+00:00</published>
   </entry>
 </feed>
