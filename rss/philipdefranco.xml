@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-04T19:46:22+00:00</updated>
+  <updated>2023-10-05T17:57:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7285839716237200682</id>
-    <title>US Speaker Removed For First Time In History #usa #america  For the first time in American history, the speaker of the house has been removed. Needing only 5 votes to can him, McCarthy’s fellow Republicans cannibalized him after he worked with Democrats t</title>
-    <updated>2023-10-03T20:59:36+00:00</updated>
-    <content>US Speaker Removed For First Time In History #usa #america  For the first time in American history, the speaker of the house has been removed. Needing only 5 votes to can him, McCarthy’s fellow Republicans cannibalized him after he worked with Democrats to prevent the government from shutting down. Democrats said McCarthy wasn't a man of his word, and refused to save his speakership. Kevin was speaker for 270 days, which is about 25 Scaramuccis.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7285839716237200682" rel="alternate"/>
-    <published>2023-10-03T20:59:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7285868658608409899</id>
     <title>Test Of Emergency Alert System Tomorrow #usa #america  Tomorrow, Wednesday the 4th, all phones, TVs, and radios in America are going to broadcast an emergency message from the President. The message will be broadcast at 2:20pm eastern time and will say “T</title>
@@ -51,5 +43,13 @@
     <content>Israel &amp; Saudi Arabia Mad At US For Trying To Protect Palestine #usa #israel #saudiarabia  Israel and Saudi Arabia are reportedly frustrated with the United States over its insistence on Palestine. The US and Saudi are negotiating a defense pact that in order to go through requires Israel and Saudi to normalize relations with each other; but the US requires that Palestine be given a pathway to statehood in that normalization deal. This has made the two other countries rather annoyed. Saudi wants a NATO-like pledge from the US to defend the Kingdom but the US isn’t so sure given Saudi’s rampant history of human rights abuses &amp; 9/11. The US would rather just make Saudi a Major Non-NATO ally instead.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7286191953404841259" rel="alternate"/>
     <published>2023-10-04T19:46:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7286535008242748715</id>
+    <title>US F-16 Shoots Down Turkish Drone #usa #turkey  A US Fighter Jet just shot down a Turkish drone in Syria after it was deemed a threat to US forces today in a very rare NATO-on-NATO clash. Turkey denies that it was their drone but the US says it was an arm</title>
+    <updated>2023-10-05T17:57:50+00:00</updated>
+    <content>US F-16 Shoots Down Turkish Drone #usa #turkey  A US Fighter Jet just shot down a Turkish drone in Syria after it was deemed a threat to US forces today in a very rare NATO-on-NATO clash. Turkey denies that it was their drone but the US says it was an armed Turkish drone, and that it was aware of that before it acted. The drone came too close to US Forces who were conducting operations in the area and the US acted in self-defense after Turkey failed to answer their calls.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7286535008242748715" rel="alternate"/>
+    <published>2023-10-05T17:57:50+00:00</published>
   </entry>
 </feed>
