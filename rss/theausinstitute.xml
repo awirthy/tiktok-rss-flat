@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-09-29T05:09:08+00:00</updated>
+  <updated>2023-10-05T01:06:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7280696972980391176</id>
-    <title>"We've got climate refugees in Lismore." "We've got a fossil-fuel-funded energy crisis and cost-of-living crisis, right now." - Executive Director Richard Denniss #auspol #climatechange</title>
-    <updated>2023-09-20T00:24:05+00:00</updated>
-    <content>"We've got climate refugees in Lismore." "We've got a fossil-fuel-funded energy crisis and cost-of-living crisis, right now." - Executive Director Richard Denniss #auspol #climatechange</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7280696972980391176" rel="alternate"/>
-    <published>2023-09-20T00:24:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7281471539323718919</id>
     <title>Price gouging from major companies is now the biggest factor in the cost of living crisis. Those blaming workers looking for a pay rise are wrong. "It's l ike blaming a homeowner whose house is on fire for using too much water to put out the flames." said</title>
@@ -51,5 +43,13 @@
     <content>It's time to face up to the reality that as one of the lowest taxed countries in the developed world, Australia lacks the solid revenue base to deliver all the programs needed for a fair society. We need a tax system that fits Australia's needs. #auspol  Earlybird tickets for our Revenue Summit 2023 are on sale now!  We're bringing economists and taxation experts together to discuss sensible revenue-raising options to meet Australia's spending needs. 📅 Friday, 27 October, Canberra.  Tickets and info via link in bo.</content>
     <link href="https://tiktok.com/@theausinstitute/video/7284110385320365319" rel="alternate"/>
     <published>2023-09-29T05:09:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7286274449467280648</id>
+    <title>"PWC misused government information to help some of its multinational corporations potentially evade taxes. "These groups have become embedded in the ordinary processes of government." - Democracy &amp; Accountability Director Bill Browne #auspol</title>
+    <updated>2023-10-05T01:06:56+00:00</updated>
+    <content>"PWC misused government information to help some of its multinational corporations potentially evade taxes. "These groups have become embedded in the ordinary processes of government." - Democracy &amp; Accountability Director Bill Browne #auspol</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7286274449467280648" rel="alternate"/>
+    <published>2023-10-05T01:06:56+00:00</published>
   </entry>
 </feed>
