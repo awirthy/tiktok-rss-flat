@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-10-05T03:30:26+00:00</updated>
+  <updated>2023-10-05T04:53:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7281516966408391944</id>
-    <title>"It's a fundamental truism that when you engage the people that you're making laws and decisions about, you get better governance, you get better decision making." - Pat Anderson AO, Alyawarre woman and architect of the Uluru Statement from the Heart Watc</title>
-    <updated>2023-09-22T05:25:20+00:00</updated>
-    <content>"It's a fundamental truism that when you engage the people that you're making laws and decisions about, you get better governance, you get better decision making." - Pat Anderson AO, Alyawarre woman and architect of the Uluru Statement from the Heart Watch the full video answering your questions on the Voice to Parliament on our Youtube channel. #auspol #voicetoparliament</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7281516966408391944" rel="alternate"/>
-    <published>2023-09-22T05:25:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7282630529160072455</id>
     <title>"I think even people who probably don't even support the Voice agree that there has to be change. The status quo hasn't worked." "The missing ingredient is we haven't been sitting at the table with you." - Pat Anderson AO, Alyawarre woman and architect of</title>
@@ -51,5 +43,13 @@
     <content>Is consultant really a 'profession'? "Consulting has always been about perceptions as much as it's about reality" - Democracy &amp; Accountability Director Bill Browne Listen to the latest episode of Follow the Money 💸 via link in bio #auspol</content>
     <link href="https://tiktok.com/@theausinstitute/video/7286311517362949383" rel="alternate"/>
     <published>2023-10-05T03:30:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7286333021374909714</id>
+    <title>When you engage the people that you're making laws and decisions about, you get better governance, you get better decision making." - Pat Anderson AO, Alyawarre woman and architect of the Uluru Statement from the Heart #auspol #voteyes23</title>
+    <updated>2023-10-05T04:53:58+00:00</updated>
+    <content>When you engage the people that you're making laws and decisions about, you get better governance, you get better decision making." - Pat Anderson AO, Alyawarre woman and architect of the Uluru Statement from the Heart #auspol #voteyes23</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7286333021374909714" rel="alternate"/>
+    <published>2023-10-05T04:53:58+00:00</published>
   </entry>
 </feed>
