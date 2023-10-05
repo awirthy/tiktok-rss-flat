@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-10-04T02:45:58+00:00</updated>
+  <updated>2023-10-05T06:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7283081957901192449</id>
-    <title>Anyone else got a super savvy saver dad? Give him this tip and maybe he’ll stop timing your showers… @Woolworths_au The Odd Bunch, at least 20% cheaper, not as odd as dad. #ad</title>
-    <updated>2023-09-26T10:37:44+00:00</updated>
-    <content>Anyone else got a super savvy saver dad? Give him this tip and maybe he’ll stop timing your showers… @Woolworths_au The Odd Bunch, at least 20% cheaper, not as odd as dad. #ad</content>
-    <link href="https://tiktok.com/@jimmyrees/video/7283081957901192449" rel="alternate"/>
-    <published>2023-09-26T10:37:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7284121483801054466</id>
     <title>Don’t talk to me until I’ve had my morning coffee…anyone else? 🤣!!! Made exactly as you like it by McCafé 😉 @McDonald’s Australia #ad</title>
@@ -51,5 +43,13 @@
     <content>Another day at the 'Not So Emergency Department' PART 3 ... Awkward ... #aflgrandfinal  #NRLGrandFinal  #funny  #awkward  #notsoemergencydepartment</content>
     <link href="https://tiktok.com/@jimmyrees/video/7285928915170872583" rel="alternate"/>
     <published>2023-10-04T02:45:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7286327239736642824</id>
+    <title>Which voice could you identify with a single spoken word? @audible put me up to a little challenge #ad</title>
+    <updated>2023-10-05T06:00:00+00:00</updated>
+    <content>Which voice could you identify with a single spoken word? @audible put me up to a little challenge #ad</content>
+    <link href="https://tiktok.com/@jimmyrees/video/7286327239736642824" rel="alternate"/>
+    <published>2023-10-05T06:00:00+00:00</published>
   </entry>
 </feed>
