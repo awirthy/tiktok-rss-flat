@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-10-05T01:06:56+00:00</updated>
+  <updated>2023-10-05T03:30:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7281471539323718919</id>
-    <title>Price gouging from major companies is now the biggest factor in the cost of living crisis. Those blaming workers looking for a pay rise are wrong. "It's l ike blaming a homeowner whose house is on fire for using too much water to put out the flames." said</title>
-    <updated>2023-09-22T02:29:20+00:00</updated>
-    <content>Price gouging from major companies is now the biggest factor in the cost of living crisis. Those blaming workers looking for a pay rise are wrong. "It's l ike blaming a homeowner whose house is on fire for using too much water to put out the flames." said Greg Jericho, Chief Economist at the Australia Institute.  #auspol #ausecon</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7281471539323718919" rel="alternate"/>
-    <published>2023-09-22T02:29:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7281516966408391944</id>
     <title>"It's a fundamental truism that when you engage the people that you're making laws and decisions about, you get better governance, you get better decision making." - Pat Anderson AO, Alyawarre woman and architect of the Uluru Statement from the Heart Watc</title>
@@ -51,5 +43,13 @@
     <content>"PWC misused government information to help some of its multinational corporations potentially evade taxes. "These groups have become embedded in the ordinary processes of government." - Democracy &amp; Accountability Director Bill Browne #auspol</content>
     <link href="https://tiktok.com/@theausinstitute/video/7286274449467280648" rel="alternate"/>
     <published>2023-10-05T01:06:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7286311517362949383</id>
+    <title>Is consultant really a 'profession'? "Consulting has always been about perceptions as much as it's about reality" - Democracy &amp; Accountability Director Bill Browne Listen to the latest episode of Follow the Money 💸 via link in bio #auspol</title>
+    <updated>2023-10-05T03:30:26+00:00</updated>
+    <content>Is consultant really a 'profession'? "Consulting has always been about perceptions as much as it's about reality" - Democracy &amp; Accountability Director Bill Browne Listen to the latest episode of Follow the Money 💸 via link in bio #auspol</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7286311517362949383" rel="alternate"/>
+    <published>2023-10-05T03:30:26+00:00</published>
   </entry>
 </feed>
