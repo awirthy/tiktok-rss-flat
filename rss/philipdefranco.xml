@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-05T21:45:12+00:00</updated>
+  <updated>2023-10-06T19:59:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7286145132175346987</id>
-    <title>Los Angeles Trolls Saudi Arabia #usa #saudiarabia  Los Angeles has renamed an intersection for Jamal Khashoggi, the intersection is in front of the Saudi Consulate. Last year, DC renamed the street that the Saudi embassy is on to Jamal Khashoggi Way. Jama</title>
-    <updated>2023-10-04T16:44:49+00:00</updated>
-    <content>Los Angeles Trolls Saudi Arabia #usa #saudiarabia  Los Angeles has renamed an intersection for Jamal Khashoggi, the intersection is in front of the Saudi Consulate. Last year, DC renamed the street that the Saudi embassy is on to Jamal Khashoggi Way. Jamal Khashoggi was a very prevalent journalist who worked for the Washington Post, was a permanent US resident, and whose children were US citizens. Saudi Arabia murdered him inside of an embassy in Turkey at the direct order of the Saudi Crown Prince. They cut off his limbs while he was still alive and tortured him on Skype while MBS’s staff watched. After the murder, MBS reportedly was given Khashoggi’s fingers. And this is the country Joe Biden wants to name a “non-NATO major ally”.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7286145132175346987" rel="alternate"/>
-    <published>2023-10-04T16:44:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7286175246548258090</id>
     <title>Mexico Says US Doesn’t Do Anything For Them #usa #mexico  The President of Mexico says the U.S. should send the money it’s giving to Ukraine to Latin America instead. Saying that the US doesn’t do anything for them. He also called on the US to lift sancti</title>
@@ -51,5 +43,13 @@
     <content>Turkey Unfazed By America’s Warning #usa #america  Turkey says its unfazed by the US shooting down its drone, and will continue its bombings of Kurdish infrastructure in Iraq and Syria. Turkey was conducting airstrikes a half kilometer away from US forces in a US restricted zone when the US acted in self-defense and shot down their drone. The US says it was a regrettable incident but some analysts say.. Look it’s not everyday the US shoots down a NATO drone, so they’re also sending a message to Turkey to quit. But Turkey is clearly not receiving that message. However, the US and Turkey seem to have worked it out with the Pentagon saying that the Turkish drone wasn’t being threatening, it was just where it shouldn’t have been. Adding that Turkey is one of America’s favorite allies.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7286593689713954090" rel="alternate"/>
     <published>2023-10-05T21:45:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7286937417293040938</id>
+    <title>Turkey Calls US “Tremendously Stupid” #usa #turkey  Turkey says it won’t bow to threats after the US shot down its drone. They also called the US partnership with the Kurds “tremendously stupid”. Turkey said that it strongly told America to stop working w</title>
+    <updated>2023-10-06T19:59:05+00:00</updated>
+    <content>Turkey Calls US “Tremendously Stupid” #usa #turkey  Turkey says it won’t bow to threats after the US shot down its drone. They also called the US partnership with the Kurds “tremendously stupid”. Turkey said that it strongly told America to stop working with them. Adding that they won’t let the United States get in the way of their counter terror campaign</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7286937417293040938" rel="alternate"/>
+    <published>2023-10-06T19:59:05+00:00</published>
   </entry>
 </feed>
