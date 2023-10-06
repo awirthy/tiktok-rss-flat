@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-05T21:45:12+00:00</updated>
+  <updated>2023-10-05T17:57:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7285868658608409899</id>
+    <title>Test Of Emergency Alert System Tomorrow #usa #america  Tomorrow, Wednesday the 4th, all phones, TVs, and radios in America are going to broadcast an emergency message from the President. The message will be broadcast at 2:20pm eastern time and will say “T</title>
+    <updated>2023-10-03T22:51:43+00:00</updated>
+    <content>Test Of Emergency Alert System Tomorrow #usa #america  Tomorrow, Wednesday the 4th, all phones, TVs, and radios in America are going to broadcast an emergency message from the President. The message will be broadcast at 2:20pm eastern time and will say “THIS IS A TEST of the National Wireless Emergency Alert System. No action is needed.” Your phone will vibrate and set off an emergency tone, you’ll also get a text message as well. They’re testing the national alert system so you know it exists and also so they know it works. If, god forbid, anything happens tomorrow like an alien invasion or nuclear war - the test will be delayed to the 11th.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7285868658608409899" rel="alternate"/>
+    <published>2023-10-03T22:51:43+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7286145132175346987</id>
     <title>Los Angeles Trolls Saudi Arabia #usa #saudiarabia  Los Angeles has renamed an intersection for Jamal Khashoggi, the intersection is in front of the Saudi Consulate. Last year, DC renamed the street that the Saudi embassy is on to Jamal Khashoggi Way. Jama</title>
@@ -43,13 +51,5 @@
     <content>US F-16 Shoots Down Turkish Drone #usa #turkey  A US Fighter Jet just shot down a Turkish drone in Syria after it was deemed a threat to US forces today in a very rare NATO-on-NATO clash. Turkey denies that it was their drone but the US says it was an armed Turkish drone, and that it was aware of that before it acted. The drone came too close to US Forces who were conducting operations in the area and the US acted in self-defense after Turkey failed to answer their calls.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7286535008242748715" rel="alternate"/>
     <published>2023-10-05T17:57:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7286593689713954090</id>
-    <title>Turkey Unfazed By America’s Warning #usa #america  Turkey says its unfazed by the US shooting down its drone, and will continue its bombings of Kurdish infrastructure in Iraq and Syria. Turkey was conducting airstrikes a half kilometer away from US forces</title>
-    <updated>2023-10-05T21:45:12+00:00</updated>
-    <content>Turkey Unfazed By America’s Warning #usa #america  Turkey says its unfazed by the US shooting down its drone, and will continue its bombings of Kurdish infrastructure in Iraq and Syria. Turkey was conducting airstrikes a half kilometer away from US forces in a US restricted zone when the US acted in self-defense and shot down their drone. The US says it was a regrettable incident but some analysts say.. Look it’s not everyday the US shoots down a NATO drone, so they’re also sending a message to Turkey to quit. But Turkey is clearly not receiving that message. However, the US and Turkey seem to have worked it out with the Pentagon saying that the Turkish drone wasn’t being threatening, it was just where it shouldn’t have been. Adding that Turkey is one of America’s favorite allies.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7286593689713954090" rel="alternate"/>
-    <published>2023-10-05T21:45:12+00:00</published>
   </entry>
 </feed>
