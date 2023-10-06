@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-10-05T06:00:00+00:00</updated>
+  <updated>2023-10-06T00:14:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7284121483801054466</id>
-    <title>Don’t talk to me until I’ve had my morning coffee…anyone else? 🤣!!! Made exactly as you like it by McCafé 😉 @McDonald’s Australia #ad</title>
-    <updated>2023-09-29T05:51:40+00:00</updated>
-    <content>Don’t talk to me until I’ve had my morning coffee…anyone else? 🤣!!! Made exactly as you like it by McCafé 😉 @McDonald’s Australia #ad</content>
-    <link href="https://tiktok.com/@jimmyrees/video/7284121483801054466" rel="alternate"/>
-    <published>2023-09-29T05:51:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7285236024165371137</id>
     <title>I'm on an epic quest...to find the ultimate @audible listen! What's your favourite audiobook? #audible #ad</title>
@@ -51,5 +43,13 @@
     <content>Which voice could you identify with a single spoken word? @audible put me up to a little challenge #ad</content>
     <link href="https://tiktok.com/@jimmyrees/video/7286327239736642824" rel="alternate"/>
     <published>2023-10-05T06:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7286631912691617042</id>
+    <title>What an experience!! #funny #dads #wtf</title>
+    <updated>2023-10-06T00:14:00+00:00</updated>
+    <content>What an experience!! #funny #dads #wtf</content>
+    <link href="https://tiktok.com/@jimmyrees/video/7286631912691617042" rel="alternate"/>
+    <published>2023-10-06T00:14:00+00:00</published>
   </entry>
 </feed>
