@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-10-06T18:48:51+00:00</updated>
+  <updated>2023-10-07T17:29:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7284931932285160737</id>
-    <title>Who would be the best to watch in here?!🤔🤯</title>
-    <updated>2023-10-01T10:16:38+00:00</updated>
-    <content>Who would be the best to watch in here?!🤔🤯</content>
-    <link href="https://tiktok.com/@dylan.page/video/7284931932285160737" rel="alternate"/>
-    <published>2023-10-01T10:16:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7285779688457309473</id>
     <title>Only 14 years old is crazy! R.i.p💔😔</title>
@@ -51,5 +43,13 @@
     <content>They named bro Stuckie…💀</content>
     <link href="https://tiktok.com/@dylan.page/video/7286919363980987681" rel="alternate"/>
     <published>2023-10-06T18:48:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7287270112716016929</id>
+    <title>Repost🚨 people were saying the video wasnt showing up on their page fsr🤔</title>
+    <updated>2023-10-07T17:29:56+00:00</updated>
+    <content>Repost🚨 people were saying the video wasnt showing up on their page fsr🤔</content>
+    <link href="https://tiktok.com/@dylan.page/video/7287270112716016929" rel="alternate"/>
+    <published>2023-10-07T17:29:56+00:00</published>
   </entry>
 </feed>
