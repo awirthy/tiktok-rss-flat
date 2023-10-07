@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-06T19:59:05+00:00</updated>
+  <updated>2023-10-07T15:44:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7286175246548258090</id>
-    <title>Mexico Says US Doesn’t Do Anything For Them #usa #mexico  The President of Mexico says the U.S. should send the money it’s giving to Ukraine to Latin America instead. Saying that the US doesn’t do anything for them. He also called on the US to lift sancti</title>
-    <updated>2023-10-04T18:41:28+00:00</updated>
-    <content>Mexico Says US Doesn’t Do Anything For Them #usa #mexico  The President of Mexico says the U.S. should send the money it’s giving to Ukraine to Latin America instead. Saying that the US doesn’t do anything for them. He also called on the US to lift sanctions on Cuba and Venezuela, adding that the sanctions are why there’s a migrant crisis. But experts say that economic mismanagement and political repression are why people are leaving, not sanctions.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7286175246548258090" rel="alternate"/>
-    <published>2023-10-04T18:41:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7286191953404841259</id>
     <title>Israel &amp; Saudi Arabia Mad At US For Trying To Protect Palestine #usa #israel #saudiarabia  Israel and Saudi Arabia are reportedly frustrated with the United States over its insistence on Palestine. The US and Saudi are negotiating a defense pact that in o</title>
@@ -51,5 +43,13 @@
     <content>Turkey Calls US “Tremendously Stupid” #usa #turkey  Turkey says it won’t bow to threats after the US shot down its drone. They also called the US partnership with the Kurds “tremendously stupid”. Turkey said that it strongly told America to stop working with them. Adding that they won’t let the United States get in the way of their counter terror campaign</content>
     <link href="https://tiktok.com/@philipdefranco/video/7286937417293040938" rel="alternate"/>
     <published>2023-10-06T19:59:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7287242991226441006</id>
+    <title>Israel Has Been Invaded, Now At War #israel #usa  Israel has been invaded and is at war. Hamas just launched a massive sneak attack on Israel and has invaded the country via land, air, and sea. The terrorists have reportedly captured and are occupying sev</title>
+    <updated>2023-10-07T15:44:53+00:00</updated>
+    <content>Israel Has Been Invaded, Now At War #israel #usa  Israel has been invaded and is at war. Hamas just launched a massive sneak attack on Israel and has invaded the country via land, air, and sea. The terrorists have reportedly captured and are occupying several cities in Israel and are reportedly indiscriminately killing civilians in those cities. Israel says at least 100 Israelis have been killed and at least a thousand are injured, these numbers are expected to grow. There are reports that at least 100 Israelis have been kidnapped and are being held as hostages. Some of which have allegedly been brought back to Gaza and Hamas is reportedly threatening to execute them. And reports say that more than 5,000 rockets have been fired at Israel. Hamas claims its captured senior Israel officers, including a former general. This is a very sophisticated attack and the timing is reportedly intentional as today is the 50th anniversary of the Yom Kippur war. Israel has promised a biblical response, adding that Hamas has opened the gates of hell.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7287242991226441006" rel="alternate"/>
+    <published>2023-10-07T15:44:53+00:00</published>
   </entry>
 </feed>
