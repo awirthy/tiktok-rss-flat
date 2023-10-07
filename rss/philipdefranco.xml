@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-07T15:44:53+00:00</updated>
+  <updated>2023-10-07T17:00:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7286191953404841259</id>
-    <title>Israel &amp; Saudi Arabia Mad At US For Trying To Protect Palestine #usa #israel #saudiarabia  Israel and Saudi Arabia are reportedly frustrated with the United States over its insistence on Palestine. The US and Saudi are negotiating a defense pact that in o</title>
-    <updated>2023-10-04T19:46:22+00:00</updated>
-    <content>Israel &amp; Saudi Arabia Mad At US For Trying To Protect Palestine #usa #israel #saudiarabia  Israel and Saudi Arabia are reportedly frustrated with the United States over its insistence on Palestine. The US and Saudi are negotiating a defense pact that in order to go through requires Israel and Saudi to normalize relations with each other; but the US requires that Palestine be given a pathway to statehood in that normalization deal. This has made the two other countries rather annoyed. Saudi wants a NATO-like pledge from the US to defend the Kingdom but the US isn’t so sure given Saudi’s rampant history of human rights abuses &amp; 9/11. The US would rather just make Saudi a Major Non-NATO ally instead.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7286191953404841259" rel="alternate"/>
-    <published>2023-10-04T19:46:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7286535008242748715</id>
     <title>US F-16 Shoots Down Turkish Drone #usa #turkey  A US Fighter Jet just shot down a Turkish drone in Syria after it was deemed a threat to US forces today in a very rare NATO-on-NATO clash. Turkey denies that it was their drone but the US says it was an arm</title>
@@ -51,5 +43,13 @@
     <content>Israel Has Been Invaded, Now At War #israel #usa  Israel has been invaded and is at war. Hamas just launched a massive sneak attack on Israel and has invaded the country via land, air, and sea. The terrorists have reportedly captured and are occupying several cities in Israel and are reportedly indiscriminately killing civilians in those cities. Israel says at least 100 Israelis have been killed and at least a thousand are injured, these numbers are expected to grow. There are reports that at least 100 Israelis have been kidnapped and are being held as hostages. Some of which have allegedly been brought back to Gaza and Hamas is reportedly threatening to execute them. And reports say that more than 5,000 rockets have been fired at Israel. Hamas claims its captured senior Israel officers, including a former general. This is a very sophisticated attack and the timing is reportedly intentional as today is the 50th anniversary of the Yom Kippur war. Israel has promised a biblical response, adding that Hamas has opened the gates of hell.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7287242991226441006" rel="alternate"/>
     <published>2023-10-07T15:44:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7287262461365980458</id>
+    <title>Israel Begins Military Response To Invasion #usa #israel  Israel has started to strike back at Hamas after today’s massive attack. They have started to hit buildings in Gaza with airstrikes and Israel’s security council has reportedly authorized a ground </title>
+    <updated>2023-10-07T17:00:21+00:00</updated>
+    <content>Israel Begins Military Response To Invasion #usa #israel  Israel has started to strike back at Hamas after today’s massive attack. They have started to hit buildings in Gaza with airstrikes and Israel’s security council has reportedly authorized a ground invasion. Palestine says at least 300 people have been killed and more than 1,600 have been injured in Israel’s initial response. The IDF says it’s killed hundreds of terrorists in the past few hours. Israel has reportedly activated its reserve forces as it gears up for a massive retaliatory operation. Hamas is reportedly continuing to strike ambulances in Israel with drones as open combat with the IDF has been reported in 22 locations. UN Peace Keepers have reportedly been withdrawn from southern Lebanon as there are reports of Hezbollah fighters amassing on Israel’s northern border. They’ve allegedly threatened to invade Israel if they go through with the ground invasion. The Taliban have also reportedly asked its neighbors to give them passage so they can take Jerusalem. The US has issued a warning to any parties, countries, and organizations looking to take advantage of the situation. Saying the US stands ready to support Israel.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7287262461365980458" rel="alternate"/>
+    <published>2023-10-07T17:00:21+00:00</published>
   </entry>
 </feed>
