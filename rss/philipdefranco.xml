@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-07T17:00:21+00:00</updated>
+  <updated>2023-10-07T20:04:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7286535008242748715</id>
-    <title>US F-16 Shoots Down Turkish Drone #usa #turkey  A US Fighter Jet just shot down a Turkish drone in Syria after it was deemed a threat to US forces today in a very rare NATO-on-NATO clash. Turkey denies that it was their drone but the US says it was an arm</title>
-    <updated>2023-10-05T17:57:50+00:00</updated>
-    <content>US F-16 Shoots Down Turkish Drone #usa #turkey  A US Fighter Jet just shot down a Turkish drone in Syria after it was deemed a threat to US forces today in a very rare NATO-on-NATO clash. Turkey denies that it was their drone but the US says it was an armed Turkish drone, and that it was aware of that before it acted. The drone came too close to US Forces who were conducting operations in the area and the US acted in self-defense after Turkey failed to answer their calls.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7286535008242748715" rel="alternate"/>
-    <published>2023-10-05T17:57:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7286593689713954090</id>
     <title>Turkey Unfazed By America’s Warning #usa #america  Turkey says its unfazed by the US shooting down its drone, and will continue its bombings of Kurdish infrastructure in Iraq and Syria. Turkey was conducting airstrikes a half kilometer away from US forces</title>
@@ -51,5 +43,13 @@
     <content>Israel Begins Military Response To Invasion #usa #israel  Israel has started to strike back at Hamas after today’s massive attack. They have started to hit buildings in Gaza with airstrikes and Israel’s security council has reportedly authorized a ground invasion. Palestine says at least 300 people have been killed and more than 1,600 have been injured in Israel’s initial response. The IDF says it’s killed hundreds of terrorists in the past few hours. Israel has reportedly activated its reserve forces as it gears up for a massive retaliatory operation. Hamas is reportedly continuing to strike ambulances in Israel with drones as open combat with the IDF has been reported in 22 locations. UN Peace Keepers have reportedly been withdrawn from southern Lebanon as there are reports of Hezbollah fighters amassing on Israel’s northern border. They’ve allegedly threatened to invade Israel if they go through with the ground invasion. The Taliban have also reportedly asked its neighbors to give them passage so they can take Jerusalem. The US has issued a warning to any parties, countries, and organizations looking to take advantage of the situation. Saying the US stands ready to support Israel.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7287262461365980458" rel="alternate"/>
     <published>2023-10-07T17:00:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7287310028124491050</id>
+    <title>Israel Says It’s Going To Change Gaza Forever #usa #israel  Israel has cut all power to Gaza as it begins its operation.More than 250 Israelis have reportedly been killed and over 1,500 have been wounded, both numbers are expected to grow drastically. Pal</title>
+    <updated>2023-10-07T20:04:56+00:00</updated>
+    <content>Israel Says It’s Going To Change Gaza Forever #usa #israel  Israel has cut all power to Gaza as it begins its operation.More than 250 Israelis have reportedly been killed and over 1,500 have been wounded, both numbers are expected to grow drastically. Palestine says at least 232 people have been killed in Israel’s retaliation. With Israel saying it’s going to change the face of reality in Gaza for the next 50 years. Adding “what was, will be no more”. Palestine has reportedly asked France to intervene to stop what it calls “Israeli aggression” - France has declined. A 12 year old and a 16 year old are reportedly among the hostages Hamas took back into Gaza. Massive rocket barrages are repeatedly being launched at Tel Aviv from Gaza and there are several reports of civilians being hit. There are reports that the Iron Dome seems to not be operating correctly or is perhaps overwhelmed. Israel has reportedly bombed the home of the leader of Hamas. Hamas says it’s expanding the war to the West Bank. President Biden in a national address said the United States stands with Israel and will ensure that they have what they need.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7287310028124491050" rel="alternate"/>
+    <published>2023-10-07T20:04:56+00:00</published>
   </entry>
 </feed>
