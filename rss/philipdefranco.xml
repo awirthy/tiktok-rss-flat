@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-08T16:34:42+00:00</updated>
+  <updated>2023-10-07T20:04:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7286593689713954090</id>
+    <title>Turkey Unfazed By America’s Warning #usa #america  Turkey says its unfazed by the US shooting down its drone, and will continue its bombings of Kurdish infrastructure in Iraq and Syria. Turkey was conducting airstrikes a half kilometer away from US forces</title>
+    <updated>2023-10-05T21:45:12+00:00</updated>
+    <content>Turkey Unfazed By America’s Warning #usa #america  Turkey says its unfazed by the US shooting down its drone, and will continue its bombings of Kurdish infrastructure in Iraq and Syria. Turkey was conducting airstrikes a half kilometer away from US forces in a US restricted zone when the US acted in self-defense and shot down their drone. The US says it was a regrettable incident but some analysts say.. Look it’s not everyday the US shoots down a NATO drone, so they’re also sending a message to Turkey to quit. But Turkey is clearly not receiving that message. However, the US and Turkey seem to have worked it out with the Pentagon saying that the Turkish drone wasn’t being threatening, it was just where it shouldn’t have been. Adding that Turkey is one of America’s favorite allies.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7286593689713954090" rel="alternate"/>
+    <published>2023-10-05T21:45:12+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7286937417293040938</id>
     <title>Turkey Calls US “Tremendously Stupid” #usa #turkey  Turkey says it won’t bow to threats after the US shot down its drone. They also called the US partnership with the Kurds “tremendously stupid”. Turkey said that it strongly told America to stop working w</title>
@@ -43,13 +51,5 @@
     <content>Israel Says It’s Going To Change Gaza Forever #usa #israel  Israel has cut all power to Gaza as it begins its operation.More than 250 Israelis have reportedly been killed and over 1,500 have been wounded, both numbers are expected to grow drastically. Palestine says at least 232 people have been killed in Israel’s retaliation. With Israel saying it’s going to change the face of reality in Gaza for the next 50 years. Adding “what was, will be no more”. Palestine has reportedly asked France to intervene to stop what it calls “Israeli aggression” - France has declined. A 12 year old and a 16 year old are reportedly among the hostages Hamas took back into Gaza. Massive rocket barrages are repeatedly being launched at Tel Aviv from Gaza and there are several reports of civilians being hit. There are reports that the Iron Dome seems to not be operating correctly or is perhaps overwhelmed. Israel has reportedly bombed the home of the leader of Hamas. Hamas says it’s expanding the war to the West Bank. President Biden in a national address said the United States stands with Israel and will ensure that they have what they need.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7287310028124491050" rel="alternate"/>
     <published>2023-10-07T20:04:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7287626904465657130</id>
-    <title>Israel To Turn Gaza “To Rubble” #usa #israel  Israel has called on all Palestinian civilians to immediately leave Gaza before it turns it into rubble. Israel is beginning a naval bombardment of Gaza while it conducts a massive airstrike campaign. Israeli </title>
-    <updated>2023-10-08T16:34:42+00:00</updated>
-    <content>Israel To Turn Gaza “To Rubble” #usa #israel  Israel has called on all Palestinian civilians to immediately leave Gaza before it turns it into rubble. Israel is beginning a naval bombardment of Gaza while it conducts a massive airstrike campaign. Israeli tanks have reportedly been moved to the border and are reportedly considering destroying Gaza’s water supply as well as cutting it off from Egypt so supplies can’t come in. At least 600 Israelis were killed in yesterday’s terror attack, this number is expected to grow into the thousands. This is the largest number of Jews murdered in a single day since the Holocaust. Also over 2,000 Israelis are injured. At least 370 Palestines have been killed in Israel’s retaliation with another 2,200 injured. There are also reports of several Americans dead and dozens have reportedly been taken hostage. Local media is reporting that the amount of death in the cities being liberated from Hamas is unbearable. There are horrifying stories coming out of the country. Twenty police officers were reportedly massacred in a police station by Hamas, at least a dozen people were killed at a nature party, and Hamas also surrounded a rave in the desert where they began massacring at least 250 people. At that Rave, Hamas kidnapped and then murdered a 22 year old German peace activist before parading her dead body through the streets. Her credit card was also used in Gaza after she was killed. To say German media is ‘foaming at the mouth mad’ would be an understatement. Also one of the people kidnapped by Hamas was a holocaust survivor.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7287626904465657130" rel="alternate"/>
-    <published>2023-10-08T16:34:42+00:00</published>
   </entry>
 </feed>
