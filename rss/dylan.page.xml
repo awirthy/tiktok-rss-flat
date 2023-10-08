@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-10-06T18:48:51+00:00</updated>
+  <updated>2023-10-08T19:40:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7285779688457309473</id>
-    <title>Only 14 years old is crazy! R.i.p💔😔</title>
-    <updated>2023-10-03T17:06:19+00:00</updated>
-    <content>Only 14 years old is crazy! R.i.p💔😔</content>
-    <link href="https://tiktok.com/@dylan.page/video/7285779688457309473" rel="alternate"/>
-    <published>2023-10-03T17:06:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7285817961615576353</id>
     <title>This is actually so sad 😔💔</title>
@@ -51,5 +43,13 @@
     <content>They named bro Stuckie…💀</content>
     <link href="https://tiktok.com/@dylan.page/video/7286919363980987681" rel="alternate"/>
     <published>2023-10-06T18:48:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7287674848535465248</id>
+    <title>Didn’t want to post this but here we are…</title>
+    <updated>2023-10-08T19:40:30+00:00</updated>
+    <content>Didn’t want to post this but here we are…</content>
+    <link href="https://tiktok.com/@dylan.page/video/7287674848535465248" rel="alternate"/>
+    <published>2023-10-08T19:40:30+00:00</published>
   </entry>
 </feed>
