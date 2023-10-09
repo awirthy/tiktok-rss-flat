@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-10-09T07:00:00+00:00</updated>
+  <updated>2023-10-08T10:08:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7285236024165371137</id>
+    <title>I'm on an epic quest...to find the ultimate @audible listen! What's your favourite audiobook? #audible #ad</title>
+    <updated>2023-10-02T05:57:06+00:00</updated>
+    <content>I'm on an epic quest...to find the ultimate @audible listen! What's your favourite audiobook? #audible #ad</content>
+    <link href="https://tiktok.com/@jimmyrees/video/7285236024165371137" rel="alternate"/>
+    <published>2023-10-02T05:57:06+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7285928915170872583</id>
     <title>Another day at the 'Not So Emergency Department' PART 3 ... Awkward ... #aflgrandfinal  #NRLGrandFinal  #funny  #awkward  #notsoemergencydepartment</title>
@@ -43,13 +51,5 @@
     <content>Reposting this in case you need a catch up for the Cricket World Cup #cricket #cricketworldcup #iccworldcup #theguywhodecides </content>
     <link href="https://tiktok.com/@jimmyrees/video/7287527498034793730" rel="alternate"/>
     <published>2023-10-08T10:08:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7287801178308545799</id>
-    <title>YOUR specials? No MY specials in the @woolworths_au app...how else would I know when my favourite Tasty Cheese is on special (and I NEED to know as I eat a lot of it). My Specials makes it easy to see when the products you love are on special, so you can </title>
-    <updated>2023-10-09T07:00:00+00:00</updated>
-    <content>YOUR specials? No MY specials in the @woolworths_au app...how else would I know when my favourite Tasty Cheese is on special (and I NEED to know as I eat a lot of it). My Specials makes it easy to see when the products you love are on special, so you can stock up, plus if you order by 1pm, you can get it delivered the same day. *Pricing and products shown are for illustration purposes only. #ad</content>
-    <link href="https://tiktok.com/@jimmyrees/video/7287801178308545799" rel="alternate"/>
-    <published>2023-10-09T07:00:00+00:00</published>
   </entry>
 </feed>
