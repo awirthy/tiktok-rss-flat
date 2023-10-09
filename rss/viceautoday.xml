@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-10-06T04:47:49+00:00</updated>
+  <updated>2023-10-09T06:27:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7284125576212827400</id>
-    <title>Woolwoorths has been using virtual reality for some time, but now includes three modules focused on abuse and threats from customers. #australia #aunews #woolworths #costofliving #cozzielivs </title>
-    <updated>2023-09-29T06:07:29+00:00</updated>
-    <content>Woolwoorths has been using virtual reality for some time, but now includes three modules focused on abuse and threats from customers. #australia #aunews #woolworths #costofliving #cozzielivs </content>
-    <link href="https://tiktok.com/@viceautoday/video/7284125576212827400" rel="alternate"/>
-    <published>2023-09-29T06:07:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7285623903463001362</id>
     <title>The NSW government has dismissed calls to introduce pill testing after the deaths of two men who attended a festival in Sydney over the weekend #australia #news #festival #listenout #sydney #todayilearned #nsw #newsouthwales </title>
@@ -51,5 +43,13 @@
     <content>Sydney flies are everywhere – people have been noticing there are more flies in Sydney than usual in recent weeks, but why the sudden insect infestation? #australia #news #sydney #flies #sydneyflies #bugs #insects #australianinsects #health #science #spring #climatechange #weather #todayilearned #learnontiktok </content>
     <link href="https://tiktok.com/@viceautoday/video/7286702620046134529" rel="alternate"/>
     <published>2023-10-06T04:47:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7287841464065871105</id>
+    <title>The Indigenous Voice to Parliament referendum is this week and the latest and final voter poll results are out. So what do they predict ahead of Saturday’s vote? #australia #news #vote #referendum #voice #voicetoparliament #politics #auspol #anthonyalbane</title>
+    <updated>2023-10-09T06:27:07+00:00</updated>
+    <content>The Indigenous Voice to Parliament referendum is this week and the latest and final voter poll results are out. So what do they predict ahead of Saturday’s vote? #australia #news #vote #referendum #voice #voicetoparliament #politics #auspol #anthonyalbanese #firstnations #indigenous #aboriginal #torresstraitislander #poll #todayilearned #learnontiktok </content>
+    <link href="https://tiktok.com/@viceautoday/video/7287841464065871105" rel="alternate"/>
+    <published>2023-10-09T06:27:07+00:00</published>
   </entry>
 </feed>
