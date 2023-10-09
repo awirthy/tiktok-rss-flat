@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-10-08T20:00:00+00:00</updated>
+  <updated>2023-10-06T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7285482425742921002</id>
+    <title>Far Right Reps. Move to Oust Kevin McCarthy #KevinMcCarthy  #Politics  #Republican  #MattGaetz</title>
+    <updated>2023-10-02T23:00:00+00:00</updated>
+    <content>Far Right Reps. Move to Oust Kevin McCarthy #KevinMcCarthy  #Politics  #Republican  #MattGaetz</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7285482425742921002" rel="alternate"/>
+    <published>2023-10-02T23:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7285860440117218602</id>
     <title>Ca Mental Health Courts Could Lead to More Conservatorships #California  #MentalHealth  #Politics  #Court</title>
@@ -43,13 +51,5 @@
     <content>Ohio Ed. System in Chaos Over Political Fight to Control It #School  #Ohio  #Politics  #US</content>
     <link href="https://tiktok.com/@pdspolitics/video/7286876242392026414" rel="alternate"/>
     <published>2023-10-06T20:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7286900105905589550</id>
-    <title>Liberty University Silenced Victims &amp; Hid Crime Stats #LibertyUniversity  #US  #College  #School</title>
-    <updated>2023-10-08T20:00:00+00:00</updated>
-    <content>Liberty University Silenced Victims &amp; Hid Crime Stats #LibertyUniversity  #US  #College  #School</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7286900105905589550" rel="alternate"/>
-    <published>2023-10-08T20:00:00+00:00</published>
   </entry>
 </feed>
