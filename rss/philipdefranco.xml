@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-10T21:18:09+00:00</updated>
+  <updated>2023-10-10T22:15:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7287836874511682862</id>
-    <title>US Will Defend Israel #usa #israel  Iran helped plan Saturday’s terrorist attack on Israel and gave the green light for the attack, they’re also believed to have paid for it. The US says Hamas and Iran likely committed these terrorist attacks to destroy t</title>
-    <updated>2023-10-09T06:09:25+00:00</updated>
-    <content>US Will Defend Israel #usa #israel  Iran helped plan Saturday’s terrorist attack on Israel and gave the green light for the attack, they’re also believed to have paid for it. The US says Hamas and Iran likely committed these terrorist attacks to destroy the prospect of Palestinian statehood and normalization between Israel and Saudi Arabia. In response to the terror attacks on Israel, the United States has deployed the USS Gerald Ford aircraft carrier, four destroyers, and a guided missile cruiser off the coast of Israel. They have also moved additional F-35s, F-15s, F-16s, and A-10s to the region to support Israel. This was done to send a message to Iran and Hezbollah that they will defend Israel if they invade. Hamas has reportedly warned the United States about the consequences of doing this and says the presence of a US aircraft carrier doesn’t scare them. More than 700 Israelis were killed in the attacks, again this number is expected to grow. France has reportedly called on Hamas to release their hostages immediately while Saudi has condemned the killing of innocent civilians by Hamas.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7287836874511682862" rel="alternate"/>
-    <published>2023-10-09T06:09:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7288013889499942186</id>
     <title>Israel To Begin Total Siege Of Gaza #usa #israel  Israel has announced the total siege of Gaza. Saying “there will be no electricity, no food, no fuel. We are fighting human animals and we will act accordingly.” They’ve also reportedly cut off Gaza’s wate</title>
@@ -51,5 +43,13 @@
     <content>Iran &amp; Israel Take The War To Twitter #israel #usa  The US may conduct a special forces operation to free Americans in Gaza. Yemen’s Houthi group reportedly said if the US intervenes, they’ll attack them with missiles. Trigger fingers are turning into twitter fingers. With Iran’s supreme leader tweeting that Israel will face a larger force if they keep doing, what he called, the mass murder of Gaza. Israel tweeted back saying “It’s easy to be brave when you’re hiding behind a keyboard. You and your Hamas friends will regret your barbaric actions very soon.” Egypt says it’ll bring aid to Gaza but Israel says it’ll airstrike all Egyptian aid convoys. Despite these warnings, Egypt has reportedly still ordered the aid convoy to go into Gaza.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7288442118136302894" rel="alternate"/>
     <published>2023-10-10T21:18:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7288456984376954154</id>
+    <title>US To Send Another Aircraft Carrier To Israel #usa #israel  Israel is now getting hit by Mortars from Syria in addition to rockets from Lebanon, and Israel is responding with counter-battery fire. So far 1,000 Israelis have been killed with another 3,400 </title>
+    <updated>2023-10-10T22:15:44+00:00</updated>
+    <content>US To Send Another Aircraft Carrier To Israel #usa #israel  Israel is now getting hit by Mortars from Syria in addition to rockets from Lebanon, and Israel is responding with counter-battery fire. So far 1,000 Israelis have been killed with another 3,400 injured and 900 Palestinians have been killed with another 4,500 injured. Israel is preparing a months-long ground campaign in Gaza according to Egypt. With Egypt also saying that Israel has dismissed their efforts to mediate any kind of de-escalation according to the Times of Israel. With the Times saying it’s believed that Israel wants to destroy Hamas before entertaining a ceasefire. The United States may deploy a 2nd aircraft carrier strike group to Israel according to the Wall Street Post. The USS Gerald Ford has arrived off the coast of Israel and will likely begin operations tonight. And this has made Erdogan very mad at Israel and the United States. He angrily asked today:  “Why is the US aircraft carrier coming to Israel? For what? What will they do? Will they hit Gaza with their warplanes and commit a massacre?”. Jake Sullivan responded saying: "Let me be clear: we did not move the carrier for Hamas. We moved the carrier to send a clear message of deterrence to other parties who may seek to widen the war”.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7288456984376954154" rel="alternate"/>
+    <published>2023-10-10T22:15:44+00:00</published>
   </entry>
 </feed>
