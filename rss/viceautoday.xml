@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-10-09T06:27:07+00:00</updated>
+  <updated>2023-10-10T06:45:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7285623903463001362</id>
-    <title>The NSW government has dismissed calls to introduce pill testing after the deaths of two men who attended a festival in Sydney over the weekend #australia #news #festival #listenout #sydney #todayilearned #nsw #newsouthwales </title>
-    <updated>2023-10-03T07:01:48+00:00</updated>
-    <content>The NSW government has dismissed calls to introduce pill testing after the deaths of two men who attended a festival in Sydney over the weekend #australia #news #festival #listenout #sydney #todayilearned #nsw #newsouthwales </content>
-    <link href="https://tiktok.com/@viceautoday/video/7285623903463001362" rel="alternate"/>
-    <published>2023-10-03T07:01:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7285972959276141826</id>
     <title>Workers at Woolworths and Coles supermarkets are gearing up for the first national supermarket workers' strike. Workers want living wages, safe workplaces and job security. Both Coles and Woolworths reported record profits in excess of $1 billion in Augus</title>
@@ -51,5 +43,13 @@
     <content>The Indigenous Voice to Parliament referendum is this week and the latest and final voter poll results are out. So what do they predict ahead of Saturday’s vote? #australia #news #vote #referendum #voice #voicetoparliament #politics #auspol #anthonyalbanese #firstnations #indigenous #aboriginal #torresstraitislander #poll #todayilearned #learnontiktok </content>
     <link href="https://tiktok.com/@viceautoday/video/7287841464065871105" rel="alternate"/>
     <published>2023-10-09T06:27:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7288217378155007234</id>
+    <title>Hundreds of pro-Palestine supporters protested at the Sydney Opera House on Monday, after a surprise attack on Israel by militant Palestinian group Hamas, followed by retaliatory airstrikes from Israel on the Gaza Strip over the weekend. Politicians in Au</title>
+    <updated>2023-10-10T06:45:50+00:00</updated>
+    <content>Hundreds of pro-Palestine supporters protested at the Sydney Opera House on Monday, after a surprise attack on Israel by militant Palestinian group Hamas, followed by retaliatory airstrikes from Israel on the Gaza Strip over the weekend. Politicians in Australia condemned the rally. #australia #news #israel #palestine #freepalestine #activist #gaza #hamas #politics #indigenous #colonialism #todayilearned #learnontiktok </content>
+    <link href="https://tiktok.com/@viceautoday/video/7288217378155007234" rel="alternate"/>
+    <published>2023-10-10T06:45:50+00:00</published>
   </entry>
 </feed>
