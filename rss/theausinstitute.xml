@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-10-10T03:42:38+00:00</updated>
+  <updated>2023-10-10T06:30:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7286274449467280648</id>
-    <title>"PWC misused government information to help some of its multinational corporations potentially evade taxes. "These groups have become embedded in the ordinary processes of government." - Democracy &amp; Accountability Director Bill Browne #auspol</title>
-    <updated>2023-10-05T01:06:56+00:00</updated>
-    <content>"PWC misused government information to help some of its multinational corporations potentially evade taxes. "These groups have become embedded in the ordinary processes of government." - Democracy &amp; Accountability Director Bill Browne #auspol</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7286274449467280648" rel="alternate"/>
-    <published>2023-10-05T01:06:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7286333021374909714</id>
     <title>When you engage the people that you're making laws and decisions about, you get better governance, you get better decision making." - Pat Anderson AO, Alyawarre woman and architect of the Uluru Statement from the Heart #auspol #voteyes23</title>
@@ -51,5 +43,13 @@
     <content>"The Voice is a metaphor, because we've been talking to successive governments for generations.  "Sometimes they listen, but there is no bind on them to take any notice of us." - Pat Anderson AO, Alyawarre woman and architect of the Uluru Statement from the Heart.  #auspol #VoteYES23</content>
     <link href="https://tiktok.com/@theausinstitute/video/7288170141609708808" rel="alternate"/>
     <published>2023-10-10T03:42:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7288181074830609671</id>
+    <title>Where did the idea for the Voice originate?  Aunty Pat talks us through the generations of work that have led to the vote on Saturday. Watch the full Q&amp;A on our Youtube channel #auspol #VoteYes23</title>
+    <updated>2023-10-10T06:30:00+00:00</updated>
+    <content>Where did the idea for the Voice originate?  Aunty Pat talks us through the generations of work that have led to the vote on Saturday. Watch the full Q&amp;A on our Youtube channel #auspol #VoteYes23</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7288181074830609671" rel="alternate"/>
+    <published>2023-10-10T06:30:00+00:00</published>
   </entry>
 </feed>
