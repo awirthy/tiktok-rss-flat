@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-10-10T18:49:56.476945+00:00</updated>
+  <updated>2023-10-09T23:08:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,44 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7286226234017680682</id>
+    <title>Kevin McCarthy Removed As House Speaker #KevinMcCarthy  #MattGaetz  #Politics  #US</title>
+    <updated>2023-10-04T23:00:00+00:00</updated>
+    <content>Kevin McCarthy Removed As House Speaker #KevinMcCarthy  #MattGaetz  #Politics  #US</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7286226234017680682" rel="alternate"/>
+    <published>2023-10-04T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7286597770826288426</id>
+    <title>Biden Admin. Expanding Border Wall #Politics  #Border  #Biden  #Mexico</title>
+    <updated>2023-10-05T23:00:00+00:00</updated>
+    <content>Biden Admin. Expanding Border Wall #Politics  #Border  #Biden  #Mexico</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7286597770826288426" rel="alternate"/>
+    <published>2023-10-05T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7286876242392026414</id>
+    <title>Ohio Ed. System in Chaos Over Political Fight to Control It #School  #Ohio  #Politics  #US</title>
+    <updated>2023-10-06T20:00:00+00:00</updated>
+    <content>Ohio Ed. System in Chaos Over Political Fight to Control It #School  #Ohio  #Politics  #US</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7286876242392026414" rel="alternate"/>
+    <published>2023-10-06T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7286900105905589550</id>
+    <title>Liberty University Silenced Victims &amp; Hid Crime Stats #LibertyUniversity  #US  #College  #School</title>
+    <updated>2023-10-08T20:00:00+00:00</updated>
+    <content>Liberty University Silenced Victims &amp; Hid Crime Stats #LibertyUniversity  #US  #College  #School</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7286900105905589550" rel="alternate"/>
+    <published>2023-10-08T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7288099254344895790</id>
+    <title>Newsom Vetoes Insulin Caps And a Slew of Other Bills #Politics  #California  #Insulin  #Diabetes</title>
+    <updated>2023-10-09T23:08:15+00:00</updated>
+    <content>Newsom Vetoes Insulin Caps And a Slew of Other Bills #Politics  #California  #Insulin  #Diabetes</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7288099254344895790" rel="alternate"/>
+    <published>2023-10-09T23:08:15+00:00</published>
+  </entry>
 </feed>

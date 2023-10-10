@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-09T19:45:12+00:00</updated>
+  <updated>2023-10-10T19:18:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7287626904465657130</id>
-    <title>Israel To Turn Gaza “To Rubble” #usa #israel  Israel has called on all Palestinian civilians to immediately leave Gaza before it turns it into rubble. Israel is beginning a naval bombardment of Gaza while it conducts a massive airstrike campaign. Israeli </title>
-    <updated>2023-10-08T16:34:42+00:00</updated>
-    <content>Israel To Turn Gaza “To Rubble” #usa #israel  Israel has called on all Palestinian civilians to immediately leave Gaza before it turns it into rubble. Israel is beginning a naval bombardment of Gaza while it conducts a massive airstrike campaign. Israeli tanks have reportedly been moved to the border and are reportedly considering destroying Gaza’s water supply as well as cutting it off from Egypt so supplies can’t come in. At least 600 Israelis were killed in yesterday’s terror attack, this number is expected to grow into the thousands. This is the largest number of Jews murdered in a single day since the Holocaust. Also over 2,000 Israelis are injured. At least 370 Palestines have been killed in Israel’s retaliation with another 2,200 injured. There are also reports of several Americans dead and dozens have reportedly been taken hostage. Local media is reporting that the amount of death in the cities being liberated from Hamas is unbearable. There are horrifying stories coming out of the country. Twenty police officers were reportedly massacred in a police station by Hamas, at least a dozen people were killed at a nature party, and Hamas also surrounded a rave in the desert where they began massacring at least 250 people. At that Rave, Hamas kidnapped and then murdered a 22 year old German peace activist before parading her dead body through the streets. Her credit card was also used in Gaza after she was killed. To say German media is ‘foaming at the mouth mad’ would be an understatement. Also one of the people kidnapped by Hamas was a holocaust survivor.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7287626904465657130" rel="alternate"/>
-    <published>2023-10-08T16:34:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7287825716190694702</id>
     <title>Israel To “Level” Gaza #usa #israel  Israel has called on all Palestinian civilians to immediately leave Gaza before it turns it into rubble. Israel is beginning a naval bombardment of Gaza while it conducts a massive airstrike campaign. Israeli tanks hav</title>
@@ -51,5 +43,13 @@
     <content>Hezbollah Threatens America As It Prepares To Defend Israel #usa #israel  Hamas says they will start executing hostages one by one in response to Israeli airstrikes that they aren’t warned about. They say they’ll film the executions and post the videos online. There are still several Americans, as well as tens of Chinese and Russian citizens being held hostage. The US has once again repeated its threat that any party that seeks to attack Israel right now will face the US military. Hezbollah has reportedly threatened the United States. Saying that if they intervene directly in the war with Israel there will be no red lines. Warning that all American locations in the Middle East, including military bases, embassies and consulates, will become targets of its attacks. Hezbollah and Israel have been exchanging artillery fire on and off all morning. The UAE has reportedly expressed solidarity with Israel. The White House has reportedly told Senators to prepare their constituents for a long war between Israel and Gaza. Adding that the US will supply both tangible and political support to Israel.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7288047104843386154" rel="alternate"/>
     <published>2023-10-09T19:45:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7288411287485287722</id>
+    <title>Hamas Wants Truce, Israel Says You’ll Get The War You Wanted #usa #israel  Hamas is reportedly asking for a truce with Israel but Israel says that Hamas asked for war so they will get war. Both Israel and the US have compared Hamas to ISIS. An unidentifie</title>
+    <updated>2023-10-10T19:18:32+00:00</updated>
+    <content>Hamas Wants Truce, Israel Says You’ll Get The War You Wanted #usa #israel  Hamas is reportedly asking for a truce with Israel but Israel says that Hamas asked for war so they will get war. Both Israel and the US have compared Hamas to ISIS. An unidentified country struck an Iranian convoy in Iraq and Syria today. The US has reportedly communicated with Lebanon directly to tell them “Hezbollah should stay out of the picture because if there is a war - Lebanon as a country will be damaged and hurt”. Meanwhile, Hezbollah and Israel have continued to shoot at each other all day through various means with each strike being a response to the previous strike. The US has said that Iran should “think twice” about entering the conflict and they believe that Iran is trying to draw them into a global conflict. In addition to all this, The United States, United Kingdom, France, Germany and Italy have issued a joint statement pledging to help Israel defend itself. The UAE has reportedly warned Syria to not intervene and to not allow attacks to happen from their soil.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7288411287485287722" rel="alternate"/>
+    <published>2023-10-10T19:18:32+00:00</published>
   </entry>
 </feed>
