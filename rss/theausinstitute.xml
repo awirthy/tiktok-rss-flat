@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-10-06T04:08:07+00:00</updated>
+  <updated>2023-10-10T03:42:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7284110385320365319</id>
-    <title>It's time to face up to the reality that as one of the lowest taxed countries in the developed world, Australia lacks the solid revenue base to deliver all the programs needed for a fair society. We need a tax system that fits Australia's needs. #auspol  </title>
-    <updated>2023-09-29T05:09:08+00:00</updated>
-    <content>It's time to face up to the reality that as one of the lowest taxed countries in the developed world, Australia lacks the solid revenue base to deliver all the programs needed for a fair society. We need a tax system that fits Australia's needs. #auspol  Earlybird tickets for our Revenue Summit 2023 are on sale now!  We're bringing economists and taxation experts together to discuss sensible revenue-raising options to meet Australia's spending needs. 📅 Friday, 27 October, Canberra.  Tickets and info via link in bo.</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7284110385320365319" rel="alternate"/>
-    <published>2023-09-29T05:09:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7286274449467280648</id>
     <title>"PWC misused government information to help some of its multinational corporations potentially evade taxes. "These groups have become embedded in the ordinary processes of government." - Democracy &amp; Accountability Director Bill Browne #auspol</title>
@@ -51,5 +43,13 @@
     <content>Is consultant really a 'profession'? "Consulting has always been about perceptions as much as it's about reality" - Democracy &amp; Accountability Director Bill Browne #auspol</content>
     <link href="https://tiktok.com/@theausinstitute/video/7286692274174545159" rel="alternate"/>
     <published>2023-10-06T04:08:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7288170141609708808</id>
+    <title>"The Voice is a metaphor, because we've been talking to successive governments for generations.  "Sometimes they listen, but there is no bind on them to take any notice of us." - Pat Anderson AO, Alyawarre woman and architect of the Uluru Statement from t</title>
+    <updated>2023-10-10T03:42:38+00:00</updated>
+    <content>"The Voice is a metaphor, because we've been talking to successive governments for generations.  "Sometimes they listen, but there is no bind on them to take any notice of us." - Pat Anderson AO, Alyawarre woman and architect of the Uluru Statement from the Heart.  #auspol #VoteYES23</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7288170141609708808" rel="alternate"/>
+    <published>2023-10-10T03:42:38+00:00</published>
   </entry>
 </feed>
