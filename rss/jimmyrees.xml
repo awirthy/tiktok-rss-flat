@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-10-09T07:00:00+00:00</updated>
+  <updated>2023-10-10T03:10:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7285928915170872583</id>
-    <title>Another day at the 'Not So Emergency Department' PART 3 ... Awkward ... #aflgrandfinal  #NRLGrandFinal  #funny  #awkward  #notsoemergencydepartment</title>
-    <updated>2023-10-04T02:45:58+00:00</updated>
-    <content>Another day at the 'Not So Emergency Department' PART 3 ... Awkward ... #aflgrandfinal  #NRLGrandFinal  #funny  #awkward  #notsoemergencydepartment</content>
-    <link href="https://tiktok.com/@jimmyrees/video/7285928915170872583" rel="alternate"/>
-    <published>2023-10-04T02:45:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7286327239736642824</id>
     <title>Which voice could you identify with a single spoken word? @audible put me up to a little challenge #ad</title>
@@ -51,5 +43,13 @@
     <content>YOUR specials? No MY specials in the @woolworths_au app...how else would I know when my favourite Tasty Cheese is on special (and I NEED to know as I eat a lot of it). My Specials makes it easy to see when the products you love are on special, so you can stock up, plus if you order by 1pm, you can get it delivered the same day. *Pricing and products shown are for illustration purposes only. #ad</content>
     <link href="https://tiktok.com/@jimmyrees/video/7287801178308545799" rel="alternate"/>
     <published>2023-10-09T07:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7288161893217307912</id>
+    <title>The damn buffet!!! All you can eat 🤬 #buffet #kids #parenting #Funny</title>
+    <updated>2023-10-10T03:10:55+00:00</updated>
+    <content>The damn buffet!!! All you can eat 🤬 #buffet #kids #parenting #Funny</content>
+    <link href="https://tiktok.com/@jimmyrees/video/7288161893217307912" rel="alternate"/>
+    <published>2023-10-10T03:10:55+00:00</published>
   </entry>
 </feed>
