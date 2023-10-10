@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-10T19:18:32+00:00</updated>
+  <updated>2023-10-10T21:18:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7287825716190694702</id>
-    <title>Israel To “Level” Gaza #usa #israel  Israel has called on all Palestinian civilians to immediately leave Gaza before it turns it into rubble. Israel is beginning a naval bombardment of Gaza while it conducts a massive airstrike campaign. Israeli tanks hav</title>
-    <updated>2023-10-09T05:26:04+00:00</updated>
-    <content>Israel To “Level” Gaza #usa #israel  Israel has called on all Palestinian civilians to immediately leave Gaza before it turns it into rubble. Israel is beginning a naval bombardment of Gaza while it conducts a massive airstrike campaign. Israeli tanks have reportedly been moved to the border and are reportedly considering destroying Gaza’s water supply as well as cutting it off from Egypt so supplies can’t come in. At least 600 Israelis were killed in yesterday’s terror attack, this number is expected to grow into the thousands. This is the largest number of Jews murdered in a single day since the Holocaust. Also over 2,000 Israelis are injured. At least 370 Palestines have been killed in Israel’s retaliation with another 2,200 injured. There are also reports of several Americans dead and dozens have reportedly been taken hostage. Local media is reporting that the amount of death in the cities being liberated from Hamas is unbearable. There are horrifying stories coming out of the country. Twenty police officers were reportedly massacred in a police station by Hamas, at least a dozen people were killed at a nature party, and Hamas also surrounded a rave in the desert where they began massacring at least 250 people. At that Rave, Hamas kidnapped and then murdered a 22 year old German peace activist before parading her dead body through the streets. Her credit card was also used in Gaza after she was killed. To say German media is ‘foaming at the mouth mad’ would be an understatement. Also one of the people kidnapped by Hamas was a holocaust survivor.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7287825716190694702" rel="alternate"/>
-    <published>2023-10-09T05:26:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7287836874511682862</id>
     <title>US Will Defend Israel #usa #israel  Iran helped plan Saturday’s terrorist attack on Israel and gave the green light for the attack, they’re also believed to have paid for it. The US says Hamas and Iran likely committed these terrorist attacks to destroy t</title>
@@ -51,5 +43,13 @@
     <content>Hamas Wants Truce, Israel Says You’ll Get The War You Wanted #usa #israel  Hamas is reportedly asking for a truce with Israel but Israel says that Hamas asked for war so they will get war. Both Israel and the US have compared Hamas to ISIS. An unidentified country struck an Iranian convoy in Iraq and Syria today. The US has reportedly communicated with Lebanon directly to tell them “Hezbollah should stay out of the picture because if there is a war - Lebanon as a country will be damaged and hurt”. Meanwhile, Hezbollah and Israel have continued to shoot at each other all day through various means with each strike being a response to the previous strike. The US has said that Iran should “think twice” about entering the conflict and they believe that Iran is trying to draw them into a global conflict. In addition to all this, The United States, United Kingdom, France, Germany and Italy have issued a joint statement pledging to help Israel defend itself. The UAE has reportedly warned Syria to not intervene and to not allow attacks to happen from their soil.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7288411287485287722" rel="alternate"/>
     <published>2023-10-10T19:18:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7288442118136302894</id>
+    <title>Iran &amp; Israel Take The War To Twitter #israel #usa  The US may conduct a special forces operation to free Americans in Gaza. Yemen’s Houthi group reportedly said if the US intervenes, they’ll attack them with missiles. Trigger fingers are turning into twi</title>
+    <updated>2023-10-10T21:18:09+00:00</updated>
+    <content>Iran &amp; Israel Take The War To Twitter #israel #usa  The US may conduct a special forces operation to free Americans in Gaza. Yemen’s Houthi group reportedly said if the US intervenes, they’ll attack them with missiles. Trigger fingers are turning into twitter fingers. With Iran’s supreme leader tweeting that Israel will face a larger force if they keep doing, what he called, the mass murder of Gaza. Israel tweeted back saying “It’s easy to be brave when you’re hiding behind a keyboard. You and your Hamas friends will regret your barbaric actions very soon.” Egypt says it’ll bring aid to Gaza but Israel says it’ll airstrike all Egyptian aid convoys. Despite these warnings, Egypt has reportedly still ordered the aid convoy to go into Gaza.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7288442118136302894" rel="alternate"/>
+    <published>2023-10-10T21:18:09+00:00</published>
   </entry>
 </feed>
