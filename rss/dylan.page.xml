@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-10-10T16:39:34+00:00</updated>
+  <updated>2023-10-10T18:56:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7286199103044750625</id>
-    <title>What do we think about this?🤔</title>
-    <updated>2023-10-04T20:13:50+00:00</updated>
-    <content>What do we think about this?🤔</content>
-    <link href="https://tiktok.com/@dylan.page/video/7286199103044750625" rel="alternate"/>
-    <published>2023-10-04T20:13:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7286919363980987681</id>
     <title>They named bro Stuckie…💀</title>
@@ -51,5 +43,13 @@
     <content>Bro was playing GTA in real life💀</content>
     <link href="https://tiktok.com/@dylan.page/video/7288370392794696993" rel="alternate"/>
     <published>2023-10-10T16:39:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7288405751297608992</id>
+    <title>Taste the rainbow puns bout to go off!😂</title>
+    <updated>2023-10-10T18:56:47+00:00</updated>
+    <content>Taste the rainbow puns bout to go off!😂</content>
+    <link href="https://tiktok.com/@dylan.page/video/7288405751297608992" rel="alternate"/>
+    <published>2023-10-10T18:56:47+00:00</published>
   </entry>
 </feed>

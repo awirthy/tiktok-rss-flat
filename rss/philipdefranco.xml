@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-09T17:36:14+00:00</updated>
+  <updated>2023-10-09T19:45:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7287310028124491050</id>
-    <title>Israel Says It’s Going To Change Gaza Forever #usa #israel  Israel has cut all power to Gaza as it begins its operation.More than 250 Israelis have reportedly been killed and over 1,500 have been wounded, both numbers are expected to grow drastically. Pal</title>
-    <updated>2023-10-07T20:04:56+00:00</updated>
-    <content>Israel Says It’s Going To Change Gaza Forever #usa #israel  Israel has cut all power to Gaza as it begins its operation.More than 250 Israelis have reportedly been killed and over 1,500 have been wounded, both numbers are expected to grow drastically. Palestine says at least 232 people have been killed in Israel’s retaliation. With Israel saying it’s going to change the face of reality in Gaza for the next 50 years. Adding “what was, will be no more”. Palestine has reportedly asked France to intervene to stop what it calls “Israeli aggression” - France has declined. A 12 year old and a 16 year old are reportedly among the hostages Hamas took back into Gaza. Massive rocket barrages are repeatedly being launched at Tel Aviv from Gaza and there are several reports of civilians being hit. There are reports that the Iron Dome seems to not be operating correctly or is perhaps overwhelmed. Israel has reportedly bombed the home of the leader of Hamas. Hamas says it’s expanding the war to the West Bank. President Biden in a national address said the United States stands with Israel and will ensure that they have what they need.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7287310028124491050" rel="alternate"/>
-    <published>2023-10-07T20:04:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7287626904465657130</id>
     <title>Israel To Turn Gaza “To Rubble” #usa #israel  Israel has called on all Palestinian civilians to immediately leave Gaza before it turns it into rubble. Israel is beginning a naval bombardment of Gaza while it conducts a massive airstrike campaign. Israeli </title>
@@ -51,5 +43,13 @@
     <content>Israel To Begin Total Siege Of Gaza #usa #israel  Israel has announced the total siege of Gaza. Saying “there will be no electricity, no food, no fuel. We are fighting human animals and we will act accordingly.” They’ve also reportedly cut off Gaza’s water supply. Adding that “this is a war for our existence and we will do things never seen before”. Israel has reportedly told the United States that it will conduct a ground invasion of Gaza, and they have so far mobilized over 300,000 soldiers. Gaza is currently under very intense bombing, with Israel hitting over a hundred targets an hour. The bombing is only expected to increase in intensity. There are reports of entire city blocks being destroyed. At least 1,000 Israelis have been killed as of recording in Hamas’ terror attacks. And at least 9 Americans were reportedly killed in the attacks as well, with several more still held hostage. At least 560 Palestinians have died in Israel’s return strikes with an additional 2,900 wounded. There are reports of clashing between Israel and the P-I-J on their border with Lebanon. Israel is reportedly cooperating with the US military for this operation, with Israel saying that if there are attempts by Iranian proxies to act, it may lead to an attack from America  The EU has suspended all aid payments to Palestine. Saying that the scale of terror and brutality against Israel and its people is a turning point.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7288013889499942186" rel="alternate"/>
     <published>2023-10-09T17:36:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7288047104843386154</id>
+    <title>Hezbollah Threatens America As It Prepares To Defend Israel #usa #israel  Hamas says they will start executing hostages one by one in response to Israeli airstrikes that they aren’t warned about. They say they’ll film the executions and post the videos on</title>
+    <updated>2023-10-09T19:45:12+00:00</updated>
+    <content>Hezbollah Threatens America As It Prepares To Defend Israel #usa #israel  Hamas says they will start executing hostages one by one in response to Israeli airstrikes that they aren’t warned about. They say they’ll film the executions and post the videos online. There are still several Americans, as well as tens of Chinese and Russian citizens being held hostage. The US has once again repeated its threat that any party that seeks to attack Israel right now will face the US military. Hezbollah has reportedly threatened the United States. Saying that if they intervene directly in the war with Israel there will be no red lines. Warning that all American locations in the Middle East, including military bases, embassies and consulates, will become targets of its attacks. Hezbollah and Israel have been exchanging artillery fire on and off all morning. The UAE has reportedly expressed solidarity with Israel. The White House has reportedly told Senators to prepare their constituents for a long war between Israel and Gaza. Adding that the US will supply both tangible and political support to Israel.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7288047104843386154" rel="alternate"/>
+    <published>2023-10-09T19:45:12+00:00</published>
   </entry>
 </feed>
