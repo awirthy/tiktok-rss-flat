@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-10T22:15:44+00:00</updated>
+  <updated>2023-10-11T21:20:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7288013889499942186</id>
-    <title>Israel To Begin Total Siege Of Gaza #usa #israel  Israel has announced the total siege of Gaza. Saying “there will be no electricity, no food, no fuel. We are fighting human animals and we will act accordingly.” They’ve also reportedly cut off Gaza’s wate</title>
-    <updated>2023-10-09T17:36:14+00:00</updated>
-    <content>Israel To Begin Total Siege Of Gaza #usa #israel  Israel has announced the total siege of Gaza. Saying “there will be no electricity, no food, no fuel. We are fighting human animals and we will act accordingly.” They’ve also reportedly cut off Gaza’s water supply. Adding that “this is a war for our existence and we will do things never seen before”. Israel has reportedly told the United States that it will conduct a ground invasion of Gaza, and they have so far mobilized over 300,000 soldiers. Gaza is currently under very intense bombing, with Israel hitting over a hundred targets an hour. The bombing is only expected to increase in intensity. There are reports of entire city blocks being destroyed. At least 1,000 Israelis have been killed as of recording in Hamas’ terror attacks. And at least 9 Americans were reportedly killed in the attacks as well, with several more still held hostage. At least 560 Palestinians have died in Israel’s return strikes with an additional 2,900 wounded. There are reports of clashing between Israel and the P-I-J on their border with Lebanon. Israel is reportedly cooperating with the US military for this operation, with Israel saying that if there are attempts by Iranian proxies to act, it may lead to an attack from America  The EU has suspended all aid payments to Palestine. Saying that the scale of terror and brutality against Israel and its people is a turning point.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7288013889499942186" rel="alternate"/>
-    <published>2023-10-09T17:36:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7288047104843386154</id>
     <title>Hezbollah Threatens America As It Prepares To Defend Israel #usa #israel  Hamas says they will start executing hostages one by one in response to Israeli airstrikes that they aren’t warned about. They say they’ll film the executions and post the videos on</title>
@@ -51,5 +43,13 @@
     <content>US To Send Another Aircraft Carrier To Israel #usa #israel  Israel is now getting hit by Mortars from Syria in addition to rockets from Lebanon, and Israel is responding with counter-battery fire. So far 1,000 Israelis have been killed with another 3,400 injured and 900 Palestinians have been killed with another 4,500 injured. Israel is preparing a months-long ground campaign in Gaza according to Egypt. With Egypt also saying that Israel has dismissed their efforts to mediate any kind of de-escalation according to the Times of Israel. With the Times saying it’s believed that Israel wants to destroy Hamas before entertaining a ceasefire. The United States may deploy a 2nd aircraft carrier strike group to Israel according to the Wall Street Post. The USS Gerald Ford has arrived off the coast of Israel and will likely begin operations tonight. And this has made Erdogan very mad at Israel and the United States. He angrily asked today:  “Why is the US aircraft carrier coming to Israel? For what? What will they do? Will they hit Gaza with their warplanes and commit a massacre?”. Jake Sullivan responded saying: "Let me be clear: we did not move the carrier for Hamas. We moved the carrier to send a clear message of deterrence to other parties who may seek to widen the war”.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7288456984376954154" rel="alternate"/>
     <published>2023-10-10T22:15:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7288813944976854314</id>
+    <title>Israel Promises To Wipe Hamas Off The Face Of The Earth #usa #israel  The US is working on creating a humanitarian corridor with Egypt and Israel to allow civilians to evacuate from Gaza into Egypt. This comes as the Israeli military promises to turn Gaza</title>
+    <updated>2023-10-11T21:20:54+00:00</updated>
+    <content>Israel Promises To Wipe Hamas Off The Face Of The Earth #usa #israel  The US is working on creating a humanitarian corridor with Egypt and Israel to allow civilians to evacuate from Gaza into Egypt. This comes as the Israeli military promises to turn Gaza into a tent city &amp; the Israeli defense ministry says that they’ll “wipe Hamas off the face of the earth”. Israel has struck over 1,500 targets since Sunday. Now over 1,200 Israelis have been killed in addition to 1,000 Palestinians who have also been killed. The White House says that Americans need to prepare for the number of Americans held hostage and dead in Israel from Hamas to continue to grow. China called a Palestinian official to push for an “immediate ceasefire”. </content>
+    <link href="https://tiktok.com/@philipdefranco/video/7288813944976854314" rel="alternate"/>
+    <published>2023-10-11T21:20:54+00:00</published>
   </entry>
 </feed>
