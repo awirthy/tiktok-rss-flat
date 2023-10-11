@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-10-09T07:32:07+00:00</updated>
+  <updated>2023-10-11T07:14:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7286372861973925127</id>
-    <title>Please DM me the source if you have it #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian</title>
-    <updated>2023-10-05T07:28:06+00:00</updated>
-    <content>Please DM me the source if you have it #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian</content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7286372861973925127" rel="alternate"/>
-    <published>2023-10-05T07:28:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7286743935144283400</id>
-    <title>It’s such a good video #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian  @Briggs </title>
-    <updated>2023-10-06T07:28:05+00:00</updated>
-    <content>It’s such a good video #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian  @Briggs </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7286743935144283400" rel="alternate"/>
-    <published>2023-10-06T07:28:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7287113764376153351</id>
     <title>Come join, we have some great creators #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian @Braden Hill @Conor Bowden @Manmiya @Marion and @adu </title>
@@ -51,5 +35,21 @@
     <content>It’s not over till the 14th but it aint looking too hot #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian</content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7287858226497080583" rel="alternate"/>
     <published>2023-10-09T07:32:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7288595035371736338</id>
+    <title>After twitter today I do believe in horseshoe theory #israel #palestine #gaza #auspol </title>
+    <updated>2023-10-11T07:11:17+00:00</updated>
+    <content>After twitter today I do believe in horseshoe theory #israel #palestine #gaza #auspol </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7288595035371736338" rel="alternate"/>
+    <published>2023-10-11T07:11:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7288595752765492488</id>
+    <title>Full Panel On Youtubr Soon #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian @Braden Hill @Conor Bowden </title>
+    <updated>2023-10-11T07:14:05+00:00</updated>
+    <content>Full Panel On Youtubr Soon #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian @Braden Hill @Conor Bowden </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7288595752765492488" rel="alternate"/>
+    <published>2023-10-11T07:14:05+00:00</published>
   </entry>
 </feed>
