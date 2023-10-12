@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-10-10T23:40:55+00:00</updated>
+  <updated>2023-10-12T05:12:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7286650511737097479</id>
-    <title>"It was a very conscious decision to gift the Uluru Statement, a gift of hope and love, to the Australian people, asking them again to help us. "It's for you who decide what sort of a country we're going to be" - Pat Anderson AO #auspol #voteYes23</title>
-    <updated>2023-10-06T01:26:18+00:00</updated>
-    <content>"It was a very conscious decision to gift the Uluru Statement, a gift of hope and love, to the Australian people, asking them again to help us. "It's for you who decide what sort of a country we're going to be" - Pat Anderson AO #auspol #voteYes23</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7286650511737097479" rel="alternate"/>
-    <published>2023-10-06T01:26:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7286692274174545159</id>
     <title>Is consultant really a 'profession'? "Consulting has always been about perceptions as much as it's about reality" - Democracy &amp; Accountability Director Bill Browne #auspol</title>
@@ -51,5 +43,13 @@
     <content>This Saturday, Australia will vote on the proposal for an Indigenous Voice to Parliament. Make sure your voice is heard. The Australia Institute is proud to be a longstanding supporter of a constitutionally enshrined Voice, as articulated in the Uluru Statement from the Heart. #auspol #VoteYes23 #Yes23</content>
     <link href="https://tiktok.com/@theausinstitute/video/7288478916837264658" rel="alternate"/>
     <published>2023-10-10T23:40:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7288935331758394642</id>
+    <title>We've come up with four ways to make the Stage 3 tax cuts fairer, giving 80% of taxpayers a bigger slice of the pie.  Oh, and we'd still have enough money left over to increase JobSeeker to $250 a fortnight, while spending less than the Stage 3 tax cuts. </title>
+    <updated>2023-10-12T05:12:11+00:00</updated>
+    <content>We've come up with four ways to make the Stage 3 tax cuts fairer, giving 80% of taxpayers a bigger slice of the pie.  Oh, and we'd still have enough money left over to increase JobSeeker to $250 a fortnight, while spending less than the Stage 3 tax cuts.  Read the full report here on our website, link in bio. #auspol #economics</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7288935331758394642" rel="alternate"/>
+    <published>2023-10-12T05:12:11+00:00</published>
   </entry>
 </feed>
