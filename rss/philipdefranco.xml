@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-11T21:20:54+00:00</updated>
+  <updated>2023-10-12T00:19:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7288047104843386154</id>
-    <title>Hezbollah Threatens America As It Prepares To Defend Israel #usa #israel  Hamas says they will start executing hostages one by one in response to Israeli airstrikes that they aren’t warned about. They say they’ll film the executions and post the videos on</title>
-    <updated>2023-10-09T19:45:12+00:00</updated>
-    <content>Hezbollah Threatens America As It Prepares To Defend Israel #usa #israel  Hamas says they will start executing hostages one by one in response to Israeli airstrikes that they aren’t warned about. They say they’ll film the executions and post the videos online. There are still several Americans, as well as tens of Chinese and Russian citizens being held hostage. The US has once again repeated its threat that any party that seeks to attack Israel right now will face the US military. Hezbollah has reportedly threatened the United States. Saying that if they intervene directly in the war with Israel there will be no red lines. Warning that all American locations in the Middle East, including military bases, embassies and consulates, will become targets of its attacks. Hezbollah and Israel have been exchanging artillery fire on and off all morning. The UAE has reportedly expressed solidarity with Israel. The White House has reportedly told Senators to prepare their constituents for a long war between Israel and Gaza. Adding that the US will supply both tangible and political support to Israel.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7288047104843386154" rel="alternate"/>
-    <published>2023-10-09T19:45:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7288411287485287722</id>
     <title>Hamas Wants Truce, Israel Says You’ll Get The War You Wanted #usa #israel  Hamas is reportedly asking for a truce with Israel but Israel says that Hamas asked for war so they will get war. Both Israel and the US have compared Hamas to ISIS. An unidentifie</title>
@@ -51,5 +43,13 @@
     <content>Israel Promises To Wipe Hamas Off The Face Of The Earth #usa #israel  The US is working on creating a humanitarian corridor with Egypt and Israel to allow civilians to evacuate from Gaza into Egypt. This comes as the Israeli military promises to turn Gaza into a tent city &amp; the Israeli defense ministry says that they’ll “wipe Hamas off the face of the earth”. Israel has struck over 1,500 targets since Sunday. Now over 1,200 Israelis have been killed in addition to 1,000 Palestinians who have also been killed. The White House says that Americans need to prepare for the number of Americans held hostage and dead in Israel from Hamas to continue to grow. China called a Palestinian official to push for an “immediate ceasefire”. </content>
     <link href="https://tiktok.com/@philipdefranco/video/7288813944976854314" rel="alternate"/>
     <published>2023-10-11T21:20:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7288859775377624366</id>
+    <title>Putin Blames America For Terrorist Attack On Israel #usa #israel  Zelensky will visit Israel in a show of solidarity according to axios. He was among the first leaders to call Israel to offer his support, he is also one of the only Jewish heads of states </title>
+    <updated>2023-10-12T00:19:00+00:00</updated>
+    <content>Putin Blames America For Terrorist Attack On Israel #usa #israel  Zelensky will visit Israel in a show of solidarity according to axios. He was among the first leaders to call Israel to offer his support, he is also one of the only Jewish heads of states in the world. This comes as Putin blamed the United States for Saturday’s terrorist attack. Hamas is now denying that it killed civilians in Israel, but their attack on Saturday is now the 2nd deadliest terror attack in the history of the West, superseded only by 9/11. The Wall Street Journal says that the IDF killed at least 1,500 terrorists on Saturday while the terror attack was ongoing. Sweden has now cut aid to Palestine.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7288859775377624366" rel="alternate"/>
+    <published>2023-10-12T00:19:00+00:00</published>
   </entry>
 </feed>
