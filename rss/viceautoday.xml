@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-10-11T06:55:52+00:00</updated>
+  <updated>2023-10-12T06:11:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7286347791620738306</id>
-    <title>🐎 - the anesthetic dr*g often used recreationally - will be given as a therapy treatment for patients suffering from severe depression at the Royal Melbourne Hospital’s new mental health clinic. #australia #news #health #mentalhealth #treatment #psycholog</title>
-    <updated>2023-10-05T05:50:53+00:00</updated>
-    <content>🐎 - the anesthetic dr*g often used recreationally - will be given as a therapy treatment for patients suffering from severe depression at the Royal Melbourne Hospital’s new mental health clinic. #australia #news #health #mentalhealth #treatment #psychology #psychiatry #depression #anxiety #hospital #clinic #melbourne #todayilearned #learnontiktok </content>
-    <link href="https://tiktok.com/@viceautoday/video/7286347791620738306" rel="alternate"/>
-    <published>2023-10-05T05:50:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7286702620046134529</id>
     <title>Sydney flies are everywhere – people have been noticing there are more flies in Sydney than usual in recent weeks, but why the sudden insect infestation? #australia #news #sydney #flies #sydneyflies #bugs #insects #australianinsects #health #science #spri</title>
@@ -51,5 +43,13 @@
     <content>Police are reportedly speaking with the organisers of a pro-Palestinian rally planned for Sunday. #aunews #australia #nsw #auspol </content>
     <link href="https://tiktok.com/@viceautoday/video/7288591066851183880" rel="alternate"/>
     <published>2023-10-11T06:55:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7288950823231540481</id>
+    <title>Everything you need to know about how we got to the Indigenous Voice to Parliament referendum and what either Yes or No outcome could mean for Australia and the government. #australia #news #voicetoparliament #thevoice #thevoicetoparliament #indigenousvoi</title>
+    <updated>2023-10-12T06:11:59+00:00</updated>
+    <content>Everything you need to know about how we got to the Indigenous Voice to Parliament referendum and what either Yes or No outcome could mean for Australia and the government. #australia #news #voicetoparliament #thevoice #thevoicetoparliament #indigenousvoicetoparliament #indigenous #firstnations #aboriginal #torresstraitislander #referendum #vote #todayilearned #learnontiktok </content>
+    <link href="https://tiktok.com/@viceautoday/video/7288950823231540481" rel="alternate"/>
+    <published>2023-10-12T06:11:59+00:00</published>
   </entry>
 </feed>
