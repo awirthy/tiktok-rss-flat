@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-10-11T09:31:04+00:00</updated>
+  <updated>2023-10-10T03:10:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7286327239736642824</id>
+    <title>Which voice could you identify with a single spoken word? @audible put me up to a little challenge #ad</title>
+    <updated>2023-10-05T06:00:00+00:00</updated>
+    <content>Which voice could you identify with a single spoken word? @audible put me up to a little challenge #ad</content>
+    <link href="https://tiktok.com/@jimmyrees/video/7286327239736642824" rel="alternate"/>
+    <published>2023-10-05T06:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7286631912691617042</id>
     <title>What an experience!! #funny #dads #wtf</title>
@@ -43,13 +51,5 @@
     <content>The damn buffet!!! All you can eat 🤬 #buffet #kids #parenting #Funny</content>
     <link href="https://tiktok.com/@jimmyrees/video/7288161893217307912" rel="alternate"/>
     <published>2023-10-10T03:10:55+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7288631043165408514</id>
-    <title>Rugby Union, I dont know how the Guy Who Decides does it!! #rugbyunion #rugbyworldcup #rugbytok #funny #theguywhodecides ##jasonjasonjason </title>
-    <updated>2023-10-11T09:31:04+00:00</updated>
-    <content>Rugby Union, I dont know how the Guy Who Decides does it!! #rugbyunion #rugbyworldcup #rugbytok #funny #theguywhodecides ##jasonjasonjason </content>
-    <link href="https://tiktok.com/@jimmyrees/video/7288631043165408514" rel="alternate"/>
-    <published>2023-10-11T09:31:04+00:00</published>
   </entry>
 </feed>
