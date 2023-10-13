@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-10-11T09:31:04+00:00</updated>
+  <updated>2023-10-13T02:15:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7286631912691617042</id>
-    <title>What an experience!! #funny #dads #wtf</title>
-    <updated>2023-10-06T00:14:00+00:00</updated>
-    <content>What an experience!! #funny #dads #wtf</content>
-    <link href="https://tiktok.com/@jimmyrees/video/7286631912691617042" rel="alternate"/>
-    <published>2023-10-06T00:14:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7287527498034793730</id>
     <title>Reposting this in case you need a catch up for the Cricket World Cup #cricket #cricketworldcup #iccworldcup #theguywhodecides </title>
@@ -51,5 +43,13 @@
     <content>Rugby Union, I dont know how the Guy Who Decides does it!! #rugbyunion #rugbyworldcup #rugbytok #funny #theguywhodecides ##jasonjasonjason </content>
     <link href="https://tiktok.com/@jimmyrees/video/7288631043165408514" rel="alternate"/>
     <published>2023-10-11T09:31:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7289260905580350721</id>
+    <title>Pet Shops be like!!! #petstore #pets #dogsoftiktok #dogowner #petlover </title>
+    <updated>2023-10-13T02:15:19+00:00</updated>
+    <content>Pet Shops be like!!! #petstore #pets #dogsoftiktok #dogowner #petlover </content>
+    <link href="https://tiktok.com/@jimmyrees/video/7289260905580350721" rel="alternate"/>
+    <published>2023-10-13T02:15:19+00:00</published>
   </entry>
 </feed>
