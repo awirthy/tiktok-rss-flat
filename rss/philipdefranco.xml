@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-13T19:13:31+00:00</updated>
+  <updated>2023-10-12T23:00:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7288411287485287722</id>
+    <title>Hamas Wants Truce, Israel Says You’ll Get The War You Wanted #usa #israel  Hamas is reportedly asking for a truce with Israel but Israel says that Hamas asked for war so they will get war. Both Israel and the US have compared Hamas to ISIS. An unidentifie</title>
+    <updated>2023-10-10T19:18:32+00:00</updated>
+    <content>Hamas Wants Truce, Israel Says You’ll Get The War You Wanted #usa #israel  Hamas is reportedly asking for a truce with Israel but Israel says that Hamas asked for war so they will get war. Both Israel and the US have compared Hamas to ISIS. An unidentified country struck an Iranian convoy in Iraq and Syria today. The US has reportedly communicated with Lebanon directly to tell them “Hezbollah should stay out of the picture because if there is a war - Lebanon as a country will be damaged and hurt”. Meanwhile, Hezbollah and Israel have continued to shoot at each other all day through various means with each strike being a response to the previous strike. The US has said that Iran should “think twice” about entering the conflict and they believe that Iran is trying to draw them into a global conflict. In addition to all this, The United States, United Kingdom, France, Germany and Italy have issued a joint statement pledging to help Israel defend itself. The UAE has reportedly warned Syria to not intervene and to not allow attacks to happen from their soil.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7288411287485287722" rel="alternate"/>
+    <published>2023-10-10T19:18:32+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7288442118136302894</id>
     <title>Iran &amp; Israel Take The War To Twitter #israel #usa  The US may conduct a special forces operation to free Americans in Gaza. Yemen’s Houthi group reportedly said if the US intervenes, they’ll attack them with missiles. Trigger fingers are turning into twi</title>
@@ -43,13 +51,5 @@
     <content>Israel Strikes Syria In Growing War #usa #israel  Israel struck Syria’s two main airports last night to put them out of service according to Al-Jazeera, which is thought to have been done to stop Iranian assistance. https://x.com/IAFsite/status/1712484101763342772?s=20has also dropped over 6,000 bombs on Gaza since Sunday. The IDF also claims that they have a list of everyone who participated in the terror attack and that the air force will reach every one of them. The UK will send part of the Royal navy to Israel as a show of support and to conduct surveillance flights over israel. The US and Qatar have reached a “quiet understanding” to not give Iran any of the 6 Billion that was unfrozen, according to CBS News. 27 Americans have now been killed in the attacks on Israel, 14 are still missing. Secretary Blinken in Israel today said “This is the equivalent of ten 9/11s” - what he means is population scaling. If what happened in Israel happened in America that would mean 48,000 people dead. France has banned Pro-Palestine protests because they are “likely to generate disturbances to the public order”</content>
     <link href="https://tiktok.com/@philipdefranco/video/7289210719046831403" rel="alternate"/>
     <published>2023-10-12T23:00:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7289523296746360107</id>
-    <title>Israel Gives 24 Hours To Evacuate Gaza #usa #israel  Israel has told the United Nations that they have 24 hours to evacuate Northern Gaza to the south. But The UN says that its impossible to evacuate 1.1 million people in less than 24 hours. And Hamas is </title>
-    <updated>2023-10-13T19:13:31+00:00</updated>
-    <content>Israel Gives 24 Hours To Evacuate Gaza #usa #israel  Israel has told the United Nations that they have 24 hours to evacuate Northern Gaza to the south. But The UN says that its impossible to evacuate 1.1 million people in less than 24 hours. And Hamas is telling people not to evacuate, saying its propaganda according to Al-Jazeera. Israel is expected to begin its ground invasion of Gaza as soon as this weekend. Iran says that there is a real possibility of more fronts opening against Israel. Human rights Watch has accused Israel of using White Phosphorus while others have accused them of flat out revenge bombing.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7289523296746360107" rel="alternate"/>
-    <published>2023-10-13T19:13:31+00:00</published>
   </entry>
 </feed>
