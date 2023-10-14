@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@davecairnsfilm</id>
   <title>davecairnsfilm TikTok</title>
-  <updated>2023-10-11T11:49:19+00:00</updated>
+  <updated>2023-10-14T09:14:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from davecairnsfilm</subtitle>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7284980518658084098</id>
-    <title>#stitch with @JCPoetry 2 OCTOBER 2023 - #famouslastwords #ironic </title>
-    <updated>2023-10-01T13:25:08+00:00</updated>
-    <content>#stitch with @JCPoetry 2 OCTOBER 2023 - #famouslastwords #ironic </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7284980518658084098" rel="alternate"/>
-    <published>2023-10-01T13:25:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@davecairnsfilm/video/7286057459540708610</id>
     <title>#stitch with @Vote for Change 4 OCTOBER 2023 - #australia #politics #auspol #voicetoparliament #firstnations </title>
@@ -51,5 +43,13 @@
     <content>Replying to @Emma Carter 11 OCTOBER 2023 - #australia #politics #auspol #cookers #antieverything #comedy #humor </content>
     <link href="https://tiktok.com/@davecairnsfilm/video/7288666678387379458" rel="alternate"/>
     <published>2023-10-11T11:49:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@davecairnsfilm/video/7289740142988807425</id>
+    <title>14 OCTOBER 2023 - #australia #politics #auspol #voicetoparliament #firstnations #media</title>
+    <updated>2023-10-14T09:14:56+00:00</updated>
+    <content>14 OCTOBER 2023 - #australia #politics #auspol #voicetoparliament #firstnations #media</content>
+    <link href="https://tiktok.com/@davecairnsfilm/video/7289740142988807425" rel="alternate"/>
+    <published>2023-10-14T09:14:56+00:00</published>
   </entry>
 </feed>
