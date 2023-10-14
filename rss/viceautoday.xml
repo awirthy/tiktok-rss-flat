@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-10-12T06:11:59+00:00</updated>
+  <updated>2023-10-13T05:34:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7286702620046134529</id>
-    <title>Sydney flies are everywhere – people have been noticing there are more flies in Sydney than usual in recent weeks, but why the sudden insect infestation? #australia #news #sydney #flies #sydneyflies #bugs #insects #australianinsects #health #science #spri</title>
-    <updated>2023-10-06T04:47:49+00:00</updated>
-    <content>Sydney flies are everywhere – people have been noticing there are more flies in Sydney than usual in recent weeks, but why the sudden insect infestation? #australia #news #sydney #flies #sydneyflies #bugs #insects #australianinsects #health #science #spring #climatechange #weather #todayilearned #learnontiktok </content>
-    <link href="https://tiktok.com/@viceautoday/video/7286702620046134529" rel="alternate"/>
-    <published>2023-10-06T04:47:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7287841464065871105</id>
     <title>The Indigenous Voice to Parliament referendum is this week and the latest and final voter poll results are out. So what do they predict ahead of Saturday’s vote? #australia #news #vote #referendum #voice #voicetoparliament #politics #auspol #anthonyalbane</title>
@@ -51,5 +43,13 @@
     <content>Everything you need to know about how we got to the Indigenous Voice to Parliament referendum and what either Yes or No outcome could mean for Australia and the government. #australia #news #voicetoparliament #thevoice #thevoicetoparliament #indigenousvoicetoparliament #indigenous #firstnations #aboriginal #torresstraitislander #referendum #vote #todayilearned #learnontiktok </content>
     <link href="https://tiktok.com/@viceautoday/video/7288950823231540481" rel="alternate"/>
     <published>2023-10-12T06:11:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7289312230762384658</id>
+    <title>If granted, the powers would allow police go search protesters without reason and arrest thise who refuse to identify themselves. #sydney #australia #aunews #protest #news #israel #palestine #freepalestine #gaza #hamas #politics #todayilearned #learnontik</title>
+    <updated>2023-10-13T05:34:21+00:00</updated>
+    <content>If granted, the powers would allow police go search protesters without reason and arrest thise who refuse to identify themselves. #sydney #australia #aunews #protest #news #israel #palestine #freepalestine #gaza #hamas #politics #todayilearned #learnontiktok</content>
+    <link href="https://tiktok.com/@viceautoday/video/7289312230762384658" rel="alternate"/>
+    <published>2023-10-13T05:34:21+00:00</published>
   </entry>
 </feed>
