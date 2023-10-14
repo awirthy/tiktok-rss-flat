@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-10-13T05:34:21+00:00</updated>
+  <updated>2023-10-14T11:09:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7287841464065871105</id>
-    <title>The Indigenous Voice to Parliament referendum is this week and the latest and final voter poll results are out. So what do they predict ahead of Saturday’s vote? #australia #news #vote #referendum #voice #voicetoparliament #politics #auspol #anthonyalbane</title>
-    <updated>2023-10-09T06:27:07+00:00</updated>
-    <content>The Indigenous Voice to Parliament referendum is this week and the latest and final voter poll results are out. So what do they predict ahead of Saturday’s vote? #australia #news #vote #referendum #voice #voicetoparliament #politics #auspol #anthonyalbanese #firstnations #indigenous #aboriginal #torresstraitislander #poll #todayilearned #learnontiktok </content>
-    <link href="https://tiktok.com/@viceautoday/video/7287841464065871105" rel="alternate"/>
-    <published>2023-10-09T06:27:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7288217378155007234</id>
     <title>Hundreds of pro-Palestine supporters protested at the Sydney Opera House on Monday, after a surprise attack on Israel by militant Palestinian group Hamas, followed by retaliatory airstrikes from Israel on the Gaza Strip over the weekend. Politicians in Au</title>
@@ -51,5 +43,13 @@
     <content>If granted, the powers would allow police go search protesters without reason and arrest thise who refuse to identify themselves. #sydney #australia #aunews #protest #news #israel #palestine #freepalestine #gaza #hamas #politics #todayilearned #learnontiktok</content>
     <link href="https://tiktok.com/@viceautoday/video/7289312230762384658" rel="alternate"/>
     <published>2023-10-13T05:34:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7289769711246544129</id>
+    <title>The Indigenous Voice to Parliament referendum has been defeated with a majority No result less than 90 minutes after voting polls on Australia’s east coast closed. #australia #news #voicetoparliament #thevoice #thevoicetoparliament #indigenousvoicetoparli</title>
+    <updated>2023-10-14T11:09:39+00:00</updated>
+    <content>The Indigenous Voice to Parliament referendum has been defeated with a majority No result less than 90 minutes after voting polls on Australia’s east coast closed. #australia #news #voicetoparliament #thevoice #thevoicetoparliament #indigenousvoicetoparliament #indigenous #firstnations #aboriginal #referendum #vote #todayilearned #todayilearned </content>
+    <link href="https://tiktok.com/@viceautoday/video/7289769711246544129" rel="alternate"/>
+    <published>2023-10-14T11:09:39+00:00</published>
   </entry>
 </feed>
