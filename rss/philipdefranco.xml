@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-13T19:13:31+00:00</updated>
+  <updated>2023-10-13T22:22:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7288442118136302894</id>
-    <title>Iran &amp; Israel Take The War To Twitter #israel #usa  The US may conduct a special forces operation to free Americans in Gaza. Yemen’s Houthi group reportedly said if the US intervenes, they’ll attack them with missiles. Trigger fingers are turning into twi</title>
-    <updated>2023-10-10T21:18:09+00:00</updated>
-    <content>Iran &amp; Israel Take The War To Twitter #israel #usa  The US may conduct a special forces operation to free Americans in Gaza. Yemen’s Houthi group reportedly said if the US intervenes, they’ll attack them with missiles. Trigger fingers are turning into twitter fingers. With Iran’s supreme leader tweeting that Israel will face a larger force if they keep doing, what he called, the mass murder of Gaza. Israel tweeted back saying “It’s easy to be brave when you’re hiding behind a keyboard. You and your Hamas friends will regret your barbaric actions very soon.” Egypt says it’ll bring aid to Gaza but Israel says it’ll airstrike all Egyptian aid convoys. Despite these warnings, Egypt has reportedly still ordered the aid convoy to go into Gaza.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7288442118136302894" rel="alternate"/>
-    <published>2023-10-10T21:18:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7288456984376954154</id>
     <title>US To Send Another Aircraft Carrier To Israel #usa #israel  Israel is now getting hit by Mortars from Syria in addition to rockets from Lebanon, and Israel is responding with counter-battery fire. So far 1,000 Israelis have been killed with another 3,400 </title>
@@ -51,5 +43,13 @@
     <content>Israel Gives 24 Hours To Evacuate Gaza #usa #israel  Israel has told the United Nations that they have 24 hours to evacuate Northern Gaza to the south. But The UN says that its impossible to evacuate 1.1 million people in less than 24 hours. And Hamas is telling people not to evacuate, saying its propaganda according to Al-Jazeera. Israel is expected to begin its ground invasion of Gaza as soon as this weekend. Iran says that there is a real possibility of more fronts opening against Israel. Human rights Watch has accused Israel of using White Phosphorus while others have accused them of flat out revenge bombing.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7289523296746360107" rel="alternate"/>
     <published>2023-10-13T19:13:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7289571920750677291</id>
+    <title>Terror Attack Rocks France As Israeli Invasion Is Imminent #usa #israel  Israel has told a hospital in Northern Gaza that they have two hours to evacuate according to doctors without borders. The hospital says this is just not possible. Politico says Isra</title>
+    <updated>2023-10-13T22:22:16+00:00</updated>
+    <content>Terror Attack Rocks France As Israeli Invasion Is Imminent #usa #israel  Israel has told a hospital in Northern Gaza that they have two hours to evacuate according to doctors without borders. The hospital says this is just not possible. Politico says Israel’s ground invasion is imminent. The US is urging Israel to delay their imminent ground operation until safe passage for Palestinians can be secured. Meanwhile Egypt says Israel’s mass evacuation notice is a serious breach of international humanitarian law but Egypt has also taken “unprecedented measures” to reinforce its border with Gaza to prevent any breaches and is resisting pressure from the US to open a humanitarian corridor for Palestinians according to the Financial Times. Biden says it’s a priority of his to address this humanitarian crisis, and that the overwhelming majority of Palestinians had nothing to do with Hamas and the appalling attacks. France has declared a maximum security alert because a knife attack done by an Islamic terrorist in France has been linked to the events we just discussed. Macron said that the French Police thwarted another attack earlier in the day. Macron said France had been “hit once again by the barbarity of Islamist terrorism.” The UK is drawing up rules to deport foreign students, academics, and workers who commit antisemitic acts or praise Hamas.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7289571920750677291" rel="alternate"/>
+    <published>2023-10-13T22:22:16+00:00</published>
   </entry>
 </feed>
