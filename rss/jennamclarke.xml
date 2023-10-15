@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jennamclarke</id>
   <title>jennamclarke TikTok</title>
-  <updated>2023-10-13T11:18:22+00:00</updated>
+  <updated>2023-10-15T09:23:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jennamclarke</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jennamclarke/video/7287902489691639042</id>
-    <title>4 things to know before ☕️ on Tuesday including #sydneyoperahouse #traviskelce #willferrell #thevoice  #auspol #australia #news </title>
-    <updated>2023-10-09T10:23:53+00:00</updated>
-    <content>4 things to know before ☕️ on Tuesday including #sydneyoperahouse #traviskelce #willferrell #thevoice  #auspol #australia #news </content>
-    <link href="https://tiktok.com/@jennamclarke/video/7287902489691639042" rel="alternate"/>
-    <published>2023-10-09T10:23:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jennamclarke/video/7288280068172860673</id>
     <title>It turns out that pro-Palestine rally in #sydney did have the approval of NSW authorities according to organisers  #australia #auspol #news </title>
@@ -51,5 +43,13 @@
     <content>How #thevoice is shaping up in #westernaustralia </content>
     <link href="https://tiktok.com/@jennamclarke/video/7289400874248539393" rel="alternate"/>
     <published>2023-10-13T11:18:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jennamclarke/video/7290113435902151937</id>
+    <title>#triplej presenter #nooky dedicated October 15’s episode of #blakout to #thevoice and and #lindaburney by playing #treaty by #yothuyindi on loop for an hour </title>
+    <updated>2023-10-15T09:23:29+00:00</updated>
+    <content>#triplej presenter #nooky dedicated October 15’s episode of #blakout to #thevoice and and #lindaburney by playing #treaty by #yothuyindi on loop for an hour </content>
+    <link href="https://tiktok.com/@jennamclarke/video/7290113435902151937" rel="alternate"/>
+    <published>2023-10-15T09:23:29+00:00</published>
   </entry>
 </feed>
