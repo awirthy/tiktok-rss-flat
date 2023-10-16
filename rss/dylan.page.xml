@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-10-16T16:34:07.703173+00:00</updated>
+  <updated>2023-10-16T10:36:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,44 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7289068384073911584</id>
+    <title>How you not gunna have sprinklers?😳💀</title>
+    <updated>2023-10-12T13:48:08+00:00</updated>
+    <content>How you not gunna have sprinklers?😳💀</content>
+    <link href="https://tiktok.com/@dylan.page/video/7289068384073911584" rel="alternate"/>
+    <published>2023-10-12T13:48:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7289092160492784928</id>
+    <title>Imagine seeing that approach your city…😳</title>
+    <updated>2023-10-12T15:20:26+00:00</updated>
+    <content>Imagine seeing that approach your city…😳</content>
+    <link href="https://tiktok.com/@dylan.page/video/7289092160492784928" rel="alternate"/>
+    <published>2023-10-12T15:20:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7289484499249990944</id>
+    <title>Thoughts are with the teachers family right now 😔💔</title>
+    <updated>2023-10-13T16:42:52+00:00</updated>
+    <content>Thoughts are with the teachers family right now 😔💔</content>
+    <link href="https://tiktok.com/@dylan.page/video/7289484499249990944" rel="alternate"/>
+    <published>2023-10-13T16:42:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7289492529790143776</id>
+    <title>Ill try keep you updated as the day goes on</title>
+    <updated>2023-10-13T17:14:02+00:00</updated>
+    <content>Ill try keep you updated as the day goes on</content>
+    <link href="https://tiktok.com/@dylan.page/video/7289492529790143776" rel="alternate"/>
+    <published>2023-10-13T17:14:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7290503410103717152</id>
+    <title>You jumpin in or buying a new dog?🤔</title>
+    <updated>2023-10-16T10:36:51+00:00</updated>
+    <content>You jumpin in or buying a new dog?🤔</content>
+    <link href="https://tiktok.com/@dylan.page/video/7290503410103717152" rel="alternate"/>
+    <published>2023-10-16T10:36:51+00:00</published>
+  </entry>
 </feed>
