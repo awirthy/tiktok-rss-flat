@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-13T22:22:16+00:00</updated>
+  <updated>2023-10-16T22:18:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7288456984376954154</id>
-    <title>US To Send Another Aircraft Carrier To Israel #usa #israel  Israel is now getting hit by Mortars from Syria in addition to rockets from Lebanon, and Israel is responding with counter-battery fire. So far 1,000 Israelis have been killed with another 3,400 </title>
-    <updated>2023-10-10T22:15:44+00:00</updated>
-    <content>US To Send Another Aircraft Carrier To Israel #usa #israel  Israel is now getting hit by Mortars from Syria in addition to rockets from Lebanon, and Israel is responding with counter-battery fire. So far 1,000 Israelis have been killed with another 3,400 injured and 900 Palestinians have been killed with another 4,500 injured. Israel is preparing a months-long ground campaign in Gaza according to Egypt. With Egypt also saying that Israel has dismissed their efforts to mediate any kind of de-escalation according to the Times of Israel. With the Times saying it’s believed that Israel wants to destroy Hamas before entertaining a ceasefire. The United States may deploy a 2nd aircraft carrier strike group to Israel according to the Wall Street Post. The USS Gerald Ford has arrived off the coast of Israel and will likely begin operations tonight. And this has made Erdogan very mad at Israel and the United States. He angrily asked today:  “Why is the US aircraft carrier coming to Israel? For what? What will they do? Will they hit Gaza with their warplanes and commit a massacre?”. Jake Sullivan responded saying: "Let me be clear: we did not move the carrier for Hamas. We moved the carrier to send a clear message of deterrence to other parties who may seek to widen the war”.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7288456984376954154" rel="alternate"/>
-    <published>2023-10-10T22:15:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7288859775377624366</id>
     <title>Putin Blames America For Terrorist Attack On Israel #usa #israel  Zelensky will visit Israel in a show of solidarity according to axios. He was among the first leaders to call Israel to offer his support, he is also one of the only Jewish heads of states </title>
@@ -51,5 +43,13 @@
     <content>Terror Attack Rocks France As Israeli Invasion Is Imminent #usa #israel  Israel has told a hospital in Northern Gaza that they have two hours to evacuate according to doctors without borders. The hospital says this is just not possible. Politico says Israel’s ground invasion is imminent. The US is urging Israel to delay their imminent ground operation until safe passage for Palestinians can be secured. Meanwhile Egypt says Israel’s mass evacuation notice is a serious breach of international humanitarian law but Egypt has also taken “unprecedented measures” to reinforce its border with Gaza to prevent any breaches and is resisting pressure from the US to open a humanitarian corridor for Palestinians according to the Financial Times. Biden says it’s a priority of his to address this humanitarian crisis, and that the overwhelming majority of Palestinians had nothing to do with Hamas and the appalling attacks. France has declared a maximum security alert because a knife attack done by an Islamic terrorist in France has been linked to the events we just discussed. Macron said that the French Police thwarted another attack earlier in the day. Macron said France had been “hit once again by the barbarity of Islamist terrorism.” The UK is drawing up rules to deport foreign students, academics, and workers who commit antisemitic acts or praise Hamas.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7289571920750677291" rel="alternate"/>
     <published>2023-10-13T22:22:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7290684236640685355</id>
+    <title>Iran Warns Israel Of Intervention #usa #israel  Iran sent a warning to Israel through the United Nations saying: that if they continue their operation in Gaza, they will intervene in the conflict according to Axios. The US has sent a second aircraft carri</title>
+    <updated>2023-10-16T22:18:41+00:00</updated>
+    <content>Iran Warns Israel Of Intervention #usa #israel  Iran sent a warning to Israel through the United Nations saying: that if they continue their operation in Gaza, they will intervene in the conflict according to Axios. The US has sent a second aircraft carrier to the region and has selected 2,000 troops to prepare for a potential deployment to support Israel. When asked if the US can support both Ukraine and Israel, President Biden said “We're the United States of America for God's sake. The most powerful nation in the history of the world.” He also called on Hamas to be destroyed but reiterated his support for a Palestinian state. Palestine’s President has condemned Hamas’ attacks and says that Hamas doesn’t represent the Palestinian people but then the remarks were later deleted without explanation. Israel is rushing to deploy a giant laser for the first time in the world according to Channel 14 in Israel. The giant laser is supposed to work as an air defense system. Israel and Hezbollah are continuing to exchange an increasing amount of fire with each other across the border as the situation escalates rapidly.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7290684236640685355" rel="alternate"/>
+    <published>2023-10-16T22:18:41+00:00</published>
   </entry>
 </feed>
