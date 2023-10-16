@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-10-14T11:09:39+00:00</updated>
+  <updated>2023-10-16T05:10:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7288217378155007234</id>
-    <title>Hundreds of pro-Palestine supporters protested at the Sydney Opera House on Monday, after a surprise attack on Israel by militant Palestinian group Hamas, followed by retaliatory airstrikes from Israel on the Gaza Strip over the weekend. Politicians in Au</title>
-    <updated>2023-10-10T06:45:50+00:00</updated>
-    <content>Hundreds of pro-Palestine supporters protested at the Sydney Opera House on Monday, after a surprise attack on Israel by militant Palestinian group Hamas, followed by retaliatory airstrikes from Israel on the Gaza Strip over the weekend. Politicians in Australia condemned the rally. #australia #news #israel #palestine #freepalestine #activist #gaza #hamas #politics #indigenous #colonialism #todayilearned #learnontiktok </content>
-    <link href="https://tiktok.com/@viceautoday/video/7288217378155007234" rel="alternate"/>
-    <published>2023-10-10T06:45:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7288591066851183880</id>
     <title>Police are reportedly speaking with the organisers of a pro-Palestinian rally planned for Sunday. #aunews #australia #nsw #auspol </title>
@@ -51,5 +43,13 @@
     <content>The Indigenous Voice to Parliament referendum has been defeated with a majority No result less than 90 minutes after voting polls on Australia’s east coast closed. #australia #news #voicetoparliament #thevoice #thevoicetoparliament #indigenousvoicetoparliament #indigenous #firstnations #aboriginal #referendum #vote #todayilearned #todayilearned </content>
     <link href="https://tiktok.com/@viceautoday/video/7289769711246544129" rel="alternate"/>
     <published>2023-10-14T11:09:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7290419216296054017</id>
+    <title>The Voice to Parliament referendum failed on Saturday with every state voting No, but electoral data has revealed areas with large proportions of Indigenous residents voted overwhelmingly Yes. #australia #news #voicetoparliament #thevoice #thevoicetoparli</title>
+    <updated>2023-10-16T05:10:07+00:00</updated>
+    <content>The Voice to Parliament referendum failed on Saturday with every state voting No, but electoral data has revealed areas with large proportions of Indigenous residents voted overwhelmingly Yes. #australia #news #voicetoparliament #thevoice #thevoicetoparliament #indigenousvoicetoparliament #indigenous #firstnations #aboriginal #referendum #vote #todayilearned #learnontiktok  </content>
+    <link href="https://tiktok.com/@viceautoday/video/7290419216296054017" rel="alternate"/>
+    <published>2023-10-16T05:10:07+00:00</published>
   </entry>
 </feed>
