@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-10-13T07:16:32+00:00</updated>
+  <updated>2023-10-16T02:21:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7287801178308545799</id>
-    <title>YOUR specials? No MY specials in the @woolworths_au app...how else would I know when my favourite Tasty Cheese is on special (and I NEED to know as I eat a lot of it). My Specials makes it easy to see when the products you love are on special, so you can </title>
-    <updated>2023-10-09T07:00:00+00:00</updated>
-    <content>YOUR specials? No MY specials in the @woolworths_au app...how else would I know when my favourite Tasty Cheese is on special (and I NEED to know as I eat a lot of it). My Specials makes it easy to see when the products you love are on special, so you can stock up, plus if you order by 1pm, you can get it delivered the same day. *Pricing and products shown are for illustration purposes only. #ad</content>
-    <link href="https://tiktok.com/@jimmyrees/video/7287801178308545799" rel="alternate"/>
-    <published>2023-10-09T07:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7288161893217307912</id>
     <title>The damn buffet!!! All you can eat 🤬 #buffet #kids #parenting #Funny</title>
@@ -51,5 +43,13 @@
     <content>A catwalk in a swamp JASON!!   Check out how Adobe Firefly can help you make anything you (or your boss) dream up. Try Adobe Firefly for free now at firefly.adobe.com #adobefirefly #adobepartner #ad </content>
     <link href="https://tiktok.com/@jimmyrees/video/7289338551932620034" rel="alternate"/>
     <published>2023-10-13T07:16:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7290375697481075986</id>
+    <title>America is wrong 😂 #sayitproperly  #funny</title>
+    <updated>2023-10-16T02:21:29+00:00</updated>
+    <content>America is wrong 😂 #sayitproperly  #funny</content>
+    <link href="https://tiktok.com/@jimmyrees/video/7290375697481075986" rel="alternate"/>
+    <published>2023-10-16T02:21:29+00:00</published>
   </entry>
 </feed>
