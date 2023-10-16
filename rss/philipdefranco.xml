@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-16T22:18:41+00:00</updated>
+  <updated>2023-10-16T23:50:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7288859775377624366</id>
-    <title>Putin Blames America For Terrorist Attack On Israel #usa #israel  Zelensky will visit Israel in a show of solidarity according to axios. He was among the first leaders to call Israel to offer his support, he is also one of the only Jewish heads of states </title>
-    <updated>2023-10-12T00:19:00+00:00</updated>
-    <content>Putin Blames America For Terrorist Attack On Israel #usa #israel  Zelensky will visit Israel in a show of solidarity according to axios. He was among the first leaders to call Israel to offer his support, he is also one of the only Jewish heads of states in the world. This comes as Putin blamed the United States for Saturday’s terrorist attack. Hamas is now denying that it killed civilians in Israel, but their attack on Saturday is now the 2nd deadliest terror attack in the history of the West, superseded only by 9/11. The Wall Street Journal says that the IDF killed at least 1,500 terrorists on Saturday while the terror attack was ongoing. Sweden has now cut aid to Palestine.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7288859775377624366" rel="alternate"/>
-    <published>2023-10-12T00:19:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7289210719046831403</id>
     <title>Israel Strikes Syria In Growing War #usa #israel  Israel struck Syria’s two main airports last night to put them out of service according to Al-Jazeera, which is thought to have been done to stop Iranian assistance. https://x.com/IAFsite/status/1712484101</title>
@@ -51,5 +43,13 @@
     <content>Iran Warns Israel Of Intervention #usa #israel  Iran sent a warning to Israel through the United Nations saying: that if they continue their operation in Gaza, they will intervene in the conflict according to Axios. The US has sent a second aircraft carrier to the region and has selected 2,000 troops to prepare for a potential deployment to support Israel. When asked if the US can support both Ukraine and Israel, President Biden said “We're the United States of America for God's sake. The most powerful nation in the history of the world.” He also called on Hamas to be destroyed but reiterated his support for a Palestinian state. Palestine’s President has condemned Hamas’ attacks and says that Hamas doesn’t represent the Palestinian people but then the remarks were later deleted without explanation. Israel is rushing to deploy a giant laser for the first time in the world according to Channel 14 in Israel. The giant laser is supposed to work as an air defense system. Israel and Hezbollah are continuing to exchange an increasing amount of fire with each other across the border as the situation escalates rapidly.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7290684236640685355" rel="alternate"/>
     <published>2023-10-16T22:18:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7290707916590550314</id>
+    <title>US Warns Iran To Not Escalate With Israel #usa #israel  The US has warned Iran to not escalate the conflict with Israel, this comes as the US has deployed another carrier and is preparing troops for deployment. Israel turned water back on for Gaza after P</title>
+    <updated>2023-10-16T23:50:31+00:00</updated>
+    <content>US Warns Iran To Not Escalate With Israel #usa #israel  The US has warned Iran to not escalate the conflict with Israel, this comes as the US has deployed another carrier and is preparing troops for deployment. Israel turned water back on for Gaza after President Biden pressured them to do so. Biden is also pushing Israel to demonstrate restraint. Acknowledging that Israel has a right to destroy Hamas but not a right to subject Palestine to collective punishment. He also warned against occupying Gaza. Israel’s ground offensive is still expected, but keeps getting delayed by rain.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7290707916590550314" rel="alternate"/>
+    <published>2023-10-16T23:50:31+00:00</published>
   </entry>
 </feed>
