@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-10-16T02:21:29+00:00</updated>
+  <updated>2023-10-17T08:29:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7288161893217307912</id>
-    <title>The damn buffet!!! All you can eat 🤬 #buffet #kids #parenting #Funny</title>
-    <updated>2023-10-10T03:10:55+00:00</updated>
-    <content>The damn buffet!!! All you can eat 🤬 #buffet #kids #parenting #Funny</content>
-    <link href="https://tiktok.com/@jimmyrees/video/7288161893217307912" rel="alternate"/>
-    <published>2023-10-10T03:10:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7288631043165408514</id>
     <title>Rugby Union, I dont know how the Guy Who Decides does it!! #rugbyunion #rugbyworldcup #rugbytok #funny #theguywhodecides ##jasonjasonjason </title>
@@ -51,5 +43,13 @@
     <content>America is wrong about Adeeeedus 😂 #sayitproperly  #funny</content>
     <link href="https://tiktok.com/@jimmyrees/video/7290375697481075986" rel="alternate"/>
     <published>2023-10-16T02:21:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7290841669384146178</id>
+    <title>Parent edition of the ‘Not So Emergency Department’ #funny #parenting #parenthumor #parentsoftiktok </title>
+    <updated>2023-10-17T08:29:24+00:00</updated>
+    <content>Parent edition of the ‘Not So Emergency Department’ #funny #parenting #parenthumor #parentsoftiktok </content>
+    <link href="https://tiktok.com/@jimmyrees/video/7290841669384146178" rel="alternate"/>
+    <published>2023-10-17T08:29:24+00:00</published>
   </entry>
 </feed>
