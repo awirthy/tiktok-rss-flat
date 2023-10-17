@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-10-16T05:10:07+00:00</updated>
+  <updated>2023-10-17T05:40:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7288591066851183880</id>
-    <title>Police are reportedly speaking with the organisers of a pro-Palestinian rally planned for Sunday. #aunews #australia #nsw #auspol </title>
-    <updated>2023-10-11T06:55:52+00:00</updated>
-    <content>Police are reportedly speaking with the organisers of a pro-Palestinian rally planned for Sunday. #aunews #australia #nsw #auspol </content>
-    <link href="https://tiktok.com/@viceautoday/video/7288591066851183880" rel="alternate"/>
-    <published>2023-10-11T06:55:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7288950823231540481</id>
     <title>Everything you need to know about how we got to the Indigenous Voice to Parliament referendum and what either Yes or No outcome could mean for Australia and the government. #australia #news #voicetoparliament #thevoice #thevoicetoparliament #indigenousvoi</title>
@@ -51,5 +43,13 @@
     <content>The Voice to Parliament referendum failed on Saturday with every state voting No, but electoral data has revealed areas with large proportions of Indigenous residents voted overwhelmingly Yes. #australia #news #voicetoparliament #thevoice #thevoicetoparliament #indigenousvoicetoparliament #indigenous #firstnations #aboriginal #referendum #vote #todayilearned #learnontiktok  </content>
     <link href="https://tiktok.com/@viceautoday/video/7290419216296054017" rel="alternate"/>
     <published>2023-10-16T05:10:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7290798055165611265</id>
+    <title>NSW Police strip searches of young people is increasing, particularly on girls aged 10-17 and Indigenous children. The majority of searches carried out in the last two years was on people aged 18-29. #australia #news #justice #legal #musicfestival #musicf</title>
+    <updated>2023-10-17T05:40:10+00:00</updated>
+    <content>NSW Police strip searches of young people is increasing, particularly on girls aged 10-17 and Indigenous children. The majority of searches carried out in the last two years was on people aged 18-29. #australia #news #justice #legal #musicfestival #musicfestivals #nsw #indigenous #todayilearned #learnontiktok </content>
+    <link href="https://tiktok.com/@viceautoday/video/7290798055165611265" rel="alternate"/>
+    <published>2023-10-17T05:40:10+00:00</published>
   </entry>
 </feed>
