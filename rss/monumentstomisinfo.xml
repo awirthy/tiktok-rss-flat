@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-10-16T07:23:01+00:00</updated>
+  <updated>2023-10-18T08:13:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7289367052735745287</id>
-    <title>Tomorrow we vote #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian </title>
-    <updated>2023-10-13T09:07:06+00:00</updated>
-    <content>Tomorrow we vote #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7289367052735745287" rel="alternate"/>
-    <published>2023-10-13T09:07:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7289367463924452626</id>
-    <title>It’s not just about now, also about the future #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian</title>
-    <updated>2023-10-13T09:08:41+00:00</updated>
-    <content>It’s not just about now, also about the future #auspol #indigenousvoicetoparliament #voteyes23 #sayyes2023 #indigenousaustralian</content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7289367463924452626" rel="alternate"/>
-    <published>2023-10-13T09:08:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7289715461732797703</id>
     <title>Let me know if you’ve got a strong opinion #auspol #nswpolitics #auspolice #gaza #israelpalestine #protest </title>
@@ -51,5 +35,21 @@
     <content>There’s no justification #israel #palestine #gaza #auspol </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7290453478630067464" rel="alternate"/>
     <published>2023-10-16T07:23:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7291208439663955208</id>
+    <title>Sad but expected outcome #auspol #voicetoparliament #indigenousaustralian #sayyes2023 </title>
+    <updated>2023-10-18T08:12:38+00:00</updated>
+    <content>Sad but expected outcome #auspol #voicetoparliament #indigenousaustralian #sayyes2023 </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7291208439663955208" rel="alternate"/>
+    <published>2023-10-18T08:12:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7291208680295369992</id>
+    <title>Just wait for confirmed info #auspol #israel #palestine #gaza </title>
+    <updated>2023-10-18T08:13:33+00:00</updated>
+    <content>Just wait for confirmed info #auspol #israel #palestine #gaza </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7291208680295369992" rel="alternate"/>
+    <published>2023-10-18T08:13:33+00:00</published>
   </entry>
 </feed>
