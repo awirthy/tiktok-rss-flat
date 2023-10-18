@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-17T18:52:30+00:00</updated>
+  <updated>2023-10-18T20:28:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7289523296746360107</id>
-    <title>Israel Gives 24 Hours To Evacuate Gaza #usa #israel  Israel has told the United Nations that they have 24 hours to evacuate Northern Gaza to the south. But The UN says that its impossible to evacuate 1.1 million people in less than 24 hours. And Hamas is </title>
-    <updated>2023-10-13T19:13:31+00:00</updated>
-    <content>Israel Gives 24 Hours To Evacuate Gaza #usa #israel  Israel has told the United Nations that they have 24 hours to evacuate Northern Gaza to the south. But The UN says that its impossible to evacuate 1.1 million people in less than 24 hours. And Hamas is telling people not to evacuate, saying its propaganda according to Al-Jazeera. Israel is expected to begin its ground invasion of Gaza as soon as this weekend. Iran says that there is a real possibility of more fronts opening against Israel. Human rights Watch has accused Israel of using White Phosphorus while others have accused them of flat out revenge bombing.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7289523296746360107" rel="alternate"/>
-    <published>2023-10-13T19:13:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7289571920750677291</id>
     <title>Terror Attack Rocks France As Israeli Invasion Is Imminent #usa #israel  Israel has told a hospital in Northern Gaza that they have two hours to evacuate according to doctors without borders. The hospital says this is just not possible. Politico says Isra</title>
@@ -51,5 +43,13 @@
     <content>US Gets Israel To Allow Aid To Gaza #usa #israel  After 8 hours of negotiations with Israel, the United States has convinced Israel to agree to develop a plan to let humanitarian aid flow into Gaza as well as create areas to keep civilians out of harm's way. The US warned that if Hamas tries to block or seize the aid, the US will prevent it from happening. President Biden will go to Israel tomorrow, where he will be presented with a plan from Israel on how they plan to conduct their operation in a way that minimizes civilian casualties according to the State Department. They will also present him with a briefing on their war strategy. After this, Biden will fly to Jordan where he will meet with the President of Palestine and Egypt, and the King of Jordan. The King of Jordan says that Egypt and Israel will not accept any refugees or support Israel’s operation to take out Hamas but President Biden seems determined to change that. Secretary Blinken has taken 13 trips in the past 72 hours between 8 different Middle Eastern capitals in an effort to prevent an escalation of this war.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7291002229492878638" rel="alternate"/>
     <published>2023-10-17T18:52:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7291398010318163246</id>
+    <title>Hospital In Gaza Hit By Rogue Missile #usa #israel  Yesterday a hospital in Gaza was hit by a rogue missile. Visual evidence from Palestinians, an independent assessment from the Pentagon, and overwhelming evidence released by the IDF suggest this was a P</title>
+    <updated>2023-10-18T20:28:19+00:00</updated>
+    <content>Hospital In Gaza Hit By Rogue Missile #usa #israel  Yesterday a hospital in Gaza was hit by a rogue missile. Visual evidence from Palestinians, an independent assessment from the Pentagon, and overwhelming evidence released by the IDF suggest this was a PIJ rocket that misfired. The US has also collected “high confidence” signals intelligence that this was caused by the PIJ. President Biden also went as far to say that the Department of Defense concluded that it wasn’t Israel based on their own intelligence. The IDF also released an alleged audio recording between two Hamas members discussing the rocket that misfired. Contrary to initial claims, the hospital wasn't completely destroyed. It's still standing and footage from the ground shows that the worst damage was done in the parking lot. The crater in the ground is consistent with militant missiles, not Israeli JDAMs according to most experts. Hamas claims that nearly 500 were killed. But due to the seeming lack of major damage to any of the nearby buildings or independent verification of those numbers, people are starting to doubt that figure. The facts of what actually happened differ from what mainstream media and several other news creators initially reported yesterday because they ran with Hamas’ narrative. With Al-Jazeera, BBC, MSNBC among several others all saying with certainty that Israel had done this. This misinformation resulted in widespread riots and protests outside of US embassies across the Middle East. As well as regional-wide condemnation of Israel, calls to war by Hezbollah and Iran, and drones launched at US bases in Iraq. Today should serve as a day of reflection for the media and news influencers since they almost started a region-wide war yesterday. Taking a second to make sure what you have is correct is more important than being first because someone’s going to get there before you do anyways.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7291398010318163246" rel="alternate"/>
+    <published>2023-10-18T20:28:19+00:00</published>
   </entry>
 </feed>
