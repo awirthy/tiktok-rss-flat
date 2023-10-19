@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-10-12T05:12:11+00:00</updated>
+  <updated>2023-10-19T00:21:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7286692274174545159</id>
-    <title>Is consultant really a 'profession'? "Consulting has always been about perceptions as much as it's about reality" - Democracy &amp; Accountability Director Bill Browne #auspol</title>
-    <updated>2023-10-06T04:08:07+00:00</updated>
-    <content>Is consultant really a 'profession'? "Consulting has always been about perceptions as much as it's about reality" - Democracy &amp; Accountability Director Bill Browne #auspol</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7286692274174545159" rel="alternate"/>
-    <published>2023-10-06T04:08:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7288170141609708808</id>
     <title>"The Voice is a metaphor, because we've been talking to successive governments for generations.  "Sometimes they listen, but there is no bind on them to take any notice of us." - Pat Anderson AO, Alyawarre woman and architect of the Uluru Statement from t</title>
@@ -51,5 +43,13 @@
     <content>We've come up with four ways to make the Stage 3 tax cuts fairer, giving 80% of taxpayers a bigger slice of the pie.  Oh, and we'd still have enough money left over to increase JobSeeker to $250 a fortnight, while spending less than the Stage 3 tax cuts.  Read the full report here on our website, link in bio. #auspol #economics</content>
     <link href="https://tiktok.com/@theausinstitute/video/7288935331758394642" rel="alternate"/>
     <published>2023-10-12T05:12:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7291457974348844306</id>
+    <title>❌ Enough is enough. Our democracy is too important to let lies &amp; misinformation run rampant. ✅ We need truth in political advertising laws before the next federal election. South Australia &amp; ACT already have truth in political advertising laws that work. </title>
+    <updated>2023-10-19T00:21:08+00:00</updated>
+    <content>❌ Enough is enough. Our democracy is too important to let lies &amp; misinformation run rampant. ✅ We need truth in political advertising laws before the next federal election. South Australia &amp; ACT already have truth in political advertising laws that work. "Different opinions are inevitable, but we shouldn't let people deliberately mislead others," "Democracy is too important to let ppl do it deliberate harm." said Richard Denniss. #auspol</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7291457974348844306" rel="alternate"/>
+    <published>2023-10-19T00:21:08+00:00</published>
   </entry>
 </feed>
