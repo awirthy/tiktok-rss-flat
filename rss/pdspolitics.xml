@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-10-19T15:52:25+00:00</updated>
+  <updated>2023-10-19T23:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7289500138475687211</id>
-    <title>NC Republicans May Have Just Changed the Outcome of 2024 #NorthCarolina  #Politics  #2024  #Vote</title>
-    <updated>2023-10-14T20:00:00+00:00</updated>
-    <content>NC Republicans May Have Just Changed the Outcome of 2024 #NorthCarolina  #Politics  #2024  #Vote</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7289500138475687211" rel="alternate"/>
-    <published>2023-10-14T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7289502791029148974</id>
     <title>Ms. &amp; Al. Playing Hot Potato with Homeless People #Politics  #Mississippi  #Alabama  #Homeless</title>
@@ -51,5 +43,13 @@
     <content>Jim Jordan Loses Again After Intimidation Tactics #JimJordan  #HouseSpeaker  #Politics  #AOC</content>
     <link href="https://tiktok.com/@pdspolitics/video/7291697982867557675" rel="alternate"/>
     <published>2023-10-19T15:52:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7291803923915197742</id>
+    <title>Sidney Powell Pleads Guilty, May Testify Against Trump #sidneypowellguilty #DonaldTrump  #Politics  #USA</title>
+    <updated>2023-10-19T23:00:00+00:00</updated>
+    <content>Sidney Powell Pleads Guilty, May Testify Against Trump #sidneypowellguilty #DonaldTrump  #Politics  #USA</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7291803923915197742" rel="alternate"/>
+    <published>2023-10-19T23:00:00+00:00</published>
   </entry>
 </feed>
