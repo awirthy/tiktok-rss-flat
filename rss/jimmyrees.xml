@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-10-17T08:29:24+00:00</updated>
+  <updated>2023-10-19T01:52:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7288631043165408514</id>
-    <title>Rugby Union, I dont know how the Guy Who Decides does it!! #rugbyunion #rugbyworldcup #rugbytok #funny #theguywhodecides ##jasonjasonjason </title>
-    <updated>2023-10-11T09:31:04+00:00</updated>
-    <content>Rugby Union, I dont know how the Guy Who Decides does it!! #rugbyunion #rugbyworldcup #rugbytok #funny #theguywhodecides ##jasonjasonjason </content>
-    <link href="https://tiktok.com/@jimmyrees/video/7288631043165408514" rel="alternate"/>
-    <published>2023-10-11T09:31:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7289260905580350721</id>
     <title>Pet Shops be like!!! #petstore #pets #dogsoftiktok #dogowner #petlover </title>
@@ -51,5 +43,13 @@
     <content>Parent edition of the ‘Not So Emergency Department’ #funny #parenting #parenthumor #parentsoftiktok </content>
     <link href="https://tiktok.com/@jimmyrees/video/7290841669384146178" rel="alternate"/>
     <published>2023-10-17T08:29:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7291202560885656833</id>
+    <title>CC’s Cornados: Cheese &amp; Bacon is rather tasty!! Give them a try!! What will the Guy Who Decides, decide next 🤔#ccscornadoscheeseandbacon #ad </title>
+    <updated>2023-10-19T01:52:22+00:00</updated>
+    <content>CC’s Cornados: Cheese &amp; Bacon is rather tasty!! Give them a try!! What will the Guy Who Decides, decide next 🤔#ccscornadoscheeseandbacon #ad </content>
+    <link href="https://tiktok.com/@jimmyrees/video/7291202560885656833" rel="alternate"/>
+    <published>2023-10-19T01:52:22+00:00</published>
   </entry>
 </feed>
