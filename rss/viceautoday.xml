@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-10-19T06:59:49+00:00</updated>
+  <updated>2023-10-20T05:26:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7289769711246544129</id>
-    <title>The Indigenous Voice to Parliament referendum has been defeated with a majority No result less than 90 minutes after voting polls on Australia’s east coast closed. #australia #news #voicetoparliament #thevoice #thevoicetoparliament #indigenousvoicetoparli</title>
-    <updated>2023-10-14T11:09:39+00:00</updated>
-    <content>The Indigenous Voice to Parliament referendum has been defeated with a majority No result less than 90 minutes after voting polls on Australia’s east coast closed. #australia #news #voicetoparliament #thevoice #thevoicetoparliament #indigenousvoicetoparliament #indigenous #firstnations #aboriginal #referendum #vote #todayilearned #todayilearned </content>
-    <link href="https://tiktok.com/@viceautoday/video/7289769711246544129" rel="alternate"/>
-    <published>2023-10-14T11:09:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7290419216296054017</id>
     <title>The Voice to Parliament referendum failed on Saturday with every state voting No, but electoral data has revealed areas with large proportions of Indigenous residents voted overwhelmingly Yes. #australia #news #voicetoparliament #thevoice #thevoicetoparli</title>
@@ -51,5 +43,13 @@
     <content>New research from the Australia Institute has found overwhelming support for truth in political advertising laws to be introduced. In a survey, 72% of the 1,547 participants said they were concerned about lies and misinformation that circulated on social media during the Voice campaign. #auspol #voicetoparliament #voicereferendum #polls #voting #misinformation #politics #australia #news #australiannews #learnontiktok #todayilearned </content>
     <link href="https://tiktok.com/@viceautoday/video/7291560755822972161" rel="alternate"/>
     <published>2023-10-19T06:59:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7291907865915297042</id>
+    <title>The reforms were introduced in NSW parliament on Thursday. #australia #aunews #sydney #politics #todayilearned #learnontiktok </title>
+    <updated>2023-10-20T05:26:46+00:00</updated>
+    <content>The reforms were introduced in NSW parliament on Thursday. #australia #aunews #sydney #politics #todayilearned #learnontiktok </content>
+    <link href="https://tiktok.com/@viceautoday/video/7291907865915297042" rel="alternate"/>
+    <published>2023-10-20T05:26:46+00:00</published>
   </entry>
 </feed>
