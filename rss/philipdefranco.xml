@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-19T21:28:26+00:00</updated>
+  <updated>2023-10-18T20:28:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7289571920750677291</id>
+    <title>Terror Attack Rocks France As Israeli Invasion Is Imminent #usa #israel  Israel has told a hospital in Northern Gaza that they have two hours to evacuate according to doctors without borders. The hospital says this is just not possible. Politico says Isra</title>
+    <updated>2023-10-13T22:22:16+00:00</updated>
+    <content>Terror Attack Rocks France As Israeli Invasion Is Imminent #usa #israel  Israel has told a hospital in Northern Gaza that they have two hours to evacuate according to doctors without borders. The hospital says this is just not possible. Politico says Israel’s ground invasion is imminent. The US is urging Israel to delay their imminent ground operation until safe passage for Palestinians can be secured. Meanwhile Egypt says Israel’s mass evacuation notice is a serious breach of international humanitarian law but Egypt has also taken “unprecedented measures” to reinforce its border with Gaza to prevent any breaches and is resisting pressure from the US to open a humanitarian corridor for Palestinians according to the Financial Times. Biden says it’s a priority of his to address this humanitarian crisis, and that the overwhelming majority of Palestinians had nothing to do with Hamas and the appalling attacks. France has declared a maximum security alert because a knife attack done by an Islamic terrorist in France has been linked to the events we just discussed. Macron said that the French Police thwarted another attack earlier in the day. Macron said France had been “hit once again by the barbarity of Islamist terrorism.” The UK is drawing up rules to deport foreign students, academics, and workers who commit antisemitic acts or praise Hamas.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7289571920750677291" rel="alternate"/>
+    <published>2023-10-13T22:22:16+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7290684236640685355</id>
     <title>Iran Warns Israel Of Intervention #usa #israel  Iran sent a warning to Israel through the United Nations saying: that if they continue their operation in Gaza, they will intervene in the conflict according to Axios. The US has sent a second aircraft carri</title>
@@ -43,13 +51,5 @@
     <content>Hospital In Gaza Hit By Rogue Missile #usa #israel  Yesterday a hospital in Gaza was hit by a rogue missile. Visual evidence from Palestinians, an independent assessment from the Pentagon, and overwhelming evidence released by the IDF suggest this was a PIJ rocket that misfired. The US has also collected “high confidence” signals intelligence that this was caused by the PIJ. President Biden also went as far to say that the Department of Defense concluded that it wasn’t Israel based on their own intelligence. The IDF also released an alleged audio recording between two Hamas members discussing the rocket that misfired. Contrary to initial claims, the hospital wasn't completely destroyed. It's still standing and footage from the ground shows that the worst damage was done in the parking lot. The crater in the ground is consistent with militant missiles, not Israeli JDAMs according to most experts. Hamas claims that nearly 500 were killed. But due to the seeming lack of major damage to any of the nearby buildings or independent verification of those numbers, people are starting to doubt that figure. The facts of what actually happened differ from what mainstream media and several other news creators initially reported yesterday because they ran with Hamas’ narrative. With Al-Jazeera, BBC, MSNBC among several others all saying with certainty that Israel had done this. This misinformation resulted in widespread riots and protests outside of US embassies across the Middle East. As well as regional-wide condemnation of Israel, calls to war by Hezbollah and Iran, and drones launched at US bases in Iraq. Today should serve as a day of reflection for the media and news influencers since they almost started a region-wide war yesterday. Taking a second to make sure what you have is correct is more important than being first because someone’s going to get there before you do anyways.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7291398010318163246" rel="alternate"/>
     <published>2023-10-18T20:28:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7291784553260125486</id>
-    <title>US Forces Under Assault Across Middle East #usa #israel  The United States has issued a very rare worldwide caution travel alert due to the risk of terror attacks, protests, and violent actions against Americans. Reuters reports that US officials say that</title>
-    <updated>2023-10-19T21:28:26+00:00</updated>
-    <content>US Forces Under Assault Across Middle East #usa #israel  The United States has issued a very rare worldwide caution travel alert due to the risk of terror attacks, protests, and violent actions against Americans. Reuters reports that US officials say that a Hezebollah linked terror group used drones to attack a US Military base in Syria today causing minor injuries. Meanwhile the Pentagon says a US Navy warship operating in the Northern Red Sea today intercepted 3 cruise missiles and several drones that were fired from the Houthi militant group in Yemen. The Pentagon says the missiles were potentially headed towards Israel which is why they intercepted them, but that they can’t currently confirm that Israel was the target. Channel 13 in Israel is reporting that Israel believes that the missiles were launched at them. And just now Reuters is reporting that two security sources tell them that yet another US base in Iraq has been hit with drones and missiles, this is reportedly the 5th attack on US forces in Iraq and Syria in the past 36 hours. The US has also ordered Americans to leave Lebanon as soon as possible and has changed its travel advisory to “Do Not Travel”.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7291784553260125486" rel="alternate"/>
-    <published>2023-10-19T21:28:26+00:00</published>
   </entry>
 </feed>
