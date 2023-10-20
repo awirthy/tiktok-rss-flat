@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-10-20T15:50:24+00:00</updated>
+  <updated>2023-10-20T18:08:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7290503410103717152</id>
-    <title>You jumpin in or buying a new dog?🤔</title>
-    <updated>2023-10-16T10:36:51+00:00</updated>
-    <content>You jumpin in or buying a new dog?🤔</content>
-    <link href="https://tiktok.com/@dylan.page/video/7290503410103717152" rel="alternate"/>
-    <published>2023-10-16T10:36:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7291006985959460128</id>
     <title>This makes me sneeze just watching 🤧</title>
@@ -51,5 +43,13 @@
     <content>American’s accent abroad sticks out like mad aswell 😳😂</content>
     <link href="https://tiktok.com/@dylan.page/video/7292068571243384096" rel="alternate"/>
     <published>2023-10-20T15:50:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7292104161125092640</id>
+    <title>I would find super human strength to hold on 💀</title>
+    <updated>2023-10-20T18:08:32+00:00</updated>
+    <content>I would find super human strength to hold on 💀</content>
+    <link href="https://tiktok.com/@dylan.page/video/7292104161125092640" rel="alternate"/>
+    <published>2023-10-20T18:08:32+00:00</published>
   </entry>
 </feed>
