@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-10-19T00:21:08+00:00</updated>
+  <updated>2023-10-21T03:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7288170141609708808</id>
-    <title>"The Voice is a metaphor, because we've been talking to successive governments for generations.  "Sometimes they listen, but there is no bind on them to take any notice of us." - Pat Anderson AO, Alyawarre woman and architect of the Uluru Statement from t</title>
-    <updated>2023-10-10T03:42:38+00:00</updated>
-    <content>"The Voice is a metaphor, because we've been talking to successive governments for generations.  "Sometimes they listen, but there is no bind on them to take any notice of us." - Pat Anderson AO, Alyawarre woman and architect of the Uluru Statement from the Heart.  #auspol #VoteYES23</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7288170141609708808" rel="alternate"/>
-    <published>2023-10-10T03:42:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7288181074830609671</id>
     <title>Where did the idea for the Voice originate?  Aunty Pat talks us through the generations of work that have led to the vote on Saturday. Watch the full Q&amp;A on our Youtube channel #auspol #VoteYes23</title>
@@ -51,5 +43,13 @@
     <content>❌ Enough is enough. Our democracy is too important to let lies &amp; misinformation run rampant. ✅ We need truth in political advertising laws before the next federal election. South Australia &amp; ACT already have truth in political advertising laws that work. "Different opinions are inevitable, but we shouldn't let people deliberately mislead others," "Democracy is too important to let ppl do it deliberate harm." said Richard Denniss. #auspol</content>
     <link href="https://tiktok.com/@theausinstitute/video/7291457974348844306" rel="alternate"/>
     <published>2023-10-19T00:21:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7291890314225241351</id>
+    <title>The PM has said that "everyone" earning over $45k "benefits" from the Stage 3 tax cuts.  But what you can get for your tax cut looks verrrrry different depending on how much you make.... Watch the full video on Youtube. #auspol</title>
+    <updated>2023-10-21T03:00:00+00:00</updated>
+    <content>The PM has said that "everyone" earning over $45k "benefits" from the Stage 3 tax cuts.  But what you can get for your tax cut looks verrrrry different depending on how much you make.... Watch the full video on Youtube. #auspol</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7291890314225241351" rel="alternate"/>
+    <published>2023-10-21T03:00:00+00:00</published>
   </entry>
 </feed>
