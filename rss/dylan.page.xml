@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-10-21T14:00:11+00:00</updated>
+  <updated>2023-10-22T20:45:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7291778078710271264</id>
-    <title>Calssic America 🙄 (last parts a joke)🦅</title>
-    <updated>2023-10-19T21:03:10+00:00</updated>
-    <content>Calssic America 🙄 (last parts a joke)🦅</content>
-    <link href="https://tiktok.com/@dylan.page/video/7291778078710271264" rel="alternate"/>
-    <published>2023-10-19T21:03:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7292068571243384096</id>
     <title>American’s accent abroad sticks out like mad aswell 😳😂</title>
@@ -51,5 +43,13 @@
     <content>Storm Babet sus as hell with that foam💀</content>
     <link href="https://tiktok.com/@dylan.page/video/7292411248006745376" rel="alternate"/>
     <published>2023-10-21T14:00:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7292886859636575521</id>
+    <title>71 years old and bro looks ripped as hell!😮‍💨💪</title>
+    <updated>2023-10-22T20:45:45+00:00</updated>
+    <content>71 years old and bro looks ripped as hell!😮‍💨💪</content>
+    <link href="https://tiktok.com/@dylan.page/video/7292886859636575521" rel="alternate"/>
+    <published>2023-10-22T20:45:45+00:00</published>
   </entry>
 </feed>
