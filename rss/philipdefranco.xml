@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-19T21:28:26+00:00</updated>
+  <updated>2023-10-23T22:09:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7290684236640685355</id>
-    <title>Iran Warns Israel Of Intervention #usa #israel  Iran sent a warning to Israel through the United Nations saying: that if they continue their operation in Gaza, they will intervene in the conflict according to Axios. The US has sent a second aircraft carri</title>
-    <updated>2023-10-16T22:18:41+00:00</updated>
-    <content>Iran Warns Israel Of Intervention #usa #israel  Iran sent a warning to Israel through the United Nations saying: that if they continue their operation in Gaza, they will intervene in the conflict according to Axios. The US has sent a second aircraft carrier to the region and has selected 2,000 troops to prepare for a potential deployment to support Israel. When asked if the US can support both Ukraine and Israel, President Biden said “We're the United States of America for God's sake. The most powerful nation in the history of the world.” He also called on Hamas to be destroyed but reiterated his support for a Palestinian state. Palestine’s President has condemned Hamas’ attacks and says that Hamas doesn’t represent the Palestinian people but then the remarks were later deleted without explanation. Israel is rushing to deploy a giant laser for the first time in the world according to Channel 14 in Israel. The giant laser is supposed to work as an air defense system. Israel and Hezbollah are continuing to exchange an increasing amount of fire with each other across the border as the situation escalates rapidly.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7290684236640685355" rel="alternate"/>
-    <published>2023-10-16T22:18:41+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7290707916590550314</id>
     <title>US Warns Iran To Not Escalate With Israel #usa #israel  The US has warned Iran to not escalate the conflict with Israel, this comes as the US has deployed another carrier and is preparing troops for deployment. Israel turned water back on for Gaza after P</title>
@@ -51,5 +43,13 @@
     <content>US Forces Under Assault Across Middle East #usa #israel  The United States has issued a very rare worldwide caution travel alert due to the risk of terror attacks, protests, and violent actions against Americans. Reuters reports that US officials say that a Hezebollah linked terror group used drones to attack a US Military base in Syria today causing minor injuries. Meanwhile the Pentagon says a US Navy warship operating in the Northern Red Sea today intercepted 3 cruise missiles and several drones that were fired from the Houthi militant group in Yemen. The Pentagon says the missiles were potentially headed towards Israel which is why they intercepted them, but that they can’t currently confirm that Israel was the target. Channel 13 in Israel is reporting that Israel believes that the missiles were launched at them. And just now Reuters is reporting that two security sources tell them that yet another US base in Iraq has been hit with drones and missiles, this is reportedly the 5th attack on US forces in Iraq and Syria in the past 36 hours. The US has also ordered Americans to leave Lebanon as soon as possible and has changed its travel advisory to “Do Not Travel”.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7291784553260125486" rel="alternate"/>
     <published>2023-10-19T21:28:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7293279484566850862</id>
+    <title>US Fears Region-Wide War #usa #israel  The US fears a widening region-wide war, US officials tell Axios. With the Pentagon now putting even more troops on “prepare to deploy orders” This comes as the US has sent two aircraft carriers to the region, surged</title>
+    <updated>2023-10-23T22:09:25+00:00</updated>
+    <content>US Fears Region-Wide War #usa #israel  The US fears a widening region-wide war, US officials tell Axios. With the Pentagon now putting even more troops on “prepare to deploy orders” This comes as the US has sent two aircraft carriers to the region, surged aircraft to its bases in the Middle East, and added more air defense systems and all weekend, US bases all over the region were attacked by terror groups. The rhetoric coming out of Israel and Iran has been white hot, with the BBC reporting that Iran warned Israel that if they don’t stop striking Gaza - the region will spiral out of control. Israel and Hezbollah are continuing to exchange fire with each other on the northern border. With the New York Times reporting that the United States has told Israel to not conduct a preemptive strike on Hezbollah. With the outlet also saying the US believes that Israel would struggle in a two front war, and that such a war would drag both them and Iran into it.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7293279484566850862" rel="alternate"/>
+    <published>2023-10-23T22:09:25+00:00</published>
   </entry>
 </feed>
