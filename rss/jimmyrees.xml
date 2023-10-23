@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-10-23T01:54:25+00:00</updated>
+  <updated>2023-10-23T10:19:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7290841669384146178</id>
-    <title>Parent edition of the ‘Not So Emergency Department’ #funny #parenting #parenthumor #parentsoftiktok </title>
-    <updated>2023-10-17T08:29:24+00:00</updated>
-    <content>Parent edition of the ‘Not So Emergency Department’ #funny #parenting #parenthumor #parentsoftiktok </content>
-    <link href="https://tiktok.com/@jimmyrees/video/7290841669384146178" rel="alternate"/>
-    <published>2023-10-17T08:29:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7291202560885656833</id>
     <title>CC’s Cornados: Cheese &amp; Bacon is rather tasty!! Give them a try!! What will the Guy Who Decides, decide next 🤔#ccscornadoscheeseandbacon #ad </title>
@@ -51,5 +43,13 @@
     <content>What shl we call the new Ranger … Jason 😂 Bright Lady 1 🤔 haha!! If you’re interested and around the Mornington Peninsula, drop in to see the crew at Mornington / Frankston / Westernport Ford.  All new showrooms!! Fancy!! #fmwford </content>
     <link href="https://tiktok.com/@jimmyrees/video/7292966359988833537" rel="alternate"/>
     <published>2023-10-23T01:54:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7293096640066374914</id>
+    <title>Couples ‘Not So Emergencies’ #couples #couplestiktok #funny #couplegoals #notsoemergencydepartment  </title>
+    <updated>2023-10-23T10:19:50+00:00</updated>
+    <content>Couples ‘Not So Emergencies’ #couples #couplestiktok #funny #couplegoals #notsoemergencydepartment  </content>
+    <link href="https://tiktok.com/@jimmyrees/video/7293096640066374914" rel="alternate"/>
+    <published>2023-10-23T10:19:50+00:00</published>
   </entry>
 </feed>
