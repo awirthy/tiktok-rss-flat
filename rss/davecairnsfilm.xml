@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@davecairnsfilm</id>
   <title>davecairnsfilm TikTok</title>
-  <updated>2023-10-22T12:09:34+00:00</updated>
+  <updated>2023-10-23T11:35:38.834683+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,44 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from davecairnsfilm</subtitle>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7289740142988807425</id>
-    <title>14 OCTOBER 2023 - #australia #politics #auspol #voicetoparliament #firstnations #media</title>
-    <updated>2023-10-14T09:14:56+00:00</updated>
-    <content>14 OCTOBER 2023 - #australia #politics #auspol #voicetoparliament #firstnations #media</content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7289740142988807425" rel="alternate"/>
-    <published>2023-10-14T09:14:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7290065452921785601</id>
-    <title>15 OCTOBER 2023 - #australia #politics #auspol #voicetoparliament #media #murdochroyalcommission #firstnations </title>
-    <updated>2023-10-15T06:17:17+00:00</updated>
-    <content>15 OCTOBER 2023 - #australia #politics #auspol #voicetoparliament #media #murdochroyalcommission #firstnations </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7290065452921785601" rel="alternate"/>
-    <published>2023-10-15T06:17:17+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7290274930422222082</id>
-    <title>16 OCTOBER 2023 - #onthisday #nerd #popculture </title>
-    <updated>2023-10-15T19:50:19+00:00</updated>
-    <content>16 OCTOBER 2023 - #onthisday #nerd #popculture </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7290274930422222082" rel="alternate"/>
-    <published>2023-10-15T19:50:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7292744465142254850</id>
-    <title>#stitch with @✨The 90’s Girl✨ 22 OCTOBER 2023 - #80skid #90skid #technology #feelingold #humor</title>
-    <updated>2023-10-22T11:33:14+00:00</updated>
-    <content>#stitch with @✨The 90’s Girl✨ 22 OCTOBER 2023 - #80skid #90skid #technology #feelingold #humor</content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7292744465142254850" rel="alternate"/>
-    <published>2023-10-22T11:33:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7292753834797960450</id>
-    <title>22 OCTOBER 2023 - #cat #catlife #catsoftiktok </title>
-    <updated>2023-10-22T12:09:34+00:00</updated>
-    <content>22 OCTOBER 2023 - #cat #catlife #catsoftiktok </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7292753834797960450" rel="alternate"/>
-    <published>2023-10-22T12:09:34+00:00</published>
-  </entry>
 </feed>
