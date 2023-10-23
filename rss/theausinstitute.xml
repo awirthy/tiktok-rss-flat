@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-10-21T03:00:00+00:00</updated>
+  <updated>2023-10-23T04:57:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7288181074830609671</id>
-    <title>Where did the idea for the Voice originate?  Aunty Pat talks us through the generations of work that have led to the vote on Saturday. Watch the full Q&amp;A on our Youtube channel #auspol #VoteYes23</title>
-    <updated>2023-10-10T06:30:00+00:00</updated>
-    <content>Where did the idea for the Voice originate?  Aunty Pat talks us through the generations of work that have led to the vote on Saturday. Watch the full Q&amp;A on our Youtube channel #auspol #VoteYes23</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7288181074830609671" rel="alternate"/>
-    <published>2023-10-10T06:30:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7288478916837264658</id>
     <title>This Saturday, Australia will vote on the proposal for an Indigenous Voice to Parliament. Make sure your voice is heard. The Australia Institute is proud to be a longstanding supporter of a constitutionally enshrined Voice, as articulated in the Uluru Sta</title>
@@ -51,5 +43,13 @@
     <content>The PM has said that "everyone" earning over $45k "benefits" from the Stage 3 tax cuts.  But what you can get for your tax cut looks verrrrry different depending on how much you make.... Watch the full video on Youtube. #auspol</content>
     <link href="https://tiktok.com/@theausinstitute/video/7291890314225241351" rel="alternate"/>
     <published>2023-10-21T03:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7293013352387775752</id>
+    <title>Invitations for State Dinners at the White House don't come very often, so why is Albanese getting one now?  And what is, and isn't, on the table for discussion?  Hint: Probably AUKUS, probably not Assange. International &amp; Security Affairs Senior Research</title>
+    <updated>2023-10-23T04:57:17+00:00</updated>
+    <content>Invitations for State Dinners at the White House don't come very often, so why is Albanese getting one now?  And what is, and isn't, on the table for discussion?  Hint: Probably AUKUS, probably not Assange. International &amp; Security Affairs Senior Researcher Emma Shortis explains.  #auspol</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7293013352387775752" rel="alternate"/>
+    <published>2023-10-23T04:57:17+00:00</published>
   </entry>
 </feed>
