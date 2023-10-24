@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-10-23T10:19:50+00:00</updated>
+  <updated>2023-10-24T08:20:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7291202560885656833</id>
-    <title>CC’s Cornados: Cheese &amp; Bacon is rather tasty!! Give them a try!! What will the Guy Who Decides, decide next 🤔#ccscornadoscheeseandbacon #ad </title>
-    <updated>2023-10-19T01:52:22+00:00</updated>
-    <content>CC’s Cornados: Cheese &amp; Bacon is rather tasty!! Give them a try!! What will the Guy Who Decides, decide next 🤔#ccscornadoscheeseandbacon #ad </content>
-    <link href="https://tiktok.com/@jimmyrees/video/7291202560885656833" rel="alternate"/>
-    <published>2023-10-19T01:52:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7291856054852291842</id>
     <title>We all know a person who is always grumpy! Maybe they need a little getaway 🤔 to experience ‘The West Effect’ 😎 @jetstaraustralia @westernaustralia #TheWestEffect  #JetstarAustralia #WAtheDreamState #Ad</title>
@@ -51,5 +43,13 @@
     <content>Couples ‘Not So Emergencies’ #couples #couplestiktok #funny #couplegoals #notsoemergencydepartment  </content>
     <link href="https://tiktok.com/@jimmyrees/video/7293096640066374914" rel="alternate"/>
     <published>2023-10-23T10:19:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7293436876076125442</id>
+    <title>That went well, created a shark, even had some watermelon!!! 🤣 Beast Lab Officially Lenny approved ✅ … Check out Beast Lab Shark Creator from Moose Toys! Available at all major retailers! :) </title>
+    <updated>2023-10-24T08:20:06+00:00</updated>
+    <content>That went well, created a shark, even had some watermelon!!! 🤣 Beast Lab Officially Lenny approved ✅ … Check out Beast Lab Shark Creator from Moose Toys! Available at all major retailers! :) </content>
+    <link href="https://tiktok.com/@jimmyrees/video/7293436876076125442" rel="alternate"/>
+    <published>2023-10-24T08:20:06+00:00</published>
   </entry>
 </feed>
