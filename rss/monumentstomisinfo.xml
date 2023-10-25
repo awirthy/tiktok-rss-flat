@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-10-23T06:59:44+00:00</updated>
+  <updated>2023-10-25T07:38:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7291208680295369992</id>
-    <title>Just wait for confirmed info #auspol #israel #palestine #gaza </title>
-    <updated>2023-10-18T08:13:33+00:00</updated>
-    <content>Just wait for confirmed info #auspol #israel #palestine #gaza </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7291208680295369992" rel="alternate"/>
-    <published>2023-10-18T08:13:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7291569511264783623</id>
     <title>I really dont like this bill #auspol #misinformation #disinformation #australianpolitics </title>
@@ -51,5 +43,13 @@
     <content>Everday they disappoint me further #auspol #indigenousaustralian #voicetoparliament #peterdutton </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7293045076832390407" rel="alternate"/>
     <published>2023-10-23T06:59:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7293797167871855879</id>
+    <title>Another royal commission isnt the right solution #auspol #northernterritoryintervention #indigenousaustralian #thevoicetoparliament </title>
+    <updated>2023-10-25T07:38:13+00:00</updated>
+    <content>Another royal commission isnt the right solution #auspol #northernterritoryintervention #indigenousaustralian #thevoicetoparliament </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7293797167871855879" rel="alternate"/>
+    <published>2023-10-25T07:38:13+00:00</published>
   </entry>
 </feed>
