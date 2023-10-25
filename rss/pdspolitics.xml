@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-10-25T00:25:39+00:00</updated>
+  <updated>2023-10-25T23:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7291803923915197742</id>
-    <title>Sidney Powell Pleads Guilty, May Testify Against Trump #sidneypowellguilty #DonaldTrump  #Politics  #USA</title>
-    <updated>2023-10-19T23:00:00+00:00</updated>
-    <content>Sidney Powell Pleads Guilty, May Testify Against Trump #sidneypowellguilty #DonaldTrump  #Politics  #USA</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7291803923915197742" rel="alternate"/>
-    <published>2023-10-19T23:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7292085016111140138</id>
     <title>Trust in Politicians at Lowest Since Bill Clinton #Politics #USA  #Election  #2024</title>
@@ -51,5 +43,13 @@
     <content>Trump Lawyers Are Pleading Guilty Like Falling Dominoes #Politics  #USA  #DonaldTrump  #JennaEllis</content>
     <link href="https://tiktok.com/@pdspolitics/video/7293685605395926315" rel="alternate"/>
     <published>2023-10-25T00:25:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7294018945080642859</id>
+    <title>Ultraconservative Rep. Mike Johnson Elected House Speaker #MikeJohnson  #Politics  #USA  #HouseSpeaker</title>
+    <updated>2023-10-25T23:00:00+00:00</updated>
+    <content>Ultraconservative Rep. Mike Johnson Elected House Speaker #MikeJohnson  #Politics  #USA  #HouseSpeaker</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7294018945080642859" rel="alternate"/>
+    <published>2023-10-25T23:00:00+00:00</published>
   </entry>
 </feed>
