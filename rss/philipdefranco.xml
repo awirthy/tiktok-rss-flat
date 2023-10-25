@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-23T23:14:01+00:00</updated>
+  <updated>2023-10-25T20:06:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7291002229492878638</id>
-    <title>US Gets Israel To Allow Aid To Gaza #usa #israel  After 8 hours of negotiations with Israel, the United States has convinced Israel to agree to develop a plan to let humanitarian aid flow into Gaza as well as create areas to keep civilians out of harm's w</title>
-    <updated>2023-10-17T18:52:30+00:00</updated>
-    <content>US Gets Israel To Allow Aid To Gaza #usa #israel  After 8 hours of negotiations with Israel, the United States has convinced Israel to agree to develop a plan to let humanitarian aid flow into Gaza as well as create areas to keep civilians out of harm's way. The US warned that if Hamas tries to block or seize the aid, the US will prevent it from happening. President Biden will go to Israel tomorrow, where he will be presented with a plan from Israel on how they plan to conduct their operation in a way that minimizes civilian casualties according to the State Department. They will also present him with a briefing on their war strategy. After this, Biden will fly to Jordan where he will meet with the President of Palestine and Egypt, and the King of Jordan. The King of Jordan says that Egypt and Israel will not accept any refugees or support Israel’s operation to take out Hamas but President Biden seems determined to change that. Secretary Blinken has taken 13 trips in the past 72 hours between 8 different Middle Eastern capitals in an effort to prevent an escalation of this war.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7291002229492878638" rel="alternate"/>
-    <published>2023-10-17T18:52:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7291398010318163246</id>
     <title>Hospital In Gaza Hit By Rogue Missile #usa #israel  Yesterday a hospital in Gaza was hit by a rogue missile. Visual evidence from Palestinians, an independent assessment from the Pentagon, and overwhelming evidence released by the IDF suggest this was a P</title>
@@ -51,5 +43,13 @@
     <content>US Moves Carrier Closer To Iran #usa #israel  The USS Eisenhower, the 2nd aircraft carrier the US sent to Israel, will now move to the Persian Gulf according to the Pentagon. This puts the US closer to its bases in the region and closer to Iran. The Guardian is reporting that ISIS and Al-Qaeda are calling on their followers to attack Israel and the US. In other parts of the world: The Philippines has accused China of intentionally colliding with their ships on a resupply mission. The US has sided with the Philippines and once again reaffirmed their mutual defense treaty. In an exclusive, Rolling Stone is reporting that Trump is planning on pulling the United States out of NATO if he wins the Presidency again. Russia began an offensive in the past two weeks and it’s gone about as well as the initial invasion did. Only advancing a few hundred meters. Ukraine says Russia has lost over 400 vehicles and 6,000 soldiers. How’s the expression go? If at first you don’t succeed, try, try again.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7293296117683604782" rel="alternate"/>
     <published>2023-10-23T23:14:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7293989871083998507</id>
+    <title>Iran Attacks United States, Teetering On War #usa #america  The U.S. &amp; Iran are on the verge of war. Since October 17th, the Pentagon says there have been at least 15 drone and rocket attacks on US forces by Iranian proxies. With US officials telling NBC </title>
+    <updated>2023-10-25T20:06:16+00:00</updated>
+    <content>Iran Attacks United States, Teetering On War #usa #america  The U.S. &amp; Iran are on the verge of war. Since October 17th, the Pentagon says there have been at least 15 drone and rocket attacks on US forces by Iranian proxies. With US officials telling NBC News that more than two dozen U.S. soldiers were wounded in these attacks. Several of these soldiers have reported symptoms of traumatic brain injuries. Today President Biden said “My warning to the Ayatollah was that if they continued to move against our troops we will respond and he should be prepared.” The Marine Corps top general issued a warning yesterday saying “For those that are in the area, if that Marine Expeditionary Unit has to go in, if you target them, someone else will raise your children.” Yesterday the US delivered a stark warning at the UN to Iran and now The White House says they’re sending even MORE forces to the Middle East. US officials say they have intelligence that Iran is encouraging its terror groups to ramp up attacks on the United States according to Reuters. With one U.S. official saying “there are red lights flashing everywhere.”</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7293989871083998507" rel="alternate"/>
+    <published>2023-10-25T20:06:16+00:00</published>
   </entry>
 </feed>
