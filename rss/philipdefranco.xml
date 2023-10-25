@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-23T23:14:01+00:00</updated>
+  <updated>2023-10-23T22:09:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7290707916590550314</id>
+    <title>US Warns Iran To Not Escalate With Israel #usa #israel  The US has warned Iran to not escalate the conflict with Israel, this comes as the US has deployed another carrier and is preparing troops for deployment. Israel turned water back on for Gaza after P</title>
+    <updated>2023-10-16T23:50:31+00:00</updated>
+    <content>US Warns Iran To Not Escalate With Israel #usa #israel  The US has warned Iran to not escalate the conflict with Israel, this comes as the US has deployed another carrier and is preparing troops for deployment. Israel turned water back on for Gaza after President Biden pressured them to do so. Biden is also pushing Israel to demonstrate restraint. Acknowledging that Israel has a right to destroy Hamas but not a right to subject Palestine to collective punishment. He also warned against occupying Gaza. Israel’s ground offensive is still expected, but keeps getting delayed by rain.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7290707916590550314" rel="alternate"/>
+    <published>2023-10-16T23:50:31+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7291002229492878638</id>
     <title>US Gets Israel To Allow Aid To Gaza #usa #israel  After 8 hours of negotiations with Israel, the United States has convinced Israel to agree to develop a plan to let humanitarian aid flow into Gaza as well as create areas to keep civilians out of harm's w</title>
@@ -43,13 +51,5 @@
     <content>US Fears Region-Wide War #usa #israel  The US fears a widening region-wide war, US officials tell Axios. With the Pentagon now putting even more troops on “prepare to deploy orders” This comes as the US has sent two aircraft carriers to the region, surged aircraft to its bases in the Middle East, and added more air defense systems and all weekend, US bases all over the region were attacked by terror groups. The rhetoric coming out of Israel and Iran has been white hot, with the BBC reporting that Iran warned Israel that if they don’t stop striking Gaza - the region will spiral out of control. Israel and Hezbollah are continuing to exchange fire with each other on the northern border. With the New York Times reporting that the United States has told Israel to not conduct a preemptive strike on Hezbollah. With the outlet also saying the US believes that Israel would struggle in a two front war, and that such a war would drag both them and Iran into it.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7293279484566850862" rel="alternate"/>
     <published>2023-10-23T22:09:25+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7293296117683604782</id>
-    <title>US Moves Carrier Closer To Iran #usa #israel  The USS Eisenhower, the 2nd aircraft carrier the US sent to Israel, will now move to the Persian Gulf according to the Pentagon. This puts the US closer to its bases in the region and closer to Iran. The Guard</title>
-    <updated>2023-10-23T23:14:01+00:00</updated>
-    <content>US Moves Carrier Closer To Iran #usa #israel  The USS Eisenhower, the 2nd aircraft carrier the US sent to Israel, will now move to the Persian Gulf according to the Pentagon. This puts the US closer to its bases in the region and closer to Iran. The Guardian is reporting that ISIS and Al-Qaeda are calling on their followers to attack Israel and the US. In other parts of the world: The Philippines has accused China of intentionally colliding with their ships on a resupply mission. The US has sided with the Philippines and once again reaffirmed their mutual defense treaty. In an exclusive, Rolling Stone is reporting that Trump is planning on pulling the United States out of NATO if he wins the Presidency again. Russia began an offensive in the past two weeks and it’s gone about as well as the initial invasion did. Only advancing a few hundred meters. Ukraine says Russia has lost over 400 vehicles and 6,000 soldiers. How’s the expression go? If at first you don’t succeed, try, try again.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7293296117683604782" rel="alternate"/>
-    <published>2023-10-23T23:14:01+00:00</published>
   </entry>
 </feed>
