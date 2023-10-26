@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-10-25T01:57:31+00:00</updated>
+  <updated>2023-10-26T08:03:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7292228847469104385</id>
-    <title>What a great day it wasbyesterday 🥴🤦‍♂️!! #melbourneweather #victoria #funny #dontsayit </title>
-    <updated>2023-10-21T02:12:21+00:00</updated>
-    <content>What a great day it wasbyesterday 🥴🤦‍♂️!! #melbourneweather #victoria #funny #dontsayit </content>
-    <link href="https://tiktok.com/@jimmyrees/video/7292228847469104385" rel="alternate"/>
-    <published>2023-10-21T02:12:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7292966359988833537</id>
     <title>What shl we call the new Ranger … Jason 😂 Bright Lady 1 🤔 haha!! If you’re interested and around the Mornington Peninsula, drop in to see the crew at Mornington / Frankston / Westernport Ford.  All new showrooms!! Fancy!! #fmwford </title>
@@ -51,5 +43,13 @@
     <content>Campers, did you pass the test? 😅 Love the great outdoors!!! #camping  #outdoors  #glamping  #campsite  #caravanpark  #holiday #campinglife</content>
     <link href="https://tiktok.com/@jimmyrees/video/7293709210536217864" rel="alternate"/>
     <published>2023-10-25T01:57:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7294174833951214849</id>
+    <title>Which outtake should have made the cut in my @Audible ad? #ad </title>
+    <updated>2023-10-26T08:03:47+00:00</updated>
+    <content>Which outtake should have made the cut in my @Audible ad? #ad </content>
+    <link href="https://tiktok.com/@jimmyrees/video/7294174833951214849" rel="alternate"/>
+    <published>2023-10-26T08:03:47+00:00</published>
   </entry>
 </feed>
