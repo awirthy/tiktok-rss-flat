@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-27T20:28:55+00:00</updated>
+  <updated>2023-10-30T22:38:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7293279484566850862</id>
-    <title>US Fears Region-Wide War #usa #israel  The US fears a widening region-wide war, US officials tell Axios. With the Pentagon now putting even more troops on “prepare to deploy orders” This comes as the US has sent two aircraft carriers to the region, surged</title>
-    <updated>2023-10-23T22:09:25+00:00</updated>
-    <content>US Fears Region-Wide War #usa #israel  The US fears a widening region-wide war, US officials tell Axios. With the Pentagon now putting even more troops on “prepare to deploy orders” This comes as the US has sent two aircraft carriers to the region, surged aircraft to its bases in the Middle East, and added more air defense systems and all weekend, US bases all over the region were attacked by terror groups. The rhetoric coming out of Israel and Iran has been white hot, with the BBC reporting that Iran warned Israel that if they don’t stop striking Gaza - the region will spiral out of control. Israel and Hezbollah are continuing to exchange fire with each other on the northern border. With the New York Times reporting that the United States has told Israel to not conduct a preemptive strike on Hezbollah. With the outlet also saying the US believes that Israel would struggle in a two front war, and that such a war would drag both them and Iran into it.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7293279484566850862" rel="alternate"/>
-    <published>2023-10-23T22:09:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7293296117683604782</id>
     <title>US Moves Carrier Closer To Iran #usa #israel  The USS Eisenhower, the 2nd aircraft carrier the US sent to Israel, will now move to the Persian Gulf according to the Pentagon. This puts the US closer to its bases in the region and closer to Iran. The Guard</title>
@@ -51,5 +43,13 @@
     <content>Chinese Jet Almost Hit B-52 Bomber #usa #america  A Chinese fighter jet came within 10 feet of a US B-52 bomber over the South China Sea earlier this week, that’s what you’re seeing on screen right now. The US says the Chinese pilot was “flying at an uncontrolled excessive speed, flying below, in front of, and within 10 feet of the B-52, putting both aircraft in danger of collision.” In response to this, China released a video showing a US warship doing what they call “close-in harassment” on August 19th, which is what you’re watching right now. China says the US is the real provoker, risk-taker and disrupter. But the US says that China has engaged in risky and aggressive behavior in the skies over 180 times since Fall of 2021. Good lord, which one of them is gonna yell “mom” first?</content>
     <link href="https://tiktok.com/@philipdefranco/video/7294737926674582815" rel="alternate"/>
     <published>2023-10-27T20:28:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7295884650151546143</id>
+    <title>Hamas Wasn’t Expecting America To Join The Battle #usa #israel  Hamas says it didn’t expect such a strong response from the U.S. With a senior member of the group telling the financial times - “An Israeli response? Yes, we expected that but what we’re see</title>
+    <updated>2023-10-30T22:38:46+00:00</updated>
+    <content>Hamas Wasn’t Expecting America To Join The Battle #usa #israel  Hamas says it didn’t expect such a strong response from the U.S. With a senior member of the group telling the financial times - “An Israeli response? Yes, we expected that but what we’re seeing now is the entrance of the US into the battle, and this we didn’t count on.” This alluding to how the US’ two carriers have restrained Hamas’ allies from fully entering the war with Israel as Hamas expected them to. Jordan has asked the United States to deploy Patriots in its country to bolster its defense. An anti-Semitic mob of hundreds stormed an airport and its tarmac in Russia looking for Jewish people who they claim were on a flight from Tel Aviv. Earlier in the day, the New York Times reports that hundreds gathered outside of a hotel after rumors that it was “filled with Jews”. Russia has blamed Ukraine for its own people forming antisemitic mobs.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7295884650151546143" rel="alternate"/>
+    <published>2023-10-30T22:38:46+00:00</published>
   </entry>
 </feed>
