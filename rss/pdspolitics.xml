@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-10-25T23:00:00+00:00</updated>
+  <updated>2023-10-28T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7292085016111140138</id>
-    <title>Trust in Politicians at Lowest Since Bill Clinton #Politics #USA  #Election  #2024</title>
-    <updated>2023-10-21T20:00:00+00:00</updated>
-    <content>Trust in Politicians at Lowest Since Bill Clinton #Politics #USA  #Election  #2024</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7292085016111140138" rel="alternate"/>
-    <published>2023-10-21T20:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7292106833605725486</id>
-    <title>NYC Kicking Families Out of Shelters after 60 Days #NewYork  #NYC  #Migrants  #Politics</title>
-    <updated>2023-10-22T20:00:00+00:00</updated>
-    <content>NYC Kicking Families Out of Shelters after 60 Days #NewYork  #NYC  #Migrants  #Politics</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7292106833605725486" rel="alternate"/>
-    <published>2023-10-22T20:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7293284686137183531</id>
-    <title>House in Turmoil to Elect Speaker Before Gov’t Shuts Down #HouseSpeaker  #Politics  #USA  #GovernmentShutdown</title>
-    <updated>2023-10-23T23:00:00+00:00</updated>
-    <content>House in Turmoil to Elect Speaker Before Gov’t Shuts Down #HouseSpeaker  #Politics  #USA  #GovernmentShutdown</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7293284686137183531" rel="alternate"/>
-    <published>2023-10-23T23:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7293685605395926315</id>
     <title>Trump Lawyers Are Pleading Guilty Like Falling Dominoes #Politics  #USA  #DonaldTrump  #JennaEllis</title>
@@ -51,5 +27,29 @@
     <content>Ultraconservative Rep. Mike Johnson Elected House Speaker #MikeJohnson  #Politics  #USA  #HouseSpeaker</content>
     <link href="https://tiktok.com/@pdspolitics/video/7294018945080642859" rel="alternate"/>
     <published>2023-10-25T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7294378569843658026</id>
+    <title>Va. GOP Mails Adult Photos of Dem. Candidate to Voters #SusannaGibson  #Politics  #Gross  #Creepy</title>
+    <updated>2023-10-26T23:00:00+00:00</updated>
+    <content>Va. GOP Mails Adult Photos of Dem. Candidate to Voters #SusannaGibson  #Politics  #Gross  #Creepy</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7294378569843658026" rel="alternate"/>
+    <published>2023-10-26T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7294675526197972270</id>
+    <title>Mark Meadows Reportedly Testifies Against Trump, But His Lawyer Says That’s Not True #Politics  #MarkMeadows  #DonaldTrump  #USA</title>
+    <updated>2023-10-27T20:00:00+00:00</updated>
+    <content>Mark Meadows Reportedly Testifies Against Trump, But His Lawyer Says That’s Not True #Politics  #MarkMeadows  #DonaldTrump  #USA</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7294675526197972270" rel="alternate"/>
+    <published>2023-10-27T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7294677021022555434</id>
+    <title>Abortion Rates Rise Amid Red State Crackdowns #Politics  #Women  #USA  #Healthcare</title>
+    <updated>2023-10-28T20:00:00+00:00</updated>
+    <content>Abortion Rates Rise Amid Red State Crackdowns #Politics  #Women  #USA  #Healthcare</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7294677021022555434" rel="alternate"/>
+    <published>2023-10-28T20:00:00+00:00</published>
   </entry>
 </feed>
