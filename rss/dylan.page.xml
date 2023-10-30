@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-10-29T19:36:53+00:00</updated>
+  <updated>2023-10-30T17:42:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7294678219683269921</id>
-    <title>Damage cost to Acapulco is roughly $15 BILLION!🤯 #otis #acapulco </title>
-    <updated>2023-10-27T16:37:09+00:00</updated>
-    <content>Damage cost to Acapulco is roughly $15 BILLION!🤯 #otis #acapulco </content>
-    <link href="https://tiktok.com/@dylan.page/video/7294678219683269921" rel="alternate"/>
-    <published>2023-10-27T16:37:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7295101116914732320</id>
     <title>I did not expect that ending!😳🤯</title>
@@ -51,5 +43,13 @@
     <content>Netflix right now…✍️</content>
     <link href="https://tiktok.com/@dylan.page/video/7295466700340956449" rel="alternate"/>
     <published>2023-10-29T19:36:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7295808243446730017</id>
+    <title>Comment Section- “Noahs Ark found before GTA 6”💀</title>
+    <updated>2023-10-30T17:42:15+00:00</updated>
+    <content>Comment Section- “Noahs Ark found before GTA 6”💀</content>
+    <link href="https://tiktok.com/@dylan.page/video/7295808243446730017" rel="alternate"/>
+    <published>2023-10-30T17:42:15+00:00</published>
   </entry>
 </feed>
