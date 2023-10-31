@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-10-30T05:53:41+00:00</updated>
+  <updated>2023-10-31T06:37:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7293403285942226178</id>
-    <title>Organisations and politcians in Australia and around the world are calling for a ceasefire in Gaza. But how is the Australian Government responding?  #australia #news #gaza #israel #palestine #ceasefire #unitednations #politics #anthonyalbanese #governmen</title>
-    <updated>2023-10-24T06:09:46+00:00</updated>
-    <content>Organisations and politcians in Australia and around the world are calling for a ceasefire in Gaza. But how is the Australian Government responding?  #australia #news #gaza #israel #palestine #ceasefire #unitednations #politics #anthonyalbanese #government #learnontiktok #todayilearned </content>
-    <link href="https://tiktok.com/@viceautoday/video/7293403285942226178" rel="alternate"/>
-    <published>2023-10-24T06:09:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7293766681539693825</id>
     <title>Police in Australia have made record seizures of illicit tob*cco and v*pes this year as part of a wider government crackdown on the booming underground trade. #australia #news #politics #government #health #healthtok #learnontiktok #todayilearned #victori</title>
@@ -51,5 +43,13 @@
     <content>The UN General Assembly has voted overwhelmingly in favour of a humanitarian truce in Gaza, between Israel and Hamas. The resolution is not binding but it applies political pressure – but effectively not from the Australian government, who abstained from the vote. #australia #news #gaza #palestine #israel #unitednations #un #ungeneralassembly #vote #government #ambassador #politics #auspol #todayilearned #learnontiktok </content>
     <link href="https://tiktok.com/@viceautoday/video/7295625647211236609" rel="alternate"/>
     <published>2023-10-30T05:53:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7296007959501360386</id>
+    <title>Six of Australia’s former prime ministers have signed a joint letter condemning antisemitism and religious hatred which it says Hamas has spread in the region and in Australia. The letter was slammed by the Australia Palestine Advocacy Network as “hypocri</title>
+    <updated>2023-10-31T06:37:14+00:00</updated>
+    <content>Six of Australia’s former prime ministers have signed a joint letter condemning antisemitism and religious hatred which it says Hamas has spread in the region and in Australia. The letter was slammed by the Australia Palestine Advocacy Network as “hypocrisy”. #australia #news #gaza #israel #palestine #auspol #politics #primeminister #scottmorrison #tonyabbott #juliagillard #johnhoward #malcolmturnbull #unitednations #palestinian #letter #todayilearned #learnontiktok</content>
+    <link href="https://tiktok.com/@viceautoday/video/7296007959501360386" rel="alternate"/>
+    <published>2023-10-31T06:37:14+00:00</published>
   </entry>
 </feed>
