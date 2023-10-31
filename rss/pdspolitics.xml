@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-10-29T20:00:00+00:00</updated>
+  <updated>2023-10-28T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,12 +13,20 @@
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
   <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7294018945080642859</id>
-    <title>Ultraconservative Rep. Mike Johnson Elected House Speaker #MikeJohnson  #Politics  #USA  #HouseSpeaker</title>
-    <updated>2023-10-25T23:00:00+00:00</updated>
-    <content>Ultraconservative Rep. Mike Johnson Elected House Speaker #MikeJohnson  #Politics  #USA  #HouseSpeaker</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7294018945080642859" rel="alternate"/>
-    <published>2023-10-25T23:00:00+00:00</published>
+    <id>https://tiktok.com/@pdspolitics/video/7293284686137183531</id>
+    <title>House in Turmoil to Elect Speaker Before Gov’t Shuts Down #HouseSpeaker  #Politics  #USA  #GovernmentShutdown</title>
+    <updated>2023-10-23T23:00:00+00:00</updated>
+    <content>House in Turmoil to Elect Speaker Before Gov’t Shuts Down #HouseSpeaker  #Politics  #USA  #GovernmentShutdown</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7293284686137183531" rel="alternate"/>
+    <published>2023-10-23T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7293685605395926315</id>
+    <title>Trump Lawyers Are Pleading Guilty Like Falling Dominoes #Politics  #USA  #DonaldTrump  #JennaEllis</title>
+    <updated>2023-10-25T00:25:39+00:00</updated>
+    <content>Trump Lawyers Are Pleading Guilty Like Falling Dominoes #Politics  #USA  #DonaldTrump  #JennaEllis</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7293685605395926315" rel="alternate"/>
+    <published>2023-10-25T00:25:39+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7294378569843658026</id>
@@ -43,13 +51,5 @@
     <content>Abortion Rates Rise Amid Red State Crackdowns #Politics  #Women  #USA  #Healthcare</content>
     <link href="https://tiktok.com/@pdspolitics/video/7294677021022555434" rel="alternate"/>
     <published>2023-10-28T20:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7294679678307044650</id>
-    <title>Presidential Candidates Want to Deport Pro-Palestine Protesters #Israel  #Gaza  #USA  #DonaldTrump</title>
-    <updated>2023-10-29T20:00:00+00:00</updated>
-    <content>Presidential Candidates Want to Deport Pro-Palestine Protesters #Israel  #Gaza  #USA  #DonaldTrump</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7294679678307044650" rel="alternate"/>
-    <published>2023-10-29T20:00:00+00:00</published>
   </entry>
 </feed>
