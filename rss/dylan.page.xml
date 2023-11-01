@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-10-31T19:47:37+00:00</updated>
+  <updated>2023-11-01T17:45:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7295299609260297504</id>
-    <title>This is so sad💔😔 RIP Matthew Perry</title>
-    <updated>2023-10-29T08:48:30+00:00</updated>
-    <content>This is so sad💔😔 RIP Matthew Perry</content>
-    <link href="https://tiktok.com/@dylan.page/video/7295299609260297504" rel="alternate"/>
-    <published>2023-10-29T08:48:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7295410512567848225</id>
     <title>This is horrific 💔😔 RIP Adam Johnson</title>
@@ -51,5 +43,13 @@
     <content>What do we think about this?🤔</content>
     <link href="https://tiktok.com/@dylan.page/video/7296211639391587616" rel="alternate"/>
     <published>2023-10-31T19:47:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7296551212852284705</id>
+    <title>What was your favourite??🤔</title>
+    <updated>2023-11-01T17:45:20+00:00</updated>
+    <content>What was your favourite??🤔</content>
+    <link href="https://tiktok.com/@dylan.page/video/7296551212852284705" rel="alternate"/>
+    <published>2023-11-01T17:45:20+00:00</published>
   </entry>
 </feed>
