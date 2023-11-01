@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-11-01T07:28:36+00:00</updated>
+  <updated>2023-11-01T07:52:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7294173013455408392</id>
-    <title>Major @Vaush take moment #auspol #indigenousaustralian #voicetoparliament </title>
-    <updated>2023-10-26T07:56:39+00:00</updated>
-    <content>Major @Vaush take moment #auspol #indigenousaustralian #voicetoparliament </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7294173013455408392" rel="alternate"/>
-    <published>2023-10-26T07:56:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7294534243689008391</id>
     <title>NSW halts the treaty #auspol #nswpolitics #indigenousaustralian </title>
@@ -51,5 +43,13 @@
     <content>Whistleblowers need protection #auspol #australianpolitics #davidmcbride #whistleblower </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7296392288794610962" rel="alternate"/>
     <published>2023-11-01T07:28:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7296398561116179730</id>
+    <title>Replying to @Austyn 💪💪 He’s my general opinion right now #auspol #israel #palestine #gaza #australianpolitics </title>
+    <updated>2023-11-01T07:52:58+00:00</updated>
+    <content>Replying to @Austyn 💪💪 He’s my general opinion right now #auspol #israel #palestine #gaza #australianpolitics </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7296398561116179730" rel="alternate"/>
+    <published>2023-11-01T07:52:58+00:00</published>
   </entry>
 </feed>
