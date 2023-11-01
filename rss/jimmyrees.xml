@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-10-30T00:36:44+00:00</updated>
+  <updated>2023-11-01T07:51:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7293096640066374914</id>
-    <title>Couples ‘Not So Emergencies’ #couples #couplestiktok #funny #couplegoals #notsoemergencydepartment  </title>
-    <updated>2023-10-23T10:19:50+00:00</updated>
-    <content>Couples ‘Not So Emergencies’ #couples #couplestiktok #funny #couplegoals #notsoemergencydepartment  </content>
-    <link href="https://tiktok.com/@jimmyrees/video/7293096640066374914" rel="alternate"/>
-    <published>2023-10-23T10:19:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7293436876076125442</id>
     <title>That went well, created a shark, even had some watermelon!!! 🤣 Beast Lab Officially Lenny approved ✅ … Check out Beast Lab Shark Creator from Moose Toys! Available at all major retailers! :) </title>
@@ -51,5 +43,13 @@
     <content>Makes total sense 😅 Jason not having a good week ... Happy Halloween 🎃👻💀 #halloween  #barbie #ken  #theguywhodecides  #haloween2023</content>
     <link href="https://tiktok.com/@jimmyrees/video/7295543920128167186" rel="alternate"/>
     <published>2023-10-30T00:36:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7296398187089120514</id>
+    <title>#ad Like my hack? They just tell you... it’s that easy 🤣!!! Get into @BIG W Australia this Christmas, there's a little something for everyone!!! 🎅 #bigwaustralia #bigwchristmas </title>
+    <updated>2023-11-01T07:51:31+00:00</updated>
+    <content>#ad Like my hack? They just tell you... it’s that easy 🤣!!! Get into @BIG W Australia this Christmas, there's a little something for everyone!!! 🎅 #bigwaustralia #bigwchristmas </content>
+    <link href="https://tiktok.com/@jimmyrees/video/7296398187089120514" rel="alternate"/>
+    <published>2023-11-01T07:51:31+00:00</published>
   </entry>
 </feed>
