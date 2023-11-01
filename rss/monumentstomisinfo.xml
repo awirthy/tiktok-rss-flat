@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-10-30T07:18:06+00:00</updated>
+  <updated>2023-11-01T07:01:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7293045076832390407</id>
-    <title>Everday they disappoint me further #auspol #indigenousaustralian #voicetoparliament #peterdutton </title>
-    <updated>2023-10-23T06:59:44+00:00</updated>
-    <content>Everday they disappoint me further #auspol #indigenousaustralian #voicetoparliament #peterdutton </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7293045076832390407" rel="alternate"/>
-    <published>2023-10-23T06:59:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7293797167871855879</id>
     <title>Another royal commission isnt the right solution #auspol #northernterritoryintervention #indigenousaustralian #thevoicetoparliament </title>
@@ -51,5 +43,13 @@
     <content>We’re getting stricter with it #auspol #israel #gaza </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7295647410246733064" rel="alternate"/>
     <published>2023-10-30T07:18:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7296385240312941831</id>
+    <title>Coles and Woolies workers go on strike #auspol #australianpolitics #colesandwoolies #unions #coles #woolworths </title>
+    <updated>2023-11-01T07:01:16+00:00</updated>
+    <content>Coles and Woolies workers go on strike #auspol #australianpolitics #colesandwoolies #unions #coles #woolworths </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7296385240312941831" rel="alternate"/>
+    <published>2023-11-01T07:01:16+00:00</published>
   </entry>
 </feed>
