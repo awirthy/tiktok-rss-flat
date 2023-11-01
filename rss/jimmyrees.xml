@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-11-01T07:51:31+00:00</updated>
+  <updated>2023-11-01T11:57:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7293436876076125442</id>
-    <title>That went well, created a shark, even had some watermelon!!! 🤣 Beast Lab Officially Lenny approved ✅ … Check out Beast Lab Shark Creator from Moose Toys! Available at all major retailers! :) </title>
-    <updated>2023-10-24T08:20:06+00:00</updated>
-    <content>That went well, created a shark, even had some watermelon!!! 🤣 Beast Lab Officially Lenny approved ✅ … Check out Beast Lab Shark Creator from Moose Toys! Available at all major retailers! :) </content>
-    <link href="https://tiktok.com/@jimmyrees/video/7293436876076125442" rel="alternate"/>
-    <published>2023-10-24T08:20:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7293709210536217864</id>
     <title>Campers, did you pass the test? 😅 Love the great outdoors!!! #camping  #outdoors  #glamping  #campsite  #caravanpark  #holiday #campinglife</title>
@@ -51,5 +43,13 @@
     <content>#ad Like my hack? They just tell you... it’s that easy 🤣!!! Get into @BIG W Australia this Christmas, there's a little something for everyone!!! 🎅 #bigwaustralia #bigwchristmas </content>
     <link href="https://tiktok.com/@jimmyrees/video/7296398187089120514" rel="alternate"/>
     <published>2023-11-01T07:51:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7296461620941737217</id>
+    <title>High School Starter Pack!! 😂😂😂</title>
+    <updated>2023-11-01T11:57:40+00:00</updated>
+    <content>High School Starter Pack!! 😂😂😂</content>
+    <link href="https://tiktok.com/@jimmyrees/video/7296461620941737217" rel="alternate"/>
+    <published>2023-11-01T11:57:40+00:00</published>
   </entry>
 </feed>
