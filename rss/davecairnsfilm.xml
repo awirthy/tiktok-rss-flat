@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@davecairnsfilm</id>
   <title>davecairnsfilm TikTok</title>
-  <updated>2023-10-24T19:28:12+00:00</updated>
+  <updated>2023-11-01T10:36:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from davecairnsfilm</subtitle>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7293142028597087489</id>
-    <title>24 OCTOBER 2023 - #australia #politics #auspol #auspoltiktok #contentcreator #rant #chat </title>
-    <updated>2023-10-23T13:15:58+00:00</updated>
-    <content>24 OCTOBER 2023 - #australia #politics #auspol #auspoltiktok #contentcreator #rant #chat </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7293142028597087489" rel="alternate"/>
-    <published>2023-10-23T13:15:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@davecairnsfilm/video/7293474415080230146</id>
     <title>24 OCTOBER 2023 - #australia #politics #auspol #monicasmit #antieverything #cooker #usa #visa</title>
@@ -51,5 +43,13 @@
     <content>25 OCTOBER 2023 - #onthisday #dating #relationships #comedy #humor </content>
     <link href="https://tiktok.com/@davecairnsfilm/video/7293609015349660930" rel="alternate"/>
     <published>2023-10-24T19:28:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@davecairnsfilm/video/7296440747912449282</id>
+    <title>1 NOVEMBER 2023 - #cat #catlife #catsoftiktok #angrycat #funny </title>
+    <updated>2023-11-01T10:36:41+00:00</updated>
+    <content>1 NOVEMBER 2023 - #cat #catlife #catsoftiktok #angrycat #funny </content>
+    <link href="https://tiktok.com/@davecairnsfilm/video/7296440747912449282" rel="alternate"/>
+    <published>2023-11-01T10:36:41+00:00</published>
   </entry>
 </feed>
