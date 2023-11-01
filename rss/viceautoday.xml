@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-10-31T06:37:14+00:00</updated>
+  <updated>2023-11-01T06:01:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7293766681539693825</id>
-    <title>Police in Australia have made record seizures of illicit tob*cco and v*pes this year as part of a wider government crackdown on the booming underground trade. #australia #news #politics #government #health #healthtok #learnontiktok #todayilearned #victori</title>
-    <updated>2023-10-25T05:39:57+00:00</updated>
-    <content>Police in Australia have made record seizures of illicit tob*cco and v*pes this year as part of a wider government crackdown on the booming underground trade. #australia #news #politics #government #health #healthtok #learnontiktok #todayilearned #victoria #melbourne #law </content>
-    <link href="https://tiktok.com/@viceautoday/video/7293766681539693825" rel="alternate"/>
-    <published>2023-10-25T05:39:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7294138064488631559</id>
     <title>NSW Police are investigating the death of a Sydney woman in her early 20s after she was found inside a bathroom in the prestigious St Andrew’s Cathedral School on Wednesday night. #australia #news #nswpolice #sydney #todayilearned #learnontiktok #aunews #</title>
@@ -51,5 +43,13 @@
     <content>Six of Australia’s former prime ministers have signed a joint letter condemning antisemitism and religious hatred which it says Hamas has spread in the region and in Australia. The letter was slammed by the Australia Palestine Advocacy Network as “hypocrisy”. #australia #news #gaza #israel #palestine #auspol #politics #primeminister #scottmorrison #tonyabbott #juliagillard #johnhoward #malcolmturnbull #unitednations #palestinian #letter #todayilearned #learnontiktok</content>
     <link href="https://tiktok.com/@viceautoday/video/7296007959501360386" rel="alternate"/>
     <published>2023-10-31T06:37:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7296369916641299720</id>
+    <title>Many common antibiotics recommended by the World Health Organisation now have less than 50% efficacy in treating infections like sepsis and meningitis. #australia #aunews #todayilearned #health #wellness #edutok #auspol #learnontiktok #science </title>
+    <updated>2023-11-01T06:01:47+00:00</updated>
+    <content>Many common antibiotics recommended by the World Health Organisation now have less than 50% efficacy in treating infections like sepsis and meningitis. #australia #aunews #todayilearned #health #wellness #edutok #auspol #learnontiktok #science </content>
+    <link href="https://tiktok.com/@viceautoday/video/7296369916641299720" rel="alternate"/>
+    <published>2023-11-01T06:01:47+00:00</published>
   </entry>
 </feed>
