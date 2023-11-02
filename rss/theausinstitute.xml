@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-10-23T04:57:17+00:00</updated>
+  <updated>2023-11-02T05:20:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7288478916837264658</id>
-    <title>This Saturday, Australia will vote on the proposal for an Indigenous Voice to Parliament. Make sure your voice is heard. The Australia Institute is proud to be a longstanding supporter of a constitutionally enshrined Voice, as articulated in the Uluru Sta</title>
-    <updated>2023-10-10T23:40:55+00:00</updated>
-    <content>This Saturday, Australia will vote on the proposal for an Indigenous Voice to Parliament. Make sure your voice is heard. The Australia Institute is proud to be a longstanding supporter of a constitutionally enshrined Voice, as articulated in the Uluru Statement from the Heart. #auspol #VoteYes23 #Yes23</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7288478916837264658" rel="alternate"/>
-    <published>2023-10-10T23:40:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7288935331758394642</id>
     <title>We've come up with four ways to make the Stage 3 tax cuts fairer, giving 80% of taxpayers a bigger slice of the pie.  Oh, and we'd still have enough money left over to increase JobSeeker to $250 a fortnight, while spending less than the Stage 3 tax cuts. </title>
@@ -51,5 +43,13 @@
     <content>Invitations for State Dinners at the White House don't come very often, so why is Albanese getting one now?  And what is, and isn't, on the table for discussion?  Hint: Probably AUKUS, probably not Assange. International &amp; Security Affairs Senior Researcher Emma Shortis explains.  #auspol</content>
     <link href="https://tiktok.com/@theausinstitute/video/7293013352387775752" rel="alternate"/>
     <published>2023-10-23T04:57:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7296650895549287688</id>
+    <title>What is the silliest economic modelling Richard has ever seen? Hint: it was used to spruik the Government's flawed Nature Repair Market proposal. There were many issues with the bill, most fundamentally is that markets don't value nature. They value profi</title>
+    <updated>2023-11-02T05:20:00+00:00</updated>
+    <content>What is the silliest economic modelling Richard has ever seen? Hint: it was used to spruik the Government's flawed Nature Repair Market proposal. There were many issues with the bill, most fundamentally is that markets don't value nature. They value profits.  Here's the story of how the Government's 'Green Wall Street' crashed, with Richard Denniss. #auspol #climate #fyp #australia</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7296650895549287688" rel="alternate"/>
+    <published>2023-11-02T05:20:00+00:00</published>
   </entry>
 </feed>
