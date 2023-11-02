@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-11-01T06:01:47+00:00</updated>
+  <updated>2023-11-02T05:54:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7294138064488631559</id>
-    <title>NSW Police are investigating the death of a Sydney woman in her early 20s after she was found inside a bathroom in the prestigious St Andrew’s Cathedral School on Wednesday night. #australia #news #nswpolice #sydney #todayilearned #learnontiktok #aunews #</title>
-    <updated>2023-10-26T05:41:02+00:00</updated>
-    <content>NSW Police are investigating the death of a Sydney woman in her early 20s after she was found inside a bathroom in the prestigious St Andrew’s Cathedral School on Wednesday night. #australia #news #nswpolice #sydney #todayilearned #learnontiktok #aunews #nsw </content>
-    <link href="https://tiktok.com/@viceautoday/video/7294138064488631559" rel="alternate"/>
-    <published>2023-10-26T05:41:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7294513355413261570</id>
     <title>Australia’s defence exports to Israel sit at 52 in 2023 alone. Senator David Shoebridge asked the defence department in the Senate whether any were approved since the war in Gaza began, but the department could not answer – nor could it confirm how the mi</title>
@@ -51,5 +43,13 @@
     <content>Many common antibiotics recommended by the World Health Organisation now have less than 50% efficacy in treating infections like sepsis and meningitis. #australia #aunews #todayilearned #health #wellness #edutok #auspol #learnontiktok #science </content>
     <link href="https://tiktok.com/@viceautoday/video/7296369916641299720" rel="alternate"/>
     <published>2023-11-01T06:01:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7296739064185670930</id>
+    <title>For most of the last century, governments in Australia have withheld wages from First Nations people under racial segregation policies. This practice has been described by First Nations people as slavery. #australia #news #firstnations #aboriginal #todayi</title>
+    <updated>2023-11-02T05:54:16+00:00</updated>
+    <content>For most of the last century, governments in Australia have withheld wages from First Nations people under racial segregation policies. This practice has been described by First Nations people as slavery. #australia #news #firstnations #aboriginal #todayilearned #learnontiktok #indigenous #westernaustralia </content>
+    <link href="https://tiktok.com/@viceautoday/video/7296739064185670930" rel="alternate"/>
+    <published>2023-11-02T05:54:16+00:00</published>
   </entry>
 </feed>
