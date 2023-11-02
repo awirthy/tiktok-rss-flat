@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@davecairnsfilm</id>
   <title>davecairnsfilm TikTok</title>
-  <updated>2023-11-01T11:08:51+00:00</updated>
+  <updated>2023-11-02T12:14:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from davecairnsfilm</subtitle>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7293478826745613569</id>
-    <title>#stitch with @STEPH BRIESE 24 OCTOBER 2023 - #australia #politics #auspol #victoria #jacintaallan #heraldsun #murdoch #media #journalism</title>
-    <updated>2023-10-24T11:02:54+00:00</updated>
-    <content>#stitch with @STEPH BRIESE 24 OCTOBER 2023 - #australia #politics #auspol #victoria #jacintaallan #heraldsun #murdoch #media #journalism</content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7293478826745613569" rel="alternate"/>
-    <published>2023-10-24T11:02:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@davecairnsfilm/video/7293494472397163778</id>
     <title>#stitch with @✨The 90’s Girl✨ 24 OCTOBER 2023 - #80skid #90skid #popculture #comedy #humor</title>
@@ -51,5 +43,13 @@
     <content>1 NOVEMBER 2023 - #nonuancenovember #hottake #politics #auspol</content>
     <link href="https://tiktok.com/@davecairnsfilm/video/7296449026021526785" rel="alternate"/>
     <published>2023-11-01T11:08:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@davecairnsfilm/video/7296837117169208578</id>
+    <title>2 NOVEMBER 2023 - #nonuancenovember #hottake #lgbtia #christianity #jesuschrist </title>
+    <updated>2023-11-02T12:14:47+00:00</updated>
+    <content>2 NOVEMBER 2023 - #nonuancenovember #hottake #lgbtia #christianity #jesuschrist </content>
+    <link href="https://tiktok.com/@davecairnsfilm/video/7296837117169208578" rel="alternate"/>
+    <published>2023-11-02T12:14:47+00:00</published>
   </entry>
 </feed>
