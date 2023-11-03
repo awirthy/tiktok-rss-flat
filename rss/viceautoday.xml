@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-11-02T05:54:16+00:00</updated>
+  <updated>2023-11-03T03:41:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7294513355413261570</id>
-    <title>Australia’s defence exports to Israel sit at 52 in 2023 alone. Senator David Shoebridge asked the defence department in the Senate whether any were approved since the war in Gaza began, but the department could not answer – nor could it confirm how the mi</title>
-    <updated>2023-10-27T05:57:25+00:00</updated>
-    <content>Australia’s defence exports to Israel sit at 52 in 2023 alone. Senator David Shoebridge asked the defence department in the Senate whether any were approved since the war in Gaza began, but the department could not answer – nor could it confirm how the military-specific goods have been used by the Israeli Defence Force. #australia #news #politics #gaza #palestine #palestinian #israel #defence #idf #senate #sentor #government #auspol #todayilearned #learnontiktok #edutok </content>
-    <link href="https://tiktok.com/@viceautoday/video/7294513355413261570" rel="alternate"/>
-    <published>2023-10-27T05:57:25+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7295625647211236609</id>
     <title>The UN General Assembly has voted overwhelmingly in favour of a humanitarian truce in Gaza, between Israel and Hamas. The resolution is not binding but it applies political pressure – but effectively not from the Australian government, who abstained from </title>
@@ -51,5 +43,13 @@
     <content>For most of the last century, governments in Australia have withheld wages from First Nations people under racial segregation policies. This practice has been described by First Nations people as slavery. #australia #news #firstnations #aboriginal #todayilearned #learnontiktok #indigenous #westernaustralia </content>
     <link href="https://tiktok.com/@viceautoday/video/7296739064185670930" rel="alternate"/>
     <published>2023-11-02T05:54:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7297075921444556034</id>
+    <title>The woman at the centre of the suspected mushroom poisonings that left three people dead earlier this year has been charged with murder and attempted murder. Erin Patterson will face court today in Victoria. #mushroommurder #mushroommurderer #mushroompois</title>
+    <updated>2023-11-03T03:41:29+00:00</updated>
+    <content>The woman at the centre of the suspected mushroom poisonings that left three people dead earlier this year has been charged with murder and attempted murder. Erin Patterson will face court today in Victoria. #mushroommurder #mushroommurderer #mushroompoisoning #erinpatterson #erinpattersonmushroom #victoria #australia #news #learnontiktok #todayilearned #australiannews </content>
+    <link href="https://tiktok.com/@viceautoday/video/7297075921444556034" rel="alternate"/>
+    <published>2023-11-03T03:41:29+00:00</published>
   </entry>
 </feed>
