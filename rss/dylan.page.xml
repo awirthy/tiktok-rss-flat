@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-11-02T20:30:10+00:00</updated>
+  <updated>2023-11-03T22:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7295808243446730017</id>
-    <title>Comment Section- “Noahs Ark found before GTA 6”💀</title>
-    <updated>2023-10-30T17:42:15+00:00</updated>
-    <content>Comment Section- “Noahs Ark found before GTA 6”💀</content>
-    <link href="https://tiktok.com/@dylan.page/video/7295808243446730017" rel="alternate"/>
-    <published>2023-10-30T17:42:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7296211639391587616</id>
     <title>What do we think about this?🤔</title>
@@ -51,5 +43,13 @@
     <content>Imagine recording your wife and this happens…😳💔</content>
     <link href="https://tiktok.com/@dylan.page/video/7296964775433538848" rel="alternate"/>
     <published>2023-11-02T20:30:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7297359001224875297</id>
+    <title>Does he deserve the maximum prison sentence or not?🤔</title>
+    <updated>2023-11-03T22:00:00+00:00</updated>
+    <content>Does he deserve the maximum prison sentence or not?🤔</content>
+    <link href="https://tiktok.com/@dylan.page/video/7297359001224875297" rel="alternate"/>
+    <published>2023-11-03T22:00:00+00:00</published>
   </entry>
 </feed>
