@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-11-02T20:00:00+00:00</updated>
+  <updated>2023-11-03T20:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7294675526197972270</id>
-    <title>Mark Meadows Reportedly Testifies Against Trump, But His Lawyer Says That’s Not True #Politics  #MarkMeadows  #DonaldTrump  #USA</title>
-    <updated>2023-10-27T20:00:00+00:00</updated>
-    <content>Mark Meadows Reportedly Testifies Against Trump, But His Lawyer Says That’s Not True #Politics  #MarkMeadows  #DonaldTrump  #USA</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7294675526197972270" rel="alternate"/>
-    <published>2023-10-27T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7294677021022555434</id>
     <title>Abortion Rates Rise Amid Red State Crackdowns #Politics  #Women  #USA  #Healthcare</title>
@@ -51,5 +43,13 @@
     <content>Mike Johnson: Brought to You By Creationism #MikeJohnson  #Christianity  #Politics  #Religion</content>
     <link href="https://tiktok.com/@pdspolitics/video/7296901333712375082" rel="alternate"/>
     <published>2023-11-02T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7297267882033941802</id>
+    <title>California Unleashing Millions of Invasive Fruit Flies over LA #California  #LosAngeles  #Politics  #FruitFlies</title>
+    <updated>2023-11-03T20:00:00+00:00</updated>
+    <content>California Unleashing Millions of Invasive Fruit Flies over LA #California  #LosAngeles  #Politics  #FruitFlies</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7297267882033941802" rel="alternate"/>
+    <published>2023-11-03T20:00:00+00:00</published>
   </entry>
 </feed>
