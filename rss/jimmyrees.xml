@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-11-01T11:57:40+00:00</updated>
+  <updated>2023-11-04T21:55:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7293709210536217864</id>
-    <title>Campers, did you pass the test? 😅 Love the great outdoors!!! #camping  #outdoors  #glamping  #campsite  #caravanpark  #holiday #campinglife</title>
-    <updated>2023-10-25T01:57:31+00:00</updated>
-    <content>Campers, did you pass the test? 😅 Love the great outdoors!!! #camping  #outdoors  #glamping  #campsite  #caravanpark  #holiday #campinglife</content>
-    <link href="https://tiktok.com/@jimmyrees/video/7293709210536217864" rel="alternate"/>
-    <published>2023-10-25T01:57:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7294174833951214849</id>
     <title>Which outtake should have made the cut in my @Audible ad? #ad </title>
@@ -51,5 +43,13 @@
     <content>High School Starter Pack!! 😂😂😂</content>
     <link href="https://tiktok.com/@jimmyrees/video/7296461620941737217" rel="alternate"/>
     <published>2023-11-01T11:57:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7297728833824853250</id>
+    <title>The damn Christmas discussions!!! 😅🤯🥴🎄 #family  #christmas  #funny</title>
+    <updated>2023-11-04T21:55:13+00:00</updated>
+    <content>The damn Christmas discussions!!! 😅🤯🥴🎄 #family  #christmas  #funny</content>
+    <link href="https://tiktok.com/@jimmyrees/video/7297728833824853250" rel="alternate"/>
+    <published>2023-11-04T21:55:13+00:00</published>
   </entry>
 </feed>
