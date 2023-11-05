@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@davecairnsfilm</id>
   <title>davecairnsfilm TikTok</title>
-  <updated>2023-11-04T11:33:59+00:00</updated>
+  <updated>2023-11-05T03:26:26.935316+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,44 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from davecairnsfilm</subtitle>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7296449026021526785</id>
-    <title>1 NOVEMBER 2023 - #nonuancenovember #hottake #politics #auspol</title>
-    <updated>2023-11-01T11:08:51+00:00</updated>
-    <content>1 NOVEMBER 2023 - #nonuancenovember #hottake #politics #auspol</content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7296449026021526785" rel="alternate"/>
-    <published>2023-11-01T11:08:51+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7296837117169208578</id>
-    <title>2 NOVEMBER 2023 - #nonuancenovember #hottake #lgbtia #christianity #jesuschrist </title>
-    <updated>2023-11-02T12:14:47+00:00</updated>
-    <content>2 NOVEMBER 2023 - #nonuancenovember #hottake #lgbtia #christianity #jesuschrist </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7296837117169208578" rel="alternate"/>
-    <published>2023-11-02T12:14:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7297217240896785665</id>
-    <title>3 NOVEMBER 2023 - #dated #relationships #love #hottake #nonuancenovember </title>
-    <updated>2023-11-03T12:49:52+00:00</updated>
-    <content>3 NOVEMBER 2023 - #dated #relationships #love #hottake #nonuancenovember </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7297217240896785665" rel="alternate"/>
-    <published>2023-11-03T12:49:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7297567568842263810</id>
-    <title>4 NOVEMBER 2023 - #filter #wife #tv #popculture </title>
-    <updated>2023-11-04T11:29:20+00:00</updated>
-    <content>4 NOVEMBER 2023 - #filter #wife #tv #popculture </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7297567568842263810" rel="alternate"/>
-    <published>2023-11-04T11:29:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7297568772641000706</id>
-    <title>4 NOVEMEBER 2023 - #nonuancenovember #politics #auspol #conservatives #reality </title>
-    <updated>2023-11-04T11:33:59+00:00</updated>
-    <content>4 NOVEMEBER 2023 - #nonuancenovember #politics #auspol #conservatives #reality </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7297568772641000706" rel="alternate"/>
-    <published>2023-11-04T11:33:59+00:00</published>
-  </entry>
 </feed>
