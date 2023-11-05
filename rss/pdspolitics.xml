@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-11-04T23:00:00+00:00</updated>
+  <updated>2023-11-05T21:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7295891616978668846</id>
-    <title>Nikki Haley About to Top DeSantis in Presidential Polls #Politics  #RonDeSantis  #DonaldTrump  #Election</title>
-    <updated>2023-10-31T20:00:00+00:00</updated>
-    <content>Nikki Haley About to Top DeSantis in Presidential Polls #Politics  #RonDeSantis  #DonaldTrump  #Election</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7295891616978668846" rel="alternate"/>
-    <published>2023-10-31T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7296901333712375082</id>
     <title>Mike Johnson: Brought to You By Creationism #MikeJohnson  #Christianity  #Politics  #Religion</title>
@@ -51,5 +43,13 @@
     <content>Flint Trials End Without Any Convictions #Flint  #Michigan  #Crime  #Water</content>
     <link href="https://tiktok.com/@pdspolitics/video/7297274393401560362" rel="alternate"/>
     <published>2023-11-04T23:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7297275958476688686</id>
+    <title>1 in 5 Students in the Bronx Are Homeless, and Rates Throughout NYC Are Higher than Ever #School  #NYC  #NewYork  #Homeless</title>
+    <updated>2023-11-05T21:00:00+00:00</updated>
+    <content>1 in 5 Students in the Bronx Are Homeless, and Rates Throughout NYC Are Higher than Ever #School  #NYC  #NewYork  #Homeless</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7297275958476688686" rel="alternate"/>
+    <published>2023-11-05T21:00:00+00:00</published>
   </entry>
 </feed>
