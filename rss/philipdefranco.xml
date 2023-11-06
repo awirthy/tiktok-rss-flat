@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-11-06T21:23:01+00:00</updated>
+  <updated>2023-11-06T23:38:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7294704766553296159</id>
-    <title>US Strikes Back At Iran #usa #america  The Pentagon says the US military conducted airstrikes on two facilities in eastern Syria used by Iran's troops and its proxy groups. With the New York Times reporting that two F-16s dropped 30 precision guided bombs</title>
-    <updated>2023-10-27T18:20:17+00:00</updated>
-    <content>US Strikes Back At Iran #usa #america  The Pentagon says the US military conducted airstrikes on two facilities in eastern Syria used by Iran's troops and its proxy groups. With the New York Times reporting that two F-16s dropped 30 precision guided bombs on a weapons storage facility and an ammunition storage facility. AP reports that Iranian troops were present at the facilities during the strikes but a causality assessment hasn’t been done yet. These strikes are in response to at least 19 attacks on US forces in the past week. The US says it doesn't seek a broader conflict, but Iran must stop attacking US troops. Adding any further attacks including any response to these airstrikes will result in the US engaging in self-defense. But earlier this morning, US soldiers shot down a one-way attack drone heading for their base in Iraq according to Fox News. Making that the 20th attack on US forces, and a clear violation of the red line that was laid out by the White House like not even an hour earlier.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7294704766553296159" rel="alternate"/>
-    <published>2023-10-27T18:20:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7294737926674582815</id>
     <title>Chinese Jet Almost Hit B-52 Bomber #usa #america  A Chinese fighter jet came within 10 feet of a US B-52 bomber over the South China Sea earlier this week, that’s what you’re seeing on screen right now. The US says the Chinese pilot was “flying at an unco</title>
@@ -51,5 +43,13 @@
     <content>Iran Threatened With Tomahawkalypse As US Reveals Sub Location #usa #america  In a very rare announcement, the US announced the arrival of one of its most secretive assets to the Persian Gulf. A nuclear submarine. The message they’re sending is clear and the recipient of that message is Iran and it’s proxies. The USS Florida is one of four Ohio Class Submarines that carries 154 tomahawk missiles that can each carry a 1,000 pound warhead and travel up to 1,500 miles. It also deploys navy seals. These subs are known as the four horsemen of the Tomahawkalypse.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7298462694175214878" rel="alternate"/>
     <published>2023-11-06T21:23:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7298497621595917598</id>
+    <title>Israel Conducts Space Combat In A Global First #usa #israel  Israel shot down a missile in space in what is the first recorded instance of space combat. With the Telegraph reporting that the missile was fired by Yemen’s Houthis, where it traveled out of t</title>
+    <updated>2023-11-06T23:38:31+00:00</updated>
+    <content>Israel Conducts Space Combat In A Global First #usa #israel  Israel shot down a missile in space in what is the first recorded instance of space combat. With the Telegraph reporting that the missile was fired by Yemen’s Houthis, where it traveled out of the earth’s atmosphere and was intercepted by Israel’s Arrow. Israel has suspended a cabinet minister after he suggested nuking Gaza. Iran says that the US will be hit hard if it doesn’t implement a ceasefire in Gaza. Iranian proxies have continued to attack US bases. They’ve launched at least 40 attacks on America in the past 20 days with at least 45 US troops being injured according to NBC News. The US has conducted at least two airstrikes in response and is now calling on the Iraqi government to stop Iran’s proxies from further attacks. The King of Jordan says they worked with Israel to airdrop medical supplies to a hospital in Gaza. Israel says that its ground invasion has split Gaza in half and the IDF says that it expects to enter Gaza City within the next 48 hours. In an interview, a senior Hamas leader called North Korea an ally and suggested that one day they could intervene in the conflict. This comes after AP identified Hamas using North Korean supplied weapons in the October 7th attack. France has had more than a thousand anti-Semitic incidents since October 7th according to the French interior minister. Turkish police used tear gas and water cannons to stop pro-Palestinian protesters from storming an Air Force base that houses US troops according to Reuters. </content>
+    <link href="https://tiktok.com/@philipdefranco/video/7298497621595917598" rel="alternate"/>
+    <published>2023-11-06T23:38:31+00:00</published>
   </entry>
 </feed>
