@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-10-31T22:22:31+00:00</updated>
+  <updated>2023-11-06T21:23:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7293989871083998507</id>
-    <title>Iran Attacks United States, Teetering On War #usa #america  The U.S. &amp; Iran are on the verge of war. Since October 17th, the Pentagon says there have been at least 15 drone and rocket attacks on US forces by Iranian proxies. With US officials telling NBC </title>
-    <updated>2023-10-25T20:06:16+00:00</updated>
-    <content>Iran Attacks United States, Teetering On War #usa #america  The U.S. &amp; Iran are on the verge of war. Since October 17th, the Pentagon says there have been at least 15 drone and rocket attacks on US forces by Iranian proxies. With US officials telling NBC News that more than two dozen U.S. soldiers were wounded in these attacks. Several of these soldiers have reported symptoms of traumatic brain injuries. Today President Biden said “My warning to the Ayatollah was that if they continued to move against our troops we will respond and he should be prepared.” The Marine Corps top general issued a warning yesterday saying “For those that are in the area, if that Marine Expeditionary Unit has to go in, if you target them, someone else will raise your children.” Yesterday the US delivered a stark warning at the UN to Iran and now The White House says they’re sending even MORE forces to the Middle East. US officials say they have intelligence that Iran is encouraging its terror groups to ramp up attacks on the United States according to Reuters. With one U.S. official saying “there are red lights flashing everywhere.”</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7293989871083998507" rel="alternate"/>
-    <published>2023-10-25T20:06:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7294704766553296159</id>
     <title>US Strikes Back At Iran #usa #america  The Pentagon says the US military conducted airstrikes on two facilities in eastern Syria used by Iran's troops and its proxy groups. With the New York Times reporting that two F-16s dropped 30 precision guided bombs</title>
@@ -51,5 +43,13 @@
     <content>Israel Strikes Refugee Camp #usa #israel  Israel has confirmed that it carried out an airstrike on Gaza’s largest refugee camp to kill a senior Hamas commander. The Wall Street Journal says Doctors estimate scores of civilians were killed in the strike. The IDF was asked by Wolf Blitzer why they would hit the camp if they knew it had  innocent refugees and civilians. And the spokesperson said: “This is the tragedy of war, wolf. We've been saying for days, move south." The Houthis have entered the conflict, according to Reuters. The Houthis, based in Yemen over a thousand miles away from Israel, say they have carried out 3 missile attacks on Israel so far. The first of these attacks was intercepted by the US navy and Saudi Arabia while the 2nd hit Egypt instead of Israel, and initial reports seem to suggest that the third attack hit Jordan by accident today.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7296251541105675550" rel="alternate"/>
     <published>2023-10-31T22:22:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7298462694175214878</id>
+    <title>Iran Threatened With Tomahawkalypse As US Reveals Sub Location #usa #america  In a very rare announcement, the US announced the arrival of one of its most secretive assets to the Persian Gulf. A nuclear submarine. The message they’re sending is clear and </title>
+    <updated>2023-11-06T21:23:01+00:00</updated>
+    <content>Iran Threatened With Tomahawkalypse As US Reveals Sub Location #usa #america  In a very rare announcement, the US announced the arrival of one of its most secretive assets to the Persian Gulf. A nuclear submarine. The message they’re sending is clear and the recipient of that message is Iran and it’s proxies. The USS Florida is one of four Ohio Class Submarines that carries 154 tomahawk missiles that can each carry a 1,000 pound warhead and travel up to 1,500 miles. It also deploys navy seals. These subs are known as the four horsemen of the Tomahawkalypse.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7298462694175214878" rel="alternate"/>
+    <published>2023-11-06T21:23:01+00:00</published>
   </entry>
 </feed>
