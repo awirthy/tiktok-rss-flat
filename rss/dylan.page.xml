@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-11-06T16:45:23+00:00</updated>
+  <updated>2023-11-06T20:50:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7296908055143288096</id>
-    <title>Would you want to see them back or should they move on?🤔</title>
-    <updated>2023-11-02T16:50:04+00:00</updated>
-    <content>Would you want to see them back or should they move on?🤔</content>
-    <link href="https://tiktok.com/@dylan.page/video/7296908055143288096" rel="alternate"/>
-    <published>2023-11-02T16:50:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7296964775433538848</id>
     <title>Imagine recording your wife and this happens…😳💔</title>
@@ -51,5 +43,13 @@
     <content>Who played on sunday??</content>
     <link href="https://tiktok.com/@dylan.page/video/7298391182877543712" rel="alternate"/>
     <published>2023-11-06T16:45:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7298454379768646944</id>
+    <title>Comment what 6 digit code i should guess!🫡 </title>
+    <updated>2023-11-06T20:50:35+00:00</updated>
+    <content>Comment what 6 digit code i should guess!🫡 </content>
+    <link href="https://tiktok.com/@dylan.page/video/7298454379768646944" rel="alternate"/>
+    <published>2023-11-06T20:50:35+00:00</published>
   </entry>
 </feed>
