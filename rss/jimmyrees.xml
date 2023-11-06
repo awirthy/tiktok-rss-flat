@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-11-05T07:20:52+00:00</updated>
+  <updated>2023-11-06T07:46:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7295543920128167186</id>
-    <title>Makes total sense 😅 Jason not having a good week ... Happy Halloween 🎃👻💀 #halloween  #barbie #ken  #theguywhodecides  #haloween2023</title>
-    <updated>2023-10-30T00:36:44+00:00</updated>
-    <content>Makes total sense 😅 Jason not having a good week ... Happy Halloween 🎃👻💀 #halloween  #barbie #ken  #theguywhodecides  #haloween2023</content>
-    <link href="https://tiktok.com/@jimmyrees/video/7295543920128167186" rel="alternate"/>
-    <published>2023-10-30T00:36:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7296398187089120514</id>
     <title>#ad Like my hack? They just tell you... it’s that easy 🤣!!! Get into @BIG W Australia this Christmas, there's a little something for everyone!!! 🎅 #bigwaustralia #bigwchristmas </title>
@@ -51,5 +43,13 @@
     <content>Vote at the link in bio #tiktokawards 😱</content>
     <link href="https://tiktok.com/@jimmyrees/video/7297874625596247298" rel="alternate"/>
     <published>2023-11-05T07:20:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7298252420314942721</id>
+    <title>Spring is here again. Lots of sneezes but the experts at Telfast aren’t letting hay fever allergies stop our lives. Drop your best sneeze stories below. Always read the label and follow the directions for use. #ad #TelfastKnowsBest #LiveYourGreatness</title>
+    <updated>2023-11-06T07:46:56+00:00</updated>
+    <content>Spring is here again. Lots of sneezes but the experts at Telfast aren’t letting hay fever allergies stop our lives. Drop your best sneeze stories below. Always read the label and follow the directions for use. #ad #TelfastKnowsBest #LiveYourGreatness</content>
+    <link href="https://tiktok.com/@jimmyrees/video/7298252420314942721" rel="alternate"/>
+    <published>2023-11-06T07:46:56+00:00</published>
   </entry>
 </feed>
