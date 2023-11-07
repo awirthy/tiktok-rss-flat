@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-11-05T21:00:00+00:00</updated>
+  <updated>2023-11-07T00:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7296901333712375082</id>
-    <title>Mike Johnson: Brought to You By Creationism #MikeJohnson  #Christianity  #Politics  #Religion</title>
-    <updated>2023-11-02T20:00:00+00:00</updated>
-    <content>Mike Johnson: Brought to You By Creationism #MikeJohnson  #Christianity  #Politics  #Religion</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7296901333712375082" rel="alternate"/>
-    <published>2023-11-02T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7297267882033941802</id>
     <title>California Unleashing Millions of Invasive Fruit Flies over LA #California  #LosAngeles  #Politics  #FruitFlies</title>
@@ -51,5 +43,13 @@
     <content>1 in 5 Students in the Bronx Are Homeless, and Rates Throughout NYC Are Higher than Ever #School  #NYC  #NewYork  #Homeless</content>
     <link href="https://tiktok.com/@pdspolitics/video/7297275958476688686" rel="alternate"/>
     <published>2023-11-05T21:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7298489731174944046</id>
+    <title>The Future of Abortion Will be Decided Tomorrow in Ohio #Ohio  #Politics  #USA  #Election</title>
+    <updated>2023-11-07T00:00:00+00:00</updated>
+    <content>The Future of Abortion Will be Decided Tomorrow in Ohio #Ohio  #Politics  #USA  #Election</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7298489731174944046" rel="alternate"/>
+    <published>2023-11-07T00:00:00+00:00</published>
   </entry>
 </feed>
