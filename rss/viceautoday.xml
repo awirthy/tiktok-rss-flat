@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-11-06T06:27:36+00:00</updated>
+  <updated>2023-11-07T06:14:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7296007959501360386</id>
-    <title>Six of Australia’s former prime ministers have signed a joint letter condemning antisemitism and religious hatred which it says Hamas has spread in the region and in Australia. The letter was slammed by the Australia Palestine Advocacy Network as “hypocri</title>
-    <updated>2023-10-31T06:37:14+00:00</updated>
-    <content>Six of Australia’s former prime ministers have signed a joint letter condemning antisemitism and religious hatred which it says Hamas has spread in the region and in Australia. The letter was slammed by the Australia Palestine Advocacy Network as “hypocrisy”. #australia #news #gaza #israel #palestine #auspol #politics #primeminister #scottmorrison #tonyabbott #juliagillard #johnhoward #malcolmturnbull #unitednations #palestinian #letter #todayilearned #learnontiktok</content>
-    <link href="https://tiktok.com/@viceautoday/video/7296007959501360386" rel="alternate"/>
-    <published>2023-10-31T06:37:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7296369916641299720</id>
     <title>Many common antibiotics recommended by the World Health Organisation now have less than 50% efficacy in treating infections like sepsis and meningitis. #australia #aunews #todayilearned #health #wellness #edutok #auspol #learnontiktok #science </title>
@@ -51,5 +43,13 @@
     <content>Scott Morrison has joined former UK PM Boris Johnson on a “solidarity” tour of Israel. #gaza #palestine #israel #scottmorrison #australia #australiannews #news #todayilearned #learnontiktok #netanyahu </content>
     <link href="https://tiktok.com/@viceautoday/video/7298231970935491842" rel="alternate"/>
     <published>2023-11-06T06:27:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7298599719255723282</id>
+    <title>The government has three months to respond to the inquiry. #australia #aunews #adhd #neurodivergent #health #edutok #learnontiktok </title>
+    <updated>2023-11-07T06:14:34+00:00</updated>
+    <content>The government has three months to respond to the inquiry. #australia #aunews #adhd #neurodivergent #health #edutok #learnontiktok </content>
+    <link href="https://tiktok.com/@viceautoday/video/7298599719255723282" rel="alternate"/>
+    <published>2023-11-07T06:14:34+00:00</published>
   </entry>
 </feed>
