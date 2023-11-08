@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-11-07T06:14:34+00:00</updated>
+  <updated>2023-11-08T05:33:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7296369916641299720</id>
-    <title>Many common antibiotics recommended by the World Health Organisation now have less than 50% efficacy in treating infections like sepsis and meningitis. #australia #aunews #todayilearned #health #wellness #edutok #auspol #learnontiktok #science </title>
-    <updated>2023-11-01T06:01:47+00:00</updated>
-    <content>Many common antibiotics recommended by the World Health Organisation now have less than 50% efficacy in treating infections like sepsis and meningitis. #australia #aunews #todayilearned #health #wellness #edutok #auspol #learnontiktok #science </content>
-    <link href="https://tiktok.com/@viceautoday/video/7296369916641299720" rel="alternate"/>
-    <published>2023-11-01T06:01:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7296739064185670930</id>
     <title>For most of the last century, governments in Australia have withheld wages from First Nations people under racial segregation policies. This practice has been described by First Nations people as slavery. #australia #news #firstnations #aboriginal #todayi</title>
@@ -51,5 +43,13 @@
     <content>The government has three months to respond to the inquiry. #australia #aunews #adhd #neurodivergent #health #edutok #learnontiktok </content>
     <link href="https://tiktok.com/@viceautoday/video/7298599719255723282" rel="alternate"/>
     <published>2023-11-07T06:14:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7298960161870335234</id>
+    <title>The entire Optus network shut down today in an outage affecting mobile, landline and internet for 10 million customers. But how did this happen and what will happen next? #optus #optusoutage #outage #blackout #mobile #phone #internet #australia #news #5g </title>
+    <updated>2023-11-08T05:33:21+00:00</updated>
+    <content>The entire Optus network shut down today in an outage affecting mobile, landline and internet for 10 million customers. But how did this happen and what will happen next? #optus #optusoutage #outage #blackout #mobile #phone #internet #australia #news #5g #network #smallbusiness #ambulance #hospital #todayilearned #learnontiktok  </content>
+    <link href="https://tiktok.com/@viceautoday/video/7298960161870335234" rel="alternate"/>
+    <published>2023-11-08T05:33:21+00:00</published>
   </entry>
 </feed>
