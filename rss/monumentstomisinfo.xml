@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-11-05T07:50:08+00:00</updated>
+  <updated>2023-11-08T07:32:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7296385240312941831</id>
-    <title>Coles and Woolies workers go on strike #auspol #australianpolitics #colesandwoolies #unions #coles #woolworths </title>
-    <updated>2023-11-01T07:01:16+00:00</updated>
-    <content>Coles and Woolies workers go on strike #auspol #australianpolitics #colesandwoolies #unions #coles #woolworths </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7296385240312941831" rel="alternate"/>
-    <published>2023-11-01T07:01:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7296392288794610962</id>
-    <title>Whistleblowers need protection #auspol #australianpolitics #davidmcbride #whistleblower </title>
-    <updated>2023-11-01T07:28:36+00:00</updated>
-    <content>Whistleblowers need protection #auspol #australianpolitics #davidmcbride #whistleblower </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7296392288794610962" rel="alternate"/>
-    <published>2023-11-01T07:28:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7296398561116179730</id>
     <title>Replying to @Austyn 💪💪 He’s my general opinion right now #auspol #israel #palestine #gaza #australianpolitics </title>
@@ -51,5 +35,21 @@
     <content>What a mess this reporting was #auspol #australianpolitics #jacintaprice </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7297882176895372562" rel="alternate"/>
     <published>2023-11-05T07:50:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7298986978127760658</id>
+    <title>Replying to @avjamash I just think you’re missing the mark #auspol #palestine #israel #australianpolitics #gaza </title>
+    <updated>2023-11-08T07:17:20+00:00</updated>
+    <content>Replying to @avjamash I just think you’re missing the mark #auspol #palestine #israel #australianpolitics #gaza </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7298986978127760658" rel="alternate"/>
+    <published>2023-11-08T07:17:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7298990995436293384</id>
+    <title>Slowly building up our understanding #auspol #palestine #israel #australianpolitics #gaza </title>
+    <updated>2023-11-08T07:32:56+00:00</updated>
+    <content>Slowly building up our understanding #auspol #palestine #israel #australianpolitics #gaza </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7298990995436293384" rel="alternate"/>
+    <published>2023-11-08T07:32:56+00:00</published>
   </entry>
 </feed>
