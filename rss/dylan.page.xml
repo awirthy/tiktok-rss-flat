@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-11-08T14:43:36+00:00</updated>
+  <updated>2023-11-08T22:06:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7298769455583087905</id>
-    <title>Imagine doing this for fun…😑😳</title>
-    <updated>2023-11-07T17:13:16+00:00</updated>
-    <content>Imagine doing this for fun…😑😳</content>
-    <link href="https://tiktok.com/@dylan.page/video/7298769455583087905" rel="alternate"/>
-    <published>2023-11-07T17:13:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7298812651738582305</id>
     <title>Something about this just feels wholesome 🥹</title>
@@ -51,5 +43,13 @@
     <content>Surly a GTA 6 comment cant be on this video?!!</content>
     <link href="https://tiktok.com/@dylan.page/video/7299101966007831841" rel="alternate"/>
     <published>2023-11-08T14:43:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7299216051802311969</id>
+    <title>Is this a step forward or backward for humanity?🤔😳</title>
+    <updated>2023-11-08T22:06:16+00:00</updated>
+    <content>Is this a step forward or backward for humanity?🤔😳</content>
+    <link href="https://tiktok.com/@dylan.page/video/7299216051802311969" rel="alternate"/>
+    <published>2023-11-08T22:06:16+00:00</published>
   </entry>
 </feed>
