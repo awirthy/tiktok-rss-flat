@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-11-08T08:03:55+00:00</updated>
+  <updated>2023-11-09T07:19:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7297133619930352903</id>
-    <title>A horrific tragedy is occurring before our eyes but that doesnt mean we just throw around emotionally evocative words irresponsibly #auspol #israel #gaza #palestine #australianpolitics  @Nabil </title>
-    <updated>2023-11-03T07:25:21+00:00</updated>
-    <content>A horrific tragedy is occurring before our eyes but that doesnt mean we just throw around emotionally evocative words irresponsibly #auspol #israel #gaza #palestine #australianpolitics  @Nabil </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7297133619930352903" rel="alternate"/>
-    <published>2023-11-03T07:25:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7297882176895372562</id>
     <title>What a mess this reporting was #auspol #australianpolitics #jacintaprice </title>
@@ -51,5 +43,13 @@
     <content>Replying to @Bruhisweartogod Check out this book called Websters Dictionary, youll love it #auspol #palestine #israel #australianpolitics #gaza </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7298998974420208904" rel="alternate"/>
     <published>2023-11-08T08:03:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7299358710382513415</id>
+    <title>This should not even be a question and yet somehow it is #auspol #israel #jewish #israel🇮🇱 </title>
+    <updated>2023-11-09T07:19:50+00:00</updated>
+    <content>This should not even be a question and yet somehow it is #auspol #israel #jewish #israel🇮🇱 </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7299358710382513415" rel="alternate"/>
+    <published>2023-11-09T07:19:50+00:00</published>
   </entry>
 </feed>
