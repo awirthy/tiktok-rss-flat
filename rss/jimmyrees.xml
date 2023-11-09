@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-11-08T02:04:26+00:00</updated>
+  <updated>2023-11-09T01:29:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7297728833824853250</id>
-    <title>The damn Christmas discussions!!! 😅🤯🥴🎄 #family  #christmas  #funny</title>
-    <updated>2023-11-04T21:55:13+00:00</updated>
-    <content>The damn Christmas discussions!!! 😅🤯🥴🎄 #family  #christmas  #funny</content>
-    <link href="https://tiktok.com/@jimmyrees/video/7297728833824853250" rel="alternate"/>
-    <published>2023-11-04T21:55:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7297874625596247298</id>
     <title>Vote at the link in bio #tiktokawards 😱</title>
@@ -51,5 +43,13 @@
     <content>For all to enjoy ... except ... if you're with Optus!!! 😅 #Optus  #Optusoutage  #funny</content>
     <link href="https://tiktok.com/@jimmyrees/video/7298906336413093127" rel="alternate"/>
     <published>2023-11-08T02:04:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7299268504954391826</id>
+    <title>Not Crossfit 🥴 Another day at the Not So Emergency Department!!! #fitness  #gymlife  #notsoemergencydepartment #crossfit #funny</title>
+    <updated>2023-11-09T01:29:52+00:00</updated>
+    <content>Not Crossfit 🥴 Another day at the Not So Emergency Department!!! #fitness  #gymlife  #notsoemergencydepartment #crossfit #funny</content>
+    <link href="https://tiktok.com/@jimmyrees/video/7299268504954391826" rel="alternate"/>
+    <published>2023-11-09T01:29:52+00:00</published>
   </entry>
 </feed>
