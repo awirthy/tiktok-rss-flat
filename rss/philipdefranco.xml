@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-11-09T20:51:41+00:00</updated>
+  <updated>2023-11-10T20:25:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7298462694175214878</id>
-    <title>Iran Threatened With Tomahawkalypse As US Reveals Sub Location #usa #america  In a very rare announcement, the US announced the arrival of one of its most secretive assets to the Persian Gulf. A nuclear submarine. The message they’re sending is clear and </title>
-    <updated>2023-11-06T21:23:01+00:00</updated>
-    <content>Iran Threatened With Tomahawkalypse As US Reveals Sub Location #usa #america  In a very rare announcement, the US announced the arrival of one of its most secretive assets to the Persian Gulf. A nuclear submarine. The message they’re sending is clear and the recipient of that message is Iran and it’s proxies. The USS Florida is one of four Ohio Class Submarines that carries 154 tomahawk missiles that can each carry a 1,000 pound warhead and travel up to 1,500 miles. It also deploys navy seals. These subs are known as the four horsemen of the Tomahawkalypse.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7298462694175214878" rel="alternate"/>
-    <published>2023-11-06T21:23:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7298497621595917598</id>
     <title>Israel Conducts Space Combat In A Global First #usa #israel  Israel shot down a missile in space in what is the first recorded instance of space combat. With the Telegraph reporting that the missile was fired by Yemen’s Houthis, where it traveled out of t</title>
@@ -51,5 +43,13 @@
     <content>US Is Under Attack And It’s Striking Back #usa #america  The US is under attack and it’s striking back. Yesterday, the US struck back at Iran again after their proxies attacked US bases 46 times in 23 days. Two F-15 fighter jets conducted an airstrike on a weapons storage facility in Syria. The facility was used by Iran’s IRGC. With Biden adding that he’ll do it again if they strike the US again. Since the self-defense operation, there have been 4 more reported attacks on US forces, with 3 more Americans injured in those attacks according to US officials. Also US officials have confirmed to several outlets that the Houthis did shoot down a US drone over the Red Sea. The US says it was in international airspace when it was shot down. The Houthis have also released footage of what they claim is their shoot down of the drone. US Command is assessing the situation.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7299567877344988447" rel="alternate"/>
     <published>2023-11-09T20:51:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7299932147178130718</id>
+    <title>Australia &amp; China Have Absolutely Ridiculous Meeting #australia #usa  China and Australia had a meeting and their leaders were rizzing each other up. Xi told the Australian prime minister that Tasmanian devils were cute, and Albanese responded by saying t</title>
+    <updated>2023-11-10T20:25:17+00:00</updated>
+    <content>Australia &amp; China Have Absolutely Ridiculous Meeting #australia #usa  China and Australia had a meeting and their leaders were rizzing each other up. Xi told the Australian prime minister that Tasmanian devils were cute, and Albanese responded by saying that they weren’t as cute as Pandas. And Xi apparently said that not all Pandas are cute, citing the Kung Fu Panda movies. The two also reportedly debated wine and its quality. With Xi saying that he visited New Zealand and that the wine was good, and Albanese says he asserted that the best red wine comes from Australia. Albanese said the exchange was very warm. I heard they also sat next to each other in the booth. But so far there has been no word on if a second date will be happening.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7299932147178130718" rel="alternate"/>
+    <published>2023-11-10T20:25:17+00:00</published>
   </entry>
 </feed>
