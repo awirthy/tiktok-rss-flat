@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-11-10T21:00:00+00:00</updated>
+  <updated>2023-11-11T21:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7297275958476688686</id>
-    <title>1 in 5 Students in the Bronx Are Homeless, and Rates Throughout NYC Are Higher than Ever #School  #NYC  #NewYork  #Homeless</title>
-    <updated>2023-11-05T21:00:00+00:00</updated>
-    <content>1 in 5 Students in the Bronx Are Homeless, and Rates Throughout NYC Are Higher than Ever #School  #NYC  #NewYork  #Homeless</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7297275958476688686" rel="alternate"/>
-    <published>2023-11-05T21:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7298489731174944046</id>
     <title>The Future of Abortion Will be Decided Tomorrow in Ohio #Ohio  #Politics  #USA  #Election</title>
@@ -51,5 +43,13 @@
     <content>News Conglomerate Hearst Goes Full Big Brother #Israel  #Gaza  #Politics  #News</content>
     <link href="https://tiktok.com/@pdspolitics/video/7299906284428594475" rel="alternate"/>
     <published>2023-11-10T21:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7299911729235037486</id>
+    <title>US Power Grids At Risk Of Failing This Winter #Electricity  #Winter  #Money  #Politics</title>
+    <updated>2023-11-11T21:00:00+00:00</updated>
+    <content>US Power Grids At Risk Of Failing This Winter #Electricity  #Winter  #Money  #Politics</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7299911729235037486" rel="alternate"/>
+    <published>2023-11-11T21:00:00+00:00</published>
   </entry>
 </feed>
