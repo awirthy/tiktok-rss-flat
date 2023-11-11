@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@davecairnsfilm</id>
   <title>davecairnsfilm TikTok</title>
-  <updated>2023-11-09T10:44:17+00:00</updated>
+  <updated>2023-11-11T10:51:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from davecairnsfilm</subtitle>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7298642857945091329</id>
-    <title>7 NOVEMBER 2023 - #melbourne #view #sunset #pretty </title>
-    <updated>2023-11-07T09:02:01+00:00</updated>
-    <content>7 NOVEMBER 2023 - #melbourne #view #sunset #pretty </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7298642857945091329" rel="alternate"/>
-    <published>2023-11-07T09:02:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@davecairnsfilm/video/7298683340603821313</id>
     <title>Replying to @davidnash098 7 NOVEMEBER 2023 - #australia #politics #auspol #stupidcomments #rwnj #humor #funny #comment </title>
@@ -51,5 +43,13 @@
     <content>#stitch with @Lindsay Borow 9 NOVEMBER 2023 - #kmart #christmas #israelpalestine #humor #funny #fail </content>
     <link href="https://tiktok.com/@davecairnsfilm/video/7299411390450715905" rel="alternate"/>
     <published>2023-11-09T10:44:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@davecairnsfilm/video/7300155364241067265</id>
+    <title>11 NOVEMBER 2023 - #nonuancenovember #randomthings #thoughts </title>
+    <updated>2023-11-11T10:51:19+00:00</updated>
+    <content>11 NOVEMBER 2023 - #nonuancenovember #randomthings #thoughts </content>
+    <link href="https://tiktok.com/@davecairnsfilm/video/7300155364241067265" rel="alternate"/>
+    <published>2023-11-11T10:51:19+00:00</published>
   </entry>
 </feed>
