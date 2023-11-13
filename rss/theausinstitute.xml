@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-11-02T05:20:00+00:00</updated>
+  <updated>2023-11-13T02:31:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7288935331758394642</id>
-    <title>We've come up with four ways to make the Stage 3 tax cuts fairer, giving 80% of taxpayers a bigger slice of the pie.  Oh, and we'd still have enough money left over to increase JobSeeker to $250 a fortnight, while spending less than the Stage 3 tax cuts. </title>
-    <updated>2023-10-12T05:12:11+00:00</updated>
-    <content>We've come up with four ways to make the Stage 3 tax cuts fairer, giving 80% of taxpayers a bigger slice of the pie.  Oh, and we'd still have enough money left over to increase JobSeeker to $250 a fortnight, while spending less than the Stage 3 tax cuts.  Read the full report here on our website, link in bio. #auspol #economics</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7288935331758394642" rel="alternate"/>
-    <published>2023-10-12T05:12:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7291457974348844306</id>
     <title>❌ Enough is enough. Our democracy is too important to let lies &amp; misinformation run rampant. ✅ We need truth in political advertising laws before the next federal election. South Australia &amp; ACT already have truth in political advertising laws that work. </title>
@@ -51,5 +43,13 @@
     <content>What is the silliest economic modelling Richard has ever seen? Hint: it was used to spruik the Government's flawed Nature Repair Market proposal. There were many issues with the bill, most fundamentally is that markets don't value nature. They value profits.  Here's the story of how the Government's 'Green Wall Street' crashed, with Richard Denniss. #auspol #climate #fyp #australia</content>
     <link href="https://tiktok.com/@theausinstitute/video/7296650895549287688" rel="alternate"/>
     <published>2023-11-02T05:20:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7300768769096437010</id>
+    <title>Australia is one of the few countries with a developed research sector that does not have a research integrity watchdog. This leads to harmful fraudulent research, and wasting hundreds of millions of taxpayer dollars.  Postdoctoral Research Fellow Kristen</title>
+    <updated>2023-11-13T02:31:44+00:00</updated>
+    <content>Australia is one of the few countries with a developed research sector that does not have a research integrity watchdog. This leads to harmful fraudulent research, and wasting hundreds of millions of taxpayer dollars.  Postdoctoral Research Fellow Kristen Scicluna explains. Read the report on our website. #auspol</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7300768769096437010" rel="alternate"/>
+    <published>2023-11-13T02:31:44+00:00</published>
   </entry>
 </feed>
