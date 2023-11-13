@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-11-10T05:19:07+00:00</updated>
+  <updated>2023-11-13T06:36:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7298231970935491842</id>
-    <title>Scott Morrison has joined former UK PM Boris Johnson on a “solidarity” tour of Israel. #gaza #palestine #israel #scottmorrison #australia #australiannews #news #todayilearned #learnontiktok #netanyahu </title>
-    <updated>2023-11-06T06:27:36+00:00</updated>
-    <content>Scott Morrison has joined former UK PM Boris Johnson on a “solidarity” tour of Israel. #gaza #palestine #israel #scottmorrison #australia #australiannews #news #todayilearned #learnontiktok #netanyahu </content>
-    <link href="https://tiktok.com/@viceautoday/video/7298231970935491842" rel="alternate"/>
-    <published>2023-11-06T06:27:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7298599719255723282</id>
     <title>The government has three months to respond to the inquiry. #australia #aunews #adhd #neurodivergent #health #edutok #learnontiktok </title>
@@ -51,5 +43,13 @@
     <content>Dozens of asylum seekers held in indefinite immigration detention will be released after the High Court overturned a 20-year precedent that dictated Australia’s controversial immigration and asylum seeker policies. #australia #news #viceau #australiatoday #immigrationdetention #immigration #migrant #refugee #asylumseekers #highcourt #policy #humanrights #todayilearned #learnontiktok #todayilearned</content>
     <link href="https://tiktok.com/@viceautoday/video/7299698661934566663" rel="alternate"/>
     <published>2023-11-10T05:19:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7300831789524847873</id>
+    <title>Rallies in support of Palestine and calling for a ceasefire in Gaza have drawn record crowds across Australia for the fifth consecutive weekend. So what has happened so far as a result of these protests and other direct actions? #australia #news #palestin</title>
+    <updated>2023-11-13T06:36:12+00:00</updated>
+    <content>Rallies in support of Palestine and calling for a ceasefire in Gaza have drawn record crowds across Australia for the fifth consecutive weekend. So what has happened so far as a result of these protests and other direct actions? #australia #news #palestine #gaza #israel #ceasefire #freepalestine #protest #rally #activism #humanrights #politics #anthonyalbanese #auspol #todayilearned #learnontiktok </content>
+    <link href="https://tiktok.com/@viceautoday/video/7300831789524847873" rel="alternate"/>
+    <published>2023-11-13T06:36:12+00:00</published>
   </entry>
 </feed>
