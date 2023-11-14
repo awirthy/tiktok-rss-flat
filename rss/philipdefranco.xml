@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-11-10T20:25:17+00:00</updated>
+  <updated>2023-11-13T22:38:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7298497621595917598</id>
-    <title>Israel Conducts Space Combat In A Global First #usa #israel  Israel shot down a missile in space in what is the first recorded instance of space combat. With the Telegraph reporting that the missile was fired by Yemen’s Houthis, where it traveled out of t</title>
-    <updated>2023-11-06T23:38:31+00:00</updated>
-    <content>Israel Conducts Space Combat In A Global First #usa #israel  Israel shot down a missile in space in what is the first recorded instance of space combat. With the Telegraph reporting that the missile was fired by Yemen’s Houthis, where it traveled out of the earth’s atmosphere and was intercepted by Israel’s Arrow. Israel has suspended a cabinet minister after he suggested nuking Gaza. Iran says that the US will be hit hard if it doesn’t implement a ceasefire in Gaza. Iranian proxies have continued to attack US bases. They’ve launched at least 40 attacks on America in the past 20 days with at least 45 US troops being injured according to NBC News. The US has conducted at least two airstrikes in response and is now calling on the Iraqi government to stop Iran’s proxies from further attacks. The King of Jordan says they worked with Israel to airdrop medical supplies to a hospital in Gaza. Israel says that its ground invasion has split Gaza in half and the IDF says that it expects to enter Gaza City within the next 48 hours. In an interview, a senior Hamas leader called North Korea an ally and suggested that one day they could intervene in the conflict. This comes after AP identified Hamas using North Korean supplied weapons in the October 7th attack. France has had more than a thousand anti-Semitic incidents since October 7th according to the French interior minister. Turkish police used tear gas and water cannons to stop pro-Palestinian protesters from storming an Air Force base that houses US troops according to Reuters. </content>
-    <link href="https://tiktok.com/@philipdefranco/video/7298497621595917598" rel="alternate"/>
-    <published>2023-11-06T23:38:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7298876078452395294</id>
     <title>Israel To Occupy Gaza Indefinitely #usa #israel  Israel says it will occupy Gaza indefinitely after the war. Israel hasn’t occupied Gaza since 2005. In an interview, Netanyahu said he’s open to little pauses in the war to facilitate the delivery of aid or</title>
@@ -51,5 +43,13 @@
     <content>Australia &amp; China Have Absolutely Ridiculous Meeting #australia #usa  China and Australia had a meeting and their leaders were rizzing each other up. Xi told the Australian prime minister that Tasmanian devils were cute, and Albanese responded by saying that they weren’t as cute as Pandas. And Xi apparently said that not all Pandas are cute, citing the Kung Fu Panda movies. The two also reportedly debated wine and its quality. With Xi saying that he visited New Zealand and that the wine was good, and Albanese says he asserted that the best red wine comes from Australia. Albanese said the exchange was very warm. I heard they also sat next to each other in the booth. But so far there has been no word on if a second date will be happening.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7299932147178130718" rel="alternate"/>
     <published>2023-11-10T20:25:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7301079848355630367</id>
+    <title>US Upset With Israel As It Strikes Back At Iran &amp; Warns Hezbollah #usa #israel  The US is at least mildly pissed at Israel according to Axios. Yesterday the Pentagon’s chief called his Israeli counterpart to issue a warning about trying to provoke a war w</title>
+    <updated>2023-11-13T22:38:54+00:00</updated>
+    <content>US Upset With Israel As It Strikes Back At Iran &amp; Warns Hezbollah #usa #israel  The US is at least mildly pissed at Israel according to Axios. Yesterday the Pentagon’s chief called his Israeli counterpart to issue a warning about trying to provoke a war with Hezbollah because the US believes that this will cause a regional war that will draw the US and several other countries into the conflict. Israel flatly denies that this conversation happened but Axios says their sources in both countries claim the call was very direct and frank. The US conducted another round of airstrikes in Eastern Syria on bases used by Iranian proxies and the http://IRGC.US Forces have been attacked 4 times by Iranian proxies since the airstrikes yesterday. There have now been at least 50 attacks on US forces since October 17th according to the Pentagon. The New York Times reported that President Biden has rejected more aggressive bombing options proposed by the Pentagon in hopes of not escalating into a war with Iran. With some now saying his hands are looking to be increasingly tied after today’s attacks. The Biden administration sent an advisor to Lebanon last week to deliver a warning to Hezbollah via Lebanon's parliament according to VOA. The warning was to not escalate the conflict. The advisor reportedly returned to America with the impression that Hezbollah wasn’t interested in an actual war, Axios alleges. Despite this, Israel and Hezbollah keep climbing the escalation ladder with each other, hoping one will give up. The White House was reportedly alarmed by two incidents that looked like they could escalate the conflict. If the Fish continues to plagiarize us, he will be struck down.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7301079848355630367" rel="alternate"/>
+    <published>2023-11-13T22:38:54+00:00</published>
   </entry>
 </feed>
