@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-11-13T06:36:12+00:00</updated>
+  <updated>2023-11-14T06:16:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7298599719255723282</id>
-    <title>The government has three months to respond to the inquiry. #australia #aunews #adhd #neurodivergent #health #edutok #learnontiktok </title>
-    <updated>2023-11-07T06:14:34+00:00</updated>
-    <content>The government has three months to respond to the inquiry. #australia #aunews #adhd #neurodivergent #health #edutok #learnontiktok </content>
-    <link href="https://tiktok.com/@viceautoday/video/7298599719255723282" rel="alternate"/>
-    <published>2023-11-07T06:14:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7298960161870335234</id>
     <title>The entire Optus network shut down today in an outage affecting mobile, landline and internet for 10 million customers. But how did this happen and what will happen next? #optus #optusoutage #outage #blackout #mobile #phone #internet #australia #news #5g </title>
@@ -51,5 +43,13 @@
     <content>Rallies in support of Palestine and calling for a ceasefire in Gaza have drawn record crowds across Australia for the fifth consecutive weekend. So what has happened so far as a result of these protests and other direct actions? #australia #news #palestine #gaza #israel #ceasefire #freepalestine #protest #rally #activism #humanrights #politics #anthonyalbanese #auspol #todayilearned #learnontiktok </content>
     <link href="https://tiktok.com/@viceautoday/video/7300831789524847873" rel="alternate"/>
     <published>2023-11-13T06:36:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7301197752669719810</id>
+    <title>The significant police presence at Sydney’s free Palestine rallies is costing the NSW Government as much as $1 million per event in officer overtime. Following Sunday's rally, NSW Premier Chris Minns requested additional funding from the Federal Governmen</title>
+    <updated>2023-11-14T06:16:18+00:00</updated>
+    <content>The significant police presence at Sydney’s free Palestine rallies is costing the NSW Government as much as $1 million per event in officer overtime. Following Sunday's rally, NSW Premier Chris Minns requested additional funding from the Federal Government to help foot the bill. #australia #news #nsw #sydney #politics #auspol #police #gaza #palestine #israel #protest #rally #activism #freepalestine #todayilearned #learnontiktok </content>
+    <link href="https://tiktok.com/@viceautoday/video/7301197752669719810" rel="alternate"/>
+    <published>2023-11-14T06:16:18+00:00</published>
   </entry>
 </feed>
