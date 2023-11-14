@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-11-13T22:38:54+00:00</updated>
+  <updated>2023-11-14T18:36:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7298876078452395294</id>
-    <title>Israel To Occupy Gaza Indefinitely #usa #israel  Israel says it will occupy Gaza indefinitely after the war. Israel hasn’t occupied Gaza since 2005. In an interview, Netanyahu said he’s open to little pauses in the war to facilitate the delivery of aid or</title>
-    <updated>2023-11-08T00:07:02+00:00</updated>
-    <content>Israel To Occupy Gaza Indefinitely #usa #israel  Israel says it will occupy Gaza indefinitely after the war. Israel hasn’t occupied Gaza since 2005. In an interview, Netanyahu said he’s open to little pauses in the war to facilitate the delivery of aid or to release hostages. But he ruled out a ceasefire without the release of the hostages. Hezbollah and Israel continue to exchange fire. With Hezbollah’s leader saying in an interview with NBC News that they continue to do this to alleviate pressure on Gaza. He added that those in the Axis of Resistance believe America is the mastermind, so they strike America to send a message to stop. The Axis of Resistance is Iran’s alliance of terrorists. This includes Hamas, Hezbollah, the PIJ, and about 30 other Syrian and Iraqi militias. Hezbollah’s leader also said that they would kill an Israeli civilian for every Lebanese civilian that Israel kills but when he was asked if that meant Hezbollah would be deliberately targeting civilians he said “What we will do you will see in the press, God willing. You can start counting and you will see whether or not our calculations are correct or not.” Despite all this talk though, Hezbollah has yet to enter the war despite saying they would if Israel conducted a ground invasion into Gaza. There have now been 40 attacks in the past 3 weeks on US forces in the Middle East after two attacks last night, according to the Pentagon. However, there haven’t been any injuries or damage to bases since October 26th.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7298876078452395294" rel="alternate"/>
-    <published>2023-11-08T00:07:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7299167817536916767</id>
     <title>Houthis Shot Down US Drone? Maybe? #usa #america  The Houthis in Yemen claim that they shot down an American drone over their territorial waters. The drone was allegedly a MQ-9 Reaper Drone and they claim it was carrying out hostilities, monitoring and sp</title>
@@ -51,5 +43,13 @@
     <content>US Upset With Israel As It Strikes Back At Iran &amp; Warns Hezbollah #usa #israel  The US is at least mildly pissed at Israel according to Axios. Yesterday the Pentagon’s chief called his Israeli counterpart to issue a warning about trying to provoke a war with Hezbollah because the US believes that this will cause a regional war that will draw the US and several other countries into the conflict. Israel flatly denies that this conversation happened but Axios says their sources in both countries claim the call was very direct and frank. The US conducted another round of airstrikes in Eastern Syria on bases used by Iranian proxies and the http://IRGC.US Forces have been attacked 4 times by Iranian proxies since the airstrikes yesterday. There have now been at least 50 attacks on US forces since October 17th according to the Pentagon. The New York Times reported that President Biden has rejected more aggressive bombing options proposed by the Pentagon in hopes of not escalating into a war with Iran. With some now saying his hands are looking to be increasingly tied after today’s attacks. The Biden administration sent an advisor to Lebanon last week to deliver a warning to Hezbollah via Lebanon's parliament according to VOA. The warning was to not escalate the conflict. The advisor reportedly returned to America with the impression that Hezbollah wasn’t interested in an actual war, Axios alleges. Despite this, Israel and Hezbollah keep climbing the escalation ladder with each other, hoping one will give up. The White House was reportedly alarmed by two incidents that looked like they could escalate the conflict. If the Fish continues to plagiarize us, he will be struck down.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7301079848355630367" rel="alternate"/>
     <published>2023-11-13T22:38:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7301388553676655903</id>
+    <title>Bernie Sanders Breaks Up Fight In US Senate #usa #america  Sen. Markwayne Mullin (R-OK) challenges Teamsters leader Sean O’Brien to a physical fight, standing up midway through a Senate HELP Committee hearing. Chair Bernie Sanders (I-VT) repeatedly attemp</title>
+    <updated>2023-11-14T18:36:59+00:00</updated>
+    <content>Bernie Sanders Breaks Up Fight In US Senate #usa #america  Sen. Markwayne Mullin (R-OK) challenges Teamsters leader Sean O’Brien to a physical fight, standing up midway through a Senate HELP Committee hearing. Chair Bernie Sanders (I-VT) repeatedly attempts to break them up: “You’re a United States senator.” Mullin and O’Brien, the leader of the major union International Brotherhood of Teamsters, have a history of combative moments — Mullin, a hard-right conservative, has repeatedly challenged O’Brien to physical fights.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7301388553676655903" rel="alternate"/>
+    <published>2023-11-14T18:36:59+00:00</published>
   </entry>
 </feed>
