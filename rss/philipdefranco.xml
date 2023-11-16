@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-11-15T22:25:57+00:00</updated>
+  <updated>2023-11-16T22:37:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7299932147178130718</id>
-    <title>Australia &amp; China Have Absolutely Ridiculous Meeting #australia #usa  China and Australia had a meeting and their leaders were rizzing each other up. Xi told the Australian prime minister that Tasmanian devils were cute, and Albanese responded by saying t</title>
-    <updated>2023-11-10T20:25:17+00:00</updated>
-    <content>Australia &amp; China Have Absolutely Ridiculous Meeting #australia #usa  China and Australia had a meeting and their leaders were rizzing each other up. Xi told the Australian prime minister that Tasmanian devils were cute, and Albanese responded by saying that they weren’t as cute as Pandas. And Xi apparently said that not all Pandas are cute, citing the Kung Fu Panda movies. The two also reportedly debated wine and its quality. With Xi saying that he visited New Zealand and that the wine was good, and Albanese says he asserted that the best red wine comes from Australia. Albanese said the exchange was very warm. I heard they also sat next to each other in the booth. But so far there has been no word on if a second date will be happening.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7299932147178130718" rel="alternate"/>
-    <published>2023-11-10T20:25:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7301079848355630367</id>
     <title>US Upset With Israel As It Strikes Back At Iran &amp; Warns Hezbollah #usa #israel  The US is at least mildly pissed at Israel according to Axios. Yesterday the Pentagon’s chief called his Israeli counterpart to issue a warning about trying to provoke a war w</title>
@@ -51,5 +43,13 @@
     <content>Congress Has Turned Into Fight Club #usa #america  Rep. Tim Burchett accused former Speaker of the House Kevin McCarthy of elbowing him in the kidneys intentionally in retaliation for the Tennessee Republican's vote last month to oust McCarthy, sparking a conflict on an already tumultuous day at the Capitol. Burchett was talking to NPR reporter Claudia Grisales on Tuesday morning when he says he “got elbowed in the back and it kind of caught me off guard because it was a clean shot to the kidneys.” “I turned back and there was Kevin,” Burchett told CNN. “I chased after him of course. He’s a, as I stated many times, he’s a bully with $17 million and a security detail. He’s the type of guy that when you’re a kid would throw a rock over the fence and run home and hide behind his mama’s skirt." Burchett and Grisales said McCarthy denied it at the time and he later denied elbowing Burchett to other members of the press. He said there was no bad blood over the vote to remove him from the speakership. “I didn’t even know what he was talking about,” McCarthy told CNN. “I did not run and hit the guy. I did not kidney punch him.” “If I hit someone, they would know about it,” he added, mocking Burchett for claiming he was in pain. In audio released by NPR, Burchett can be heard saying "Why'd you elbow me in the back, Kevin? Hey Kevin, you got any guts?” McCarthy can be heard denying the claim and laughing. “What a jerk. You need security Kevin,” Burchett says. McCarthy conceded he may have bumped into Burchett, but the NPR reporter backed up Burchett’s account. “While talking to [Burchett] after the GOP conference meeting, [McCarthy] walked by with his detail and McCarthy shoved Burchett. Burchett lunged towards me,” Grisales wrote on X, the social media platform formerly known as Twitter. “I thought it was a joke, it was not. And a chase ensued.” Speaking to reporters on Tuesday, Burchett brushed off McCarthy's explanation, saying that it shows "exactly why he doesn't need to be speaker."</content>
     <link href="https://tiktok.com/@philipdefranco/video/7301818652817444127" rel="alternate"/>
     <published>2023-11-15T22:25:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7302192727024799007</id>
+    <title>Pandas To Return To America! #usa #china  Pandas are coming back to America! During his visit to California, Xi said that China is ready to continue their cooperation on Panda conservation with America. Saying that he was told that a lot of American child</title>
+    <updated>2023-11-16T22:37:28+00:00</updated>
+    <content>Pandas To Return To America! #usa #china  Pandas are coming back to America! During his visit to California, Xi said that China is ready to continue their cooperation on Panda conservation with America. Saying that he was told that a lot of American children were sad to see them go. Xi also called Pandas “envoys of friendship between the Chinese and American peoples” Biden also wished Xi’s wife a happy early birthday because they share the same birthday. And Xi reportedly said he was embarrassed because he had forgotten that his wife’s birthday was next week. Which I don’t know why you’d admit that.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7302192727024799007" rel="alternate"/>
+    <published>2023-11-16T22:37:28+00:00</published>
   </entry>
 </feed>
