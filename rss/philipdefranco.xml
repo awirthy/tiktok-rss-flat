@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-11-16T22:37:28+00:00</updated>
+  <updated>2023-11-16T23:31:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7301079848355630367</id>
-    <title>US Upset With Israel As It Strikes Back At Iran &amp; Warns Hezbollah #usa #israel  The US is at least mildly pissed at Israel according to Axios. Yesterday the Pentagon’s chief called his Israeli counterpart to issue a warning about trying to provoke a war w</title>
-    <updated>2023-11-13T22:38:54+00:00</updated>
-    <content>US Upset With Israel As It Strikes Back At Iran &amp; Warns Hezbollah #usa #israel  The US is at least mildly pissed at Israel according to Axios. Yesterday the Pentagon’s chief called his Israeli counterpart to issue a warning about trying to provoke a war with Hezbollah because the US believes that this will cause a regional war that will draw the US and several other countries into the conflict. Israel flatly denies that this conversation happened but Axios says their sources in both countries claim the call was very direct and frank. The US conducted another round of airstrikes in Eastern Syria on bases used by Iranian proxies and the http://IRGC.US Forces have been attacked 4 times by Iranian proxies since the airstrikes yesterday. There have now been at least 50 attacks on US forces since October 17th according to the Pentagon. The New York Times reported that President Biden has rejected more aggressive bombing options proposed by the Pentagon in hopes of not escalating into a war with Iran. With some now saying his hands are looking to be increasingly tied after today’s attacks. The Biden administration sent an advisor to Lebanon last week to deliver a warning to Hezbollah via Lebanon's parliament according to VOA. The warning was to not escalate the conflict. The advisor reportedly returned to America with the impression that Hezbollah wasn’t interested in an actual war, Axios alleges. Despite this, Israel and Hezbollah keep climbing the escalation ladder with each other, hoping one will give up. The White House was reportedly alarmed by two incidents that looked like they could escalate the conflict. If the Fish continues to plagiarize us, he will be struck down.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7301079848355630367" rel="alternate"/>
-    <published>2023-11-13T22:38:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7301388553676655903</id>
     <title>Bernie Sanders Breaks Up Fight In US Senate #usa #america  Sen. Markwayne Mullin (R-OK) challenges Teamsters leader Sean O’Brien to a physical fight, standing up midway through a Senate HELP Committee hearing. Chair Bernie Sanders (I-VT) repeatedly attemp</title>
@@ -51,5 +43,13 @@
     <content>Pandas To Return To America! #usa #china  Pandas are coming back to America! During his visit to California, Xi said that China is ready to continue their cooperation on Panda conservation with America. Saying that he was told that a lot of American children were sad to see them go. Xi also called Pandas “envoys of friendship between the Chinese and American peoples” Biden also wished Xi’s wife a happy early birthday because they share the same birthday. And Xi reportedly said he was embarrassed because he had forgotten that his wife’s birthday was next week. Which I don’t know why you’d admit that.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7302192727024799007" rel="alternate"/>
     <published>2023-11-16T22:37:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7302206535692782879</id>
+    <title>US Starts Playing Hardball With Israel #usa #israel  The US and Europe are pushing for a plan that would deploy an international peacekeeping force to the Gaza Strip according to Bloomberg. US and European officials believe that this may push Israel to wr</title>
+    <updated>2023-11-16T23:31:06+00:00</updated>
+    <content>US Starts Playing Hardball With Israel #usa #israel  The US and Europe are pushing for a plan that would deploy an international peacekeeping force to the Gaza Strip according to Bloomberg. US and European officials believe that this may push Israel to wrap up its war and start considering what will come next. This is yet another sign of growing impatience with Israel. Earlier this week, the Times of Israel reported that the US wants Netanyahu out due to him obstructing US efforts to negotiate an end game for Gaza with their Arab Allies. And yesterday the US let a UN Security Council resolution calling for a humanitarian pause in the Gaza strip pass without vetoing it. Also earlier today, the USS Gerald R Ford pulled away from the coast of Israel. Some analysts say this is the US playing hardball after Israel has “gone off the rails” and ignored their pressure.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7302206535692782879" rel="alternate"/>
+    <published>2023-11-16T23:31:06+00:00</published>
   </entry>
 </feed>
