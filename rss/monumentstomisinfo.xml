@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-11-15T08:09:03+00:00</updated>
+  <updated>2023-11-16T05:59:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7300842784427101442</id>
-    <title>Anyone telling you this isn’t a complex issue is not giving you an honest answer #auspol #israel #jewish #israel🇮🇱 </title>
-    <updated>2023-11-13T07:18:52+00:00</updated>
-    <content>Anyone telling you this isn’t a complex issue is not giving you an honest answer #auspol #israel #jewish #israel🇮🇱 </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7300842784427101442" rel="alternate"/>
-    <published>2023-11-13T07:18:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@monumentstomisinfo/video/7301204321994116353</id>
     <title>PSA: This conflict is horrific and you don’t need to justify indefensible actions on either side #israel #israel🇮🇱 #jewish #auspol  @Rathbone </title>
@@ -51,5 +43,13 @@
     <content>Feels like some bad  decisions were being made during this conflict #auspol #israel #jewish #israel🇮🇱 </content>
     <link href="https://tiktok.com/@monumentstomisinfo/video/7301597899069148417" rel="alternate"/>
     <published>2023-11-15T08:09:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@monumentstomisinfo/video/7301935494781324545</id>
+    <title>Adam Bandt asking the difficult but important questions #auspol #israel #jewish #israel🇮🇱 #australianlaborparty #australiangreens </title>
+    <updated>2023-11-16T05:59:09+00:00</updated>
+    <content>Adam Bandt asking the difficult but important questions #auspol #israel #jewish #israel🇮🇱 #australianlaborparty #australiangreens </content>
+    <link href="https://tiktok.com/@monumentstomisinfo/video/7301935494781324545" rel="alternate"/>
+    <published>2023-11-16T05:59:09+00:00</published>
   </entry>
 </feed>
