@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-11-17T10:37:38+00:00</updated>
+  <updated>2023-11-16T19:32:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7301402781733195040</id>
+    <title>Would your dog do this for you?🤔🥹</title>
+    <updated>2023-11-14T19:31:56+00:00</updated>
+    <content>Would your dog do this for you?🤔🥹</content>
+    <link href="https://tiktok.com/@dylan.page/video/7301402781733195040" rel="alternate"/>
+    <published>2023-11-14T19:31:56+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7301428598508948768</id>
     <title>Honestly, i have never thought about this before😳</title>
@@ -43,13 +51,5 @@
     <content>You guys think I’m smart enough to win?!🤔😂 #RiyadhSeasonTreasure #RiyadhSeason #BigTime</content>
     <link href="https://tiktok.com/@dylan.page/video/7302145068452957473" rel="alternate"/>
     <published>2023-11-16T19:32:23+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7302378342412569888</id>
-    <title>Do you believe him or…🤔</title>
-    <updated>2023-11-17T10:37:38+00:00</updated>
-    <content>Do you believe him or…🤔</content>
-    <link href="https://tiktok.com/@dylan.page/video/7302378342412569888" rel="alternate"/>
-    <published>2023-11-17T10:37:38+00:00</published>
   </entry>
 </feed>
