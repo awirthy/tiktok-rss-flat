@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-11-15T20:00:00+00:00</updated>
+  <updated>2023-11-17T00:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7299906284428594475</id>
-    <title>News Conglomerate Hearst Goes Full Big Brother #Israel  #Gaza  #Politics  #News</title>
-    <updated>2023-11-10T21:00:00+00:00</updated>
-    <content>News Conglomerate Hearst Goes Full Big Brother #Israel  #Gaza  #Politics  #News</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7299906284428594475" rel="alternate"/>
-    <published>2023-11-10T21:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7299911729235037486</id>
     <title>US Power Grids At Risk Of Failing This Winter #Electricity  #Winter  #Money  #Politics</title>
@@ -51,5 +43,13 @@
     <content>Senators Tracked &amp; Confronted for Not Supporting Ceasefire #Israel #Gaza  #ChrisCoons  #ElizabethWarren</content>
     <link href="https://tiktok.com/@pdspolitics/video/7301750910143696171" rel="alternate"/>
     <published>2023-11-15T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7302200172946296110</id>
+    <title>Santos Won’t Run Again after O F Secrets Exposed #Politics  #Santos  #USA</title>
+    <updated>2023-11-17T00:00:00+00:00</updated>
+    <content>Santos Won’t Run Again after O F Secrets Exposed #Politics  #Santos  #USA</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7302200172946296110" rel="alternate"/>
+    <published>2023-11-17T00:00:00+00:00</published>
   </entry>
 </feed>
