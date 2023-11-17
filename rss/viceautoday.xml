@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-11-16T05:12:46+00:00</updated>
+  <updated>2023-11-17T02:29:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7299698661934566663</id>
-    <title>Dozens of asylum seekers held in indefinite immigration detention will be released after the High Court overturned a 20-year precedent that dictated Australia’s controversial immigration and asylum seeker policies. #australia #news #viceau #australiatoday</title>
-    <updated>2023-11-10T05:19:07+00:00</updated>
-    <content>Dozens of asylum seekers held in indefinite immigration detention will be released after the High Court overturned a 20-year precedent that dictated Australia’s controversial immigration and asylum seeker policies. #australia #news #viceau #australiatoday #immigrationdetention #immigration #migrant #refugee #asylumseekers #highcourt #policy #humanrights #todayilearned #learnontiktok #todayilearned</content>
-    <link href="https://tiktok.com/@viceautoday/video/7299698661934566663" rel="alternate"/>
-    <published>2023-11-10T05:19:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7300831789524847873</id>
     <title>Rallies in support of Palestine and calling for a ceasefire in Gaza have drawn record crowds across Australia for the fifth consecutive weekend. So what has happened so far as a result of these protests and other direct actions? #australia #news #palestin</title>
@@ -51,5 +43,13 @@
     <content>Many Australian musicians took to the annual ARIA Awards to make a political stand and urge for a ceasefire in light of Israel’s siege of Gaza. #australia #news #ariaawards2023 #arias #ariaawards #music #gaza #palestine #ceasefire #israel #freepalestine #politics #todayilearned #learnontiktok #genesisowusu #jet #haulatukefu #privatefunction #sydney </content>
     <link href="https://tiktok.com/@viceautoday/video/7301923561797602578" rel="alternate"/>
     <published>2023-11-16T05:12:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7302252577993886977</id>
+    <title>Data released by rhe ABS this month found 35% of Australians held a bachelor’s degree in 2022. Around 815,000 people were enrolled in bachelor degrees in 2022, compared with 934,000 in 2016. #universityaustralia #university #australia #news #australiannew</title>
+    <updated>2023-11-17T02:29:34+00:00</updated>
+    <content>Data released by rhe ABS this month found 35% of Australians held a bachelor’s degree in 2022. Around 815,000 people were enrolled in bachelor degrees in 2022, compared with 934,000 in 2016. #universityaustralia #university #australia #news #australiannews #education #learnontiktok #todayilearned #news </content>
+    <link href="https://tiktok.com/@viceautoday/video/7302252577993886977" rel="alternate"/>
+    <published>2023-11-17T02:29:34+00:00</published>
   </entry>
 </feed>
