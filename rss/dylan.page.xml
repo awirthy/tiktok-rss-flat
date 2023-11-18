@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-11-17T20:15:19+00:00</updated>
+  <updated>2023-11-18T19:48:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7301428598508948768</id>
-    <title>Honestly, i have never thought about this before😳</title>
-    <updated>2023-11-14T21:12:06+00:00</updated>
-    <content>Honestly, i have never thought about this before😳</content>
-    <link href="https://tiktok.com/@dylan.page/video/7301428598508948768" rel="alternate"/>
-    <published>2023-11-14T21:12:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7301743588977691937</id>
     <title>The amount of earthquakes this year is crazy!😳</title>
@@ -51,5 +43,13 @@
     <content>The ceasefire has been planned, don’t let us down boys🫡</content>
     <link href="https://tiktok.com/@dylan.page/video/7302527221942553888" rel="alternate"/>
     <published>2023-11-17T20:15:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7302891526617599264</id>
+    <title>Who’s gunna win the first Esports World Cup?🤔 #esportsworldcup #futureofesports </title>
+    <updated>2023-11-18T19:48:59+00:00</updated>
+    <content>Who’s gunna win the first Esports World Cup?🤔 #esportsworldcup #futureofesports </content>
+    <link href="https://tiktok.com/@dylan.page/video/7302891526617599264" rel="alternate"/>
+    <published>2023-11-18T19:48:59+00:00</published>
   </entry>
 </feed>
