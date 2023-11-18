@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@monumentstomisinfo</id>
   <title>monumentstomisinfo TikTok</title>
-  <updated>2023-11-18T06:58:33+00:00</updated>
+  <updated>2023-11-18T15:49:41.569681+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,44 +12,4 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from monumentstomisinfo</subtitle>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7301935494781324545</id>
-    <title>Adam Bandt asking the difficult but important questions #auspol #israel #jewish #israel🇮🇱 #australianlaborparty #australiangreens </title>
-    <updated>2023-11-16T05:59:09+00:00</updated>
-    <content>Adam Bandt asking the difficult but important questions #auspol #israel #jewish #israel🇮🇱 #australianlaborparty #australiangreens </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7301935494781324545" rel="alternate"/>
-    <published>2023-11-16T05:59:09+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7301954673563487490</id>
-    <title>Our government is clearly in a difficult geopolitical spot #auspol #israel #jewish #israel🇮🇱 #australianlaborparty </title>
-    <updated>2023-11-16T07:13:33+00:00</updated>
-    <content>Our government is clearly in a difficult geopolitical spot #auspol #israel #jewish #israel🇮🇱 #australianlaborparty </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7301954673563487490" rel="alternate"/>
-    <published>2023-11-16T07:13:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7301968134297144578</id>
-    <title>PSA: You can condemn real actions without needing to make up lies #auspol #israel #jewish #israel🇮🇱 </title>
-    <updated>2023-11-16T08:05:46+00:00</updated>
-    <content>PSA: You can condemn real actions without needing to make up lies #auspol #israel #jewish #israel🇮🇱 </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7301968134297144578" rel="alternate"/>
-    <published>2023-11-16T08:05:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7302324333161090305</id>
-    <title>Come join the discord #auspol #israel #jewish #israel🇮🇱 </title>
-    <updated>2023-11-17T07:08:00+00:00</updated>
-    <content>Come join the discord #auspol #israel #jewish #israel🇮🇱 </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7302324333161090305" rel="alternate"/>
-    <published>2023-11-17T07:08:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@monumentstomisinfo/video/7302692965087005954</id>
-    <title>Replying to @6tytnnrc 5f f  @YourFavoriteGuy  The fear mongering is just entirely irresponsible.  #auspol #israel #jewish #israel🇮🇱 </title>
-    <updated>2023-11-18T06:58:33+00:00</updated>
-    <content>Replying to @6tytnnrc 5f f  @YourFavoriteGuy  The fear mongering is just entirely irresponsible.  #auspol #israel #jewish #israel🇮🇱 </content>
-    <link href="https://tiktok.com/@monumentstomisinfo/video/7302692965087005954" rel="alternate"/>
-    <published>2023-11-18T06:58:33+00:00</published>
-  </entry>
 </feed>
