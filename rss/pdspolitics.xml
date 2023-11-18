@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-11-17T21:00:00+00:00</updated>
+  <updated>2023-11-18T21:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7301078054414093610</id>
-    <title>Gov’t Shutdown Is About to Cause Thanksgiving Travel Meltdown #Politics  #GovernmentShutdown  #Thanksgiving  #USA</title>
-    <updated>2023-11-14T00:00:00+00:00</updated>
-    <content>Gov’t Shutdown Is About to Cause Thanksgiving Travel Meltdown #Politics  #GovernmentShutdown  #Thanksgiving  #USA</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7301078054414093610" rel="alternate"/>
-    <published>2023-11-14T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7301464832622988586</id>
     <title>Senator Tries to Start a Fight During Committee Hearing #Politics  #BernieSanders  #Strike  #MarkwayneMullin</title>
@@ -51,5 +43,13 @@
     <content>The FTC Is Coming for Food Influencers #FTC  #Influencer  #Food  #Politics</content>
     <link href="https://tiktok.com/@pdspolitics/video/7302493034715958574" rel="alternate"/>
     <published>2023-11-17T21:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7302481632911445291</id>
+    <title>Pelosi Attacker’s Bizarre Defense Story #Pelosi  #Crime  #Politics  #DavidDepape</title>
+    <updated>2023-11-18T21:00:00+00:00</updated>
+    <content>Pelosi Attacker’s Bizarre Defense Story #Pelosi  #Crime  #Politics  #DavidDepape</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7302481632911445291" rel="alternate"/>
+    <published>2023-11-18T21:00:00+00:00</published>
   </entry>
 </feed>
