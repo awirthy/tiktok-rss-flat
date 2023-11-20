@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-11-16T23:31:06+00:00</updated>
+  <updated>2023-11-20T20:56:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7301388553676655903</id>
-    <title>Bernie Sanders Breaks Up Fight In US Senate #usa #america  Sen. Markwayne Mullin (R-OK) challenges Teamsters leader Sean O’Brien to a physical fight, standing up midway through a Senate HELP Committee hearing. Chair Bernie Sanders (I-VT) repeatedly attemp</title>
-    <updated>2023-11-14T18:36:59+00:00</updated>
-    <content>Bernie Sanders Breaks Up Fight In US Senate #usa #america  Sen. Markwayne Mullin (R-OK) challenges Teamsters leader Sean O’Brien to a physical fight, standing up midway through a Senate HELP Committee hearing. Chair Bernie Sanders (I-VT) repeatedly attempts to break them up: “You’re a United States senator.” Mullin and O’Brien, the leader of the major union International Brotherhood of Teamsters, have a history of combative moments — Mullin, a hard-right conservative, has repeatedly challenged O’Brien to physical fights.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7301388553676655903" rel="alternate"/>
-    <published>2023-11-14T18:36:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7301692282800000286</id>
     <title>Senator Challenges Witness To Charity Boxing Match #usa #america  A congressional hearing devolved into an angry confrontation between a senator and a witness on Tuesday after Republican Sen. Markwayne Mullin of Oklahoma challenged Sean O’Brien, the presi</title>
@@ -51,5 +43,13 @@
     <content>US Starts Playing Hardball With Israel #usa #israel  The US and Europe are pushing for a plan that would deploy an international peacekeeping force to the Gaza Strip according to Bloomberg. US and European officials believe that this may push Israel to wrap up its war and start considering what will come next. This is yet another sign of growing impatience with Israel. Earlier this week, the Times of Israel reported that the US wants Netanyahu out due to him obstructing US efforts to negotiate an end game for Gaza with their Arab Allies. And yesterday the US let a UN Security Council resolution calling for a humanitarian pause in the Gaza strip pass without vetoing it. Also earlier today, the USS Gerald R Ford pulled away from the coast of Israel. Some analysts say this is the US playing hardball after Israel has “gone off the rails” and ignored their pressure.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7302206535692782879" rel="alternate"/>
     <published>2023-11-16T23:31:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7303650973589736734</id>
+    <title>Houthis Hijack Israeli Ship #usa #israel  Yemen’s Houthi rebels have seized an Israel-linked cargo ship named Galaxy Leader in what most nations would consider an act of piracy. They seized the ship by rappelling down from a helicopter. They have taken 25</title>
+    <updated>2023-11-20T20:56:09+00:00</updated>
+    <content>Houthis Hijack Israeli Ship #usa #israel  Yemen’s Houthi rebels have seized an Israel-linked cargo ship named Galaxy Leader in what most nations would consider an act of piracy. They seized the ship by rappelling down from a helicopter. They have taken 25 of its crew members hostage, and say they will treat them in accordance to Islamic values but they haven’t elaborated on what that means. The Houthis say they will continue to attack all ships linked to Israel and say that Israel only understands the language of force. The ship is operated by Japan who condemned the hijacking. Israel insists that the ship is British owned but public data says it’s associated with one of the richest men in Israel according to AP.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7303650973589736734" rel="alternate"/>
+    <published>2023-11-20T20:56:09+00:00</published>
   </entry>
 </feed>
