@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-11-17T05:01:03+00:00</updated>
+  <updated>2023-11-15T04:57:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7291890314225241351</id>
+    <title>The PM has said that "everyone" earning over $45k "benefits" from the Stage 3 tax cuts.  But what you can get for your tax cut looks verrrrry different depending on how much you make.... Watch the full video on Youtube. #auspol</title>
+    <updated>2023-10-21T03:00:00+00:00</updated>
+    <content>The PM has said that "everyone" earning over $45k "benefits" from the Stage 3 tax cuts.  But what you can get for your tax cut looks verrrrry different depending on how much you make.... Watch the full video on Youtube. #auspol</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7291890314225241351" rel="alternate"/>
+    <published>2023-10-21T03:00:00+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7293013352387775752</id>
     <title>Invitations for State Dinners at the White House don't come very often, so why is Albanese getting one now?  And what is, and isn't, on the table for discussion?  Hint: Probably AUKUS, probably not Assange. International &amp; Security Affairs Senior Research</title>
@@ -43,13 +51,5 @@
     <content>Senator Penny Wong may have said the quiet part out loud about the Government's new Sea Dumping Bill...that it's for the fossil fuel industry. Executive Director Richard Denniss explains. #auspol</content>
     <link href="https://tiktok.com/@theausinstitute/video/7301548472111598855" rel="alternate"/>
     <published>2023-11-15T04:57:18+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7302291488791203079</id>
-    <title>In a tight labour market, approving new coal and gas mines is not just bad for the climate. It also raises the cost of public infrastructure. Chief Economist Greg Jericho explains. #auspol</title>
-    <updated>2023-11-17T05:01:03+00:00</updated>
-    <content>In a tight labour market, approving new coal and gas mines is not just bad for the climate. It also raises the cost of public infrastructure. Chief Economist Greg Jericho explains. #auspol</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7302291488791203079" rel="alternate"/>
-    <published>2023-11-17T05:01:03+00:00</published>
   </entry>
 </feed>
