@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-11-20T06:43:04+00:00</updated>
+  <updated>2023-11-17T02:29:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7300831789524847873</id>
+    <title>Rallies in support of Palestine and calling for a ceasefire in Gaza have drawn record crowds across Australia for the fifth consecutive weekend. So what has happened so far as a result of these protests and other direct actions? #australia #news #palestin</title>
+    <updated>2023-11-13T06:36:12+00:00</updated>
+    <content>Rallies in support of Palestine and calling for a ceasefire in Gaza have drawn record crowds across Australia for the fifth consecutive weekend. So what has happened so far as a result of these protests and other direct actions? #australia #news #palestine #gaza #israel #ceasefire #freepalestine #protest #rally #activism #humanrights #politics #anthonyalbanese #auspol #todayilearned #learnontiktok </content>
+    <link href="https://tiktok.com/@viceautoday/video/7300831789524847873" rel="alternate"/>
+    <published>2023-11-13T06:36:12+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7301197752669719810</id>
     <title>The significant police presence at Sydney’s free Palestine rallies is costing the NSW Government as much as $1 million per event in officer overtime. Following Sunday's rally, NSW Premier Chris Minns requested additional funding from the Federal Governmen</title>
@@ -43,13 +51,5 @@
     <content>Data released by rhe ABS this month found 35% of Australians held a bachelor’s degree in 2022. Around 815,000 people were enrolled in bachelor degrees in 2022, compared with 934,000 in 2016. #universityaustralia #university #australia #news #australiannews #education #learnontiktok #todayilearned #news </content>
     <link href="https://tiktok.com/@viceautoday/video/7302252577993886977" rel="alternate"/>
     <published>2023-11-17T02:29:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7303431150536543490</id>
-    <title>A NSW minister’s request for a ban on Palestinian road convoys has been rejected, as protests for Palestinian liberation continued for the sixth consecutive week. #palestine #israel #gaza #australia #australiannews #newsaus #protests #palestineprotest #to</title>
-    <updated>2023-11-20T06:43:04+00:00</updated>
-    <content>A NSW minister’s request for a ban on Palestinian road convoys has been rejected, as protests for Palestinian liberation continued for the sixth consecutive week. #palestine #israel #gaza #australia #australiannews #newsaus #protests #palestineprotest #todayilearned #learnontiktok #news </content>
-    <link href="https://tiktok.com/@viceautoday/video/7303431150536543490" rel="alternate"/>
-    <published>2023-11-20T06:43:04+00:00</published>
   </entry>
 </feed>
