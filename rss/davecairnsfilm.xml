@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@davecairnsfilm</id>
   <title>davecairnsfilm TikTok</title>
-  <updated>2023-11-13T10:57:04+00:00</updated>
+  <updated>2023-11-20T11:25:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from davecairnsfilm</subtitle>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7300155364241067265</id>
-    <title>11 NOVEMBER 2023 - #nonuancenovember #randomthings #thoughts </title>
-    <updated>2023-11-11T10:51:19+00:00</updated>
-    <content>11 NOVEMBER 2023 - #nonuancenovember #randomthings #thoughts </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7300155364241067265" rel="alternate"/>
-    <published>2023-11-11T10:51:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@davecairnsfilm/video/7300522596313861377</id>
     <title>#stitch with @issie!!!! 12 NOVEMBER 2023 - #media #journalism #australia #uk #usa #murdoch #newscorp </title>
@@ -51,5 +43,13 @@
     <content>13 NOVEMBER 2023 - #nonuancenovember #fans #fandom #sports #music #popculture #taylorswift #nerds</content>
     <link href="https://tiktok.com/@davecairnsfilm/video/7300899017045691650" rel="alternate"/>
     <published>2023-11-13T10:57:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@davecairnsfilm/video/7303504026052644098</id>
+    <title>#stitch with @Dara Starr Tucker 20 NOVEMBER 2023 - #politics #auspol #content #tiktok #toxic </title>
+    <updated>2023-11-20T11:25:50+00:00</updated>
+    <content>#stitch with @Dara Starr Tucker 20 NOVEMBER 2023 - #politics #auspol #content #tiktok #toxic </content>
+    <link href="https://tiktok.com/@davecairnsfilm/video/7303504026052644098" rel="alternate"/>
+    <published>2023-11-20T11:25:50+00:00</published>
   </entry>
 </feed>
