@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-11-20T17:57:39+00:00</updated>
+  <updated>2023-11-20T22:17:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7302527221942553888</id>
-    <title>The ceasefire has been planned, don’t let us down boys🫡</title>
-    <updated>2023-11-17T20:15:19+00:00</updated>
-    <content>The ceasefire has been planned, don’t let us down boys🫡</content>
-    <link href="https://tiktok.com/@dylan.page/video/7302527221942553888" rel="alternate"/>
-    <published>2023-11-17T20:15:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7302891526617599264</id>
     <title>Who’s gunna win the first Esports World Cup?🤔 #esportsworldcup #futureofesports </title>
@@ -51,5 +43,13 @@
     <content>🍾🎉🥹10 MILLION!!!!!🤯🎉🥳</content>
     <link href="https://tiktok.com/@dylan.page/video/7303604998980603168" rel="alternate"/>
     <published>2023-11-20T17:57:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7303671996141899041</id>
+    <title>I am bald posting this right now!!🧑‍🦲🧑‍🦲</title>
+    <updated>2023-11-20T22:17:39+00:00</updated>
+    <content>I am bald posting this right now!!🧑‍🦲🧑‍🦲</content>
+    <link href="https://tiktok.com/@dylan.page/video/7303671996141899041" rel="alternate"/>
+    <published>2023-11-20T22:17:39+00:00</published>
   </entry>
 </feed>
