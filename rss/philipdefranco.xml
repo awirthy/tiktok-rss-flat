@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-11-20T20:56:09+00:00</updated>
+  <updated>2023-11-21T00:29:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7301692282800000286</id>
-    <title>Senator Challenges Witness To Charity Boxing Match #usa #america  A congressional hearing devolved into an angry confrontation between a senator and a witness on Tuesday after Republican Sen. Markwayne Mullin of Oklahoma challenged Sean O’Brien, the presi</title>
-    <updated>2023-11-15T14:15:29+00:00</updated>
-    <content>Senator Challenges Witness To Charity Boxing Match #usa #america  A congressional hearing devolved into an angry confrontation between a senator and a witness on Tuesday after Republican Sen. Markwayne Mullin of Oklahoma challenged Sean O’Brien, the president of the International Brotherhood of Teamsters, to “stand your butt up” and settle longstanding differences right there in the room. Vermont Sen. Bernie Sanders, the chairman of the Senate panel that was holding the hearing, yelled at Mullin to sit down after he challenged O’Brien to a fight. Mullin had stood up from his seat at the dais and appeared to start taking his ring off. “This is the time, this is the place,” Mullin told O’Brien after reading a series of critical tweets O’Brien had sent about him in the past. “If you want to run your mouth, we can be two consenting adults. We can finish it here.” The two men never came face to face in the hearing room. But they hurled insults at each other for around six minutes as Sanders repeatedly banged his gavel and tried to cut them off. Sanders, a longtime union ally, pleaded with them to focus on the economic issues that were the focus of the Senate Health, Education, Labor and Pensions Committee hearing, which Sanders was holding to review how unions help working families.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7301692282800000286" rel="alternate"/>
-    <published>2023-11-15T14:15:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7301818652817444127</id>
     <title>Congress Has Turned Into Fight Club #usa #america  Rep. Tim Burchett accused former Speaker of the House Kevin McCarthy of elbowing him in the kidneys intentionally in retaliation for the Tennessee Republican's vote last month to oust McCarthy, sparking a</title>
@@ -51,5 +43,13 @@
     <content>Houthis Hijack Israeli Ship #usa #israel  Yemen’s Houthi rebels have seized an Israel-linked cargo ship named Galaxy Leader in what most nations would consider an act of piracy. They seized the ship by rappelling down from a helicopter. They have taken 25 of its crew members hostage, and say they will treat them in accordance to Islamic values but they haven’t elaborated on what that means. The Houthis say they will continue to attack all ships linked to Israel and say that Israel only understands the language of force. The ship is operated by Japan who condemned the hijacking. Israel insists that the ship is British owned but public data says it’s associated with one of the richest men in Israel according to AP.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7303650973589736734" rel="alternate"/>
     <published>2023-11-20T20:56:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7303706080247434526</id>
+    <title>US Prepares To Sanction Israel #usa #israel  The US is preparing to sanction Israel. President Biden wrote in an Op-Ed that the US is preparing to issue visa bans against extremist settlers in the West Bank who are attacking and displacing Palestinians. W</title>
+    <updated>2023-11-21T00:29:57+00:00</updated>
+    <content>US Prepares To Sanction Israel #usa #israel  The US is preparing to sanction Israel. President Biden wrote in an Op-Ed that the US is preparing to issue visa bans against extremist settlers in the West Bank who are attacking and displacing Palestinians. While officials backed up that op-ed and told Politico that they are also preparing sanctions. President Biden also said that the Gaza strip and West Bank should be reunited and be governed under a revitalized Palestinian Authority. The US continues to publicly oppose an Israeli occupation of Gaza after the war is over.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7303706080247434526" rel="alternate"/>
+    <published>2023-11-21T00:29:57+00:00</published>
   </entry>
 </feed>
