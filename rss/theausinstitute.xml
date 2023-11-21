@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@theausinstitute</id>
   <title>theausinstitute TikTok</title>
-  <updated>2023-11-17T05:01:03+00:00</updated>
+  <updated>2023-11-21T23:13:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from theausinstitute</subtitle>
-  <entry>
-    <id>https://tiktok.com/@theausinstitute/video/7293013352387775752</id>
-    <title>Invitations for State Dinners at the White House don't come very often, so why is Albanese getting one now?  And what is, and isn't, on the table for discussion?  Hint: Probably AUKUS, probably not Assange. International &amp; Security Affairs Senior Research</title>
-    <updated>2023-10-23T04:57:17+00:00</updated>
-    <content>Invitations for State Dinners at the White House don't come very often, so why is Albanese getting one now?  And what is, and isn't, on the table for discussion?  Hint: Probably AUKUS, probably not Assange. International &amp; Security Affairs Senior Researcher Emma Shortis explains.  #auspol</content>
-    <link href="https://tiktok.com/@theausinstitute/video/7293013352387775752" rel="alternate"/>
-    <published>2023-10-23T04:57:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@theausinstitute/video/7296650895549287688</id>
     <title>What is the silliest economic modelling Richard has ever seen? Hint: it was used to spruik the Government's flawed Nature Repair Market proposal. There were many issues with the bill, most fundamentally is that markets don't value nature. They value profi</title>
@@ -51,5 +43,13 @@
     <content>In a tight labour market, approving new coal and gas mines is not just bad for the climate. It also raises the cost of public infrastructure. Chief Economist Greg Jericho explains. #auspol</content>
     <link href="https://tiktok.com/@theausinstitute/video/7302291488791203079" rel="alternate"/>
     <published>2023-11-17T05:01:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@theausinstitute/video/7304057551556005138</id>
+    <title>Despite record-low unemployment, Australian employers are still managing to steal on average more than 280 hours from their employees each year. That's seven 38-hour weeks spent working for free. Dr Fiona Macdonald explains. #auspol</title>
+    <updated>2023-11-21T23:13:46+00:00</updated>
+    <content>Despite record-low unemployment, Australian employers are still managing to steal on average more than 280 hours from their employees each year. That's seven 38-hour weeks spent working for free. Dr Fiona Macdonald explains. #auspol</content>
+    <link href="https://tiktok.com/@theausinstitute/video/7304057551556005138" rel="alternate"/>
+    <published>2023-11-21T23:13:46+00:00</published>
   </entry>
 </feed>
