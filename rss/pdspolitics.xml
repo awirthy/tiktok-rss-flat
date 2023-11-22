@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-11-19T21:00:00+00:00</updated>
+  <updated>2023-11-22T00:02:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7301750910143696171</id>
-    <title>Senators Tracked &amp; Confronted for Not Supporting Ceasefire #Israel #Gaza  #ChrisCoons  #ElizabethWarren</title>
-    <updated>2023-11-15T20:00:00+00:00</updated>
-    <content>Senators Tracked &amp; Confronted for Not Supporting Ceasefire #Israel #Gaza  #ChrisCoons  #ElizabethWarren</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7301750910143696171" rel="alternate"/>
-    <published>2023-11-15T20:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7302200172946296110</id>
     <title>Santos Won’t Run Again after O F Secrets Exposed #Politics  #Santos  #USA</title>
@@ -51,5 +43,13 @@
     <content>This Court Case Could Change Journalism Forever #FoxNews  #Court  #Politics  #CatherineHerridge</content>
     <link href="https://tiktok.com/@pdspolitics/video/7302480784521317678" rel="alternate"/>
     <published>2023-11-19T21:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7304070007137422634</id>
+    <title>Republicans Defunding Program for Poor Moms &amp; Kids #Politics  #Women  #USA  #WIC</title>
+    <updated>2023-11-22T00:02:15+00:00</updated>
+    <content>Republicans Defunding Program for Poor Moms &amp; Kids #Politics  #Women  #USA  #WIC</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7304070007137422634" rel="alternate"/>
+    <published>2023-11-22T00:02:15+00:00</published>
   </entry>
 </feed>
