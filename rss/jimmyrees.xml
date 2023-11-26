@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-11-21T08:57:47+00:00</updated>
+  <updated>2023-11-26T09:31:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7301840847597849857</id>
-    <title>You work in an office? 🥴 #officeworker #funny #notsoemergencydepartment #officejob #officelife </title>
-    <updated>2023-11-15T23:51:57+00:00</updated>
-    <content>You work in an office? 🥴 #officeworker #funny #notsoemergencydepartment #officejob #officelife </content>
-    <link href="https://tiktok.com/@jimmyrees/video/7301840847597849857" rel="alternate"/>
-    <published>2023-11-15T23:51:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7301958421555825922</id>
-    <title>Don’t let hay fever hold your little one back from living to their fullest. Telfast are here to support your kids through this spring season.  Always read the label and follow the directions for use. #ad #TelfastKnowsBest #LiveYourGreatness    Available o</title>
-    <updated>2023-11-16T07:28:04+00:00</updated>
-    <content>Don’t let hay fever hold your little one back from living to their fullest. Telfast are here to support your kids through this spring season.  Always read the label and follow the directions for use. #ad #TelfastKnowsBest #LiveYourGreatness    Available online and at your local @Chemist Warehouse Official </content>
-    <link href="https://tiktok.com/@jimmyrees/video/7301958421555825922" rel="alternate"/>
-    <published>2023-11-16T07:28:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7303301464775019783</id>
     <title>You passing this? You can’t look away!! 🫣 #funny #sales #salesrep #salesperson #salespeople</title>
@@ -51,5 +35,21 @@
     <content>How Basketball was invented!! 🥴😂🏀#basketball #nba #funny #bball #bballtiktok </content>
     <link href="https://tiktok.com/@jimmyrees/video/7303836961163300097" rel="alternate"/>
     <published>2023-11-21T08:57:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7304597894890540290</id>
+    <title>Originally called Women’s Basketball 🥴!! #netball #theguywhodecides #funny #rulesofnetball </title>
+    <updated>2023-11-23T10:10:37+00:00</updated>
+    <content>Originally called Women’s Basketball 🥴!! #netball #theguywhodecides #funny #rulesofnetball </content>
+    <link href="https://tiktok.com/@jimmyrees/video/7304597894890540290" rel="alternate"/>
+    <published>2023-11-23T10:10:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7305700978773265665</id>
+    <title>The Magnet Guy 😅🤪🧲 #notsoemergencydepartment #dating #datinglife #singlelife #findinglove #funny</title>
+    <updated>2023-11-26T09:31:08+00:00</updated>
+    <content>The Magnet Guy 😅🤪🧲 #notsoemergencydepartment #dating #datinglife #singlelife #findinglove #funny</content>
+    <link href="https://tiktok.com/@jimmyrees/video/7305700978773265665" rel="alternate"/>
+    <published>2023-11-26T09:31:08+00:00</published>
   </entry>
 </feed>
