@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@davecairnsfilm</id>
   <title>davecairnsfilm TikTok</title>
-  <updated>2023-11-28T11:30:44+00:00</updated>
+  <updated>2023-11-30T11:32:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from davecairnsfilm</subtitle>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7306088195853208834</id>
-    <title>#stitch with @shithead 27 NOVEMBER 2023 - #christmas #australia #music #comedy #humor</title>
-    <updated>2023-11-27T10:33:45+00:00</updated>
-    <content>#stitch with @shithead 27 NOVEMBER 2023 - #christmas #australia #music #comedy #humor</content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7306088195853208834" rel="alternate"/>
-    <published>2023-11-27T10:33:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7306093509210082562</id>
-    <title>27 NOVEMBER 2023 - One of these might not be 100% true - #nonuancenovember #hottake #comedy #humor</title>
-    <updated>2023-11-27T10:54:21+00:00</updated>
-    <content>27 NOVEMBER 2023 - One of these might not be 100% true - #nonuancenovember #hottake #comedy #humor</content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7306093509210082562" rel="alternate"/>
-    <published>2023-11-27T10:54:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@davecairnsfilm/video/7306101213240528129</id>
     <title>Replying to @Justanothermelbmillenial 27 NOVEMBER 2023 - #media #skynews #murdoch #comment #comedy #humor</title>
@@ -51,5 +35,21 @@
     <content>28 NOVEMBER 2023 - #theartfuldodger #australia #tv #disneyplus #disney #popculture</content>
     <link href="https://tiktok.com/@davecairnsfilm/video/7306473974605679874" rel="alternate"/>
     <published>2023-11-28T11:30:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@davecairnsfilm/video/7307208272736488706</id>
+    <title>30 NOVEMBER 2023 - #henrykissinger #news #politics </title>
+    <updated>2023-11-30T11:00:10+00:00</updated>
+    <content>30 NOVEMBER 2023 - #henrykissinger #news #politics </content>
+    <link href="https://tiktok.com/@davecairnsfilm/video/7307208272736488706" rel="alternate"/>
+    <published>2023-11-30T11:00:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@davecairnsfilm/video/7307216565563346177</id>
+    <title>30 NOVEMBER 2023 - #nonuancenovember #life #death #hottake</title>
+    <updated>2023-11-30T11:32:21+00:00</updated>
+    <content>30 NOVEMBER 2023 - #nonuancenovember #life #death #hottake</content>
+    <link href="https://tiktok.com/@davecairnsfilm/video/7307216565563346177" rel="alternate"/>
+    <published>2023-11-30T11:32:21+00:00</published>
   </entry>
 </feed>
