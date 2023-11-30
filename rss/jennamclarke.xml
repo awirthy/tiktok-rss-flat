@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jennamclarke</id>
   <title>jennamclarke TikTok</title>
-  <updated>2023-11-02T09:48:39+00:00</updated>
+  <updated>2023-11-07T09:48:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jennamclarke</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jennamclarke/video/7289053092002172161</id>
-    <title>Some silly things to know before ☕️ including #frogtok #laceychabert #partyoffive #hollywilloughby #thismorning #itv </title>
-    <updated>2023-10-12T12:48:47+00:00</updated>
-    <content>Some silly things to know before ☕️ including #frogtok #laceychabert #partyoffive #hollywilloughby #thismorning #itv </content>
-    <link href="https://tiktok.com/@jennamclarke/video/7289053092002172161" rel="alternate"/>
-    <published>2023-10-12T12:48:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jennamclarke/video/7289400874248539393</id>
     <title>How #thevoice is shaping up in #westernaustralia </title>
@@ -51,5 +43,13 @@
     <content>#mushroom #murdermystery episode 2 is here and other #australian #news to know before ☕️ on #friday  #fyp #australia #boyswallowsuniverse #booktok </content>
     <link href="https://tiktok.com/@jennamclarke/video/7296799460284255490" rel="alternate"/>
     <published>2023-11-02T09:48:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jennamclarke/video/7298654860797299969</id>
+    <title>4 things to know before ☕️ in #australia on #wednesday  #inflation #melbournecup #yikes #helpmeimpoor #news </title>
+    <updated>2023-11-07T09:48:34+00:00</updated>
+    <content>4 things to know before ☕️ in #australia on #wednesday  #inflation #melbournecup #yikes #helpmeimpoor #news </content>
+    <link href="https://tiktok.com/@jennamclarke/video/7298654860797299969" rel="alternate"/>
+    <published>2023-11-07T09:48:34+00:00</published>
   </entry>
 </feed>

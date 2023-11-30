@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-11-26T09:31:08+00:00</updated>
+  <updated>2023-11-29T02:57:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7303301464775019783</id>
-    <title>You passing this? You can’t look away!! 🫣 #funny #sales #salesrep #salesperson #salespeople</title>
-    <updated>2023-11-19T22:19:56+00:00</updated>
-    <content>You passing this? You can’t look away!! 🫣 #funny #sales #salesrep #salesperson #salespeople</content>
-    <link href="https://tiktok.com/@jimmyrees/video/7303301464775019783" rel="alternate"/>
-    <published>2023-11-19T22:19:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7303401294423690497</id>
-    <title>#AD You can’t help but get inspired to attempt an impression after listening to hours of an Audiobook!!! Listen to ‘Be Useful’ by @Arnold now on @Audible https://adbl.co/jimmy-rees </title>
-    <updated>2023-11-20T04:47:11+00:00</updated>
-    <content>#AD You can’t help but get inspired to attempt an impression after listening to hours of an Audiobook!!! Listen to ‘Be Useful’ by @Arnold now on @Audible https://adbl.co/jimmy-rees </content>
-    <link href="https://tiktok.com/@jimmyrees/video/7303401294423690497" rel="alternate"/>
-    <published>2023-11-20T04:47:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7303836961163300097</id>
-    <title>How Basketball was invented!! 🥴😂🏀#basketball #nba #funny #bball #bballtiktok </title>
-    <updated>2023-11-21T08:57:47+00:00</updated>
-    <content>How Basketball was invented!! 🥴😂🏀#basketball #nba #funny #bball #bballtiktok </content>
-    <link href="https://tiktok.com/@jimmyrees/video/7303836961163300097" rel="alternate"/>
-    <published>2023-11-21T08:57:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7304597894890540290</id>
     <title>Originally called Women’s Basketball 🥴!! #netball #theguywhodecides #funny #rulesofnetball </title>
@@ -51,5 +27,29 @@
     <content>The Magnet Guy 😅🤪🧲 #notsoemergencydepartment #dating #datinglife #singlelife #findinglove #funny</content>
     <link href="https://tiktok.com/@jimmyrees/video/7305700978773265665" rel="alternate"/>
     <published>2023-11-26T09:31:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7305904456896384257</id>
+    <title>BTS and vote for me in the TikTokAwards 😁😁😁!! What else you wanna see? </title>
+    <updated>2023-11-26T22:41:00+00:00</updated>
+    <content>BTS and vote for me in the TikTokAwards 😁😁😁!! What else you wanna see? </content>
+    <link href="https://tiktok.com/@jimmyrees/video/7305904456896384257" rel="alternate"/>
+    <published>2023-11-26T22:41:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7306378869462945025</id>
+    <title>We love our teachers but do they actually love candles? 🤔 😂 Use GroupTogether this year to organise a class gift that rocks!! It’s super easy and free 👌!! @GroupTogether </title>
+    <updated>2023-11-28T05:21:45+00:00</updated>
+    <content>We love our teachers but do they actually love candles? 🤔 😂 Use GroupTogether this year to organise a class gift that rocks!! It’s super easy and free 👌!! @GroupTogether </content>
+    <link href="https://tiktok.com/@jimmyrees/video/7306378869462945025" rel="alternate"/>
+    <published>2023-11-28T05:21:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7306712633665801490</id>
+    <title>NSED: Dogs!!! Anyone work in a dog friendly office? 😜🦮🐕‍🦺🐶 #dogs  #dogowner  #notsoemergencydepartment  #funny  #dogfriendly  #dogsoftiktok</title>
+    <updated>2023-11-29T02:57:04+00:00</updated>
+    <content>NSED: Dogs!!! Anyone work in a dog friendly office? 😜🦮🐕‍🦺🐶 #dogs  #dogowner  #notsoemergencydepartment  #funny  #dogfriendly  #dogsoftiktok</content>
+    <link href="https://tiktok.com/@jimmyrees/video/7306712633665801490" rel="alternate"/>
+    <published>2023-11-29T02:57:04+00:00</published>
   </entry>
 </feed>
