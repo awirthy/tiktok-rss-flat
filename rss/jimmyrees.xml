@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-11-29T02:57:04+00:00</updated>
+  <updated>2023-12-01T04:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7304597894890540290</id>
-    <title>Originally called Women’s Basketball 🥴!! #netball #theguywhodecides #funny #rulesofnetball </title>
-    <updated>2023-11-23T10:10:37+00:00</updated>
-    <content>Originally called Women’s Basketball 🥴!! #netball #theguywhodecides #funny #rulesofnetball </content>
-    <link href="https://tiktok.com/@jimmyrees/video/7304597894890540290" rel="alternate"/>
-    <published>2023-11-23T10:10:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7305700978773265665</id>
     <title>The Magnet Guy 😅🤪🧲 #notsoemergencydepartment #dating #datinglife #singlelife #findinglove #funny</title>
@@ -51,5 +43,13 @@
     <content>NSED: Dogs!!! Anyone work in a dog friendly office? 😜🦮🐕‍🦺🐶 #dogs  #dogowner  #notsoemergencydepartment  #funny  #dogfriendly  #dogsoftiktok</content>
     <link href="https://tiktok.com/@jimmyrees/video/7306712633665801490" rel="alternate"/>
     <published>2023-11-29T02:57:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7307383862919728402</id>
+    <title>Sounds like summer…sounds like…McCafé Iced Coffee ☀️ #hotgirlsummer   @mcdonaldsau  #ad</title>
+    <updated>2023-12-01T04:00:00+00:00</updated>
+    <content>Sounds like summer…sounds like…McCafé Iced Coffee ☀️ #hotgirlsummer   @mcdonaldsau  #ad</content>
+    <link href="https://tiktok.com/@jimmyrees/video/7307383862919728402" rel="alternate"/>
+    <published>2023-12-01T04:00:00+00:00</published>
   </entry>
 </feed>
