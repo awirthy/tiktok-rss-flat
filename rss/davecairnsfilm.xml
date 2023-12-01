@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@davecairnsfilm</id>
   <title>davecairnsfilm TikTok</title>
-  <updated>2023-12-01T04:25:59+00:00</updated>
+  <updated>2023-12-01T14:46:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from davecairnsfilm</subtitle>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7306465622320303362</id>
-    <title>28 NOVEMBER 2023 - #nonuancenovember #politics #auspol #media #journalism</title>
-    <updated>2023-11-28T10:58:19+00:00</updated>
-    <content>28 NOVEMBER 2023 - #nonuancenovember #politics #auspol #media #journalism</content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7306465622320303362" rel="alternate"/>
-    <published>2023-11-28T10:58:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@davecairnsfilm/video/7306473974605679874</id>
     <title>28 NOVEMBER 2023 - #theartfuldodger #australia #tv #disneyplus #disney #popculture</title>
@@ -51,5 +43,13 @@
     <content>#stitch with @peach prc 1 DECEMBER 2023 - #identify #lgbtia #straight #culture </content>
     <link href="https://tiktok.com/@davecairnsfilm/video/7307477775277935874" rel="alternate"/>
     <published>2023-12-01T04:25:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@davecairnsfilm/video/7307637650595384577</id>
+    <title>2 DECEMBER 2023 - #onthisday #dating #relationships #comedy #humor </title>
+    <updated>2023-12-01T14:46:22+00:00</updated>
+    <content>2 DECEMBER 2023 - #onthisday #dating #relationships #comedy #humor </content>
+    <link href="https://tiktok.com/@davecairnsfilm/video/7307637650595384577" rel="alternate"/>
+    <published>2023-12-01T14:46:22+00:00</published>
   </entry>
 </feed>
