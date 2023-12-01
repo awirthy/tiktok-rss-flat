@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-11-30T06:25:55+00:00</updated>
+  <updated>2023-12-01T05:37:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7304892079325351175</id>
-    <title>Data released by the Australian Bureau of Statistics has found 7% of patients who needed to see a GP did not see a doctor or delayed booking an appointment due to the cost in 2022-23, a percentage that has doubled from 2021-22. One in five people said the</title>
-    <updated>2023-11-24T05:12:09+00:00</updated>
-    <content>Data released by the Australian Bureau of Statistics has found 7% of patients who needed to see a GP did not see a doctor or delayed booking an appointment due to the cost in 2022-23, a percentage that has doubled from 2021-22. One in five people said the cost was the reason for delaying or not seeking mental health support when needed, and one in 10 said cost was the reason for not seeing a specialist. #australia #abs #costofliving #news #australiannews #learnontiktok #todayilearned #statistics #2023 </content>
-    <link href="https://tiktok.com/@viceautoday/video/7304892079325351175" rel="alternate"/>
-    <published>2023-11-24T05:12:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7306018429834644737</id>
     <title>109 protestors were arrested in the Port of Newcastle on the weekend after 30-hour on-water blockade of the coal port’s shipping lane. The action was organised by Rising Tide Australia climate activist group to demand the federal government stop approving</title>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@viceautoday/video/7307137597480963336" rel="alternate"/>
     <published>2023-11-30T06:25:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7307496172103535879</id>
+    <title>Victoria could be on its way to decriminalising 🍃 after a new drug law bill, introduced in the state’s parliament this week, spurred discussions from politicians about criminal possession laws. Several senior MPs shared their opinions of and experiences w</title>
+    <updated>2023-12-01T05:37:21+00:00</updated>
+    <content>Victoria could be on its way to decriminalising 🍃 after a new drug law bill, introduced in the state’s parliament this week, spurred discussions from politicians about criminal possession laws. Several senior MPs shared their opinions of and experiences with the substance and some came out in support of law reform. #australia #news #law #legal #health #healthtok #herb #politics #auspol #medicine #victoria #parliament #todayilearned #learnontiktok </content>
+    <link href="https://tiktok.com/@viceautoday/video/7307496172103535879" rel="alternate"/>
+    <published>2023-12-01T05:37:21+00:00</published>
   </entry>
 </feed>
