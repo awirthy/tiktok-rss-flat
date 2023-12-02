@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-12-01T21:00:00+00:00</updated>
+  <updated>2023-12-02T21:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7306287662120619310</id>
-    <title>Derek Chauvin Attacked in Prison, Expected to Survive #DerekChauvin  #USA  #BLM  #Prison</title>
-    <updated>2023-11-28T00:00:00+00:00</updated>
-    <content>Derek Chauvin Attacked in Prison, Expected to Survive #DerekChauvin  #USA  #BLM  #Prison</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7306287662120619310" rel="alternate"/>
-    <published>2023-11-28T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7306655795452579118</id>
     <title>Tuberville Calls Military Weak As He Weakens Military #Military  #Politics  #USA  #TommyTuberville</title>
@@ -51,5 +43,13 @@
     <content>Henry KIssinger remembered as highly controversial figure #HenryKissinger  #Politics  #USA  #MiaKhalifa</content>
     <link href="https://tiktok.com/@pdspolitics/video/7307701073060416811" rel="alternate"/>
     <published>2023-12-01T21:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7307704411277528363</id>
+    <title>Election Officials Charged for Not Certifying 2022 Elections #Election  #Politics  #President  #Arizona</title>
+    <updated>2023-12-02T21:00:00+00:00</updated>
+    <content>Election Officials Charged for Not Certifying 2022 Elections #Election  #Politics  #President  #Arizona</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7307704411277528363" rel="alternate"/>
+    <published>2023-12-02T21:00:00+00:00</published>
   </entry>
 </feed>
