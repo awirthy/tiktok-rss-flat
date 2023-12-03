@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-12-03T18:34:32+00:00</updated>
+  <updated>2023-12-03T21:07:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7307608367017544993</id>
-    <title>Everyone share the message and lets make history!!🫡🚨</title>
-    <updated>2023-12-01T12:52:46+00:00</updated>
-    <content>Everyone share the message and lets make history!!🫡🚨</content>
-    <link href="https://tiktok.com/@dylan.page/video/7307608367017544993" rel="alternate"/>
-    <published>2023-12-01T12:52:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7307641294178864417</id>
     <title>Do you love it or hate it?🤔</title>
@@ -51,5 +43,13 @@
     <content>Canadians watching this right now…🙄</content>
     <link href="https://tiktok.com/@dylan.page/video/7308438620757576992" rel="alternate"/>
     <published>2023-12-03T18:34:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7308478133261323553</id>
+    <title>Is steer-by-wire the future or not?🤔</title>
+    <updated>2023-12-03T21:07:53+00:00</updated>
+    <content>Is steer-by-wire the future or not?🤔</content>
+    <link href="https://tiktok.com/@dylan.page/video/7308478133261323553" rel="alternate"/>
+    <published>2023-12-03T21:07:53+00:00</published>
   </entry>
 </feed>
