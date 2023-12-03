@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-12-01T04:00:00+00:00</updated>
+  <updated>2023-12-03T09:30:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7305700978773265665</id>
-    <title>The Magnet Guy 😅🤪🧲 #notsoemergencydepartment #dating #datinglife #singlelife #findinglove #funny</title>
-    <updated>2023-11-26T09:31:08+00:00</updated>
-    <content>The Magnet Guy 😅🤪🧲 #notsoemergencydepartment #dating #datinglife #singlelife #findinglove #funny</content>
-    <link href="https://tiktok.com/@jimmyrees/video/7305700978773265665" rel="alternate"/>
-    <published>2023-11-26T09:31:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7305904456896384257</id>
     <title>BTS and vote for me in the TikTokAwards 😁😁😁!! What else you wanna see? </title>
@@ -51,5 +43,13 @@
     <content>Sounds like summer…sounds like…McCafé Iced Coffee ☀️ #hotgirlsummer   @mcdonaldsau  #ad</content>
     <link href="https://tiktok.com/@jimmyrees/video/7307383862919728402" rel="alternate"/>
     <published>2023-12-01T04:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7308298495016865026</id>
+    <title>The 🤬 Elf... *Christmas Edition* #notsoemergencydepartment  #christmas  #funny  #elfontheshelf</title>
+    <updated>2023-12-03T09:30:49+00:00</updated>
+    <content>The 🤬 Elf... *Christmas Edition* #notsoemergencydepartment  #christmas  #funny  #elfontheshelf</content>
+    <link href="https://tiktok.com/@jimmyrees/video/7308298495016865026" rel="alternate"/>
+    <published>2023-12-03T09:30:49+00:00</published>
   </entry>
 </feed>
