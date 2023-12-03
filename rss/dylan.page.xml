@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@dylan.page</id>
   <title>dylan.page TikTok</title>
-  <updated>2023-12-03T17:03:56+00:00</updated>
+  <updated>2023-12-03T18:34:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from dylan.page</subtitle>
-  <entry>
-    <id>https://tiktok.com/@dylan.page/video/7307406643770232096</id>
-    <title>What do we think??🤔</title>
-    <updated>2023-11-30T23:50:07+00:00</updated>
-    <content>What do we think??🤔</content>
-    <link href="https://tiktok.com/@dylan.page/video/7307406643770232096" rel="alternate"/>
-    <published>2023-11-30T23:50:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@dylan.page/video/7307608367017544993</id>
     <title>Everyone share the message and lets make history!!🫡🚨</title>
@@ -51,5 +43,13 @@
     <content>M-aking U-nwavering R-esilience D-rive E-verlasting R-esults💀</content>
     <link href="https://tiktok.com/@dylan.page/video/7308415267481111840" rel="alternate"/>
     <published>2023-12-03T17:03:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@dylan.page/video/7308438620757576992</id>
+    <title>Canadians watching this right now…🙄</title>
+    <updated>2023-12-03T18:34:32+00:00</updated>
+    <content>Canadians watching this right now…🙄</content>
+    <link href="https://tiktok.com/@dylan.page/video/7308438620757576992" rel="alternate"/>
+    <published>2023-12-03T18:34:32+00:00</published>
   </entry>
 </feed>
