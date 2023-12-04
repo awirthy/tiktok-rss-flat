@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-11-29T20:56:32+00:00</updated>
+  <updated>2023-12-04T20:58:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7303706080247434526</id>
-    <title>US Prepares To Sanction Israel #usa #israel  The US is preparing to sanction Israel. President Biden wrote in an Op-Ed that the US is preparing to issue visa bans against extremist settlers in the West Bank who are attacking and displacing Palestinians. W</title>
-    <updated>2023-11-21T00:29:57+00:00</updated>
-    <content>US Prepares To Sanction Israel #usa #israel  The US is preparing to sanction Israel. President Biden wrote in an Op-Ed that the US is preparing to issue visa bans against extremist settlers in the West Bank who are attacking and displacing Palestinians. While officials backed up that op-ed and told Politico that they are also preparing sanctions. President Biden also said that the Gaza strip and West Bank should be reunited and be governed under a revitalized Palestinian Authority. The US continues to publicly oppose an Israeli occupation of Gaza after the war is over.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7303706080247434526" rel="alternate"/>
-    <published>2023-11-21T00:29:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7306216189510896927</id>
     <title>US Navy Captures Pirates #usa #america  The US Navy captured 5 attackers who were engaging in piracy yesterday, US Central command said in a statement. A ship named Central Park which was carrying phosphoric acid issued distress calls that they were under</title>
@@ -51,5 +43,13 @@
     <content>Saudi Offers Iran A Deal They Can’t Refuse #usa #saudiarabia  Saudi Arabia has approached Iran with a deal that they might not be able to refuse. Saudi, according to Bloomberg, has approached Iran with an offer to boost cooperation and investments to its sanctioned economy if they stop their proxies from turning the Israel-Hamas war into a wider conflict. At the same time though, Saudi Arabia is also pursuing another path with the US. With US Assistant Secretary of State Barbara Leaf saying the US is working with them and their Arab allies to stop Iran from weaponizing the Israel-Hamas war to strengthen its axis of resistance. This is a continuation of Saudi’s two-pronged approach to foreign affairs - they’re trying to deepen ties with Iran and deescalate with them while trying to normalize ties with Israel, achieve a two state solution, and get a defense alliance with the US. Bloomberg writes that it’s unclear how serious Iran is taking Saudi’s offer but that a regional war has been averted so far. Saudi’s main fear is that once this ceasefire ends - Israel will once again ignite the region in anger, making its goal of normalizing with Israel harder to achieve.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7306990804239764766" rel="alternate"/>
     <published>2023-11-29T20:56:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7308846810636881182</id>
+    <title>US Navy &amp; Cargo Ships Under Attack In Red Sea #usa #navy  The US Navy and several commercial vessels came under attack yesterday. US Central Command says that there were four attacks against three separate cargo ships in the Red Sea. Over the course of ei</title>
+    <updated>2023-12-04T20:58:50+00:00</updated>
+    <content>US Navy &amp; Cargo Ships Under Attack In Red Sea #usa #navy  The US Navy and several commercial vessels came under attack yesterday. US Central Command says that there were four attacks against three separate cargo ships in the Red Sea. Over the course of eight hours, the USS Carney detected several ballistic missile and drone launches. A ship named the Unity Explorer was reportedly hit by a ballistic missile, along with two other ships. When the USS Carney was responding to the distress calls, Central Command says they shot down several drones headed for the ships. In addition to that, the Carney also shot down a drone that was headed towards itself - However, Central Command says it’s unsure if the Carney was the intended target. The US says that Iran is enabling these attacks and that they will consider all appropriate responses in full coordination with its allies and partners.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7308846810636881182" rel="alternate"/>
+    <published>2023-12-04T20:58:50+00:00</published>
   </entry>
 </feed>
