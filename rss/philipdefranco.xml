@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-12-04T20:58:50+00:00</updated>
+  <updated>2023-12-04T21:59:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7306216189510896927</id>
-    <title>US Navy Captures Pirates #usa #america  The US Navy captured 5 attackers who were engaging in piracy yesterday, US Central command said in a statement. A ship named Central Park which was carrying phosphoric acid issued distress calls that they were under</title>
-    <updated>2023-11-27T18:50:43+00:00</updated>
-    <content>US Navy Captures Pirates #usa #america  The US Navy captured 5 attackers who were engaging in piracy yesterday, US Central command said in a statement. A ship named Central Park which was carrying phosphoric acid issued distress calls that they were under attack by an unknown entity - according to Central Command. The USS Mason and other allied ships from a counter-piracy task force responded and demanded the release of the vessel, Central Command alleges. According to their version of events, the 5 armed attackers left the ship after the warning - attempting to flee, the Mason chased them resulting in their surrender. The Pentagon says that the 5 attackers were Somali and not Houthis, and that the incident was piracy related. Also alleging that 3 Chinese Navy vessels were in the vicinity but didn’t respond to the 59 distress calls. Not long after, Central Command claims that two ballistic missiles were fired from a Houthi controlled area toward the general location of the Mason. The missiles missed by 11 miles and didn’t need interception, according to Central Command.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7306216189510896927" rel="alternate"/>
-    <published>2023-11-27T18:50:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7306258991045201183</id>
     <title>India Plotted To Kill American #usa #india  India was allegedly plotting to kill an American citizen in the United States according to U.S. officials. The US claims it thwarted a plot to assassinate a Sikh separatist on American Soil and that it had issue</title>
@@ -51,5 +43,13 @@
     <content>US Navy &amp; Cargo Ships Under Attack In Red Sea #usa #navy  The US Navy and several commercial vessels came under attack yesterday. US Central Command says that there were four attacks against three separate cargo ships in the Red Sea. Over the course of eight hours, the USS Carney detected several ballistic missile and drone launches. A ship named the Unity Explorer was reportedly hit by a ballistic missile, along with two other ships. When the USS Carney was responding to the distress calls, Central Command says they shot down several drones headed for the ships. In addition to that, the Carney also shot down a drone that was headed towards itself - However, Central Command says it’s unsure if the Carney was the intended target. The US says that Iran is enabling these attacks and that they will consider all appropriate responses in full coordination with its allies and partners.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7308846810636881182" rel="alternate"/>
     <published>2023-12-04T20:58:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7308862546776198430</id>
+    <title>India Hires Hitman Who Was Undercover Agent #usa #india  India accidentally hired a DEA agent to kill American citizens, federal prosecutors allege. The DOJ filed charges against a man they allege was working with the Indian government to assassinate two </title>
+    <updated>2023-12-04T21:59:46+00:00</updated>
+    <content>India Hires Hitman Who Was Undercover Agent #usa #india  India accidentally hired a DEA agent to kill American citizens, federal prosecutors allege. The DOJ filed charges against a man they allege was working with the Indian government to assassinate two Americans and four Canadians. One of the Americans was in California while another was in New York. It’s alleged that the man, after being recruited by the Indian government, paid a 15,000 dollar advance to a hitman to carry out the murder. But.. record scratch, that hitman was an undercover agent for the Drug Enforcement Administration. The indictment alleges that the Indian government would dismiss this man’s criminal charges in exchange for hiring a hitman. The man who has been indicted was in India during the planning of the plots but when he went on a trip to the Czech Republic this summer, he was arrested when he landed by Czech police at the request of the United States. It’s believed that he was lured there by the US in order to arrest him and terminate the plots. The investigation has uncovered what seems to be very solid evidence of India having a transnational assassination campaign. With the Indictment alleging that Indian officials said in texts that they have lots of targets that they still needed to hit. And that they took responsibility for the assassination of the Canadian Sikh leader that happened earlier this year.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7308862546776198430" rel="alternate"/>
+    <published>2023-12-04T21:59:46+00:00</published>
   </entry>
 </feed>
