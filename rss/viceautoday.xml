@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-12-01T05:37:21+00:00</updated>
+  <updated>2023-12-04T06:15:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7306018429834644737</id>
-    <title>109 protestors were arrested in the Port of Newcastle on the weekend after 30-hour on-water blockade of the coal port’s shipping lane. The action was organised by Rising Tide Australia climate activist group to demand the federal government stop approving</title>
-    <updated>2023-11-27T06:03:00+00:00</updated>
-    <content>109 protestors were arrested in the Port of Newcastle on the weekend after 30-hour on-water blockade of the coal port’s shipping lane. The action was organised by Rising Tide Australia climate activist group to demand the federal government stop approving new coal projects. Footage: Phoebe McIlwraith. #australia #news #newcastle #nsw #protest #activist #climatechange #climateaction #protests #indigenousland #coal #fossilfuels #todayilearned #todayilearned </content>
-    <link href="https://tiktok.com/@viceautoday/video/7306018429834644737" rel="alternate"/>
-    <published>2023-11-27T06:03:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7306397914698501384</id>
     <title>Federal Health Minister Mark Butler has announced new details of Australia’s v@pe ban, coming in January 2024. Here’s how it’s going to work. #australia #news #politics #auspol #health #healthtok #government #ban #todayilearned #learnontiktok </title>
@@ -51,5 +43,13 @@
     <content>Victoria could be on its way to decriminalising 🍃 after a new drug law bill, introduced in the state’s parliament this week, spurred discussions from politicians about criminal possession laws. Several senior MPs shared their opinions of and experiences with the substance and some came out in support of law reform. #australia #news #law #legal #health #healthtok #herb #politics #auspol #medicine #victoria #parliament #todayilearned #learnontiktok </content>
     <link href="https://tiktok.com/@viceautoday/video/7307496172103535879" rel="alternate"/>
     <published>2023-12-01T05:37:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7308619310614777096</id>
+    <title>Independent Senator Jacqui Lambie says Coles and Woolworths supermarkets operate “like a cartel” and have “ripped [people] off for years” one day after the Greens launched a Senate inquiry into the major chains’ pricing and claims of price gouging and pro</title>
+    <updated>2023-12-04T06:15:44+00:00</updated>
+    <content>Independent Senator Jacqui Lambie says Coles and Woolworths supermarkets operate “like a cartel” and have “ripped [people] off for years” one day after the Greens launched a Senate inquiry into the major chains’ pricing and claims of price gouging and profiteering. #australia #news #supermarket #shopping #groceryshopping #groceries #food #politics #auspol #costofliving #bills #money #coles #woolworths #todayilearned #learnontiktok </content>
+    <link href="https://tiktok.com/@viceautoday/video/7308619310614777096" rel="alternate"/>
+    <published>2023-12-04T06:15:44+00:00</published>
   </entry>
 </feed>
