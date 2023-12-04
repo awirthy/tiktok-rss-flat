@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@jimmyrees</id>
   <title>jimmyrees TikTok</title>
-  <updated>2023-12-03T09:30:49+00:00</updated>
+  <updated>2023-12-04T05:16:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from jimmyrees</subtitle>
-  <entry>
-    <id>https://tiktok.com/@jimmyrees/video/7305904456896384257</id>
-    <title>BTS and vote for me in the TikTokAwards 😁😁😁!! What else you wanna see? </title>
-    <updated>2023-11-26T22:41:00+00:00</updated>
-    <content>BTS and vote for me in the TikTokAwards 😁😁😁!! What else you wanna see? </content>
-    <link href="https://tiktok.com/@jimmyrees/video/7305904456896384257" rel="alternate"/>
-    <published>2023-11-26T22:41:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@jimmyrees/video/7306378869462945025</id>
     <title>We love our teachers but do they actually love candles? 🤔 😂 Use GroupTogether this year to organise a class gift that rocks!! It’s super easy and free 👌!! @GroupTogether </title>
@@ -51,5 +43,13 @@
     <content>The 🤬 Elf... *Christmas Edition* #notsoemergencydepartment  #christmas  #funny  #elfontheshelf</content>
     <link href="https://tiktok.com/@jimmyrees/video/7308298495016865026" rel="alternate"/>
     <published>2023-12-03T09:30:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@jimmyrees/video/7308604026663243010</id>
+    <title>Had to shoot this one without my real children or I wouldn’t have gotten any KitKat!! 😂😂!! This was fun to build and eat YUM!!  #KitKatCabin #AD @KitKatANZ </title>
+    <updated>2023-12-04T05:16:26+00:00</updated>
+    <content>Had to shoot this one without my real children or I wouldn’t have gotten any KitKat!! 😂😂!! This was fun to build and eat YUM!!  #KitKatCabin #AD @KitKatANZ </content>
+    <link href="https://tiktok.com/@jimmyrees/video/7308604026663243010" rel="alternate"/>
+    <published>2023-12-04T05:16:26+00:00</published>
   </entry>
 </feed>
