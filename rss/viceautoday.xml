@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-12-05T05:46:35+00:00</updated>
+  <updated>2023-12-06T05:34:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7306761194583444744</id>
-    <title>Proposed law reform in NSW could see 🍃 possession legislation overhauled. The bill, introduced by MP Jeremy Buckingham who brought a bud into parliament, would see residents able to grow six plants and gift small amounts to friends. #australia #news #heal</title>
-    <updated>2023-11-29T06:05:17+00:00</updated>
-    <content>Proposed law reform in NSW could see 🍃 possession legislation overhauled. The bill, introduced by MP Jeremy Buckingham who brought a bud into parliament, would see residents able to grow six plants and gift small amounts to friends. #australia #news #health #healthtok #herb #medicine #nsw #newsouthwales #auspol #politics #parliament #law #legal #todayilearned #learnontiktok </content>
-    <link href="https://tiktok.com/@viceautoday/video/7306761194583444744" rel="alternate"/>
-    <published>2023-11-29T06:05:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7307137597480963336</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>Lead No campaigner Jacinta Nampijinpa Price declined 52 requests for interviews from the ABC ahead of the Indigenous Voice to Parliament referendum. An internal report from the broadcaster found voices on the No side were “significantly more difficult” to get on the record across all of the ABC’s platforms, which led to more coverage of Yes perspectives. #australia #news #referendum #indigenous #firstnations #voicetoparliament #jacintaprice #abc #media #auspol #politics #todayilearned #learnontiktok </content>
     <link href="https://tiktok.com/@viceautoday/video/7308982887842450696" rel="alternate"/>
     <published>2023-12-05T05:46:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7309350772905364738</id>
+    <title>Victoria’s police union says n3o-N@zi protests should be banned in the state after a small group of people in black clothes and balaclavas marched through Ballarat chanting “Australia is for the white man” over the weekend. This push for expanded police p</title>
+    <updated>2023-12-06T05:34:10+00:00</updated>
+    <content>Victoria’s police union says n3o-N@zi protests should be banned in the state after a small group of people in black clothes and balaclavas marched through Ballarat chanting “Australia is for the white man” over the weekend. This push for expanded police powers at protests comes after Victoria Police announced it would bolster its presence at pro-Palestine and pro-Israel demonstrations. #police #vicpol #protest #melbourne #australia #policepowers #learnontiktok #todayilearned #news #newsaustralia </content>
+    <link href="https://tiktok.com/@viceautoday/video/7309350772905364738" rel="alternate"/>
+    <published>2023-12-06T05:34:10+00:00</published>
   </entry>
 </feed>
