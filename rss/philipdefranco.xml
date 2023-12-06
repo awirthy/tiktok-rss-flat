@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@philipdefranco</id>
   <title>philipdefranco TikTok</title>
-  <updated>2023-12-04T21:59:46+00:00</updated>
+  <updated>2023-12-05T23:42:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from philipdefranco</subtitle>
-  <entry>
-    <id>https://tiktok.com/@philipdefranco/video/7306258991045201183</id>
-    <title>India Plotted To Kill American #usa #india  India was allegedly plotting to kill an American citizen in the United States according to U.S. officials. The US claims it thwarted a plot to assassinate a Sikh separatist on American Soil and that it had issue</title>
-    <updated>2023-11-27T21:36:38+00:00</updated>
-    <content>India Plotted To Kill American #usa #india  India was allegedly plotting to kill an American citizen in the United States according to U.S. officials. The US claims it thwarted a plot to assassinate a Sikh separatist on American Soil and that it had issued a warning to India’s government. The target, according to the Financial Times, was the general counsel for Sikhs for Justice. It’s currently unknown if the US warning to India led the plotters to abandon their plan, or whether the FBI intervened and foiled the scheme already in motion. Federal prosecutors have filed a sealed indictment against one of the perpetrators of the plot according to the Financial Times. The White House says that India expressed surprise and concern when they were warned by the President.</content>
-    <link href="https://tiktok.com/@philipdefranco/video/7306258991045201183" rel="alternate"/>
-    <published>2023-11-27T21:36:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@philipdefranco/video/7306700013411831071</id>
     <title>India rescues workers trapped for over a week after breaking through debris #india #rescue  With how the world has been going lately, I know it feels like we never have any good news. But this time I do have some: Officials in India announced that they’ve</title>
@@ -51,5 +43,13 @@
     <content>India Hires Hitman Who Was Undercover Agent #usa #india  India accidentally hired a DEA agent to kill American citizens, federal prosecutors allege. The DOJ filed charges against a man they allege was working with the Indian government to assassinate two Americans and four Canadians. One of the Americans was in California while another was in New York. It’s alleged that the man, after being recruited by the Indian government, paid a 15,000 dollar advance to a hitman to carry out the murder. But.. record scratch, that hitman was an undercover agent for the Drug Enforcement Administration. The indictment alleges that the Indian government would dismiss this man’s criminal charges in exchange for hiring a hitman. The man who has been indicted was in India during the planning of the plots but when he went on a trip to the Czech Republic this summer, he was arrested when he landed by Czech police at the request of the United States. It’s believed that he was lured there by the US in order to arrest him and terminate the plots. The investigation has uncovered what seems to be very solid evidence of India having a transnational assassination campaign. With the Indictment alleging that Indian officials said in texts that they have lots of targets that they still needed to hit. And that they took responsibility for the assassination of the Canadian Sikh leader that happened earlier this year.</content>
     <link href="https://tiktok.com/@philipdefranco/video/7308862546776198430" rel="alternate"/>
     <published>2023-12-04T21:59:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@philipdefranco/video/7309260014097632542</id>
+    <title>Israel To Flood Hamas Tunnels #usa #israel  Israel is weighing a plan to flood Hamas tunnels with seawater according to the Wall Street Journal. Israel has assembled at least 5 large seawater pumps that can pump thousands of cubic meters of water per hour</title>
+    <updated>2023-12-05T23:42:09+00:00</updated>
+    <content>Israel To Flood Hamas Tunnels #usa #israel  Israel is weighing a plan to flood Hamas tunnels with seawater according to the Wall Street Journal. Israel has assembled at least 5 large seawater pumps that can pump thousands of cubic meters of water per hour. The Wall Street Journal reports that Israel informed the US of the option early last month. This reportedly prompted a discussion on the feasibility and the effect on the environment it may have. The general problem, according to US officials, is that nobody knows how successful pumping will be because nobody knows the exact details of the tunnels. Some experts believe that flooding could affect Gaza’s already polluted soil and cause hazardous substances in the tunnels to seep into the ground while others say that it could impact the stability of buildings. There is also concern about making Gaza’s aquifer even more salty than it already is. Former officials acknowledged to the Wall Street Journal that such an operation could put the Biden Administration in a tough position and potentially bring global condemnation, but that it remains one of the few effective options to disable the tunnel system that spans 300 miles. Egypt has flooded Hamas tunnels in the past. In 2015, they used seawater to flood tunnels operated by smugglers, and it worked - however it did cause damage to nearby farmers’ crops.</content>
+    <link href="https://tiktok.com/@philipdefranco/video/7309260014097632542" rel="alternate"/>
+    <published>2023-12-05T23:42:09+00:00</published>
   </entry>
 </feed>
