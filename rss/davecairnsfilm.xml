@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@davecairnsfilm</id>
   <title>davecairnsfilm TikTok</title>
-  <updated>2023-12-05T10:31:17+00:00</updated>
+  <updated>2023-12-06T11:15:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from davecairnsfilm</subtitle>
-  <entry>
-    <id>https://tiktok.com/@davecairnsfilm/video/7307208272736488706</id>
-    <title>30 NOVEMBER 2023 - #henrykissinger #news #politics </title>
-    <updated>2023-11-30T11:00:10+00:00</updated>
-    <content>30 NOVEMBER 2023 - #henrykissinger #news #politics </content>
-    <link href="https://tiktok.com/@davecairnsfilm/video/7307208272736488706" rel="alternate"/>
-    <published>2023-11-30T11:00:10+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@davecairnsfilm/video/7307216565563346177</id>
     <title>30 NOVEMBER 2023 - #nonuancenovember #life #death #hottake</title>
@@ -51,5 +43,13 @@
     <content>5 DECEMBER 2023 - #tiktok #questions #life #popculture #christmas #politics #rant</content>
     <link href="https://tiktok.com/@davecairnsfilm/video/7309056252418608386" rel="alternate"/>
     <published>2023-12-05T10:31:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@davecairnsfilm/video/7309438798545292546</id>
+    <title>6 DECEMBER 2023 - #victoria #politics #auspol #ombudsman #danandrews</title>
+    <updated>2023-12-06T11:15:44+00:00</updated>
+    <content>6 DECEMBER 2023 - #victoria #politics #auspol #ombudsman #danandrews</content>
+    <link href="https://tiktok.com/@davecairnsfilm/video/7309438798545292546" rel="alternate"/>
+    <published>2023-12-06T11:15:44+00:00</published>
   </entry>
 </feed>
