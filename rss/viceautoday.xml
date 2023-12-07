@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@viceautoday</id>
   <title>viceautoday TikTok</title>
-  <updated>2023-12-06T05:34:10+00:00</updated>
+  <updated>2023-12-07T05:31:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from viceautoday</subtitle>
-  <entry>
-    <id>https://tiktok.com/@viceautoday/video/7307137597480963336</id>
-    <title>No Title</title>
-    <updated>2023-11-30T06:25:55+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@viceautoday/video/7307137597480963336" rel="alternate"/>
-    <published>2023-11-30T06:25:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@viceautoday/video/7307496172103535879</id>
     <title>Victoria could be on its way to decriminalising 🍃 after a new drug law bill, introduced in the state’s parliament this week, spurred discussions from politicians about criminal possession laws. Several senior MPs shared their opinions of and experiences w</title>
@@ -51,5 +43,13 @@
     <content>Victoria’s police union says n3o-N@zi protests should be banned in the state after a small group of people in black clothes and balaclavas marched through Ballarat chanting “Australia is for the white man” over the weekend. This push for expanded police powers at protests comes after Victoria Police announced it would bolster its presence at pro-Palestine and pro-Israel demonstrations. #police #vicpol #protest #melbourne #australia #policepowers #learnontiktok #todayilearned #news #newsaustralia </content>
     <link href="https://tiktok.com/@viceautoday/video/7309350772905364738" rel="alternate"/>
     <published>2023-12-06T05:34:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@viceautoday/video/7309721202627497223</id>
+    <title>The landmark report found that crucial fixes need to be made in order for the NDIS to remain sustainable. The government will be making a full response to the review in 2024. #australia #news #ndis #disability #disabilitysupport #health #aunews #edutok #l</title>
+    <updated>2023-12-07T05:31:36+00:00</updated>
+    <content>The landmark report found that crucial fixes need to be made in order for the NDIS to remain sustainable. The government will be making a full response to the review in 2024. #australia #news #ndis #disability #disabilitysupport #health #aunews #edutok #learnontiktok #todayilearned </content>
+    <link href="https://tiktok.com/@viceautoday/video/7309721202627497223" rel="alternate"/>
+    <published>2023-12-07T05:31:36+00:00</published>
   </entry>
 </feed>
