@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@pdspolitics</id>
   <title>pdspolitics TikTok</title>
-  <updated>2023-12-02T21:00:00+00:00</updated>
+  <updated>2023-12-07T00:00:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://awirthy.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from pdspolitics</subtitle>
-  <entry>
-    <id>https://tiktok.com/@pdspolitics/video/7306655795452579118</id>
-    <title>Tuberville Calls Military Weak As He Weakens Military #Military  #Politics  #USA  #TommyTuberville</title>
-    <updated>2023-11-29T00:00:00+00:00</updated>
-    <content>Tuberville Calls Military Weak As He Weakens Military #Military  #Politics  #USA  #TommyTuberville</content>
-    <link href="https://tiktok.com/@pdspolitics/video/7306655795452579118" rel="alternate"/>
-    <published>2023-11-29T00:00:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@pdspolitics/video/7307015752765181227</id>
     <title>Controversial Spy Bill Debated After It Was Used Against Americans #USA  #Politics  #Spying  #Section702</title>
@@ -51,5 +43,13 @@
     <content>Election Officials Charged for Not Certifying 2022 Elections #Election  #Politics  #President  #Arizona</content>
     <link href="https://tiktok.com/@pdspolitics/video/7307704411277528363" rel="alternate"/>
     <published>2023-12-02T21:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@pdspolitics/video/7309614798986071339</id>
+    <title>Sen. Tuberville Finally Ends Military Blockade But The Fallout Will Last for Years #Politics  #USA  #Military  #TommyTuberville</title>
+    <updated>2023-12-07T00:00:00+00:00</updated>
+    <content>Sen. Tuberville Finally Ends Military Blockade But The Fallout Will Last for Years #Politics  #USA  #Military  #TommyTuberville</content>
+    <link href="https://tiktok.com/@pdspolitics/video/7309614798986071339" rel="alternate"/>
+    <published>2023-12-07T00:00:00+00:00</published>
   </entry>
 </feed>
